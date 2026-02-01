@@ -1,22 +1,32 @@
 from bs4 import Tag
 
 
-def write_content(filename, content):
+def write_content(filename, content) -> None:
     with open(filename, "w", encoding="utf-8") as f:
         f.write(content)
 
 
-def get_text_of_n_next_siblings(element: Tag, n: int):
-    sibling_list = []
+def get_n_next_siblings(element: Tag, n: int) -> list[str]:
+    siblings = []
     sibling = element.next_siblings
     appearance = 0
+
     while sibling:
         sib = next(sibling, None)
         if sib is None:
             break
-        if isinstance(sib, Tag) and sib.text.strip():
-            sibling_list.append(sib.text)
-            appearance += 1
+
+        if isinstance(sib, Tag):
+            text = sib.text.strip()
+            if text:
+                siblings.append(sib)
+                appearance += 1
+
         if appearance >= n:
             break
-    return sibling_list
+
+    return siblings
+
+
+def get_all_links(soup: Tag) -> list[str]:
+    return [a["href"] for a in soup.find_all("a", href=True)]

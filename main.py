@@ -1,7 +1,8 @@
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup
+import json
 
 # from playwright.sync_api import sync_playwright
-from lib.utils import get_text_of_n_next_siblings
+from lib.utils import get_all_links, get_n_next_siblings
 
 
 def main():
@@ -28,17 +29,17 @@ def main():
 
     with open("output.html", "r", encoding="utf-8") as f:
         soup = BeautifulSoup(f.read(), "html.parser")
-        main_headline = soup.select_one("#Calendar").text
-        sub_headlines = soup.select_one("#Noxian_Calendar").text
-        # siblings = list(soup.select_one("#Noxian_Calendar").parent.next_siblings)
-        contents = get_text_of_n_next_siblings(
-            soup.select_one("#Noxian_Calendar").parent, 10
-        )
-        # for s in siblings[:5]:
-        #     if s.name == "p":
-        #         contents.append(s.text.strip())
-        print(contents)
-        # print(next)
+        links = get_all_links(soup)
+        with open("resources/timeline.json", "w", encoding="utf-8") as out_file:
+            json.dump(
+                {
+                    "endpoint": "https://leagueoflegends.fandom.com/wiki/Timeline",
+                    "links": links,
+                },
+                out_file,
+                ensure_ascii=False,
+                indent=4,
+            )
 
 
 if __name__ == "__main__":
