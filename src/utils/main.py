@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import json
+from google import genai
 
 # from playwright.sync_api import sync_playwright
 from lib.utils import get_all_links, get_n_next_siblings

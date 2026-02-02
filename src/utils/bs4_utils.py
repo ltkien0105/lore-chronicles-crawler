@@ -1,11 +1,6 @@
 from bs4 import Tag
 
 
-def write_content(filename, content) -> None:
-    with open(filename, "w", encoding="utf-8") as f:
-        f.write(content)
-
-
 def get_n_next_siblings(element: Tag, n: int) -> list[str]:
     siblings = []
     sibling = element.next_siblings
