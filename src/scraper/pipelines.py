@@ -18,6 +18,47 @@ from src.models.champion_raw import (
     PersonalStatus,
     ProfessionalStatus,
 )
+from src.scraper.markdown_converter import html_to_markdown, extract_ability_names
+
+
+class MarkdownConversionPipeline:
+    """
+    Converts HTML content fields to markdown before validation.
+    Priority: 200 (before PydanticValidationPipeline at 300)
+    """
+
+    # Fields to convert from HTML to markdown
+    HTML_FIELDS = [
+        "background",
+        "appearance",
+        "personality",
+        "trivia",
+    ]
+
+    def process_item(self, item: dict, spider) -> dict:
+        """Convert HTML fields to markdown."""
+
+        # Convert content sections
+        for field in self.HTML_FIELDS:
+            if field in item and item[field]:
+                original = item[field]
+                item[field] = html_to_markdown(original)
+                if item[field] != original:
+                    spider.logger.debug(f"Converted {field} to markdown")
+
+        # Special handling for abilities - extract names from HTML
+        if "abilities" in item and item["abilities"]:
+            if isinstance(item["abilities"], str):
+                # Extract ability names as list
+                ability_names = extract_ability_names(item["abilities"])
+                if ability_names:
+                    item["abilities"] = ability_names
+                else:
+                    # Fallback: convert to markdown and return as single item
+                    item["abilities"] = [html_to_markdown(item["abilities"])]
+
+        spider.logger.info(f"Converted HTML to markdown for: {item.get('name', 'unknown')}")
+        return item
 
 
 class PydanticValidationPipeline:

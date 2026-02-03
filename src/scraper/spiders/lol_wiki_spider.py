@@ -205,9 +205,12 @@ class LolWikiSpider(scrapy.Spider):
         return relations
 
     def _extract_relevant_links(self, response) -> list:
-        """Extract all relevant Universe and story links."""
+        """Extract all relevant Universe and story links (excluding edit links)."""
         links = []
         for href in response.xpath('//a[contains(@href, "/Universe:")]/@href').getall():
+            # Skip edit links
+            if "action=edit" in href or "veaction=edit" in href:
+                continue
             full_url = urljoin(BASE_URL_WIKI, href)
             if full_url not in links and full_url != response.url:
                 links.append(full_url)

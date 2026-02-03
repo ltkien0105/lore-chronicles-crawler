@@ -37,7 +37,7 @@ FEEDS = {
 
 # Pipelines
 ITEM_PIPELINES = {
-    # "src.scraper.pipelines.MarkdownConversionPipeline": 200,  # Enable in Phase 04
+    "src.scraper.pipelines.MarkdownConversionPipeline": 200,
     "src.scraper.pipelines.PydanticValidationPipeline": 300,
 }
 

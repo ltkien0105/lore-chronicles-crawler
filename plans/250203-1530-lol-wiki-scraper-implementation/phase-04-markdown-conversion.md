@@ -13,7 +13,8 @@
 | Field | Value |
 |-------|-------|
 | Priority | Medium |
-| Status | pending |
+| Status | **DONE** |
+| Completed | 2026-02-03 |
 | Description | Convert HTML content sections to clean markdown using markdownify |
 
 ---

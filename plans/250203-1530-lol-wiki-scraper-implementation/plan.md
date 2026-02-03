@@ -33,7 +33,7 @@ Implement a Scrapy-based spider to crawl League of Legends Wiki Universe pages, 
 | 1 | [Project Setup](./phase-01-scrapy-project-setup.md) | **DONE** | Initialize Scrapy project in `src/scraper/` |
 | 2 | [Spider Implementation](./phase-02-spider-implementation.md) | **DONE** | Core spider with XPath/CSS selectors |
 | 3 | [Item Loaders](./phase-03-item-loaders-processors.md) | **DONE** | ItemLoader + Pydantic validation pipeline |
-| 4 | [Markdown Conversion](./phase-04-markdown-conversion.md) | pending | HTML→markdown for content sections |
+| 4 | [Markdown Conversion](./phase-04-markdown-conversion.md) | **DONE** | HTML→markdown for content sections |
 | 5 | [Testing & Validation](./phase-05-testing-validation.md) | pending | Test with 3 champions, output JSON |
 
 ## Key Dependencies
