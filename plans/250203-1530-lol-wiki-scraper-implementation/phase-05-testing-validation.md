@@ -14,7 +14,8 @@
 | Field | Value |
 |-------|-------|
 | Priority | High |
-| Status | pending |
+| Status | **DONE** |
+| Completed | 2026-02-03 |
 | Description | Test spider with 3 champions, validate output quality, fix edge cases |
 
 ---
