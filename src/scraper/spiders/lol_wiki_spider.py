@@ -1,109 +1,3 @@
-# Phase 02: Spider Implementation
-
-## Context Links
-
-- [Main Plan](./plan.md)
-- [Phase 01: Setup](./phase-01-scrapy-project-setup.md)
-- [HTML Structure Research](./research/researcher-01-html-structure.md)
-- [Scrapy Patterns Research](./research/researcher-02-scrapy-patterns.md)
-
----
-
-## Overview
-
-| Field | Value |
-|-------|-------|
-| Priority | High |
-| Status | **DONE** |
-| Completed | 2025-02-03 |
-| Description | Implement core spider with XPath/CSS selectors for all ChampionRaw fields |
-
----
-
-## Key Insights
-
-### From HTML Structure Research
-
-1. **Page structure is 100% consistent** across all champion pages
-2. **Champion name**: `h1.mw-page-title-main` (high confidence)
-3. **Quote**: `blockquote` element or `.infobox-quote`
-4. **Infobox**: Table structure with label/value pairs in adjacent `<td>` elements
-5. **Content sections**: `<h2>` with `id` attribute, content in following `<p>` tags
-6. **Relations**: Links matching `/Universe:` in href
-
-### Critical Selectors
-
-| Field | Primary XPath | Reliability |
-|-------|---------------|-------------|
-| Name | `//h1[@class='mw-page-title-main']/text()` | 100% |
-| Quote | `//blockquote[1]` | 100% |
-| Background | `//h2[@id='Background']/following-sibling::p` | 100% |
-| Relations | `//a[starts-with(@href, '/en-us/Universe:')]` | 100% |
-| Infobox row | `//th[contains(text(), 'Label')]/following-sibling::td` | 95% |
-
----
-
-## Requirements
-
-### Functional
-- Extract all fields defined in `ChampionRaw` model
-- Handle variations in infobox labels (e.g., "Alias" vs "Alias(es)")
-- Extract content between `<h2>` headings
-- Capture all Universe links for relations
-- Pass raw HTML sections to ItemLoader for markdown conversion
-
-### Non-Functional
-- Single spider class handling all champion pages
-- Start URLs configurable
-- Graceful handling of missing optional fields
-
----
-
-## Architecture
-
-### Spider Flow
-
-```
-start_requests()
-    ↓
-parse(response)
-    ├─→ Extract name, quote (direct selectors)
-    ├─→ Parse infobox table (key-value extraction)
-    ├─→ Extract content sections (Background, Appearance, etc.)
-    ├─→ Extract relations (Universe links with context)
-    └─→ yield ChampionItem
-```
-
-### Helper Methods
-
-```
-_extract_infobox_field(response, label) → str
-_extract_section_html(response, section_id) → str
-_extract_relations(response) → list[dict]
-_extract_abilities_list(response) → list[str]
-```
-
----
-
-## Related Code Files
-
-### Files to Create
-- `src/scraper/spiders/lol_wiki_spider.py`
-
-### Files to Reference
-- `src/scraper/items.py` - ChampionItem class
-- `src/utils/constants.py` - UNIVERSE_WIKI constant
-- `research/researcher-01-html-structure.md` - Selector patterns
-
----
-
-## Implementation Steps
-
-### Step 1: Create spider file
-
-Create `src/scraper/spiders/lol_wiki_spider.py`:
-
-```python
 """
 LOL Wiki Universe Spider - Extracts champion lore data.
 """
@@ -115,11 +9,18 @@ from src.utils.constants import BASE_URL_WIKI, UNIVERSE_WIKI
 
 
 class LolWikiSpider(scrapy.Spider):
+    """Spider for crawling League of Legends Wiki Universe pages."""
+
     name = "lol_wiki"
     allowed_domains = ["wiki.leagueoflegends.com"]
 
     # Default champions to crawl
     champion_names = ["Cho'Gath", "Kai'Sa", "Darius"]
+
+    def __init__(self, champion_names=None, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        if champion_names:
+            self.champion_names = [c.strip() for c in champion_names.split(",")]
 
     def start_requests(self):
         """Generate initial requests for champion pages."""
@@ -155,30 +56,30 @@ class LolWikiSpider(scrapy.Spider):
         item["relevant_links"] = self._extract_relevant_links(response)
 
         # Role and release date (may not be on Universe page)
-        item["role"] = self._extract_infobox_field(response, "Role")
-        item["release_date"] = self._extract_infobox_field(response, "Release")
+        item["role"] = self._extract_infobox_field(response, "Role") or "Unknown"
+        item["release_date"] = self._extract_infobox_field(response, "Release") or "Unknown"
 
         # === Key Facts - Titles ===
-        item["real_name"] = self._extract_infobox_field(response, "Real Name")
+        item["real_name"] = self._extract_infobox_field(response, "Real Name") or "Unknown"
         item["alias"] = self._extract_infobox_list(response, "Alias")
 
         # === Key Facts - Characteristics ===
-        item["species"] = self._extract_infobox_field(response, "Species")
+        item["species"] = self._extract_infobox_field(response, "Species") or "Unknown"
         item["pronoun"] = self._extract_infobox_list(response, "Pronoun")
-        item["age_current"] = self._extract_infobox_field(response, "Age")
-        item["age_born_time"] = self._extract_infobox_field(response, "Born")
-        item["weapons"] = self._extract_infobox_field(response, "Weapon")
+        item["age_current"] = self._extract_infobox_field(response, "Age") or "Unknown"
+        item["age_born_time"] = self._extract_infobox_field(response, "Born") or "Unknown"
+        item["weapons"] = self._extract_infobox_field(response, "Weapon") or "Unknown"
 
         # === Key Facts - Personal Status ===
-        item["status"] = self._extract_infobox_field(response, "Status")
-        item["place_of_origin"] = self._extract_infobox_field(response, "Origin")
-        item["current_residence"] = self._extract_infobox_field(response, "Residence")
-        item["family"] = self._extract_infobox_field(response, "Family")
+        item["status"] = self._extract_infobox_field(response, "Status") or "Unknown"
+        item["place_of_origin"] = self._extract_infobox_field(response, "Origin") or "Unknown"
+        item["current_residence"] = self._extract_infobox_field(response, "Residence") or "Unknown"
+        item["family"] = self._extract_infobox_field(response, "Family") or "Unknown"
 
         # === Key Facts - Professional Status ===
-        item["occupations"] = self._extract_infobox_field(response, "Occupation")
-        item["regions"] = self._extract_infobox_field(response, "Region")
-        item["factions"] = self._extract_infobox_field(response, "Faction")
+        item["occupations"] = self._extract_infobox_field(response, "Occupation") or "Unknown"
+        item["regions"] = self._extract_infobox_field(response, "Region") or "Unknown"
+        item["factions"] = self._extract_infobox_field(response, "Faction") or "Unknown"
 
         yield item
 
@@ -248,25 +149,50 @@ class LolWikiSpider(scrapy.Spider):
         return "\n".join(abilities) if abilities else ""
 
     def _extract_relations(self, response) -> list:
-        """Extract champion relations with URLs and context."""
+        """Extract champion relations from Relations/Related characters section only."""
         relations = []
         seen = set()
 
-        # Find all Universe links
-        for link in response.xpath('//a[contains(@href, "/Universe:")]'):
+        # Only look in the Relations section for actual champion relationships
+        # Find the Relations h2/h3 section and extract Universe links from there
+        relations_section = response.xpath(
+            '//h2[contains(@id, "Relations") or .//span[contains(@id, "Relations")]]'
+            '/following-sibling::*'
+            '[self::h3 or self::p or self::ul or self::div]'
+            '[not(preceding-sibling::h2[position()=1][not(contains(@id, "Relations"))])]'
+        )
+
+        # Also check "Related character(s)" infobox section
+        related_chars_section = response.xpath(
+            '//*[contains(text(), "Related character")]/following-sibling::*//a[contains(@href, "/Universe:")]'
+        )
+
+        # Combine both sources
+        universe_links = relations_section.xpath('.//a[contains(@href, "/Universe:")]')
+        universe_links = universe_links + related_chars_section
+
+        for link in universe_links:
             href = link.xpath('./@href').get()
             if not href or href == response.url:
                 continue
 
+            # Skip non-champion links (stories, regions, etc.)
+            # Champion URLs typically don't have underscores in the name part
+            path_part = href.split(":")[-1]
+            if "/" in path_part:
+                continue
+
             # Extract champion name from URL
-            champ_name = unquote(href.split(":")[-1].replace("_", " "))
+            champ_name = unquote(path_part.replace("_", " "))
+
+            # Skip if already seen
             if champ_name in seen:
                 continue
             seen.add(champ_name)
 
-            # Get surrounding context (parent paragraph text)
+            # Get surrounding context (parent paragraph/list item text)
             context = link.xpath(
-                './ancestor::li[1]//text() | ./ancestor::p[1]//text()'
+                './ancestor::li[1]//text() | ./ancestor::p[1]//text() | ./ancestor::h3[1]//text()'
             ).getall()
             description = " ".join(c.strip() for c in context if c.strip())
 
@@ -289,114 +215,65 @@ class LolWikiSpider(scrapy.Spider):
 
     def _extract_infobox_field(self, response, label: str) -> str:
         """Extract single value from infobox table row."""
-        # Try th/td pattern
+        # Try multiple patterns for MediaWiki infobox structure
+
+        # Pattern 1: th/td with direct text match
         value = response.xpath(
             f'//th[contains(text(), "{label}")]/following-sibling::td//text()'
         ).getall()
         if value:
             return " ".join(v.strip() for v in value if v.strip())
 
-        # Try td/td pattern (some infoboxes use this)
+        # Pattern 2: th with nested element containing text
+        value = response.xpath(
+            f'//th[.//text()[contains(., "{label}")]]/following-sibling::td//text()'
+        ).getall()
+        if value:
+            return " ".join(v.strip() for v in value if v.strip())
+
+        # Pattern 3: td/td pattern (some infoboxes use this)
         value = response.xpath(
             f'//td[contains(text(), "{label}")]/following-sibling::td//text()'
         ).getall()
-        return " ".join(v.strip() for v in value if v.strip()) if value else ""
+        if value:
+            return " ".join(v.strip() for v in value if v.strip())
+
+        # Pattern 4: div-based infobox (newer wikis)
+        value = response.xpath(
+            f'//*[contains(@class, "infobox")]//*[contains(text(), "{label}")]/following-sibling::*//text()'
+        ).getall()
+        if value:
+            return " ".join(v.strip() for v in value if v.strip())
+
+        return ""
 
     def _extract_infobox_list(self, response, label: str) -> list:
         """Extract list values from infobox (e.g., aliases, pronouns)."""
-        # Get all text from the cell
+        # Get all text from the cell using multiple patterns
         values = response.xpath(
             f'//th[contains(text(), "{label}")]/following-sibling::td//text()'
         ).getall()
 
         if not values:
             values = response.xpath(
+                f'//th[.//text()[contains(., "{label}")]]/following-sibling::td//text()'
+            ).getall()
+
+        if not values:
+            values = response.xpath(
                 f'//td[contains(text(), "{label}")]/following-sibling::td//text()'
+            ).getall()
+
+        if not values:
+            values = response.xpath(
+                f'//*[contains(@class, "infobox")]//*[contains(text(), "{label}")]/following-sibling::*//text()'
             ).getall()
 
         # Clean and split by common separators
         cleaned = []
         for v in values:
             v = v.strip()
-            if v and v not in [",", "/", "|"]:
+            if v and v not in [",", "/", "|", "•"]:
                 cleaned.append(v)
 
         return cleaned
-```
-
-### Step 2: Add custom command for champion list
-
-Optionally override champion list via command line:
-
-```bash
-scrapy crawl lol_wiki -a champion_names="Ahri,Yasuo,Jinx"
-```
-
-Update spider `__init__`:
-
-```python
-def __init__(self, champion_names=None, *args, **kwargs):
-    super().__init__(*args, **kwargs)
-    if champion_names:
-        self.champion_names = [c.strip() for c in champion_names.split(",")]
-```
-
-### Step 3: Test spider with single champion
-
-```bash
-scrapy crawl lol_wiki -a champion_names="Darius" -o output/test.json
-```
-
----
-
-## Todo List
-
-- [ ] Create `src/scraper/spiders/lol_wiki_spider.py`
-- [ ] Implement `start_requests()` with configurable champion list
-- [ ] Implement `parse()` method extracting all ChampionItem fields
-- [ ] Implement `_extract_name()` with fallback
-- [ ] Implement `_extract_quote()` with blockquote and infobox fallback
-- [ ] Implement `_extract_section_html()` for content sections
-- [ ] Implement `_extract_relations()` with URL and context
-- [ ] Implement `_extract_infobox_field()` for single values
-- [ ] Implement `_extract_infobox_list()` for list values
-- [ ] Test with single champion (`Darius`)
-- [ ] Verify all fields populated
-
----
-
-## Success Criteria
-
-- [ ] Spider runs without XPath/CSS errors
-- [ ] Name, quote extracted correctly for all 3 champions
-- [ ] Infobox fields extracted (species, status, etc.)
-- [ ] Content sections captured as HTML strings
-- [ ] Relations list populated with champion links
-- [ ] JSON output contains all expected fields
-
----
-
-## Risk Assessment
-
-| Risk | Probability | Impact | Mitigation |
-|------|-------------|--------|------------|
-| XPath mismatches on edge cases | Medium | Medium | Use `contains()` for flexible matching |
-| Missing sections on some pages | Low | Low | Return empty string, handle in pipeline |
-| Relation context too long | Low | Low | Truncate to 200 chars |
-| Encoding issues with special chars | Medium | Medium | Use `unquote()` for URL decoding |
-
----
-
-## Security Considerations
-
-- No credentials or secrets in spider code
-- URLs constructed from trusted constants
-- User input (champion_names) sanitized via URL encoding
-
----
-
-## Next Steps
-
-After completing this phase:
-1. Proceed to [Phase 03: Item Loaders & Processors](./phase-03-item-loaders-processors.md)
-2. Add markdown conversion and Pydantic validation
