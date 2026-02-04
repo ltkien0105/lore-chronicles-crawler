@@ -215,4 +215,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# LLM Environment files
 .llm.env
+
+# Claude AI
+.claude/
