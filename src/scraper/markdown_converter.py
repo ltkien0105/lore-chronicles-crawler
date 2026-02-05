@@ -1,6 +1,7 @@
 """
 HTML to Markdown conversion utilities.
 """
+
 import re
 from markdownify import markdownify as md
 from bs4 import BeautifulSoup
@@ -77,28 +78,28 @@ def clean_markdown(text: str) -> str:
         return ""
 
     # Remove [edit] markers
-    text = re.sub(r'\[edit\]', '', text, flags=re.IGNORECASE)
-    text = re.sub(r'\[edit source\]', '', text, flags=re.IGNORECASE)
+    text = re.sub(r"\[edit\]", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\[edit source\]", "", text, flags=re.IGNORECASE)
 
     # Remove excessive blank lines (more than 2)
-    text = re.sub(r'\n{3,}', '\n\n', text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
 
     # Remove leading/trailing whitespace from lines
-    lines = [line.rstrip() for line in text.split('\n')]
-    text = '\n'.join(lines)
+    lines = [line.rstrip() for line in text.split("\n")]
+    text = "\n".join(lines)
 
     # Remove empty list items
-    text = re.sub(r'^-\s*$', '', text, flags=re.MULTILINE)
+    text = re.sub(r"^-\s*$", "", text, flags=re.MULTILINE)
 
     # Normalize link whitespace
-    text = re.sub(r'\[\s+', '[', text)
-    text = re.sub(r'\s+\]', ']', text)
+    text = re.sub(r"\[\s+", "[", text)
+    text = re.sub(r"\s+\]", "]", text)
 
     # Clean up empty markdown links []()
-    text = re.sub(r'\[\]\([^)]*\)', '', text)
+    text = re.sub(r"\[\]\([^)]*\)", "", text)
 
     # Remove empty paragraphs
-    text = re.sub(r'\n\n+', '\n\n', text)
+    text = re.sub(r"\n\n+", "\n\n", text)
 
     return text.strip()
 

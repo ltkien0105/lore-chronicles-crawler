@@ -1,11 +1,16 @@
 """
 Unit tests for LOL Wiki spider.
 """
+
 import pytest
 from scrapy.http import HtmlResponse, Request
 
 from src.scraper.spiders.lol_wiki_spider import LolWikiSpider
-from src.scraper.markdown_converter import html_to_markdown, clean_markdown, extract_ability_names
+from src.scraper.markdown_converter import (
+    html_to_markdown,
+    clean_markdown,
+    extract_ability_names,
+)
 
 
 class TestLolWikiSpider:
