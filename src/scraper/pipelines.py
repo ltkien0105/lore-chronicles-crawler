@@ -50,7 +50,7 @@ class MarkdownConversionPipeline:
             if field in item and item[field]:
                 original = item[field]
                 item[field] = html_to_markdown(original)
-                if item[field] != original:
+                if item[field] != original and self.spider:
                     self.spider.logger.debug(f"Converted {field} to markdown")
 
         # Special handling for abilities - extract names from HTML
@@ -64,9 +64,10 @@ class MarkdownConversionPipeline:
                     # Fallback: convert to markdown and return as single item
                     item["abilities"] = [html_to_markdown(item["abilities"])]
 
-        self.spider.logger.info(
-            f"Converted HTML to markdown for: {item.get('name', 'unknown')}"
-        )
+        if self.spider:
+            self.spider.logger.info(
+                f"Converted HTML to markdown for: {item.get('name', 'unknown')}"
+            )
         return item
 
 
@@ -92,19 +93,21 @@ class PydanticValidationPipeline:
                 key_facts=self._build_key_facts(item),
             )
 
-            self.spider.logger.info(
-                f"Validated champion: {champion_raw.structure.name}"
-            )
+            if self.spider:
+                self.spider.logger.info(
+                    f"Validated champion: {champion_raw.structure.name}"
+                )
             return champion_raw.model_dump(mode="json")
 
         except ValidationError as e:
-            self.spider.logger.warning(
-                f"Validation failed for {item.get('source_url', 'unknown')}: "
-                f"{e.error_count()} errors"
-            )
-            # Log individual errors
-            for error in e.errors():
-                self.spider.logger.debug(f"  - {error['loc']}: {error['msg']}")
+            if self.spider:
+                self.spider.logger.warning(
+                    f"Validation failed for {item.get('source_url', 'unknown')}: "
+                    f"{e.error_count()} errors"
+                )
+                # Log individual errors
+                for error in e.errors():
+                    self.spider.logger.debug(f"  - {error['loc']}: {error['msg']}")
 
             # Return partial data for debugging
             return {

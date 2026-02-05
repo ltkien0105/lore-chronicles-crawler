@@ -1,6 +1,7 @@
 """
 Scrapy middlewares - using defaults for now.
 """
+
 from scrapy import signals
 
 

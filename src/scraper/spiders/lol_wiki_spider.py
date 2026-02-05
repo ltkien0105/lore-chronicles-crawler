@@ -1,9 +1,11 @@
 """
 LOL Wiki Universe Spider - Extracts champion lore data.
 """
+
 import scrapy
 from urllib.parse import urljoin, unquote
 
+from src.scraper.markdown_converter import clean_markdown, html_to_markdown
 from src.scraper.items import ChampionItem
 from src.utils.constants import BASE_URL_WIKI, UNIVERSE_WIKI
 
@@ -22,14 +24,12 @@ class LolWikiSpider(scrapy.Spider):
         if champion_names:
             self.champion_names = [c.strip() for c in champion_names.split(",")]
 
-    def start_requests(self):
+    async def start(self):
         """Generate initial requests for champion pages."""
         for champion in self.champion_names:
             url = f"{UNIVERSE_WIKI}{champion}"
             yield scrapy.Request(
-                url,
-                callback=self.parse,
-                cb_kwargs={"champion_name": champion}
+                url, callback=self.parse, cb_kwargs={"champion_name": champion}
             )
 
     def parse(self, response, champion_name: str = None):
@@ -57,27 +57,39 @@ class LolWikiSpider(scrapy.Spider):
 
         # Role and release date (may not be on Universe page)
         item["role"] = self._extract_infobox_field(response, "Role") or "Unknown"
-        item["release_date"] = self._extract_infobox_field(response, "Release") or "Unknown"
+        item["release_date"] = (
+            self._extract_infobox_field(response, "Release") or "Unknown"
+        )
 
         # === Key Facts - Titles ===
-        item["real_name"] = self._extract_infobox_field(response, "Real Name") or "Unknown"
+        item["real_name"] = (
+            self._extract_infobox_field(response, "Real Name") or "Unknown"
+        )
         item["alias"] = self._extract_infobox_list(response, "Alias")
 
         # === Key Facts - Characteristics ===
         item["species"] = self._extract_infobox_field(response, "Species") or "Unknown"
         item["pronoun"] = self._extract_infobox_list(response, "Pronoun")
         item["age_current"] = self._extract_infobox_field(response, "Age") or "Unknown"
-        item["age_born_time"] = self._extract_infobox_field(response, "Born") or "Unknown"
+        item["age_born_time"] = (
+            self._extract_infobox_field(response, "Born") or "Unknown"
+        )
         item["weapons"] = self._extract_infobox_field(response, "Weapon") or "Unknown"
 
         # === Key Facts - Personal Status ===
         item["status"] = self._extract_infobox_field(response, "Status") or "Unknown"
-        item["place_of_origin"] = self._extract_infobox_field(response, "Origin") or "Unknown"
-        item["current_residence"] = self._extract_infobox_field(response, "Residence") or "Unknown"
+        item["place_of_origin"] = (
+            self._extract_infobox_field(response, "Origin") or "Unknown"
+        )
+        item["current_residence"] = (
+            self._extract_infobox_field(response, "Residence") or "Unknown"
+        )
         item["family"] = self._extract_infobox_field(response, "Family") or "Unknown"
 
         # === Key Facts - Professional Status ===
-        item["occupations"] = self._extract_infobox_field(response, "Occupation") or "Unknown"
+        item["occupations"] = (
+            self._extract_infobox_field(response, "Occupation") or "Unknown"
+        )
         item["regions"] = self._extract_infobox_field(response, "Region") or "Unknown"
         item["factions"] = self._extract_infobox_field(response, "Faction") or "Unknown"
 
@@ -97,34 +109,40 @@ class LolWikiSpider(scrapy.Spider):
 
     def _extract_quote(self, response) -> str:
         """Extract champion quote from blockquote or infobox."""
-        # Try blockquote first
-        quote = response.xpath('//blockquote[1]//text()').getall()
-        if quote:
-            return " ".join(q.strip() for q in quote if q.strip())
+        quote = response.xpath('//table[contains(@class, "background-quote")]//i').get()
 
-        # Fallback: infobox quote
-        quote = response.css('.infobox-quote::text').get()
-        return quote.strip() if quote else ""
+        return clean_markdown(html_to_markdown(quote)) if quote else ""
 
     def _extract_biography_link(self, response) -> str:
         """Extract link to full biography page."""
-        bio_link = response.xpath(
-            '//a[contains(text(), "Biography") or contains(text(), "Read Bio")]/@href'
-        ).get()
+        bio_link = response.xpath('//a[contains(text(), "Read Biography")]/@href').get()
         if bio_link:
             return urljoin(BASE_URL_WIKI, bio_link)
         return ""
 
     def _extract_section_html(self, response, section_id: str) -> str:
         """Extract HTML content between h2 section and next h2."""
-        # Find all content after the h2 until next h2
+        # Find all content after the div contains mw-heading2 until next div contains mw-heading2
+
+        section_order = {
+            "Background": 1,
+            "Appearance": 2,
+            "Personality": 3,
+            "Abilities": 4,
+            "Relations": 5,
+            "Read More": 6,
+            "Trivia": 7,
+        }
+
         paragraphs = response.xpath(
-            f'//h2[contains(@id, "{section_id}") or '
-            f'.//span[@id="{section_id}"]]/following-sibling::*'
-            f'[self::p or self::ul or self::ol or self::dl]'
-            f'[preceding-sibling::h2[1][contains(@id, "{section_id}") or '
-            f'.//span[@id="{section_id}"]]]'
+            "//div[contains(@class, 'mw-heading2')]/following-sibling::*"
+            "[self::p or h3 or self::ul or self::ol or self::dl][preceding-sibling::div[contains(@class, 'mw-heading2')]]"
+            f"[count(preceding-sibling::div[contains(@class, 'mw-heading2')]) = {section_order[section_id]}]"
         ).getall()
+
+        # //div[contains(@class, 'mw-heading2')][./h2[contains(@id, 'Background')]]/following-sibling::*[self::p][preceding-sibling::div[contains(@class, 'mw-heading2')][./h2[contains(@id, 'Background')]][1]][count(preceding-sibling::div[contains(@class, 'mw-heading2')][./h2[contains(@id, 'Background')]]) = 1]
+        # //div[contains(@class, 'mw-heading2')]/following-sibling::*[self::p][preceding-sibling::div[contains(@class, 'mw-heading2')]][count(preceding-sibling::div[contains(@class, 'mw-heading2')]) = 1]
+        # //div[contains(@class, 'mw-heading2')]/following-sibling::*[self::p][preceding-sibling::div[contains(@class, 'mw-heading2')][1]][count(preceding-sibling::div[contains(@class, 'mw-heading2')]) = 1]
 
         if not paragraphs:
             # Alternative: simpler selector
@@ -144,7 +162,7 @@ class LolWikiSpider(scrapy.Spider):
         # Try h3 within another section
         abilities = response.xpath(
             '//h3[contains(text(), "Abilities")]/following-sibling::*'
-            '[self::dl or self::ul or self::p]'
+            "[self::dl or self::ul or self::p]"
         ).getall()
         return "\n".join(abilities) if abilities else ""
 
@@ -157,8 +175,8 @@ class LolWikiSpider(scrapy.Spider):
         # Find the Relations h2/h3 section and extract Universe links from there
         relations_section = response.xpath(
             '//h2[contains(@id, "Relations") or .//span[contains(@id, "Relations")]]'
-            '/following-sibling::*'
-            '[self::h3 or self::p or self::ul or self::div]'
+            "/following-sibling::*"
+            "[self::h3 or self::p or self::ul or self::div]"
             '[not(preceding-sibling::h2[position()=1][not(contains(@id, "Relations"))])]'
         )
 
@@ -172,7 +190,7 @@ class LolWikiSpider(scrapy.Spider):
         universe_links = universe_links + related_chars_section
 
         for link in universe_links:
-            href = link.xpath('./@href').get()
+            href = link.xpath("./@href").get()
             if not href or href == response.url:
                 continue
 
@@ -192,15 +210,19 @@ class LolWikiSpider(scrapy.Spider):
 
             # Get surrounding context (parent paragraph/list item text)
             context = link.xpath(
-                './ancestor::li[1]//text() | ./ancestor::p[1]//text() | ./ancestor::h3[1]//text()'
+                "./ancestor::li[1]//text() | ./ancestor::p[1]//text() | ./ancestor::h3[1]//text()"
             ).getall()
             description = " ".join(c.strip() for c in context if c.strip())
 
-            relations.append({
-                "champion_name": champ_name,
-                "source_url": urljoin(BASE_URL_WIKI, href),
-                "relationship_description": description[:200] if description else ""
-            })
+            relations.append(
+                {
+                    "champion_name": champ_name,
+                    "source_url": urljoin(BASE_URL_WIKI, href),
+                    "relationship_description": description[:200]
+                    if description
+                    else "",
+                }
+            )
 
         return relations
 
