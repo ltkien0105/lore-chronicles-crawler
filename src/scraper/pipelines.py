@@ -1,6 +1,7 @@
 """
 Item pipelines for data transformation and Pydantic validation.
 """
+
 from datetime import datetime
 from typing import Any
 
@@ -35,7 +36,13 @@ class MarkdownConversionPipeline:
         "trivia",
     ]
 
-    def process_item(self, item: dict, spider) -> dict:
+    @classmethod
+    def from_crawler(cls, crawler):
+        pipeline = cls()
+        pipeline.spider = crawler.spider
+        return pipeline
+
+    def process_item(self, item: dict) -> dict:
         """Convert HTML fields to markdown."""
 
         # Convert content sections
@@ -44,7 +51,7 @@ class MarkdownConversionPipeline:
                 original = item[field]
                 item[field] = html_to_markdown(original)
                 if item[field] != original:
-                    spider.logger.debug(f"Converted {field} to markdown")
+                    self.spider.logger.debug(f"Converted {field} to markdown")
 
         # Special handling for abilities - extract names from HTML
         if "abilities" in item and item["abilities"]:
@@ -57,7 +64,9 @@ class MarkdownConversionPipeline:
                     # Fallback: convert to markdown and return as single item
                     item["abilities"] = [html_to_markdown(item["abilities"])]
 
-        spider.logger.info(f"Converted HTML to markdown for: {item.get('name', 'unknown')}")
+        self.spider.logger.info(
+            f"Converted HTML to markdown for: {item.get('name', 'unknown')}"
+        )
         return item
 
 
@@ -67,7 +76,13 @@ class PydanticValidationPipeline:
     and validates with Pydantic.
     """
 
-    def process_item(self, item: dict, spider) -> dict:
+    @classmethod
+    def from_crawler(cls, crawler):
+        pipeline = cls()
+        pipeline.spider = crawler.spider
+        return pipeline
+
+    def process_item(self, item: dict) -> dict:
         """Process and validate item against ChampionRaw model."""
         try:
             # Build nested structure
@@ -77,17 +92,19 @@ class PydanticValidationPipeline:
                 key_facts=self._build_key_facts(item),
             )
 
-            spider.logger.info(f"Validated champion: {champion_raw.structure.name}")
+            self.spider.logger.info(
+                f"Validated champion: {champion_raw.structure.name}"
+            )
             return champion_raw.model_dump(mode="json")
 
         except ValidationError as e:
-            spider.logger.warning(
+            self.spider.logger.warning(
                 f"Validation failed for {item.get('source_url', 'unknown')}: "
                 f"{e.error_count()} errors"
             )
             # Log individual errors
             for error in e.errors():
-                spider.logger.debug(f"  - {error['loc']}: {error['msg']}")
+                self.spider.logger.debug(f"  - {error['loc']}: {error['msg']}")
 
             # Return partial data for debugging
             return {
@@ -110,11 +127,15 @@ class PydanticValidationPipeline:
         relations = []
         for rel in item.get("relations", []):
             if isinstance(rel, dict):
-                relations.append(Relation(
-                    champion_name=rel.get("champion_name", ""),
-                    source_url=rel.get("source_url", ""),
-                    relationship_description=rel.get("relationship_description", ""),
-                ))
+                relations.append(
+                    Relation(
+                        champion_name=rel.get("champion_name", ""),
+                        source_url=rel.get("source_url", ""),
+                        relationship_description=rel.get(
+                            "relationship_description", ""
+                        ),
+                    )
+                )
 
         return Structure(
             name=item.get("name", "Unknown"),
