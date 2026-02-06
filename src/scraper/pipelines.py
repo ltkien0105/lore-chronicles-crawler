@@ -3,7 +3,6 @@ Item pipelines for data transformation and Pydantic validation.
 """
 
 from datetime import datetime
-from typing import Any
 
 from pydantic import ValidationError
 
@@ -19,7 +18,7 @@ from src.models.champion_raw import (
     PersonalStatus,
     ProfessionalStatus,
 )
-from src.scraper.markdown_converter import html_to_markdown, extract_ability_names
+from src.scraper.markdown_converter import html_to_markdown
 
 
 class MarkdownConversionPipeline:
@@ -33,6 +32,7 @@ class MarkdownConversionPipeline:
         "background",
         "appearance",
         "personality",
+        "abilities",
         "trivia",
     ]
 
@@ -52,17 +52,6 @@ class MarkdownConversionPipeline:
                 item[field] = html_to_markdown(original)
                 if item[field] != original and self.spider:
                     self.spider.logger.debug(f"Converted {field} to markdown")
-
-        # Special handling for abilities - extract names from HTML
-        if "abilities" in item and item["abilities"]:
-            if isinstance(item["abilities"], str):
-                # Extract ability names as list
-                ability_names = extract_ability_names(item["abilities"])
-                if ability_names:
-                    item["abilities"] = ability_names
-                else:
-                    # Fallback: convert to markdown and return as single item
-                    item["abilities"] = [html_to_markdown(item["abilities"])]
 
         if self.spider:
             self.spider.logger.info(
@@ -147,7 +136,7 @@ class PydanticValidationPipeline:
             background=item.get("background", "") or "",
             appearance=item.get("appearance", "") or "",
             personality=item.get("personality", "") or "",
-            abilities=self._parse_abilities(item.get("abilities", "")),
+            abilities=item.get("abilities", "") or "",
             relations=relations,
             relevant_links=item.get("relevant_links", []) or [],
             trivia=item.get("trivia", "") or "",
@@ -183,13 +172,3 @@ class PydanticValidationPipeline:
                 factions=item.get("factions", "Unknown") or "Unknown",
             ),
         )
-
-    def _parse_abilities(self, abilities_data: Any) -> list[str]:
-        """Parse abilities into list of strings."""
-        if isinstance(abilities_data, list):
-            return [str(a) for a in abilities_data if a]
-        if isinstance(abilities_data, str) and abilities_data:
-            # HTML content - return as single item for now
-            # Will be processed in markdown pipeline
-            return [abilities_data]
-        return []

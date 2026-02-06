@@ -104,46 +104,46 @@ def clean_markdown(text: str) -> str:
     return text.strip()
 
 
-def extract_ability_names(html: str) -> list[str]:
-    """
-    Extract ability names from abilities HTML section.
+# def extract_ability_names(html: str) -> list[str]:
+#     """
+#     Extract ability names from abilities HTML section.
 
-    Args:
-        html: HTML containing ability definitions
+#     Args:
+#         html: HTML containing ability definitions
 
-    Returns:
-        List of ability name strings
-    """
-    if not html:
-        return []
+#     Returns:
+#         List of ability name strings
+#     """
+#     if not html:
+#         return []
 
-    soup = BeautifulSoup(html, "html.parser")
-    abilities = []
+#     soup = BeautifulSoup(html, "html.parser")
+#     abilities = []
 
-    # Try li > b pattern (list items with bold ability names)
-    for li in soup.find_all("li"):
-        # Look for bold text at start of list item
-        b = li.find(["b", "strong"])
-        if b:
-            text = b.get_text(strip=True)
-            # Clean up ability name - remove colons and trailing text
-            if ":" in text:
-                text = text.split(":")[0].strip()
-            if text and len(text) < 100:
-                abilities.append(text)
+#     # Try li > b pattern (list items with bold ability names)
+#     for li in soup.find_all("li"):
+#         # Look for bold text at start of list item
+#         b = li.find(["b", "strong"])
+#         if b:
+#             text = b.get_text(strip=True)
+#             # Clean up ability name - remove colons and trailing text
+#             if ":" in text:
+#                 text = text.split(":")[0].strip()
+#             if text and len(text) < 100:
+#                 abilities.append(text)
 
-    # Fallback: Try dl/dt pattern (definition list)
-    if not abilities:
-        for dt in soup.find_all("dt"):
-            strong = dt.find("strong")
-            if strong:
-                abilities.append(strong.get_text(strip=True))
-            else:
-                text = dt.get_text(strip=True)
-                if text:
-                    abilities.append(text)
+#     # Fallback: Try dl/dt pattern (definition list)
+#     if not abilities:
+#         for dt in soup.find_all("dt"):
+#             strong = dt.find("strong")
+#             if strong:
+#                 abilities.append(strong.get_text(strip=True))
+#             else:
+#                 text = dt.get_text(strip=True)
+#                 if text:
+#                     abilities.append(text)
 
-    return abilities
+#     return abilities
 
 
 def convert_list_to_markdown(html: str) -> str:

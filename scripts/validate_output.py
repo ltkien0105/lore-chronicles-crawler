@@ -1,6 +1,7 @@
 """
 Validate spider output JSON files against ChampionRaw model.
 """
+
 import json
 import sys
 from pathlib import Path
@@ -76,8 +77,8 @@ def check_content_quality(filepath: Path) -> list[str]:
             warnings.append(f"{name}: No relations extracted")
 
         # Check abilities
-        abilities = structure.get("abilities", [])
-        if len(abilities) == 0:
+        abilities = structure.get("abilities", "")
+        if not abilities:
             warnings.append(f"{name}: No abilities extracted")
 
     return warnings
@@ -113,7 +114,7 @@ def main():
     total_champions = 0
 
     for filepath in json_files:
-        print(f"\n{'='*50}")
+        print(f"\n{'=' * 50}")
         print(f"Validating: {filepath.name}")
         print("=" * 50)
 
@@ -146,7 +147,7 @@ def main():
             print(f"\n  --- {item.get('structure', {}).get('name', 'Unknown')} ---")
             print_champion_summary(item)
 
-    print(f"\n{'='*50}")
+    print(f"\n{'=' * 50}")
     print(f"Total champions validated: {total_champions}")
     if all_valid:
         print("All files validated successfully!")

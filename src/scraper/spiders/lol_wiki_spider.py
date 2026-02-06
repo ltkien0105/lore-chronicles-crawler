@@ -48,7 +48,7 @@ class LolWikiSpider(scrapy.Spider):
         item["background"] = self._extract_section_html(response, "Background")
         item["appearance"] = self._extract_section_html(response, "Appearance")
         item["personality"] = self._extract_section_html(response, "Personality")
-        item["abilities"] = self._extract_abilities_html(response)
+        item["abilities"] = self._extract_section_html(response, "Abilities")
         item["trivia"] = self._extract_section_html(response, "Trivia")
 
         # Relations and links
@@ -140,10 +140,6 @@ class LolWikiSpider(scrapy.Spider):
             f"[count(preceding-sibling::div[contains(@class, 'mw-heading2')]) = {section_order[section_id]}]"
         ).getall()
 
-        # //div[contains(@class, 'mw-heading2')][./h2[contains(@id, 'Background')]]/following-sibling::*[self::p][preceding-sibling::div[contains(@class, 'mw-heading2')][./h2[contains(@id, 'Background')]][1]][count(preceding-sibling::div[contains(@class, 'mw-heading2')][./h2[contains(@id, 'Background')]]) = 1]
-        # //div[contains(@class, 'mw-heading2')]/following-sibling::*[self::p][preceding-sibling::div[contains(@class, 'mw-heading2')]][count(preceding-sibling::div[contains(@class, 'mw-heading2')]) = 1]
-        # //div[contains(@class, 'mw-heading2')]/following-sibling::*[self::p][preceding-sibling::div[contains(@class, 'mw-heading2')][1]][count(preceding-sibling::div[contains(@class, 'mw-heading2')]) = 1]
-
         if not paragraphs:
             # Alternative: simpler selector
             paragraphs = response.xpath(
@@ -151,20 +147,6 @@ class LolWikiSpider(scrapy.Spider):
             ).getall()
 
         return "\n".join(paragraphs) if paragraphs else ""
-
-    def _extract_abilities_html(self, response) -> str:
-        """Extract abilities section (may be h2 or h3)."""
-        # Try h2 first
-        content = self._extract_section_html(response, "Abilities")
-        if content:
-            return content
-
-        # Try h3 within another section
-        abilities = response.xpath(
-            '//h3[contains(text(), "Abilities")]/following-sibling::*'
-            "[self::dl or self::ul or self::p]"
-        ).getall()
-        return "\n".join(abilities) if abilities else ""
 
     def _extract_relations(self, response) -> list:
         """Extract champion relations from Relations/Related characters section only."""
