@@ -39,9 +39,9 @@ class Structure(BaseModel):
         ...,
         description="Description of the champion's personality. (save as markdown)",
     )
-    abilities: list[str] = Field(
-        [],
-        description="A list of abilities that the champion possesses.",
+    abilities: str = Field(
+        ...,
+        description="A description of the champion's abilities. (save as markdown)",
     )
     relations: list[Relation] = Field(
         [],

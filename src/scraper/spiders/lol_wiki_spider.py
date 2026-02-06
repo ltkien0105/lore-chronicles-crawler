@@ -3,6 +3,7 @@ LOL Wiki Universe Spider - Extracts champion lore data.
 """
 
 import scrapy
+from scrapy.http import Response
 from urllib.parse import urljoin, unquote
 
 from src.scraper.markdown_converter import clean_markdown, html_to_markdown
@@ -136,7 +137,7 @@ class LolWikiSpider(scrapy.Spider):
 
         paragraphs = response.xpath(
             "//div[contains(@class, 'mw-heading2')]/following-sibling::*"
-            "[self::p or h3 or self::ul or self::ol or self::dl][preceding-sibling::div[contains(@class, 'mw-heading2')]]"
+            "[self::p or self::div or h3 or self::ul or self::ol or self::dl][preceding-sibling::div[contains(@class, 'mw-heading2')]]"
             f"[count(preceding-sibling::div[contains(@class, 'mw-heading2')]) = {section_order[section_id]}]"
         ).getall()
 
@@ -148,61 +149,59 @@ class LolWikiSpider(scrapy.Spider):
 
         return "\n".join(paragraphs) if paragraphs else ""
 
-    def _extract_relations(self, response) -> list:
+    def _extract_relations(self, response: Response) -> list:
         """Extract champion relations from Relations/Related characters section only."""
         relations = []
-        seen = set()
+        seen = {}
 
         # Only look in the Relations section for actual champion relationships
         # Find the Relations h2/h3 section and extract Universe links from there
         relations_section = response.xpath(
-            '//h2[contains(@id, "Relations") or .//span[contains(@id, "Relations")]]'
-            "/following-sibling::*"
-            "[self::h3 or self::p or self::ul or self::div]"
-            '[not(preceding-sibling::h2[position()=1][not(contains(@id, "Relations"))])]'
+            "//div[contains(@class, 'mw-heading2')]/following-sibling::*"
+            "[self::p or self::div or h3 or self::ul or self::ol or self::dl][preceding-sibling::div[contains(@class, 'mw-heading2')]]"
+            "[count(preceding-sibling::div[contains(@class, 'mw-heading2')]) = 5]"
         )
 
-        # Also check "Related character(s)" infobox section
-        related_chars_section = response.xpath(
-            '//*[contains(text(), "Related character")]/following-sibling::*//a[contains(@href, "/Universe:")]'
-        )
-
-        # Combine both sources
-        universe_links = relations_section.xpath('.//a[contains(@href, "/Universe:")]')
-        universe_links = universe_links + related_chars_section
-
-        for link in universe_links:
-            href = link.xpath("./@href").get()
-            if not href or href == response.url:
+        nearest_relation_char = None
+        for section in relations_section:
+            if section.css("::text").get() is None:
                 continue
 
-            # Skip non-champion links (stories, regions, etc.)
-            # Champion URLs typically don't have underscores in the name part
-            path_part = href.split(":")[-1]
-            if "/" in path_part:
+            section_class = section.xpath("@class").get() or ""
+            if "mw-heading2" in section_class:
                 continue
 
-            # Extract champion name from URL
-            champ_name = unquote(path_part.replace("_", " "))
+            if "mw-heading3" in section_class:
+                # Extract relation character name
+                relation_char_name = section.xpath("./h3[1]/@id").get()
+                href = (
+                    section.xpath('.//a[contains(@href, "/Universe:")]')
+                    .xpath("@href")
+                    .get()
+                )
+                nearest_relation_char = relation_char_name
+                # Skip if already seen
+                if relation_char_name in seen:
+                    return
+                seen[relation_char_name] = {
+                    "source_url": urljoin(BASE_URL_WIKI, href),
+                    "relationship_description": "",
+                }
+            else:
+                if nearest_relation_char is None:
+                    continue
+                seen[nearest_relation_char]["relationship_description"] += (
+                    f"\n{section.get()}"
+                )
 
-            # Skip if already seen
-            if champ_name in seen:
-                continue
-            seen.add(champ_name)
-
-            # Get surrounding context (parent paragraph/list item text)
-            context = link.xpath(
-                "./ancestor::li[1]//text() | ./ancestor::p[1]//text() | ./ancestor::h3[1]//text()"
-            ).getall()
-            description = " ".join(c.strip() for c in context if c.strip())
-
+        for champ_name, relation_info in seen.items():
             relations.append(
                 {
                     "champion_name": champ_name,
-                    "source_url": urljoin(BASE_URL_WIKI, href),
-                    "relationship_description": description[:200]
-                    if description
-                    else "",
+                    "source_url": relation_info["source_url"],
+                    "relationship_description": html_to_markdown(
+                        relation_info["relationship_description"]
+                    ),
                 }
             )
 
