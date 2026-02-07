@@ -2,6 +2,7 @@
 Minimal Scrapy Item definitions.
 Primary validation done via Pydantic in pipelines.py
 """
+
 import scrapy
 
 
@@ -40,6 +41,7 @@ class ChampionItem(scrapy.Item):
     status = scrapy.Field()
     place_of_origin = scrapy.Field()
     current_residence = scrapy.Field()
+    romantic_interest = scrapy.Field()
     family = scrapy.Field()
 
     # Key facts - Professional status

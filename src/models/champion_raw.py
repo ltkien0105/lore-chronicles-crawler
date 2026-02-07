@@ -85,6 +85,10 @@ class PersonalStatus(BaseModel):
     current_residence: str = Field(
         ..., description="The current residence of the champion."
     )
+    romantic_interest: str = Field(
+        ...,
+        description="Information about the champion's romantic interest. (save as markdown)",
+    )
     family: str = Field(
         ..., description="Information about the champion's family. (save as markdown)"
     )

@@ -1,7 +1,7 @@
 [
 {
   "metadata": {
-    "last_crawled": "2026-02-07T23:33:17.428376",
+    "last_crawled": "2026-02-07T23:41:46.841889",
     "source_url": "https://wiki.leagueoflegends.com/en-us/Universe:Cho'Gath"
   },
   "structure": {
@@ -292,8 +292,9 @@
     },
     "personal_status": {
       "status": "Alive",
-      "place_of_origin": "Unknown",
-      "current_residence": "Unknown",
+      "place_of_origin": "[Runeterra](https://wiki.leagueoflegends.com/en-us/Runeterra \"Runeterra\")",
+      "current_residence": "Unknown (No Fixed Abode)",
+      "romantic_interest": "Unknown",
       "family": "[Watchers](https://wiki.leagueoflegends.com/en-us/Watcher \"Watcher\") (Creators)"
     },
     "professional_status": {
@@ -305,7 +306,7 @@
 },
 {
   "metadata": {
-    "last_crawled": "2026-02-07T23:33:20.146880",
+    "last_crawled": "2026-02-07T23:41:49.802112",
     "source_url": "https://wiki.leagueoflegends.com/en-us/Universe:Kai'Sa"
   },
   "structure": {
@@ -648,8 +649,9 @@
     },
     "personal_status": {
       "status": "Alive",
-      "place_of_origin": "Unknown",
-      "current_residence": "Unknown",
+      "place_of_origin": "[Sai](https://wiki.leagueoflegends.com/en-us/The_Great_Sai \"The Great Sai\"), [Shurima](https://wiki.leagueoflegends.com/en-us/Shurima \"Shurima\")",
+      "current_residence": "Unknown (No Fixed Abode)",
+      "romantic_interest": "Unknown",
       "family": "- [Kassadin](https://wiki.leagueoflegends.com/en-us/Universe:Kassadin \"Universe:Kassadin\") (Father)\n- Unnamed Mother †"
     },
     "professional_status": {
@@ -661,7 +663,7 @@
 },
 {
   "metadata": {
-    "last_crawled": "2026-02-07T23:33:22.477229",
+    "last_crawled": "2026-02-07T23:41:51.720355",
     "source_url": "https://wiki.leagueoflegends.com/en-us/Universe:Darius"
   },
   "structure": {
@@ -1070,8 +1072,9 @@
     },
     "personal_status": {
       "status": "Alive",
-      "place_of_origin": "Unknown",
-      "current_residence": "Unknown",
+      "place_of_origin": "[Basilich](https://wiki.leagueoflegends.com/en-us/Universe:Basilich \"Universe:Basilich\"), [Noxus](https://wiki.leagueoflegends.com/en-us/Universe:Noxus \"Universe:Noxus\")",
+      "current_residence": "[Immortal Bastion](https://wiki.leagueoflegends.com/en-us/Universe:The_Immortal_Bastion \"Universe:The Immortal Bastion\"), [Noxus](https://wiki.leagueoflegends.com/en-us/Universe:Noxus \"Universe:Noxus\")",
+      "romantic_interest": "[Quilletta Varn](https://wiki.leagueoflegends.com/en-us/Universe:Quilletta_Varn \"Universe:Quilletta Varn\") † (Spouse)",
       "family": "- [Draven](https://wiki.leagueoflegends.com/en-us/Universe:Draven \"Universe:Draven\") (Brother)\n- Decius Varn † (Alleged Son)\n- [Invetia Varn](https://wiki.leagueoflegends.com/en-us/Universe:Invetia_Varn \"Universe:Invetia Varn\") (Alleged Daughter)"
     },
     "professional_status": {

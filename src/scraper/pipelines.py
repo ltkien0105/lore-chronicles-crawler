@@ -164,6 +164,7 @@ class PydanticValidationPipeline:
                 status=item.get("status", "Unknown") or "Unknown",
                 place_of_origin=item.get("place_of_origin", "Unknown") or "Unknown",
                 current_residence=item.get("current_residence", "Unknown") or "Unknown",
+                romantic_interest=item.get("romantic_interest", "Unknown") or "Unknown",
                 family=item.get("family", "Unknown") or "Unknown",
             ),
             professional_status=ProfessionalStatus(

@@ -80,10 +80,13 @@ class LolWikiSpider(scrapy.Spider):
         # === Key Facts - Personal Status ===
         item["status"] = self._extract_infobox_field(response, "Status") or "Unknown"
         item["place_of_origin"] = (
-            self._extract_infobox_field(response, "Origin") or "Unknown"
+            self._extract_infobox_field(response, "Place of origin") or "Unknown"
         )
         item["current_residence"] = (
-            self._extract_infobox_field(response, "Residence") or "Unknown"
+            self._extract_infobox_field(response, "Current residence") or "Unknown"
+        )
+        item["romantic_interest"] = (
+            self._extract_infobox_field(response, "Romantic Interest") or "Unknown"
         )
         item["family"] = self._extract_infobox_field(response, "Family") or "Unknown"
 
