@@ -5,36 +5,32 @@ Unit tests for LOL Wiki spider.
 import pytest
 from scrapy.http import HtmlResponse, Request
 
-from src.scraper.spiders.lol_wiki_spider import LolWikiSpider
-from src.scraper.markdown_converter import (
-    html_to_markdown,
-    clean_markdown,
-    extract_ability_names,
-)
+from scraper.spiders.character_lol_wiki_spider import CharacterLolWikiSpider
+from src.scraper.markdown_converter import html_to_markdown, clean_markdown
 
 
-class TestLolWikiSpider:
-    """Tests for LolWikiSpider."""
+class TestCharacterLolWikiSpider:
+    """Tests for CharacterLolWikiSpider."""
 
     def test_spider_name(self):
-        spider = LolWikiSpider()
-        assert spider.name == "lol_wiki"
+        spider = CharacterLolWikiSpider()
+        assert spider.name == "character_lol_wiki"
 
     def test_allowed_domains(self):
-        spider = LolWikiSpider()
+        spider = CharacterLolWikiSpider()
         assert "wiki.leagueoflegends.com" in spider.allowed_domains
 
     def test_default_champions(self):
-        spider = LolWikiSpider()
+        spider = CharacterLolWikiSpider()
         assert len(spider.champion_names) == 3
         assert "Cho'Gath" in spider.champion_names
 
     def test_custom_champions(self):
-        spider = LolWikiSpider(champion_names="Ahri,Yasuo")
+        spider = CharacterLolWikiSpider(champion_names="Ahri,Yasuo")
         assert spider.champion_names == ["Ahri", "Yasuo"]
 
     def test_start_requests_count(self):
-        spider = LolWikiSpider()
+        spider = CharacterLolWikiSpider()
         requests = list(spider.start_requests())
         assert len(requests) == 3
 
@@ -75,36 +71,6 @@ class TestMarkdownConverter:
         assert clean_markdown("") == ""
 
 
-class TestExtractAbilityNames:
-    """Tests for ability name extraction."""
-
-    def test_extract_from_list_bold(self):
-        html = """
-        <ul>
-            <li><b>Rupture:</b> Creates a void explosion.</li>
-            <li><b>Feral Scream:</b> Silences enemies.</li>
-        </ul>
-        """
-        abilities = extract_ability_names(html)
-        assert "Rupture" in abilities
-        assert "Feral Scream" in abilities
-
-    def test_extract_from_strong(self):
-        html = """
-        <ul>
-            <li><strong>Master Axeman</strong></li>
-            <li><strong>Extreme Resilience</strong></li>
-        </ul>
-        """
-        abilities = extract_ability_names(html)
-        assert "Master Axeman" in abilities
-        assert "Extreme Resilience" in abilities
-
-    def test_empty_input(self):
-        assert extract_ability_names("") == []
-        assert extract_ability_names(None) == []
-
-
 class TestExtraction:
     """Tests for data extraction (requires mock response)."""
 
@@ -134,21 +100,21 @@ class TestExtraction:
         return HtmlResponse(url=url, request=request, body=html.encode())
 
     def test_extract_name(self, mock_response):
-        spider = LolWikiSpider()
+        spider = CharacterLolWikiSpider()
         name = spider._extract_name(mock_response)
         assert name == "Darius"
 
     def test_extract_quote(self, mock_response):
-        spider = LolWikiSpider()
+        spider = CharacterLolWikiSpider()
         quote = spider._extract_quote(mock_response)
         assert "regret opposing me" in quote
 
     def test_extract_infobox_field(self, mock_response):
-        spider = LolWikiSpider()
+        spider = CharacterLolWikiSpider()
         species = spider._extract_infobox_field(mock_response, "Species")
         assert species == "Human"
 
     def test_extract_infobox_field_missing(self, mock_response):
-        spider = LolWikiSpider()
+        spider = CharacterLolWikiSpider()
         missing = spider._extract_infobox_field(mock_response, "NonExistent")
         assert missing == ""

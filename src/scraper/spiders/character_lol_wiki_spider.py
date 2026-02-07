@@ -11,10 +11,10 @@ from src.scraper.items import ChampionItem
 from src.utils.constants import BASE_URL_WIKI, UNIVERSE_WIKI
 
 
-class LolWikiSpider(scrapy.Spider):
+class CharacterLolWikiSpider(scrapy.Spider):
     """Spider for crawling League of Legends Wiki Universe pages."""
 
-    name = "lol_wiki"
+    name = "character_lol_wiki"
     allowed_domains = ["wiki.leagueoflegends.com"]
 
     # Default champions to crawl
@@ -140,7 +140,7 @@ class LolWikiSpider(scrapy.Spider):
 
         paragraphs = response.xpath(
             "//div[contains(@class, 'mw-heading2')]/following-sibling::*"
-            "[self::p or self::div or h3 or self::ul or self::ol or self::dl][preceding-sibling::div[contains(@class, 'mw-heading2')]]"
+            "[self::p or self::div[not(contains(@class, 'mw-heading2'))] or h3 or self::ul or self::ol or self::dl][preceding-sibling::div[contains(@class, 'mw-heading2')]]"
             f"[count(preceding-sibling::div[contains(@class, 'mw-heading2')]) = {section_order[section_id]}]"
         ).getall()
 
