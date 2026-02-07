@@ -149,7 +149,7 @@ class PydanticValidationPipeline:
         return KeyFacts(
             titles=Titles(
                 real_name=item.get("real_name", "Unknown") or "Unknown",
-                alias=item.get("alias", []) or [],
+                alias=item.get("alias", "Unknown") or "Unknown",
             ),
             characteristics=Characteristics(
                 species=item.get("species", "Unknown") or "Unknown",

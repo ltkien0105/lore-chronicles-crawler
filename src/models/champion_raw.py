@@ -64,8 +64,9 @@ class Structure(BaseModel):
 
 class Titles(BaseModel):
     real_name: str = Field(..., description="The real name of the champion.")
-    alias: list[str] = Field(
-        [], description="A list of aliases or nicknames for the champion."
+    alias: str = Field(
+        "Unknown",
+        description="A list of alias or nickname for the champion. (save as markdown)",
     )
 
 
@@ -104,9 +105,7 @@ class ProfessionalStatus(BaseModel):
 
 class Characteristics(BaseModel):
     species: str = Field(..., description="The species of the champion.")
-    pronoun: list[str] = Field(
-        [], description="A list of pronouns associated with the champion."
-    )
+    pronoun: str = Field("Unknown", description="Pronoun associated with the champion.")
     age: Age = Field(..., description="The age details of the champion.")
     weapons: str = Field(
         ..., description="The weapon used by the champion. (save as markdown)"

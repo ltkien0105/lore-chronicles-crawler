@@ -1,7 +1,7 @@
 [
 {
   "metadata": {
-    "last_crawled": "2026-02-07T00:15:02.407129",
+    "last_crawled": "2026-02-07T23:33:17.428376",
     "source_url": "https://wiki.leagueoflegends.com/en-us/Universe:Cho'Gath"
   },
   "structure": {
@@ -279,37 +279,33 @@
   "key_facts": {
     "titles": {
       "real_name": "Unknown",
-      "alias": [
-        "The Terror of the Void"
-      ]
+      "alias": "The Terror of the Void"
     },
     "characteristics": {
-      "species": "Voidborn (Unknown Sub-species)",
-      "pronoun": [
-        "It/Its"
-      ],
+      "species": "[Voidborn](https://wiki.leagueoflegends.com/en-us/Voidborn \"Voidborn\") (Unknown Sub-species)",
+      "pronoun": "It/Its",
       "age": {
-        "current": "Unknown Edit",
+        "current": "Unknown",
         "born_time": "Unknown"
       },
-      "weapons": "Teeth Spikes Feral Scream"
+      "weapons": "- [Teeth](https://wiki.leagueoflegends.com/en-us/Cho%27Gath#Feast \"Cho'Gath\")\n- [Spikes](https://wiki.leagueoflegends.com/en-us/Cho%27Gath#Vorpal_Spikes \"Cho'Gath\")\n- [Feral Scream](https://wiki.leagueoflegends.com/en-us/Cho%27Gath#Feral_Scream \"Cho'Gath\")"
     },
     "personal_status": {
       "status": "Alive",
       "place_of_origin": "Unknown",
       "current_residence": "Unknown",
-      "family": "Watchers (Creators)"
+      "family": "[Watchers](https://wiki.leagueoflegends.com/en-us/Watcher \"Watcher\") (Creators)"
     },
     "professional_status": {
       "occupations": "Watcher's Servant",
-      "regions": "Void",
+      "regions": "[Void](https://wiki.leagueoflegends.com/en-us/Universe:Void \"Universe:Void\")",
       "factions": "Unknown"
     }
   }
 },
 {
   "metadata": {
-    "last_crawled": "2026-02-07T00:15:04.479219",
+    "last_crawled": "2026-02-07T23:33:20.146880",
     "source_url": "https://wiki.leagueoflegends.com/en-us/Universe:Kai'Sa"
   },
   "structure": {
@@ -638,39 +634,34 @@
   },
   "key_facts": {
     "titles": {
-      "real_name": "Unknown",
-      "alias": [
-        "Daughter of the Void",
-        "The Girl Who Came Back"
-      ]
+      "real_name": "Kaisa",
+      "alias": "- Daughter of the Void\n- The Girl Who Came Back"
     },
     "characteristics": {
-      "species": "Human",
-      "pronoun": [
-        "She/Her"
-      ],
+      "species": "[Human](https://wiki.leagueoflegends.com/en-us/Human \"Human\")",
+      "pronoun": "She/Her",
       "age": {
-        "current": "Current 21 years old Timeline Born 976 AN Edit",
+        "current": "21 years old",
         "born_time": "976 AN"
       },
-      "weapons": "Living Void carapace Void Energy Energy Blades Void Missiles"
+      "weapons": "- [Living Void carapace](https://wiki.leagueoflegends.com/en-us/Kai%27Sa#Second_Skin \"Kai'Sa\")\n- [Void Energy](https://wiki.leagueoflegends.com/en-us/Kai%27Sa#Void_Seeker \"Kai'Sa\")\n- [Energy Blades](https://wiki.leagueoflegends.com/en-us/Kai%27Sa#Supercharge \"Kai'Sa\")\n- [Void Missiles](https://wiki.leagueoflegends.com/en-us/Kai%27Sa#Icathian_Rain \"Kai'Sa\")"
     },
     "personal_status": {
       "status": "Alive",
       "place_of_origin": "Unknown",
       "current_residence": "Unknown",
-      "family": "Kassadin (Father) Unnamed Mother †"
+      "family": "- [Kassadin](https://wiki.leagueoflegends.com/en-us/Universe:Kassadin \"Universe:Kassadin\") (Father)\n- Unnamed Mother †"
     },
     "professional_status": {
-      "occupations": "Balance Preserver Guardian",
-      "regions": "Void",
-      "factions": "The Preservers of Valoran"
+      "occupations": "- Balance Preserver\n- Guardian",
+      "regions": "[Void](https://wiki.leagueoflegends.com/en-us/Universe:Void \"Universe:Void\")",
+      "factions": "The Preservers of [Valoran](https://wiki.leagueoflegends.com/en-us/Valoran \"Valoran\")"
     }
   }
 },
 {
   "metadata": {
-    "last_crawled": "2026-02-07T00:15:06.881383",
+    "last_crawled": "2026-02-07T23:33:22.477229",
     "source_url": "https://wiki.leagueoflegends.com/en-us/Universe:Darius"
   },
   "structure": {
@@ -1066,34 +1057,27 @@
   "key_facts": {
     "titles": {
       "real_name": "Unknown",
-      "alias": [
-        "The Hand of Noxus",
-        "General Darius",
-        "Commander Darius",
-        "Commander General Darius"
-      ]
+      "alias": "- The Hand of Noxus\n- General Darius\n- Commander Darius\n- Commander General Darius"
     },
     "characteristics": {
-      "species": "Human",
-      "pronoun": [
-        "He/Him"
-      ],
+      "species": "[Human](https://wiki.leagueoflegends.com/en-us/Universe:Human \"Universe:Human\")",
+      "pronoun": "He/Him",
       "age": {
-        "current": "Current 37 – 41 years old Timeline Born 956 AN – 960 AN Edit",
+        "current": "37 – 41 years old",
         "born_time": "956 AN – 960 AN"
       },
-      "weapons": "Battleaxe Noxian Might"
+      "weapons": "- [Battleaxe](https://wiki.leagueoflegends.com/en-us/Darius#Decimate \"Darius\")\n- [Noxian Might](https://wiki.leagueoflegends.com/en-us/Darius#Hemorrhage_2 \"Darius\")"
     },
     "personal_status": {
       "status": "Alive",
       "place_of_origin": "Unknown",
       "current_residence": "Unknown",
-      "family": "Draven (Brother) Decius Varn † (Alleged Son) Invetia Varn (Alleged Daughter)"
+      "family": "- [Draven](https://wiki.leagueoflegends.com/en-us/Universe:Draven \"Universe:Draven\") (Brother)\n- Decius Varn † (Alleged Son)\n- [Invetia Varn](https://wiki.leagueoflegends.com/en-us/Universe:Invetia_Varn \"Universe:Invetia Varn\") (Alleged Daughter)"
     },
     "professional_status": {
-      "occupations": "Trifarix Leader of Might General of the Trifarian Legion",
-      "regions": "Noxus",
-      "factions": "Trifarix Trifarian Legion Reckoners"
+      "occupations": "- Trifarix Leader of Might\n- General of the [Trifarian Legion](https://wiki.leagueoflegends.com/en-us/Universe:Trifarian_Legion \"Universe:Trifarian Legion\")",
+      "regions": "[Noxus](https://wiki.leagueoflegends.com/en-us/Universe:Noxus \"Universe:Noxus\")",
+      "factions": "- [Trifarix](https://wiki.leagueoflegends.com/en-us/Universe:Trifarix \"Universe:Trifarix\")\n- [Trifarian Legion](https://wiki.leagueoflegends.com/en-us/Universe:Trifarian_Legion \"Universe:Trifarian Legion\")\n- [Reckoners](https://wiki.leagueoflegends.com/en-us/Universe:Reckoners \"Universe:Reckoners\")"
     }
   }
 }

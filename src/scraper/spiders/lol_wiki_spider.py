@@ -64,17 +64,17 @@ class LolWikiSpider(scrapy.Spider):
 
         # === Key Facts - Titles ===
         item["real_name"] = (
-            self._extract_infobox_field(response, "Real Name") or "Unknown"
+            self._extract_infobox_field(response, "Real name") or "Unknown"
         )
         item["alias"] = self._extract_infobox_list(response, "Alias")
 
         # === Key Facts - Characteristics ===
         item["species"] = self._extract_infobox_field(response, "Species") or "Unknown"
-        item["pronoun"] = self._extract_infobox_list(response, "Pronoun")
-        item["age_current"] = self._extract_infobox_field(response, "Age") or "Unknown"
-        item["age_born_time"] = (
-            self._extract_infobox_field(response, "Born") or "Unknown"
-        )
+        item["pronoun"] = self._extract_infobox_field(response, "Pronoun")
+
+        age_current, age_born_time = self._extract_infobox_age_field(response)
+        item["age_current"] = age_current
+        item["age_born_time"] = age_born_time
         item["weapons"] = self._extract_infobox_field(response, "Weapon") or "Unknown"
 
         # === Key Facts - Personal Status ===
@@ -221,65 +221,46 @@ class LolWikiSpider(scrapy.Spider):
 
     def _extract_infobox_field(self, response, label: str) -> str:
         """Extract single value from infobox table row."""
-        # Try multiple patterns for MediaWiki infobox structure
 
-        # Pattern 1: th/td with direct text match
+        # div with label text followed by sibling div with value
         value = response.xpath(
-            f'//th[contains(text(), "{label}")]/following-sibling::td//text()'
-        ).getall()
-        if value:
-            return " ".join(v.strip() for v in value if v.strip())
+            f"//div[@class='infobox-data-label'][contains(text(), '{label}')]"
+            f"/following-sibling::div[@class='infobox-data-value']"
+        ).get()
 
-        # Pattern 2: th with nested element containing text
-        value = response.xpath(
-            f'//th[.//text()[contains(., "{label}")]]/following-sibling::td//text()'
-        ).getall()
-        if value:
-            return " ".join(v.strip() for v in value if v.strip())
+        return html_to_markdown(value) if value else ""
 
-        # Pattern 3: td/td pattern (some infoboxes use this)
-        value = response.xpath(
-            f'//td[contains(text(), "{label}")]/following-sibling::td//text()'
-        ).getall()
-        if value:
-            return " ".join(v.strip() for v in value if v.strip())
+    def _extract_infobox_age_field(self, response) -> str:
+        age_value_section = response.xpath(
+            "//div[@class='infobox-data-label'][contains(text(), 'Age')]"
+            "/following-sibling::div[@class='infobox-data-value']"
+        )
 
-        # Pattern 4: div-based infobox (newer wikis)
-        value = response.xpath(
-            f'//*[contains(@class, "infobox")]//*[contains(text(), "{label}")]/following-sibling::*//text()'
-        ).getall()
-        if value:
-            return " ".join(v.strip() for v in value if v.strip())
+        if age_value_section.xpath("./span[1][text()='Unknown']").get():
+            return (
+                "Unknown",
+                "Unknown",
+            )
 
-        return ""
+        age_current = age_value_section.xpath(
+            "//div[contains(text(), 'years old')]/text()"
+        ).get()
+
+        age_born = age_value_section.xpath(
+            ".//small[contains(text(), 'Born')]/following-sibling::small/text()"
+        ).get()
+
+        return (
+            age_current.strip() if age_current else "Unknown",
+            age_born.strip() if age_born else "Unknown",
+        )
 
     def _extract_infobox_list(self, response, label: str) -> list:
-        """Extract list values from infobox (e.g., aliases, pronouns)."""
+        """Extract values from fields having many entries in infobox (e.g., aliases, weapons)."""
         # Get all text from the cell using multiple patterns
         values = response.xpath(
-            f'//th[contains(text(), "{label}")]/following-sibling::td//text()'
+            f"//div[@class='infobox-data-label'][contains(text(), '{label}')]"
+            f"/following-sibling::div[@class='infobox-data-value']"
         ).getall()
 
-        if not values:
-            values = response.xpath(
-                f'//th[.//text()[contains(., "{label}")]]/following-sibling::td//text()'
-            ).getall()
-
-        if not values:
-            values = response.xpath(
-                f'//td[contains(text(), "{label}")]/following-sibling::td//text()'
-            ).getall()
-
-        if not values:
-            values = response.xpath(
-                f'//*[contains(@class, "infobox")]//*[contains(text(), "{label}")]/following-sibling::*//text()'
-            ).getall()
-
-        # Clean and split by common separators
-        cleaned = []
-        for v in values:
-            v = v.strip()
-            if v and v not in [",", "/", "|", "•"]:
-                cleaned.append(v)
-
-        return cleaned
+        return html_to_markdown("\n".join(values)) if values else ""
