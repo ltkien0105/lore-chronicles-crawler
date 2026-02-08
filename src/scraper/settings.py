@@ -24,23 +24,6 @@ RETRY_ENABLED = True
 RETRY_TIMES = 3
 RETRY_HTTP_CODES = [500, 502, 503, 504, 429]
 
-# Output settings - single champions.json file
-FEED_EXPORT_ENCODING = "utf-8"
-FEEDS = {
-    "output/champions.json": {
-        "format": "json",
-        "encoding": "utf8",
-        "indent": 2,
-        "overwrite": True,
-    }
-}
-
-# Pipelines
-ITEM_PIPELINES = {
-    "src.scraper.pipelines.MarkdownConversionPipeline": 200,
-    "src.scraper.pipelines.PydanticValidationPipeline": 300,
-}
-
 # Logging
 LOG_LEVEL = "INFO"
 LOG_FORMAT = "%(asctime)s [%(name)s] %(levelname)s: %(message)s"

@@ -16,6 +16,23 @@ class CharacterLolWikiSpider(scrapy.Spider):
 
     name = "character_lol_wiki"
     allowed_domains = ["wiki.leagueoflegends.com"]
+    custom_settings = {
+        # Output settings - single champions.json file
+        "FEED_EXPORT_ENCODING": "utf-8",
+        "FEEDS": {
+            "output/champions.json": {
+                "format": "json",
+                "encoding": "utf8",
+                "indent": 2,
+                "overwrite": True,
+            }
+        },
+        # Pipelines
+        "ITEM_PIPELINES": {
+            "src.scraper.pipelines.MarkdownConversionPipeline": 200,
+            "src.scraper.pipelines.PydanticValidationPipeline": 300,
+        },
+    }
 
     # Default champions to crawl
     champion_names = ["Cho'Gath", "Kai'Sa", "Darius"]
