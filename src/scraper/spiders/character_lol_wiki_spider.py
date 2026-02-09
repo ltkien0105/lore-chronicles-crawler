@@ -34,13 +34,12 @@ class CharacterLolWikiSpider(scrapy.Spider):
         },
     }
 
-    # Default champions to crawl
-    champion_names = ["Cho'Gath", "Kai'Sa", "Darius"]
-
     def __init__(self, champion_names=None, *args, **kwargs):
         super().__init__(*args, **kwargs)
         if champion_names:
             self.champion_names = [c.strip() for c in champion_names.split(",")]
+        else:
+            self.champion_names = self._get_all_champion_names()
 
     async def start(self):
         """Generate initial requests for champion pages."""
@@ -284,3 +283,15 @@ class CharacterLolWikiSpider(scrapy.Spider):
         ).getall()
 
         return html_to_markdown("\n".join(values)) if values else ""
+
+    def _get_all_champion_names(self):
+        """Helper method to get all champion names from the main Universe page."""
+        import json
+
+        with open("output/champion_links.json", "r", encoding="utf-8") as f:
+            champion_links_dict = json.load(f)
+
+        champion_links = sum(champion_links_dict[0].values(), [])
+        champion_names = [link.split(":")[-1] for link in champion_links]
+
+        return set(champion_names)

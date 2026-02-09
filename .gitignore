@@ -220,3 +220,6 @@ __marimo__/
 
 # Claude AI
 .claude/
+
+# Output directory for generated code, logs, or other artifacts
+output/
