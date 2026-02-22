@@ -597,5 +597,149 @@
             "subtitle": "the Aspect of Twilight",
             "echelon": 7
         }
+    ],
+    "explore_factions": [
+        {
+            "type": "faction",
+            "title": "Ixtal",
+            "section_title": "Ixtal",
+            "name": "Ixtal",
+            "slug": "ixtal",
+            "description": "<p>Renowned for its mastery of elemental magic, Ixtal was one of the first independent nations to join the Shuriman empire. In truth, Ixtali culture is much older\u2014part of the great westward diaspora that gave rise to civilizations including the Buhru, magnificent Helia, and the ascetics of Targon\u2014and it is likely they played a significant role in the creation of the first Ascended.</p>",
+            "image": {
+                "title": "ixtal_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/1a75d072fa01ec3d0cda3f87fc1bf18dce736424-5000x2811.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 5000,
+                "height": 2811,
+                "x": 3126,
+                "y": 1339,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "ixtal_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/1a75d072fa01ec3d0cda3f87fc1bf18dce736424-5000x2811.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 5000,
+                "height": 2811,
+                "x": 3126,
+                "y": 1339,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/ixtal"
+        },
+        {
+            "type": "faction",
+            "title": "Noxus",
+            "section_title": "Noxus",
+            "name": "Noxus",
+            "slug": "noxus",
+            "description": "<p>Noxus is a powerful empire with a fearsome reputation. To those beyond its borders, it is brutal, expansionist, and threatening, yet those who look past its warlike exterior see an unusually inclusive society, where the strengths and talents of its people are respected and cultivated.</p>",
+            "image": {
+                "title": "noxus_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6310fe5db818f80b84ee784a746cc28ee1273e6b-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1054,
+                "y": 443,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "noxus_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6310fe5db818f80b84ee784a746cc28ee1273e6b-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1054,
+                "y": 443,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/noxus"
+        }
+    ],
+    "modules": [
+        {
+            "slug": "targon-image-gallery",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "mount-targon-image-gallery",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "people-of-targon-image-gallery",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "tools-of-the-rakkor-image-gallery",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "targonian-wildlife-image-gallery",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        }
     ]
 }

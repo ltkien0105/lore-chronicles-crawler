@@ -572,5 +572,135 @@
             "subtitle": "Rise of the Thorns",
             "echelon": 7
         }
+    ],
+    "explore_factions": [
+        {
+            "type": "faction",
+            "title": "Ixtal",
+            "section_title": "Ixtal",
+            "name": "Ixtal",
+            "slug": "ixtal",
+            "description": "<p>Renowned for its mastery of elemental magic, Ixtal was one of the first independent nations to join the Shuriman empire. In truth, Ixtali culture is much older\u2014part of the great westward diaspora that gave rise to civilizations including the Buhru, magnificent Helia, and the ascetics of Targon\u2014and it is likely they played a significant role in the creation of the first Ascended.</p>",
+            "image": {
+                "title": "ixtal_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/1a75d072fa01ec3d0cda3f87fc1bf18dce736424-5000x2811.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 5000,
+                "height": 2811,
+                "x": 3126,
+                "y": 1339,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "ixtal_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/1a75d072fa01ec3d0cda3f87fc1bf18dce736424-5000x2811.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 5000,
+                "height": 2811,
+                "x": 3126,
+                "y": 1339,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/ixtal"
+        },
+        {
+            "type": "faction",
+            "title": "Targon",
+            "section_title": "Targon",
+            "name": "Targon",
+            "slug": "mount-targon",
+            "description": "Mount Targon is the mightiest peak in Runeterra, a towering peak of sun-baked rock amid a range of summits unmatched in scale anywhere else in the world. Located far from civilization, Mount Targon is utterly remote and all but impossible to reach save by the most determined seeker. Many legends cling to Mount Targon, and, like any place of myth, it is a beacon to dreamers, madmen and questors of adventure. Some of these brave souls attempt to scale the impossible mountain, perhaps seeking wisdom or enlightenment, perhaps chasing glory or some soul-deep yearning to witness its summit. The ascent is all but impossible, and those hardy few who somehow survive to reach the top almost never speak of what they have seen. Some return with a haunted, empty look in their eyes, others changed beyond all recognition, imbued by an Aspect of unearthly, inhuman power with a destiny few mortals can comprehend.</p>",
+            "image": {
+                "title": "mount-targon_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/8ad3cfba4b5d7cb812562108a6e90d07e0865b3f-1920x1041.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 2825,
+                "height": 1080,
+                "x": 1559,
+                "y": 411,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "mount-targon_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/8ad3cfba4b5d7cb812562108a6e90d07e0865b3f-1920x1041.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 2825,
+                "height": 1080,
+                "x": 1559,
+                "y": 411,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/mount-targon"
+        }
+    ],
+    "modules": [
+        {
+            "slug": "ixtal-secrets",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "proud-inheritance",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "people-ixaocan",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "yun-tal",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        }
     ]
 }

@@ -699,5 +699,193 @@
             "subtitle": "Shepherd of Souls",
             "echelon": 9
         }
+    ],
+    "explore_factions": [
+        {
+            "type": "faction",
+            "title": "Piltover",
+            "section_title": "Piltover",
+            "name": "Piltover",
+            "slug": "piltover",
+            "description": "Piltover is a thriving, progressive city whose power and influence is on the rise. It is Valoran\u2019s cultural center, where art, craftsmanship, trade and innovation walk hand in hand. Its power comes not through military might, but the engines of commerce and forward thinking. Situated on the cliffs above the district of Zaun and overlooking the ocean, fleets of ships pass through its titanic sea-gates, bringing goods from all over the world. The wealth this generates has given rise to an unprecedented boom in the city\u2019s growth. Piltover has - and still is - reinventing itself as a city where fortunes can be made and dreams can be lived. Burgeoning merchant clans fund development in the most incredible endeavors: grand artistic follies, esoteric hextech research, and architectural monuments to their power. With ever more inventors delving into the emergent lore of hextech, Piltover has become a lodestone for the most skilled craftsmen the world over.</p>",
+            "image": {
+                "title": "piltover_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6c77423961def6e3a82d9a36545782f1a06386e0-4681x2114.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 867,
+                "x": 711,
+                "y": 849,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "piltover_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6c77423961def6e3a82d9a36545782f1a06386e0-4681x2114.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 867,
+                "x": 711,
+                "y": 849,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/piltover"
+        },
+        {
+            "type": "faction",
+            "title": "Shurima",
+            "section_title": "Shurima",
+            "name": "Shurima",
+            "slug": "shurima",
+            "description": "<p>The empire of Shurima was once a thriving civilization that spanned an entire continent. Forged in a bygone age by the mighty god-warriors of the Ascended Host, it united all the disparate peoples of the south, and enforced a lasting peace between them.</p>",
+            "image": {
+                "title": "shurima_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/3f24f923ba9871dd870c0d3565075ff8140f44b8-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1861,
+                "y": 93,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "shurima_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/3f24f923ba9871dd870c0d3565075ff8140f44b8-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1861,
+                "y": 93,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/shurima"
+        }
+    ],
+    "modules": [
+        {
+            "slug": "tor-shadowisles",
+            "type": "featured-video",
+            "featured_image": {
+                "title": "shadow-isles_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/94e4bf2e1b30ba553b4fc0f93e94983837082210-2503x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 2825,
+                "height": 1080,
+                "x": 1559,
+                "y": 411,
+                "featured_champions": []
+            },
+            "title": "Tales of Runeterra: Shadow Isles",
+            "subtitle": "",
+            "description": "The grasp of the Shadow Isles takes hold long before you realize.",
+            "uri": "https://www.youtube.com/watch?v=3yxNUbYZEWU",
+            "video": {
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://www.youtube.com/watch?v=3yxNUbYZEWU",
+                "encoding": null,
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured_champions": []
+            },
+            "release_date": "2020-04-12T15:00:00.000Z",
+            "video_type": "cinematic",
+            "featured_champions": [],
+            "related_champions": []
+        },
+        {
+            "slug": "black-mist-harrowing",
+            "type": "featured-video",
+            "featured_image": {
+                "title": "black-mist-harrowing.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe_live/8695794cda89a5e09079af2fbd9060103bda59c3-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 980,
+                "y": 190,
+                "featured_champions": []
+            },
+            "title": "Tales of the Black Mist: The Harrowing",
+            "subtitle": "",
+            "description": "A ghastly puppet show recounts a tale familiar in Bilgewater, but tonight the fog\u2019s come down especially thick\u2026",
+            "uri": "https://www.youtube.com/watch?v=s2FFGBPXNeU",
+            "video": {
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://www.youtube.com/watch?v=s2FFGBPXNeU",
+                "encoding": null,
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured_champions": []
+            },
+            "release_date": "2014-10-24T15:00:00.000Z",
+            "video_type": "cinematic",
+            "featured_champions": [],
+            "related_champions": []
+        },
+        {
+            "slug": "shadow-isles-environment",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "shadow-isles-image-gallery-entities",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "shadow-isle-image-gallery-concept-art",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        }
     ]
 }

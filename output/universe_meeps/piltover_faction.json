@@ -581,5 +581,185 @@
             "subtitle": "the Piltover Enforcer",
             "echelon": 7
         }
+    ],
+    "explore_factions": [
+        {
+            "type": "faction",
+            "title": "Noxus",
+            "section_title": "Noxus",
+            "name": "Noxus",
+            "slug": "noxus",
+            "description": "<p>Noxus is a powerful empire with a fearsome reputation. To those beyond its borders, it is brutal, expansionist, and threatening, yet those who look past its warlike exterior see an unusually inclusive society, where the strengths and talents of its people are respected and cultivated.</p>",
+            "image": {
+                "title": "noxus_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6310fe5db818f80b84ee784a746cc28ee1273e6b-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1054,
+                "y": 443,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "noxus_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6310fe5db818f80b84ee784a746cc28ee1273e6b-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1054,
+                "y": 443,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/noxus"
+        },
+        {
+            "type": "faction",
+            "title": "Shadow Isles",
+            "section_title": "Shadow Isles",
+            "name": "Shadow Isles",
+            "slug": "shadow-isles",
+            "description": "<p>This cursed land was once home to a noble, enlightened civilization, known to its allies and emissaries as the Blessed Isles. However, more than a thousand years ago, an unprecedented magical cataclysm left the barrier between the material and spirit realms in tatters, effectively merging the two\u2026 and dooming all living things in an instant.</p>",
+            "image": {
+                "title": "shadow-isles_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/94e4bf2e1b30ba553b4fc0f93e94983837082210-2503x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 828,
+                "x": 552,
+                "y": 372,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "shadow-isles_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/94e4bf2e1b30ba553b4fc0f93e94983837082210-2503x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 828,
+                "x": 552,
+                "y": 372,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/shadow-isles"
+        }
+    ],
+    "modules": [
+        {
+            "slug": "tor-pnz",
+            "type": "featured-video",
+            "featured_image": {
+                "title": "piltover_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6c77423961def6e3a82d9a36545782f1a06386e0-4681x2114.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 2825,
+                "height": 1080,
+                "x": 1559,
+                "y": 411,
+                "featured_champions": []
+            },
+            "title": "Tales of Runeterra: Piltover and Zaun",
+            "subtitle": "",
+            "description": "When Heimerdinger\u2019s latest hextech creation is stolen by Jinx, the professor sends an unfortunate apprentice on a wild goose chase through the City of Progress\u2026 and beneath it.",
+            "uri": "https://www.youtube.com/watch?v=qCVLRh1y96M",
+            "video": {
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://www.youtube.com/watch?v=qCVLRh1y96M",
+                "encoding": null,
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured_champions": []
+            },
+            "release_date": "2020-04-18T15:00:00.000Z",
+            "video_type": "cinematic",
+            "featured_champions": [],
+            "related_champions": []
+        },
+        {
+            "slug": "piltover-environment",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "piltover-hextech",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "piltover-people",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "jinx-ziggs-paint-the-town",
+            "type": "link-out",
+            "featured_image": null,
+            "title": "Ziggs & Jinx: Paint the Town",
+            "subtitle": null,
+            "description": "<p>Yordles live among us. </p> <p>Oh, they say I\u2019m crazy -- they say that Yordles would be easy to spot in a city such as ours, what with their fuzzy countenances and diminutive stature. But I\u2019ve heard rumors that they have invented some sort of magical charms that make these abominations appear no different from you or I. </p> <p>But don\u2019t be fooled! No matter how adorable they may seem, these mischievous creatures will bring our city of Piltover to ruin! If I were so moved, I\u2019d say they\u2019re an even bigger threat than those lunatic terrorists from Zaun! </p> <p>But I\u2019m getting ahead of myself. </p> <p>Our story starts in a small pyrotechnics shop in Piltover, run by two unnervingly fuzzy gentlemen...</p>",
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": null,
+            "related_champions": null
+        },
+        {
+            "slug": "piltover-trade-route-map",
+            "type": "link-out",
+            "featured_image": null,
+            "title": "The Medarda Heirloom",
+            "subtitle": null,
+            "description": "To the wealthy clans of Piltover, sea-borne trade is key to their continued wealth. Detailed knowledge of the ocean&rsquo;s many trade routes and city ports (as well the people who control them) is jealously guarded and passed down only to worthy heirs. Over the many years of his life, Jago Medarda has sailed far and wide to secure Clan Medarda&rsquo;s fortune, and his well-traveled - and oft-amended - map offers many clues to those seeking their fortune upon the high seas.",
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": null,
+            "related_champions": null
+        }
     ]
 }

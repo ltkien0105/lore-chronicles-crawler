@@ -1066,5 +1066,157 @@
             "subtitle": "the Seneschal of Demacia",
             "echelon": 14
         }
+    ],
+    "explore_factions": [
+        {
+            "type": "faction",
+            "title": "Bilgewater",
+            "section_title": "Bilgewater",
+            "name": "Bilgewater",
+            "slug": "bilgewater",
+            "description": "<p>Nestled away in the Blue Flame Isles archipelago, Bilgewater is a port city like no other\u2014home to serpent hunters, dock gangs, and smugglers from across the known world. Here, fortunes are made and ambitions shattered in the blink of an eye. For those fleeing justice, debt, or persecution, Bilgewater can be a place of new beginnings, for no one on these twisted streets cares about your past. Even so, with each new dawn, careless travelers can always be found floating in the harbor, their purses empty and their throats slit\u2026</p>",
+            "image": {
+                "title": "bilgewater_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/9700d7bf76ec15c8c526f7fea2a960e3846e44a6-2825x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 734,
+                "x": 1029,
+                "y": 713,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "bilgewater_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/9700d7bf76ec15c8c526f7fea2a960e3846e44a6-2825x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 734,
+                "x": 1029,
+                "y": 713,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/bilgewater"
+        },
+        {
+            "type": "faction",
+            "title": "The Freljord",
+            "section_title": "The Freljord",
+            "name": "The Freljord",
+            "slug": "freljord",
+            "description": "<p>The Freljord is a harsh and unforgiving place\u2014where the people are born warriors, who must persevere against all odds.</p>",
+            "image": {
+                "title": "freljord_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/ee60551d26850cfbff088f571bc5e1688b1a143b-2034x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1019,
+                "x": 177,
+                "y": 987,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "freljord_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/ee60551d26850cfbff088f571bc5e1688b1a143b-2034x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1019,
+                "x": 177,
+                "y": 987,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/freljord"
+        }
+    ],
+    "modules": [
+        {
+            "slug": "tor-demacia",
+            "type": "featured-video",
+            "featured_image": {
+                "title": "tor-demacia-splash.png",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/ee8f462dfa266e29262c8361ca3e2b6da96084ce-1920x1080.png?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured_champions": []
+            },
+            "title": "Tales of Runeterra: Demacia",
+            "subtitle": "",
+            "description": "Two aspiring young warriors sneak into a Demacian training arena, hoping to walk in the footsteps of their heroes, Garen Crownguard and Fiora Laurent.",
+            "uri": "https://www.youtube.com/watch?v=oKt58b7AwJc",
+            "video": {
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://www.youtube.com/watch?v=oKt58b7AwJc",
+                "encoding": null,
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured_champions": []
+            },
+            "release_date": "2020-04-06T15:00:00.000Z",
+            "video_type": "cinematic",
+            "featured_champions": [],
+            "related_champions": []
+        },
+        {
+            "slug": "demacia-environment",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "demacia-raptors",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "demacia-military",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        }
     ]
 }

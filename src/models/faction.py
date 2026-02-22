@@ -7,13 +7,13 @@ from .universe_meeps import Image
 class Video(BaseModel):
     title: str
     subtitle: str
-    description: str
+    description: str | List
     uri: str
-    encoding: str
-    width: int | None = None
-    height: int | None = None
-    x: int | None = None
-    y: int | None = None
+    encoding: str | None = Field(None, alias="encoding")
+    width: str | int | None = Field(None, alias="width")
+    height: str | int | None = Field(None, alias="height")
+    x: str | int | None = Field(None, alias="x")
+    y: str | int | None = Field(None, alias="y")
     featured_champions: List = Field(..., alias="featured-champions")
 
 
@@ -70,6 +70,41 @@ class ChildFaction(BaseModel):
     header_image: str = Field(..., alias="headerImage")
 
 
+class ExploreFaction(BaseModel):
+    type: str
+    title: str
+    section_title: str = Field(..., alias="section-title")
+    name: str
+    slug: str
+    description: str
+    image: Image
+    background: Image
+    echelon: int | str = ""
+    associated_champions: List[AssociatedChampion] = Field(
+        ..., alias="associated-champions"
+    )
+    url: str
+
+
+class FeaturedImage(Image):
+    pass
+
+
+class Module(BaseModel):
+    slug: str
+    type: str
+    featured_image: FeaturedImage | str | None = Field(None, alias="featured-image")
+    title: str
+    subtitle: str | None = None
+    description: str | None = None
+    uri: str | None = None
+    video: Video | None = None
+    release_date: str | None = Field(None, alias="release-date")
+    video_type: str | None = Field(None, alias="video-type")
+    featured_champions: List | None = Field(None, alias="featured-champions")
+    related_champions: List | None = Field(None, alias="related-champions")
+
+
 class Faction(BaseModel):
     id: str
     name: str
@@ -79,3 +114,5 @@ class Faction(BaseModel):
     associated_champions: List[AssociatedChampion] = Field(
         ..., alias="associated-champions"
     )
+    explore_factions: List[ExploreFaction] = Field(..., alias="explore-factions")
+    modules: List[Module]

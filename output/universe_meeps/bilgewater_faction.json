@@ -632,5 +632,207 @@
             "subtitle": "the Card Master",
             "echelon": 8
         }
+    ],
+    "explore_factions": [
+        {
+            "type": "faction",
+            "title": "Bandle City",
+            "section_title": "Bandle City",
+            "name": "Bandle City",
+            "slug": "bandle-city",
+            "description": "Opinions differ as to where exactly the home of the yordles is to be found, though a handful of mortals claim to have traveled unseen pathways to a land of curious enchantment beyond the material realm. They tell of a place of unfettered magic, where the foolhardy can be led astray by myriad wonders, and end up lost in a dream...</p>",
+            "image": {
+                "title": "bandle-city_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/109f1c35b08e87598eaa1e0755a992e17d9425c2-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1904,
+                "height": 1076,
+                "x": 800,
+                "y": 550,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "bandle-city_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/109f1c35b08e87598eaa1e0755a992e17d9425c2-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1904,
+                "height": 1076,
+                "x": 800,
+                "y": 550,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/bandle-city"
+        },
+        {
+            "type": "faction",
+            "title": "Demacia",
+            "section_title": "Demacia",
+            "name": "Demacia",
+            "slug": "demacia",
+            "description": "<p>A strong, lawful kingdom with a prestigious military history, Demacia\u2019s people have always valued the ideals of justice, honor, and duty most highly, and are fiercely proud of their cultural heritage. But in spite of these lofty principles, this largely self-sufficient nation has grown more insular and isolationist in recent centuries.</p>",
+            "image": {
+                "title": "demacia-hallvalor.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/5b80fe8ddd3d935c3f258f3e145b8aed4b7460bf-1920x887.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 2724,
+                "height": 1258,
+                "x": 1337,
+                "y": 1039,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "demacia-hallvalor.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/5b80fe8ddd3d935c3f258f3e145b8aed4b7460bf-1920x887.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 2724,
+                "height": 1258,
+                "x": 1337,
+                "y": 1039,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/demacia"
+        }
+    ],
+    "modules": [
+        {
+            "slug": "tor-bilgewater",
+            "type": "featured-video",
+            "featured_image": {
+                "title": "bilgewater_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/9700d7bf76ec15c8c526f7fea2a960e3846e44a6-2825x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 2825,
+                "height": 1080,
+                "x": 1559,
+                "y": 411,
+                "featured_champions": []
+            },
+            "title": "Tales of Runeterra: Bilgewater",
+            "subtitle": "",
+            "description": "Down on the slaughter docks, Miss Fortune springs a trap for wanted criminals Twisted Fate and Graves\u2026 but soon finds the tables turned against her.",
+            "uri": "https://www.youtube.com/watch?v=lbJhZW-iN0s?t=15",
+            "video": {
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://www.youtube.com/watch?v=lbJhZW-iN0s?t=15",
+                "encoding": null,
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured_champions": []
+            },
+            "release_date": "2020-04-21T15:00:00.000Z",
+            "video_type": "cinematic",
+            "featured_champions": [],
+            "related_champions": []
+        },
+        {
+            "slug": "audio-drama-intro",
+            "type": "featured-video",
+            "featured_image": {
+                "title": "audio-drama-bg.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6fa7f40d1e4353faa86846ef52b76075db9887f5-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 0,
+                "y": 0,
+                "featured_champions": []
+            },
+            "title": "Legends of Bilgewater: Tall Tales of the Deep Sea",
+            "subtitle": "",
+            "description": "Listen as Lars spins a tale of four Bilgewater legends - Nautilus, Fizz, Tahm Kench, and Pyke - and discovers the terrifying fact woven into his fiction.",
+            "uri": "https://youtu.be/1wj21zLtgAA",
+            "video": {
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://youtu.be/1wj21zLtgAA",
+                "encoding": null,
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured_champions": []
+            },
+            "release_date": "2018-05-31T15:00:00.000Z",
+            "video_type": "video",
+            "featured_champions": [],
+            "related_champions": []
+        },
+        {
+            "slug": "bilgewater-environment",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "bilgewater-people",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "bilgewater-concept-art",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "missfortune-fortune-smiles",
+            "type": "link-out",
+            "featured_image": null,
+            "title": "Miss Fortune: Fortune Smiles",
+            "subtitle": null,
+            "description": "<p>Bilgewater. A haven for Runeterra\u2019s most notorious monster hunters, mercenaries, and scoundrels.</p> <p>For decades, a ruthless pirate named Gangplank kept the city in check. Under his merciless rule, Bilgewater was an orderly place to make a dishonest living. </p> <p>But now Gangplank is dead. Murdered, by a crimson-haired bounty hunter seeking vengeance for her parents\u2019 deaths. </p> <p>Bilgewater has descended into chaos. Only the woman who killed Gangplank can save it. </p> <p>Her name is Sarah. </p> <p>They call her Miss Fortune. </p>",
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": null,
+            "related_champions": null
+        }
     ]
 }

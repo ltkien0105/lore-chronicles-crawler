@@ -1144,5 +1144,207 @@
             "subtitle": "the Crimson Reaper",
             "echelon": 16
         }
+    ],
+    "explore_factions": [
+        {
+            "type": "faction",
+            "title": "Targon",
+            "section_title": "Targon",
+            "name": "Targon",
+            "slug": "mount-targon",
+            "description": "Mount Targon is the mightiest peak in Runeterra, a towering peak of sun-baked rock amid a range of summits unmatched in scale anywhere else in the world. Located far from civilization, Mount Targon is utterly remote and all but impossible to reach save by the most determined seeker. Many legends cling to Mount Targon, and, like any place of myth, it is a beacon to dreamers, madmen and questors of adventure. Some of these brave souls attempt to scale the impossible mountain, perhaps seeking wisdom or enlightenment, perhaps chasing glory or some soul-deep yearning to witness its summit. The ascent is all but impossible, and those hardy few who somehow survive to reach the top almost never speak of what they have seen. Some return with a haunted, empty look in their eyes, others changed beyond all recognition, imbued by an Aspect of unearthly, inhuman power with a destiny few mortals can comprehend.</p>",
+            "image": {
+                "title": "mount-targon_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/8ad3cfba4b5d7cb812562108a6e90d07e0865b3f-1920x1041.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 2825,
+                "height": 1080,
+                "x": 1559,
+                "y": 411,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "mount-targon_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/8ad3cfba4b5d7cb812562108a6e90d07e0865b3f-1920x1041.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 2825,
+                "height": 1080,
+                "x": 1559,
+                "y": 411,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/mount-targon"
+        },
+        {
+            "type": "faction",
+            "title": "Piltover",
+            "section_title": "Piltover",
+            "name": "Piltover",
+            "slug": "piltover",
+            "description": "Piltover is a thriving, progressive city whose power and influence is on the rise. It is Valoran\u2019s cultural center, where art, craftsmanship, trade and innovation walk hand in hand. Its power comes not through military might, but the engines of commerce and forward thinking. Situated on the cliffs above the district of Zaun and overlooking the ocean, fleets of ships pass through its titanic sea-gates, bringing goods from all over the world. The wealth this generates has given rise to an unprecedented boom in the city\u2019s growth. Piltover has - and still is - reinventing itself as a city where fortunes can be made and dreams can be lived. Burgeoning merchant clans fund development in the most incredible endeavors: grand artistic follies, esoteric hextech research, and architectural monuments to their power. With ever more inventors delving into the emergent lore of hextech, Piltover has become a lodestone for the most skilled craftsmen the world over.</p>",
+            "image": {
+                "title": "piltover_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6c77423961def6e3a82d9a36545782f1a06386e0-4681x2114.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 867,
+                "x": 711,
+                "y": 849,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "piltover_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6c77423961def6e3a82d9a36545782f1a06386e0-4681x2114.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 867,
+                "x": 711,
+                "y": 849,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/piltover"
+        }
+    ],
+    "modules": [
+        {
+            "slug": "tor-noxus",
+            "type": "featured-video",
+            "featured_image": {
+                "title": "noxus_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6310fe5db818f80b84ee784a746cc28ee1273e6b-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 2825,
+                "height": 1080,
+                "x": 1559,
+                "y": 411,
+                "featured_champions": []
+            },
+            "title": "Tales of Runeterra: Noxus",
+            "subtitle": "",
+            "description": "The king of the land and the Hand of Noxus. Only one will leave alive.",
+            "uri": "https://www.youtube.com/watch?v=FGlhWPwrkDg",
+            "video": {
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://www.youtube.com/watch?v=FGlhWPwrkDg",
+                "encoding": null,
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured_champions": []
+            },
+            "release_date": "2020-04-15T15:00:00.000Z",
+            "video_type": "cinematic",
+            "featured_champions": [],
+            "related_champions": []
+        },
+        {
+            "slug": "noxus-image-gallery-environments",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "noxus-image-gallery-life",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "noxus-image-gallery-military",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "darius-bloodofnoxus",
+            "type": "link-out",
+            "featured_image": null,
+            "title": "Darius: Blood of Noxus",
+            "subtitle": null,
+            "description": "<p>In all Runeterra, there is no army more feared than that of the Noxian empire.</p> <p>In all Noxus, there is no soldier more respected than Darius.</p> <p>Of all the commandments that have kept Noxus strong, one rule stands above all others:</p> <p>Loyalty is everything.</p>",
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": null,
+            "related_champions": null
+        },
+        {
+            "slug": "noxus-dev-diary",
+            "type": "featured-video",
+            "featured_image": {
+                "title": "noxus-update-image.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe_live/15bdbfc63250182da5e6e2bd12ac5b2291b8cd35-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 973,
+                "y": 473,
+                "featured_champions": []
+            },
+            "title": "Surviving in Noxus | /dev diary",
+            "subtitle": "",
+            "description": "Whren and Ant in Oz take you through Runeterra\u2019s most brutal region: Noxus.",
+            "uri": "https://youtu.be/TD3J57yFuas",
+            "video": {
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://youtu.be/TD3J57yFuas",
+                "encoding": null,
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured_champions": []
+            },
+            "release_date": "2018-02-05T16:00:00.000Z",
+            "video_type": "dev-diary",
+            "featured_champions": [],
+            "related_champions": []
+        }
     ]
 }

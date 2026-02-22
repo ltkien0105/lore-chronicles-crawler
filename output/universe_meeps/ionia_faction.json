@@ -1606,5 +1606,207 @@
             "subtitle": "the Master of Shadows",
             "echelon": 22
         }
+    ],
+    "explore_factions": [
+        {
+            "type": "faction",
+            "title": "The Freljord",
+            "section_title": "The Freljord",
+            "name": "The Freljord",
+            "slug": "freljord",
+            "description": "<p>The Freljord is a harsh and unforgiving place\u2014where the people are born warriors, who must persevere against all odds.</p>",
+            "image": {
+                "title": "freljord_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/ee60551d26850cfbff088f571bc5e1688b1a143b-2034x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1019,
+                "x": 177,
+                "y": 987,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "freljord_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/ee60551d26850cfbff088f571bc5e1688b1a143b-2034x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1019,
+                "x": 177,
+                "y": 987,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/freljord"
+        },
+        {
+            "type": "faction",
+            "title": "Ixtal",
+            "section_title": "Ixtal",
+            "name": "Ixtal",
+            "slug": "ixtal",
+            "description": "<p>Renowned for its mastery of elemental magic, Ixtal was one of the first independent nations to join the Shuriman empire. In truth, Ixtali culture is much older\u2014part of the great westward diaspora that gave rise to civilizations including the Buhru, magnificent Helia, and the ascetics of Targon\u2014and it is likely they played a significant role in the creation of the first Ascended.</p>",
+            "image": {
+                "title": "ixtal_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/1a75d072fa01ec3d0cda3f87fc1bf18dce736424-5000x2811.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 5000,
+                "height": 2811,
+                "x": 3126,
+                "y": 1339,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "ixtal_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/1a75d072fa01ec3d0cda3f87fc1bf18dce736424-5000x2811.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 5000,
+                "height": 2811,
+                "x": 3126,
+                "y": 1339,
+                "featured_champions": []
+            },
+            "echelon": "",
+            "associated_champions": [],
+            "url": "/en_us/region/ixtal"
+        }
+    ],
+    "modules": [
+        {
+            "slug": "tor-ionia",
+            "type": "featured-video",
+            "featured_image": {
+                "title": "ionia_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/0bc51130c3f71f867b8b4e35e6f68eac69b16e40-1295x729.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 2825,
+                "height": 1080,
+                "x": 1559,
+                "y": 411,
+                "featured_champions": []
+            },
+            "title": "Tales of Runeterra: Ionia",
+            "subtitle": "",
+            "description": "When an outsider threatens Ionia, Akali restores balance in her own way.",
+            "uri": "https://www.youtube.com/watch?v=HGPoGtSBhu0",
+            "video": {
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://www.youtube.com/watch?v=HGPoGtSBhu0",
+                "encoding": null,
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured_champions": []
+            },
+            "release_date": "2020-04-21T15:00:00.000Z",
+            "video_type": "cinematic",
+            "featured_champions": [],
+            "related_champions": []
+        },
+        {
+            "slug": "ionia-image-gallery",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "ionia-environments",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "ionia-people",
+            "type": "image-gallery",
+            "featured_image": "",
+            "title": "",
+            "subtitle": "",
+            "description": null,
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": [],
+            "related_champions": null
+        },
+        {
+            "slug": "varus-issue-1",
+            "type": "link-out",
+            "featured_image": null,
+            "title": "Varus: Heartlight",
+            "subtitle": null,
+            "description": "<p>Ionia. A land of magic. A land of balance. A land of light.</p><p>But not always a land of peace.</p><p>Just as there are creatures within Ionia who seek to upset its order, so too are there those who fight to preserve it; Arrows of Protection, hunters of monsters.</p><p>Valmar and Kai are two such hunters.</p><p>But not all monsters can be defeated with bow and steel.</p><p>And not all darkness can be so easily banished by the light.</p>",
+            "uri": null,
+            "video": null,
+            "release_date": null,
+            "video_type": null,
+            "featured_champions": null,
+            "related_champions": null
+        },
+        {
+            "slug": "ionia-dev-diary",
+            "type": "featured-video",
+            "featured_image": {
+                "title": "ionia-life-as-one.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe_live/d02f8eb694965633cdfbfe16a70d581a76e4b302-1920x864.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 864,
+                "x": 756,
+                "y": 406,
+                "featured_champions": []
+            },
+            "title": "Discover Ionia /dev diary",
+            "subtitle": "",
+            "description": "Boogergames and WAAARGHbobo explore Ionia, a land saturated with magic and fractured by a Noxian invasion.",
+            "uri": "https://youtu.be/_cwMFzp1Ou0",
+            "video": {
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://youtu.be/_cwMFzp1Ou0",
+                "encoding": null,
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured_champions": []
+            },
+            "release_date": "2018-04-02T15:00:00.000Z",
+            "video_type": "dev-diary",
+            "featured_champions": [],
+            "related_champions": []
+        }
     ]
 }
