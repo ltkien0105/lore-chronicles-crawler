@@ -1,0 +1,601 @@
+{
+    "id": "mount-targon",
+    "name": "Targon Faction Page",
+    "locale": "en_us",
+    "faction": {
+        "slug": "mount-targon",
+        "image": {
+            "title": "mount-targon_splash.jpg",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/8ad3cfba4b5d7cb812562108a6e90d07e0865b3f-1920x1041.jpg?accountingTag=LoL",
+            "encoding": "image/jpeg",
+            "width": null,
+            "height": null,
+            "x": null,
+            "y": null,
+            "featured_champions": []
+        },
+        "video": {
+            "title": "mount-targon-splashvideo.webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/d00f9e798c7e63fed1eaa8b92770f280d0c7f241.webm?accountingTag=LoL",
+            "encoding": "video/webm",
+            "width": null,
+            "height": null,
+            "x": null,
+            "y": null,
+            "featured_champions": []
+        },
+        "name": "Targon",
+        "overview": {
+            "short": "Mount Targon is the mightiest peak in Runeterra, a towering peak of sun-baked rock amid a range of summits unmatched in scale anywhere else in the world. Located far from civilization, Mount Targon is utterly remote and all but impossible to reach save by the most determined seeker. Many legends cling to Mount Targon, and, like any place of myth, it is a beacon to dreamers, madmen and questors of adventure. Some of these brave souls attempt to scale the impossible mountain, perhaps seeking wisdom or enlightenment, perhaps chasing glory or some soul-deep yearning to witness its summit. The ascent is all but impossible, and those hardy few who somehow survive to reach the top almost never speak of what they have seen. Some return with a haunted, empty look in their eyes, others changed beyond all recognition, imbued by an Aspect of unearthly, inhuman power with a destiny few mortals can comprehend."
+        },
+        "header_image": ""
+    },
+    "champion_list_order": 0,
+    "associated_champions": [
+        {
+            "type": "champion",
+            "release_date": "2019-11-19T19:43:26.000Z",
+            "name": "Aphelios",
+            "title": "Aphelios",
+            "section_title": "Aphelios",
+            "slug": "aphelios",
+            "associated_faction": "",
+            "associated_faction_slug": "mount-targon",
+            "image": {
+                "title": "aphelios-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/13d6778903fe6ab73298998e20405e15130fca5f-1900x1122.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1900,
+                "height": 1122,
+                "x": 996,
+                "y": 53,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "aphelios-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/13d6778903fe6ab73298998e20405e15130fca5f-1900x1122.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1900,
+                "height": 1122,
+                "x": 996,
+                "y": 53,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/aphelios",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                }
+            ],
+            "game_info_url": null,
+            "biography": {
+                "full": "<p>The moon looms over the towering slopes of Mount Targon, distant, yet impossibly close.</p><p>Born during a rare lunar convergence, when the physical moon was eclipsed by its reflection in the spirit realm, Aphelios and his twin sister, Alune, were celebrated as children of destiny by those of Targon\u2019s Lunari faith.</p><p>Mirroring the celestial event that heralded their birth, the two children knew they had been marked by fate\u2014Aphelios physically gifted like the moon of stone, and Alune magically like its spiritual reflection. Zealously devout, they grew up within a faith of mystery, reflection, and discovery, and embraced darkness not just out of belief, but as the only thing that could keep them safe.</p><p>The Solari who ruled Targon considered the Lunari heretics, driving them into hiding until most forgot the Lunari even existed. The Lunari were left to the shadows, dwelling in temples and caves far from the Solaris\u2019 sight.</p><p>The pressure to be exemplary weighed heavily upon Aphelios. He practiced tirelessly with mystical moonstone blades, spilling his own blood in training so he could spill that of others to protect the faith. Intense and vulnerable, he bonded deeply with his sister in lieu of any other friendships.</p><p>While Aphelios was sent on increasingly dangerous missions to protect the Lunari, Alune trained separately as a seer, using her luminous magic to reveal hidden pathways and truths by the moon\u2019s light. In time, her tasks required her to leave the temple where they were raised.</p><p>Without Alune, Aphelios\u2019 faith wavered.</p><p>Desperate for purpose, he undertook a ceremonial journey into darkness where Lunari were said to discover their paths\u2014their orbits. He followed the moon\u2019s light to a pool where rare noctum flowers bloomed beneath the water\u2019s surface. Though poisonous, the flowers could be distilled into a liquid that opened him to the night\u2019s power.</p><p>Drinking the noctum\u2019s essence, Aphelios felt so much pain that it numbed him to everything else.</p><p>Soon after, an ancient temple, the Marus Omegnum, began to come into phase from the spirit realm for the first time in centuries. Lunari from across the mountain gathered, emerging from hiding to witness the balance of power shift as celestial cycles in the heavens turned.</p><p>The fortress accepted only one occupant, gifted in magic, each time it appeared. This time it would be Alune, her orbit guiding her to the temple. Aphelios, usually asking for nothing, requested to attend the event.</p><p>But as the fortress passed through the veil in a luminous display of magic, a harsher radiance filled the night. Somehow, the Lunari had been discovered even as the celestial cycles turned in their favor.</p><p>An army of Solari descended upon them.</p><p>All seemed lost, the Solari purging the Lunari heresy with fire and steel. Even Aphelios was beaten, his moonstone blades shattered on the ground, blood spilling from his lips as he reached for the noctum\u2026</p><p>But as the battle raged, Alune traveled deeper into the temple\u2014and when she reached its heart, her full potential unlocked. Through the noctum, Aphelios could feel Alune\u2019s power embrace him\u2026 and he could hear her voice. With a whisper, she pushed magic into his hands\u2014a replacement for his blades solidifying into moonstone.</p><p>Like the moon of stone and its spiritual reflection, Aphelios\u2019s skill and Alune\u2019s magic converged.</p><p>Those Solari would not live to see the sun again.</p><p>As her power flared, Alune pushed the temple, and herself within, back into the spirit realm where it would remain safe from the Solari. From inside, amplified by the temple\u2019s focusing power, Alune was able to project her magic anywhere, so long as it found a focus\u2014like the poison coursing through Aphelios\u2019 veins.</p><p>Only now did they understand their destiny. Aphelios would hollow himself out with pain, but would become a conduit for the moon\u2019s power. Alune would live alone, isolated in her fortress, but she would guide her brother, able to see through his eyes.</p><p>Together, they would be the weapon the Lunari needed, bound by pain and sacrifice. Only apart could they be together\u2014their souls brushing across the veil, distant, yet impossibly close, converging into something they could not understand.</p><p>To protect the survivors of the attack who retreated back into the shadows of the mountain, Aphelios\u2019 training as an assassin has been given reach by Alune\u2019s magic\u2014his blades now an arsenal of mystical weapons, perfected by Alune over the course of many missions together.</p><p>Now that the power balance of Targon is shifting, and the Solari know the Lunari still endure, Aphelios and Alune are needed more than ever.</p>",
+                "short": "Emerging from moonlight\u2019s shadow with weapons drawn, Aphelios kills the enemies of his faith in brooding silence\u2014speaking only through the certainty of his aim, and the firing of each gun. Though fueled by a poison that renders him mute, he is guided by his sister Alune in her distant temple sanctuary from where she pushes an arsenal of moonstone weapons into his hands. For as long as the moon shines overhead, Aphelios will never be alone.",
+                "quote": "\u201cOur faith is proven fate each time we deny it.\u201d",
+                "quote_author": "Alune"
+            },
+            "header_image": null,
+            "subtitle": "the Weapon of the Faithful",
+            "echelon": 0
+        },
+        {
+            "type": "champion",
+            "release_date": "2016-03-24T00:00:00.000Z",
+            "name": "Aurelion Sol",
+            "title": "Aurelion Sol",
+            "section_title": "Aurelion Sol",
+            "slug": "aurelionsol",
+            "associated_faction": "",
+            "associated_faction_slug": "mount-targon",
+            "image": {
+                "title": "AurelionSol_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/216b65d9b80814d4ca010d3068cfb84c785e4ad4-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 687,
+                "y": 2,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "AurelionSol_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/216b65d9b80814d4ca010d3068cfb84c785e4ad4-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 687,
+                "y": 2,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/aurelionsol",
+            "video": {
+                "title": "aurelionsol-splashvideo.webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/36e23e03ec34c0951ed9ddae6b94970ba3ef5290.webm?accountingTag=LoL",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 687,
+                "y": 2,
+                "featured_champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/aurelionsol",
+            "biography": {
+                "full": "<p>The appearance of a comet in the night sky is often said to portend upheaval and unrest. Under the auspices of such fiery harbingers, new empires rise, old cultures fall, and even the stars themselves may vanish from the heavens\u2026</p><p>The truth is, perhaps, more unsettling.</p><p>The almighty being known as Aurelion Sol was already ancient before the rise of the mortal races of Runeterra. Born in the first breath of creation, he and those like him roamed the vast nothingness of a pristine celestial realm, seeking to fill this canvas of incalculable breadth with marvels whose twinkling spectra would bring fulfillment and delight to all who witnessed them.</p><p>As he wandered, Aurelion Sol seldom encountered any equals. The eternal Aspects were dispassionate and incurious things, contributing little to existence, content only to compose amusingly self-centered philosophies on the nature of creation.</p><p>But then, bathed in the light of a fairly unremarkable sun he had crafted eons earlier, he discovered something. A world. New realms.</p><p>He did not know who had created this world, or why\u2014only that it had not been him.</p><p>The Aspects, who seemed unusually invested in it, implored him to come closer. There was life here, and magic, and fledgling civilizations that cried out for guidance from beings greater than themselves. Flattered by this new audience to his supreme majesty, Aurelion Sol descended to bask in their adulation, in the form of a vast and terrible dragon from the stars.</p><p>The tiny inhabitants of the insignificant land of Targon named him for the golden light of the sun he had gifted them, and the Aspects commanded them to bring forth a suitable offering in return. The mortals climbed to the peak of their tallest mountain, and presented him with a splendorous crown, crafted with careful and cunning magic, and etched with the inscrutable patterns of the celestial realm.</p><p>From the moment it touched Aurelion Sol\u2019s brow, he knew this was no gift at all.</p><p>The accursed thing clamped in place with unimaginable force, enough that even he could not remove it, and he could feel his knowledge of the sun and its creation being stolen and scrutinized by intelligences vastly inferior to his own. Worse still, the power of the crown hurled him back into the heavens, and prevented him from getting any closer to that world again.</p><p>Instead, he was forced to watch as the duplicitous Aspects of Targon set the mortals to work in the construction of a great, gleaming disc. With this, they channeled <i>his</i> celestial power to raise up immortal god-warriors, for some unknown conflict that was apparently still to come.</p><p>Outraged, Aurelion Sol could see other stars fading across the firmament for lack of care and maintenance, and he strained to break free of the crown\u2019s control. It was he who had birthed their light into the universe! Why must he be shackled, now, by the Aspects and their lowly pawns? He roared with glee when the Sun Disc failed\u2026 only to see a second, more powerful one take its place. Eventually, resigned to his fate, he saw the god-warriors cast down their rivals, then chittering creatures of pure darkness, and eventually each other.</p><p>Then, in little more than the blink of a star dragon\u2019s eye, the world was ravaged by a succession of sorcerous catastrophes, and Aurelion Sol finally knew that Targon and the hated Aspects were all but defenseless. As he cautiously circled back, he realized the magic that bound him was weakening. Flecks of gold began to fall from his crown, each one blazing across the skies like a comet.</p><p>Driven by the tantalizing possibilities of freedom and revenge, Aurelion Sol now regards Runeterra with simmering, eternal fury. Surely, it is here, upon this world, that the cosmic balance will tip in his favor once more\u2014and with it, the universe itself shall bear witness to the fate of those who dare steal the power of a star forger.</p>",
+                "short": "Aurelion Sol once graced the vast emptiness of the celestial realm with wonders of his own devising, but was tricked by the Aspects of Targon into revealing the secrets of a sun that he himself created. His awesome power was channeled into immortal god-warriors to protect the apparently insignificant world of Runeterra\u2014now, desiring a return to his mastery of the cosmos, Aurelion Sol will drag the very stars from the sky, if he must, in order to regain his freedom.",
+                "quote": "\u201cCower. Worship. Marvel. They are all appropriate responses.\u201d",
+                "quote_author": "Aurelion Sol"
+            },
+            "header_image": null,
+            "subtitle": "The Star Forger",
+            "echelon": 1
+        },
+        {
+            "type": "champion",
+            "release_date": "2012-08-07T00:00:00.000Z",
+            "name": "Diana",
+            "title": "Diana",
+            "section_title": "Diana",
+            "slug": "diana",
+            "associated_faction": "",
+            "associated_faction_slug": "mount-targon",
+            "image": {
+                "title": "Diana_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/c3c3198b3ffb3d419b0963c5a5a631a4aa9a831b-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 945,
+                "y": 234,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Diana_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/c3c3198b3ffb3d419b0963c5a5a631a4aa9a831b-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 945,
+                "y": 234,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/diana",
+            "video": {
+                "title": "diana-splashvideo.webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/e45ef4c6ec195042d82ca53cfce2ff4cc93bdf74.webm?accountingTag=LoL",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 945,
+                "y": 234,
+                "featured_champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/diana",
+            "biography": {
+                "full": "<p>Diana did not belong on Mount Targon. A group of Solari hunters discovered her swaddled between her frost-claimed parents\u2014strangers to this land, who had clearly traveled a long way. The hunters brought her to their temple, dedicated her, and raised her as a member of the Tribes of the Last Sun, known to many as the Rakkor.</p><p>Like all of the Solari faith, she underwent rigorous physical and religious training. However, unlike others, Diana was determined to understand <i>why</i> the Solari act the way they do, and the reasoning behind their beliefs. She spent her evenings digging through the libraries, devouring texts with only pale moonlight to read by. Paradoxically, this pursuit provided more questions than answers, and her teachers\u2019 aphoristic replies did little to sate her inquisitive mind.</p><p>When Diana began to notice tomes had whole chapters torn from them, and all references to the moon seemed missing, the teachers assigned harsh punishments, intending to exhaust her into devotion. Likewise, her fellow acolytes distanced themselves from her and her questioning.</p><p>There was one shining beacon in these years of confused, frustrated isolation: Leona. The most devout of Diana\u2019s peers, they often found themselves in impassioned debate. Though one never swayed the other in their long and frequent conversations, they developed a close friendship.</p><p>Then, one glorious night, Diana discovered a hidden alcove deep within the mountain. Moonlight spilled against its walls, revealing imagery of the sun, of soldiers armored in gold alongside silver-clad warriors, and matching imagery of the moon, atop Targon\u2019s greatest peek. Delighted, Diana raced to share this clear message with Leona\u2014the sun and moon were not enemies after all!</p><p>Leona did not react with joy.</p><p>She urged Diana to put this heresy from her mind entirely, warning of the punishments that may befall her if she were to voice such thoughts to others. Diana had never seen her serious friend quite <i>so</i> grave.</p><p>Frustration gnawed at her. She had reached the end of the Solari\u2019s knowledge, yet not even Leona would take this new discovery into account. What were the Solari hiding? Increasingly, Diana felt certain there was only one place she could go for answers: the top of Mount Targon.</p><p>The climb tested her in every way imaginable, and time seemed to stand still as she scaled the peak. To survive, she focused her thoughts on her lone companion, and the answers that would make the Solari better, more <i>whole</i>.</p><p>The summit greeted her with the brightest, fullest moon she\u2019d ever seen. After a rapturous moment, a pillar of moonlight slammed into her and she felt a presence taking hold of her, sharing glimpses of the past, and of another Rakkor faith called the Lunari. Diana realized this presence could only be one of the legendary Aspects\u2026 and she had been chosen as its host.</p><p>When the light dissipated, her mind was again her own. Diana found herself clad in armor, holding a crescent blade, and hair once dark hair now gleaming silver. She turned to find she was not alone\u2014Leona stood at her side, similarly bedecked in shining, golden battleplate, a sunbreak-bright shield and sword in her hands.</p><p>Diana was overjoyed to share in this revelatory moment with her friend, but Leona thought only of returning to the Solari. Diana begged her not to, desperate that they face this new future <i>together</i>. But Leona refused, and their disagreement quickly turned into a titanic battle, erupting with moonlight and sunfire.</p><p>Fearful of losing herself to the Aspect\u2019s power, Diana ultimately fled down the mountain. But, vindicated in her search, she felt more certain than ever that she had been right to question the Solari\u2019s teachings. It was time to confront them, and show the error of their ways.</p><p>Pushing past their Ra\u2019Horak guardians, Diana burst into the chambers of the high priests. They listened with mounting horror as she told of what she had learned of the Lunari\u2026 and then they denounced her as a heretic, a blasphemer, and a peddler of false gods. Rage filled Diana, amplified by the Aspect within, and she embraced it in a terrible burst of moonlight. Startled, she fled the temple, leaving a trail of death in her wake.</p><p>Now, driven by half-remembered visions and glimpses of ancient knowledge, Diana clings to the only truths she knows for certain\u2014that the Lunari and the Solari need not be foes, and that there is a greater purpose for her than to be a Solari acolyte of Mount Targon.</p><p>And though that destiny remains unclear, Diana will seek it out, whatever the cost.</p>",
+                "short": "Bearing her crescent moonblade and clad in shimmering armor the color of winter snow at night, Diana is a living embodiment of the silver moon\u2019s power. Imbued with the essence of an Aspect from beyond Targon\u2019s towering summit, Diana is no longer wholly human, and struggles to understand her power and purpose in this world.",
+                "quote": "\u201cI am the light coursing in the soul of the moon.\u201d",
+                "quote_author": "Diana"
+            },
+            "header_image": null,
+            "subtitle": "Scorn of the Moon",
+            "echelon": 2
+        },
+        {
+            "type": "champion",
+            "release_date": "2011-07-13T00:00:00.000Z",
+            "name": "Leona",
+            "title": "Leona",
+            "section_title": "Leona",
+            "slug": "leona",
+            "associated_faction": "",
+            "associated_faction_slug": "mount-targon",
+            "image": {
+                "title": "Leona_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/bd31d8599bfa6d1a64e1a6ecde13548356ea525c-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 41,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Leona_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/bd31d8599bfa6d1a64e1a6ecde13548356ea525c-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 41,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/leona",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                },
+                {
+                    "name": "Support",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                },
+                {
+                    "name": "Support",
+                    "slug": "support"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/leona",
+            "biography": {
+                "full": "<p>Among the Rakkor tribes that dwell upon Mount Targon, the sun is sacred, and none venerate it more than the Solari. Children are raised from birth to honor it, and even to shed blood for it, until its Aspect returns, heralding a grave threat they all must face.</p><p>Leona was one such child. She took to the Solari faith as naturally as breathing, finding solace and warmth within its rigid structure. This manifested through her rapid achievement of excellence, her peers envious of her capability, willpower, and devotion. None doubted she would one day become one of the <i>Ra\u2019Horak</i>, the holy warriors of the Solari.</p><p>Though Leona flourished, she could not help but see her masters struggle with their most exasperating student, an orphan named Diana. Her curiosity was welcomed at first, but soon the teachers began to perceive Diana\u2019s questions as challenging the Solari ways. Leona watched Diana suffer punishment and isolation\u2014but where others saw insolence, she saw a lost soul devoted to a search for meaning.</p><p>Leona found her purpose in the Solari teachings, and resolved to share it with Diana as even the most dutiful teachers forsook her. The two would debate late into the night, with Leona hoping to persuade Diana that everything she could ever want was there in the faith, waiting for her to accept it. Though she failed to win Diana over, Leona did find a friend.</p><p>One night, Diana confided a secret to Leona. She spoke of discovering a hidden alcove in the mountain, an ancient place where the walls were etched with depictions of strange symbols and forgotten societies. When Diana mentioned climbing the summit of Mount Targon to learn more, Leona urged her to stop. Seeking to protect her from the ire of the other Solari, Leona made Diana promise to abandon this search. Reluctantly, Diana agreed.</p><p>Time passed, and the two never spoke of Diana\u2019s discovery again. Leona believed her friend had finally come to her senses.</p><p>Her belief was shattered late one night, when she glimpsed Diana slipping out of the temple. While her first instinct was to tell the elders, Leona thought instead of protecting her friend, wresting her back from the edge. Resolved, Leona set off after Diana\u2026</p><p>To the summit of Mount Targon.</p><p>The ascent was a trial unlike any Leona had ever endured, straining every fiber of her being to its limit, and beyond. Her training, willpower, and concern for Diana was all that drove her on. The unblinking eyes of bodies frozen into the mountain's slopes watched her climb, their own journeys forever incomplete, but not even they could deter her.</p><p>After what seemed an eternity\u2014and much to her own amazement\u2014Leona reached the peak.</p><p>Exhausted, she beheld an uncanny landscape, and found Diana engulfed in a coruscating column of silver light. Leona saw her friend\u2019s silhouette writhing in agony, the air rippling with her screams. Horrified, Leona rushed to her aid, when a golden radiance slashed down from the heavens to envelop her.</p><p>The sensation was indescribable, but rather than incinerating Leona, the illumination coursed into her, suffusing her with incredible power. She clung to her consciousness, fighting the current seeking to sear away her very being.</p><p>Ultimately, her indomitable will triumphed\u2014and with that control came understanding.</p><p>With control came understanding. Leona was forever changed, imbued by the Aspect of the Sun. Destiny had selected <i>her</i>, and it was her duty to protect the Solari in the times to come.</p><p>It was then that Leona saw Diana, clad in gleaming silver war-plate, a strange reflection of the golden armor she discovered herself now wearing. Diana begged Leona to join her, to seek out answers the Solari could not offer. Leona demanded they return home, and present themselves for the priests\u2019 judgment. Neither conceded, and they finally felt the weight of the weapons in their hands.</p><p>Their combat was swift, a blistering clash between sun and moon, ending with Diana\u2019s crescent blade at Leona\u2019s throat. But, rather than delivering the killing blow, Diana fled. Devastated, Leona descended Targon and hurried to her elders.</p><p>When she arrived, she found slaughter. Many Solari priests and their Ra\u2019Horak guardians were dead, seemingly slain by Diana\u2019s hand. The survivors were awed by the presence of <i>two</i> Aspects now in their midst, and Leona was committed to helping them navigate this new reality\u2014the guiding light to her people, just as the sun had always been.</p><p>She has sworn to find Diana, to preserve the dominance of the Solari... but also to help her old friend control the Moon Aspect\u2019s power before it destroys her.</p>",
+                "short": "Imbued with the fire of the sun, Leona is a holy warrior of the Solari who defends Mount Targon with her Zenith Blade and the Shield of Daybreak. Her skin shimmers with starfire while her eyes burn with the power of the celestial Aspect within her. Armored in gold and bearing a terrible burden of ancient knowledge, Leona brings enlightenment to some, death to others.",
+                "quote": "\u201cBy the light of the Sun, the world is beheld.\u201d",
+                "quote_author": "Leona"
+            },
+            "header_image": null,
+            "subtitle": "the Radiant Dawn",
+            "echelon": 3
+        },
+        {
+            "type": "champion",
+            "release_date": "2010-02-02T00:00:00.000Z",
+            "name": "Pantheon",
+            "title": "Pantheon",
+            "section_title": "Pantheon",
+            "slug": "pantheon",
+            "associated_faction": "",
+            "associated_faction_slug": "mount-targon",
+            "image": {
+                "title": "pantheon_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/3e0453881b8d408fbb02fabb4a02e09a34c69310-1080x637.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1080,
+                "height": 637,
+                "x": 556,
+                "y": 230,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "pantheon_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/3e0453881b8d408fbb02fabb4a02e09a34c69310-1080x637.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1080,
+                "height": 637,
+                "x": 556,
+                "y": 230,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/pantheon",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/pantheon",
+            "biography": {
+                "full": "<p>Atreus was born on the hostile slopes of Targon, and named after a star in the constellation of War, known as the Pantheon.</p><p>From an early age, he knew he was destined for battle. Like many in his tribe, he trained to join the Rakkor\u2019s militant order, the Ra\u2019Horak. Never the strongest or the most skilled warrior, Atreus somehow persevered, standing up, bloodied and bruised, after each bout. In time, he developed a fierce rivalry with a fellow recruit, Pylas\u2014but no matter how often Atreus was cast onto the stones, he stood back up. Pylas was impressed by his unrelenting endurance, and through the blood they spilled in the training circle, a true brotherhood was born.</p><p>Atreus and Pylas were among the Rakkor who stumbled across a barbarian incursion, surviving the ambush that left the rest of their patrol dead. When the Aspect of the Sun refused to destroy these trespassers, Atreus and Pylas swore to capture the power of the Aspects themselves by climbing to the peak of Mount Targon.</p><p>Like so many before them, they underestimated how arduous the ascent would be, with Pylas shivering his last upon finally reaching the summit. Only Atreus remained as the skies opened, making him host to a divine Aspect, with the power to take revenge.</p><p>But it was not a man who returned to the Rakkor afterward, spear and shield gleaming with celestial might. It was the Aspect of War itself, the <i>Pantheon</i>. Judging Atreus unworthy, a warrior who had known only defeat, it had taken control of his body to pursue its own ends\u2014a task it considered too great for mortal men.</p><p>Cast into the furthest corners of his own mind, Atreus endured only vague visions as the Aspect scoured the world for Darkin, living weapons created in a bygone age.</p><p>Eventually, Pantheon was goaded into battle not far from Mount Targon by the Darkin Aatrox, who sought the mountain\u2019s peak. Their fight raged into the skies, and swept through the armies of men beneath\u2026 until the impossible occurred. The Darkin\u2019s god-killing blade was driven into Pantheon\u2019s chest, a blow that carved the constellation of War from the heavens.</p><p>But as the Aspect faded, Atreus\u2014the man it had considered weak\u2014awoke once more. Impaled upon Aatrox\u2019s blade, and with the power of the Aspect\u2019s weapons dimming, he took a ragged breath, and spit in the Darkin\u2019s face. Aatrox sneered, and left Atreus to die.</p><p>Hours later, as the crows descended, Atreus painfully stood back up, stumbling back to the Rakkor in a trail of blood. After a lifetime of defeat, his will to live, and his anger at betrayal, were enough to stave off the death that had claimed War itself.</p><p>Atreus recovered on Pylas\u2019 homestead, nursed back to health by his friend\u2019s widow, Iula. There, Atreus realized he\u2019d spent his life looking to the stars, never considering what lay beneath. Unlike gods, mortals fought because they <i>must</i>, knowing that death lay in wait. It was a resilience he saw in all life, the threats unending.</p><p>Indeed, barbarian invaders now threatened the Rakkor\u2019s northern settlements, including Iula\u2019s farm. Though it was months before he could lift a spear, Atreus was determined to end this scourge himself, and eventually set out with the Aspect\u2019s dulled weapons in hand.</p><p>Yet, when he arrived, he found his sworn enemies already under siege. He knew from their cries, from the overwhelming stench of blood\u2026 they faced Aatrox.</p><p>It was Aatrox who had driven the barbarians into Targon, Atreus realized. Though he\u2019d considered them his foes, they were much like the Rakkor\u2014mortals who suffered in the conflicts between greater powers. Atreus felt a cold rage at both the Darkin and the Aspects. They were no different. They were the problem.</p><p>Atreus put himself between the barbarians and Aatrox. Recognizing the battered shield and spear of the fallen Aspect, the Darkin mocked him\u2014what hope had Atreus now, without the Pantheon\u2019s power? But even though Aatrox\u2019s blows cast him to his knees, Atreus\u2019 own will reignited the Aspect\u2019s spear, upon hearing the cries of the people around him\u2026 and with a mighty leap, he struck a blow that severed the Darkin\u2019s sword arm.</p><p>Both blade and Darkin fell to the ground. Only Atreus still stood, and watched his namesake star blaze back to life in the heavens.</p><p>Though he often yearns to return to Iula\u2019s farm, Atreus vowed that day to stand against Aspects, Ascended, demons, and any who wield power so great, it can only destroy. Forsaking his own name, he has become a <i>new</i> Pantheon\u2014the Aspect\u2019s weapons fueled by the will to fight that can only exist in the face of death.</p><p>For with the divine Pantheon gone, War must be reborn in man.</p>",
+                "short": "Once an unwilling host to the Aspect of War, Atreus survived when the celestial power within him was slain, refusing to succumb to a blow that tore stars from the heavens. In time, he learned to embrace the power of his own mortality, and the stubborn resilience that goes along with it. Atreus now opposes the divine as Pantheon reborn, his unbreakable will fueling the fallen Aspect\u2019s weapons on the field of battle.",
+                "quote": "\u201cHere is my eternity\u2026 a day the gods will remember!\u201d",
+                "quote_author": "Pantheon"
+            },
+            "header_image": null,
+            "subtitle": "The Unbreakable Spear",
+            "echelon": 4
+        },
+        {
+            "type": "champion",
+            "release_date": "2009-02-21T00:00:00.000Z",
+            "name": "Soraka",
+            "title": "Soraka",
+            "section_title": "Soraka",
+            "slug": "soraka",
+            "associated_faction": "",
+            "associated_faction_slug": "mount-targon",
+            "image": {
+                "title": "Soraka_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/b2796a7c60fc816f1bfc91f39495d3387cc43bbb-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 688,
+                "y": 0,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Soraka_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/b2796a7c60fc816f1bfc91f39495d3387cc43bbb-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 688,
+                "y": 0,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/soraka",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Support",
+                    "slug": "support"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Support",
+                    "slug": "support"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/soraka",
+            "biography": {
+                "full": "<p>An age ago, when time itself was young, the inhabitants of the celestial realm regarded the fledgling races of Runeterra with growing concern.</p><p>These creatures deviated wildly, unpredictably, and dangerously from the great designs intended for them by those above. The guidance and fates that had been woven into the night sky often went unseen\u2014or worse, were misinterpreted by their simple mortal minds, leading to chaos, uncertainty, and suffering.</p><p>No longer able to merely watch, one celestial being chose to descend to the mortal realm, determined to untangle the knots in the tapestry of the world. This child of the stars took on a form of flesh and blood, and though the powerful magic coursing through her veins burned this new body from the inside out, she knew her suffering meant little if she could help to heal all that was broken and incomplete.</p><p>And so Soraka came to be, and set upon her journey to soothe the mortals she encountered.</p><p>Even so, she quickly learned the capacity for cruelty that the peoples of Runeterra possessed. Whether on the battlefields of inescapable conflicts, in the seedy underbellies of sprawling cities, or on the frontiers of the untamed wilderness beyond them, there seemed to be no end to the fighting, betrayal, and suffering Soraka witnessed. She watched, helpless, as mortals ignorantly broke the threads of destiny they could have woven together. Their lives were too short, she reasoned. They were simply unable to see the greater patterns, now lost.</p><p>But as Soraka lived among them, as one of them, trying to repair what little of the damage she could\u2026 something incredible and wholly unforeseen happened.</p><p>From the snarls and tangles and knots, the messy breaks in the great patterns, Soraka noticed a new, unintended design emerging\u2014intertwined, and of a staggering complexity.</p><p>Unintended and wild, the mortals were forging new and unknown futures for themselves. From the celestial realm above, it had seemed like pure chaos; but with her new perspective, and blessed by the stars to stand against the erosion of time, Soraka now beheld an almost perfect beauty. Just as mortals had the deepest capacity for cruelty, so too did they possess infinite potential for kindness, and inspiration to rival anything among the stars.</p><p>Soraka realized her place was not to repair or replicate the celestial pattern. While a part of her craved the fixed, comforting destinies of the stars, she knew in her heart that static fates could not contain the unbridled, dynamic potential of mortality.</p><p>And so her work took on renewed vigor, driven to unlock the untapped possibilities of all she met. Soraka sought now to inspire and guide rather than shepherd, to see what unblazed trails each mortal would discover for themselves in their brief, radiant moment.</p><p>Over the millennia, legends of the Starchild have filtered through all the lands of Runeterra. Some tribes of the Freljord still speak of a far wanderer, a horned healer who soothed the icy bite of the most brutal winters. In the depths beneath Zaun, rumors float of a lilac skinned medic who would purify weary lungs from the ravages of the alchemical Gray. In troubled Ionia, the oldest myths of the Vastayashai\u2019rei recall a seer who communed with the stars themselves, and called upon their light both to heal the wounded and scorch those who would do further harm to the First Lands.</p><p>Currently, Soraka calls the westernmost peaks of Targon her home. She watches over an isolated tribe of vastaya, teaching them her healing ways, and tending quietly to her own needs\u2014though what brings her so close to the great mountain, or how long she will stay, only Soraka knows.</p><p>Many times, she has watched entire civilizations dance close to the brink of destruction, and she has learned that she cannot save those who do not wish it, nor force them to see what they will not.</p><p>All the same, Soraka is determined never to stop trying.</p>",
+                "short": "A wanderer from the celestial realm, Soraka gave up her immortal form to protect the mortal races from their own ignorance and violent instincts. She endeavors to spread the virtues of compassion and mercy to everyone she meets\u2014guiding the lost, and healing the wounded. For all Soraka has seen of this world's struggles, she still believes the people of Runeterra have yet to reach their full potential.",
+                "quote": "Two paths lie before you, but you can only take one.",
+                "quote_author": "Soraka"
+            },
+            "header_image": null,
+            "subtitle": "the Starchild",
+            "echelon": 5
+        },
+        {
+            "type": "champion",
+            "release_date": "2009-08-19T00:00:00.000Z",
+            "name": "Taric",
+            "title": "Taric",
+            "section_title": "Taric",
+            "slug": "taric",
+            "associated_faction": "",
+            "associated_faction_slug": "mount-targon",
+            "image": {
+                "title": "Taric_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/08e9f794f7bb45bf947e2196cca27b1abb5959f8-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 41,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Taric_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/08e9f794f7bb45bf947e2196cca27b1abb5959f8-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 41,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/taric",
+            "video": {
+                "title": "taric-splashvideo.webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/1037e8b68c585017cfd79b8b96198010097f36a5.webm?accountingTag=LoL",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1061,
+                "y": 41,
+                "featured_champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "Support",
+                    "slug": "support"
+                },
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Support",
+                    "slug": "support"
+                },
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/taric",
+            "biography": {
+                "full": "<p>For the noble defenders of Demacia, daily life is the very model of focused, selfless dedication to the ideals of king and country. Called upon to continue his family\u2019s long tradition of military service, Taric never dreamed of shirking that responsibility\u2014though he would not limit or define exactly <i>whom</i> and <i>what</i> he would protect.</p><p>The young warrior trained hard, and possessed great martial skill. Even so, in his scant hours of free time, he would find other ways to serve his homeland. He volunteered with the Illuminators, tending the sick or helping rebuild homes damaged by flooding. He lent his creative talents, such as they were, to the stonemasons and craftsmen who raised monuments to the glory of the Winged Protector and the lofty ideals it embodied.</p><p>A work of art. A stranger\u2019s life. These were the things that made Demacia worth fighting for. Taric saw every one of them as beautiful, fragile, and worthy of saving.</p><p>Fortunately, his disarming manner and innate warmth allowed him to brush aside any criticism from his fellow soldiers or commanding officers. He rose modestly through the ranks, and even fought beside a young Garen Crownguard.</p><p>Ironically, it was Taric\u2019s steady rise that would bring about his eventual downfall\u2014at least as far as Demacia was concerned.</p><p>Elevated to the prestigious Dauntless Vanguard, he was suddenly held to a far higher standard of conduct. No more would he be allowed to roam the forests looking for glimpses of some rare animal, neglect combat drills to sit in a tavern and listen to a bard\u2019s simple ballad, or skip line inspections to ride out and observe the silver cloak of night settling across the hinterlands. Taric began to feel at odds with himself, and soon attracted attention as an insubordinate.</p><p>Garen urged him to shape up and do his duty. He could see Taric had the potential to become one of Valoran\u2019s greatest heroes\u2014and yet he seemed to be thumbing his nose at destiny as well as his country.</p><p>To keep him from demotion, Taric was seconded to serve the Sword-Captain of the Vanguard, though neither of them was particularly happy about it. However, when the older man was slain in battle along with the rest of his personal retinue, Taric was found to have abandoned his post\u2026 and rumor had it that he had been spotted wandering the cloisters of some forgotten ruined temple nearby.</p><p>Nothing more could be said. A dozen warriors were dead, and Taric faced the executioner\u2019s block for it.</p><p>However, seeking mercy for his friend, Garen intervened. As the Sword-Captain\u2019s successor, he sentenced Taric to endure \u201cthe Crown of Stone\u201d\u2014in accordance with Demacia\u2019s most ancient traditions, he would be sent to climb Mount Targon, a trial that few had ever survived.</p><p>Though the Crown of Stone usually allowed the dishonored to simply flee Demacia and start a new life in exile, Taric took the first ship heading south, and swore to <i>actually</i> atone for what he had done.</p><p>The climb nearly claimed him, body and soul, numerous times. But Taric pushed past the pain, the ghosts of his dead comrades, and other tests inflicted upon him by the mountain. As he approached the summit, he was beset by a wave of new visions of loss and destruction\u2026</p><p><i>He witnessed the great Alabaster Library set aflame\u2026 and still he dashed into the inferno to retrieve the heavenly poetries of Tung. He screamed in anguish as the Frostguard ran the last dreamstag into the Howling Abyss\u2026 and then leapt over the precipice himself in a desperate attempt to save it. At the gates of the Immortal Bastion, Taric slumped to his knees when he saw Garen\u2019s broken body swinging from a gibbet\u2026 before raising his shield, and charging headlong into the waiting hordes of Noxus.</i></p><p>When the visions finally faded, Taric found himself at the very pinnacle of the mountain, and he was not alone. Before him stood something wearing the shape of a man, though its almost crystalline features blazed with the light of the stars themselves, and its voice was a thousand whispers that cut through Taric like a blade.</p><p>It spoke truths he had somehow always known. It spoke of the mantle for which he had unwittingly been preparing his entire life, with every decision and deed that had brought him here, now, to Targon.</p><p>And he would stand as the Shield of Valoran in great wars yet to come.</p><p>Reborn as the Aspect of the Protector, gifted with power and purpose unimaginable to most mortals, Taric has gladly accepted this new calling\u2014as the steadfast guardian of an entire <i>world</i>.</p>",
+                "short": "Taric is host to the Aspect of the Protector, wielding incredible power as Runeterra\u2019s guardian of life, love, and beauty. Shamed by a dereliction of duty and exiled from his homeland of Demacia, Taric climbed Mount Targon to find redemption, only to discover a higher calling among the stars. Imbued with the might of a celestial being, the \u201cShield of Valoran\u201d now stands ever vigilant, against any who would threaten the people of this world.",
+                "quote": "\u201cThe best weapons are beautiful.\u201d",
+                "quote_author": "Taric"
+            },
+            "header_image": null,
+            "subtitle": "the Shield of Valoran",
+            "echelon": 6
+        },
+        {
+            "type": "champion",
+            "release_date": "2017-11-09T00:00:00.000Z",
+            "name": "Zoe",
+            "title": "Zoe",
+            "section_title": "Zoe",
+            "slug": "zoe",
+            "associated_faction": "",
+            "associated_faction_slug": "mount-targon",
+            "image": {
+                "title": "zoe-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6e574007f48ff528ad0f58e0bdd7c7e465c6be2e-1920x1135.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1135,
+                "x": 1055,
+                "y": 263,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "zoe-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6e574007f48ff528ad0f58e0bdd7c7e465c6be2e-1920x1135.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1135,
+                "x": 1055,
+                "y": 263,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/zoe",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "game_info_url": "http://na.leagueoflegends.com/en/featured/champion-reveal-zoe",
+            "biography": {
+                "full": "<p>As befits her Targonian Aspect\u2019s nature, Zoe did not come to the attention of the celestial realm in any traditional way. She didn\u2019t win a great victory against overwhelming odds, or sacrifice herself for a noble ideal, or overcome the existential trial of climbing Mount Targon. Instead, Zoe was a normal girl, seemingly chosen at random from among the Rakkor.</p><p>Her teachers reported Zoe to be an imaginative child, but willful, lazy, mischievous, and easily distracted. One day, as she skipped away from her studies of the holy texts to pursue something \u201cless boring,\u201d she was noticed by the Aspect of Twilight.</p><p>It observed as the young girl playfully mocked the angry cries of the scholarly priests chasing her through the village. Then, after an hour-long pursuit, she found herself cornered against the sheer drop of a cliff\u2019s edge. Before Zoe\u2019s teachers could grab her, the Aspect summoned six objects in front of her: a bag of gold coins, a sword, a completed study book, a devotion rug, a silk rope, and a toy ball. Five of these items could have let her flee, or otherwise defuse the situation.</p><p>Zoe chose the sixth option.</p><p>Unconcerned with escape or forgiveness, she instead grabbed the toy ball, kicked it toward the wall of a nearby house, and sang gleefully as it ricocheted among the humorless priests.</p><p>The Aspect hadn\u2019t seen such joyful irreverence in the face of peril since its last host, who heralded the end of the Great Darkin War. Delighted by Zoe\u2019s carefree exuberance, it opened a shimmering portal to the apex of Mount Targon, offering the girl a chance to see the universe. She dived backward into the portal, instantly merging with the Aspect, then stuck her tongue out at her dumbfounded teachers as she disappeared.</p><p>This transcendence was unique\u2014in fact, it was <i>unheard of</i> in all the myths and legends of Targon. Yet Zoe did not trouble herself with why the rules that govern Aspects had been changed just for her. She didn\u2019t trouble herself with rules at all. Instead, she journeyed to dimensions of reality at the very edge of mortal comprehension, playing with powers seen by few before or since.</p><p>While for Zoe barely a year had passed, she returned home after what had apparently been many centuries in Runeterra. Full of teenage curiosity, she wondered what she had missed while she was away. Fortunately, she could traverse the streams of time with only a thought. Among the events she witnessed were the rise and fall of \u201cthe big armored meanie,\u201d Mordekaiser; the destruction of the Blessed Isles in the \u201cSpooky Ghost Party\u201d; the cataclysms of the \u201cWar for Sparkly Rocks\u201d; and the founding of a dour new nation near the \u201cNo Fun Forest.\u201d</p><p>One thing in particular became clear to Zoe\u2014she was not alone. Walking the mortal world were other Aspects, in fact more than <i>ever</i> before. More friends for her to meet! But they brushed her aside time and again, seeming rather preoccupied with whatever it was they were doing in the spaces between realms. Intrigued, Zoe traveled to the stars, where she found the great cosmic dragon, Aurelion Sol.</p><p>Although he clearly despised her, as he did all of her kind, Zoe always returned to the dragon\u2019s side, trying to discover what aggrieved him. From his bombastic and self-aggrandizing diatribes, she gleaned that her fellow Aspects had humiliated him, crowning him with a cursed artifact to siphon away his power.</p><p>Zoe felt sorry for this poor \u201cspace doggy,\u201d and vowed to do what she could to protect him. For his part, Aurelion Sol has at least stopped threatening to destroy her when he eventually takes his long-overdue vengeance.</p><p>Whether Zoe\u2019s curious relationship with the Star Forger is due to a mere whim, possessiveness, or her function as a cosmic disrupter, no one can be certain.</p><p>For the scholars and mystics of Mount Targon, the emergence of an Aspect is usually a joyous occasion... but Zoe\u2019s unpredictability gives them pause, as not even <i>she</i> knows what her presence could portend. The only certainty is that Runeterra is on the brink of a profound transformation\u2014one that may come at the cost of chaos, destruction, and blood.</p>",
+                "short": "As the embodiment of mischief, imagination, and change, Zoe acts as the cosmic messenger of Targon, heralding major events that reshape worlds. Her mere presence warps the arcane mathematics governing realities, sometimes causing cataclysms without conscious effort or malice. This perhaps explains the breezy nonchalance with which Zoe approaches her duties, giving her plenty of time to focus on playing games, tricking mortals, or otherwise amusing herself. An encounter with Zoe can be joyous and life affirming, but it is always more than it appears and often extremely dangerous.",
+                "quote": "\u201cI bring a message for you all\u2014a warning, a sigil. But first, I wanna see the sparkleflies!\u201d",
+                "quote_author": "Zoe"
+            },
+            "header_image": null,
+            "subtitle": "the Aspect of Twilight",
+            "echelon": 7
+        }
+    ]
+}

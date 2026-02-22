@@ -1,0 +1,1070 @@
+{
+    "id": "demacia",
+    "name": "Demacia Faction Page",
+    "locale": "en_us",
+    "faction": {
+        "slug": "demacia",
+        "image": {
+            "title": "demacia-hallvalor.jpg",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/5b80fe8ddd3d935c3f258f3e145b8aed4b7460bf-1920x887.jpg?accountingTag=LoL",
+            "encoding": "image/jpeg",
+            "width": null,
+            "height": null,
+            "x": null,
+            "y": null,
+            "featured_champions": []
+        },
+        "video": {
+            "title": "demacia-splashvideo.webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/36c564338d66ac2000a3d6c091dd78c443230623.webm?accountingTag=LoL",
+            "encoding": "video/webm",
+            "width": null,
+            "height": null,
+            "x": null,
+            "y": null,
+            "featured_champions": []
+        },
+        "name": "Demacia",
+        "overview": {
+            "short": "<p>A strong, lawful kingdom with a prestigious military history, Demacia\u2019s people have always valued the ideals of justice, honor, and duty most highly, and are fiercely proud of their cultural heritage. But in spite of these lofty principles, this largely self-sufficient nation has grown more insular and isolationist in recent centuries.</p><p>Now, Demacia is a kingdom in turmoil.</p><p>The capital, the Great City of Demacia, was founded as a refuge from sorcery after the nightmare of the Rune Wars, and built upon the riddle of petricite\u2014a peculiar white stone that dampens magical energy. It is from here that the royal family has long seen to the defense of the outlying towns and villages, farmland, forests, and mountains rich with mineral resources.</p><p>However, following the sudden death of King Jarvan III, the other noble families have not yet approved the succession of his sole heir, young Prince Jarvan, to the throne.</p><p>Those who dwell beyond the heavily guarded borders are increasingly viewed with suspicion, and many former allies have begun to look elsewhere for protection, in these uncertain times. Some dare to whisper that the golden age of Demacia has passed, and unless its people are willing to adapt to a changing world\u2014something many believe they are simply incapable of doing\u2014the kingdom\u2019s decline may be inevitable.</p><p>And all the petricite in the land will not protect Demacia from itself.</p>"
+        },
+        "header_image": ""
+    },
+    "champion_list_order": 0,
+    "associated_champions": [
+        {
+            "type": "champion",
+            "release_date": "2012-02-29T00:00:00.000Z",
+            "name": "Fiora",
+            "title": "Fiora",
+            "section_title": "Fiora",
+            "slug": "fiora",
+            "associated_faction": "",
+            "associated_faction_slug": "demacia",
+            "image": {
+                "title": "Fiora_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/2243b24de875e9db0e20903e111a569ba00f91b7-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 864,
+                "y": 0,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Fiora_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/2243b24de875e9db0e20903e111a569ba00f91b7-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 864,
+                "y": 0,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/fiora",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/fiora",
+            "biography": {
+                "full": "<p>As the youngest daughter of the noble Laurent family, Fiora seemed destined for a life as a political pawn, to be married off in Demacia\u2019s grand game of alliances. This did not sit well, and from an early age she deliberately defied every expectation placed upon her. Her mother had the finest craftsmen of Demacia fashion the most lifelike dolls for her to play with\u2014but Fiora gave them to her maids, and took up her eldest brother's rapier, forcing him to give her lessons in secret. Her father obtained a set of dressmaking mannequins for her personal seamstress to craft wondrous gowns\u2014but Fiora merely used them to practice her lunges and ripostes.</p><p>Despite her years of quiet resistance, a politically advantageous marriage was eventually arranged with an outlying branch of the Crownguard family, after her eighteenth birthday. Plans were set for a summer wedding. It would take place in the capital, and King Jarvan III himself was to attend.</p><p>On that day, as the invited guests began to arrive, Fiora stood up and declared that she would sooner die than allow someone else to decide the course of her life. Her betrothed was publicly shamed by this outburst, and his family demanded satisfaction in the old manner\u2014a duel to the death.</p><p>Fiora immediately agreed, but her father Sebastien implored the king to intervene. Jarvan had done much to end such feuding among the nobility, but in this case his hands were tied. Fiora had already accepted.</p><p>There was only one option left. Sebastien invoked his right to fight in her place.</p><p>High Marshal Tianna Crownguard likewise named a champion to fight for her kinsman, selecting a veteran warrior from the Dauntless Vanguard. Sebastien\u2019s defeat seemed almost certain. The Laurent name would be ruined, and Fiora exiled in disgrace. Presented with so stark a choice, he made a decision that could damn his family for years to come\u2026</p><p>The night before the duel, he attempted to slip his opponent a draught that would dull his senses and slow his reactions\u2014but he was caught in the act, and arrested.</p><p>The law was clear. Sebastien Laurent had broken the most fundamental code of honor. He would be humiliated upon the executioner\u2019s scaffold, hanged like a common criminal. On the eve of his death, Fiora visited his cell, but what passed between them remains a secret known only to her.</p><p>The next day, Fiora approached the king\u2019s dais in full view of the crowd. She knelt before him, and offered up her blade\u2014with his blessing, she would claim the Laurent name from her father, and justice would be served. The duel was blindingly swift, a dance of blades so exquisite that those present would never forget what they witnessed. Fiora\u2019s father was a fine swordsman in his own right, but he was no match for his daughter. They said farewell in every clash of steel, but in the end Fiora tearfully buried her rapier in her father\u2019s heart.</p><p>Solemnly, King Jarvan ruled that Sebastien had paid for his crimes in full. Fiora would be his successor. The quarrel between the families was resolved, and that would be an end to it.</p><p>Even so, such scandals are not easily forgotten. Fiora took to her new duties at court with her customary clarity and directness, but found that rumors and gossip continued to follow her at every turn. She had usurped her brothers\u2019 claims to the family name. What could this arrogant child bring to the Great City of Demacia but more strife and bloodshed, if she would not take a husband?</p><p>Rather than demand more justice at the edge of her sword, Fiora instead turned to her wider family\u2014cousins and more distant relatives, with many renowned swordmasters among them\u2014and silenced her critics by granting noble status to all in her household. Together, they were dedicated to the refinement of bladecraft within the kingdom. Dueling was an ancient art, but need not <i>always</i> end in death.</p><p>And if any care to disagree with that notion, Fiora will be only too happy to test the strength of their conviction in combat herself.</p>",
+                "short": "The most feared duelist in all Valoran, Fiora is as renowned for her brusque manner and political cunning as she is for the speed of her rapier. Born to the noble Laurent family in Demacia, Fiora claimed the household from her father in the wake of a scandal that nearly destroyed them\u2014now she is dedicated to restoring the Laurents to their rightful place among the great and good of the kingdom.",
+                "quote": "\u201cI have come to kill you for the sake of honor. And though you possess none, still you die.\u201d",
+                "quote_author": "Fiora"
+            },
+            "header_image": null,
+            "subtitle": "the Grand Duelist",
+            "echelon": 0
+        },
+        {
+            "type": "champion",
+            "release_date": "2010-08-10T00:00:00.000Z",
+            "name": "Galio",
+            "title": "Galio",
+            "section_title": "Galio",
+            "slug": "galio",
+            "associated_faction": "",
+            "associated_faction_slug": "demacia",
+            "image": {
+                "title": "Galio_updated_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/453347eabd10e239e18bdaf2431f3471d1011dbd-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 588,
+                "y": 64,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Galio_updated_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/453347eabd10e239e18bdaf2431f3471d1011dbd-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 588,
+                "y": 64,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/galio",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/galio",
+            "biography": {
+                "full": "<p>Galio\u2019s legend begins in the aftermath of the Rune Wars, when countless refugees fled from the destructive power of magic. In the west of Valoran, a band of these displaced people were hounded by a vicious band of dark mages\u2014exhausted from days without rest, the refugees hid among the shadows of an ancient, petrified forest, and their pursuers suddenly found their magic to be ineffective.</p><p>It seemed the fossilized trees were a natural magic-dampener, and any sorcery used within them would simply fail. No longer helpless, the refugees turned their swords on the dark mages and drove them from the land.</p><p>Some decided that this sanctuary from magic was a gift from the gods, others saw it as a fair reward for their terrible journey, but all agreed this should be their new home.</p><p>As years passed, the settlers crafted items of protection from the enchanted wood. Eventually, they found it could be mixed with ash and lime to make petricite\u2014a material with a powerful resistance to magic. It would be the foundation for their new civilization, forming the walls of the new kingdom of Demacia.</p><p>For years, these petricite barriers were all the Demacians needed to feel secure from the threat of magic within the borders of their homeland. In the rare event that they needed to settle a conflict abroad, their military proved fierce and formidable\u2026 but when their enemies employed sorcery, Demacia\u2019s roaming army had little recourse. Somehow, they needed to take the security of their magic-dampening walls into battle.</p><p>The sculptor Durand was commissioned to fashion some manner of petricite shield for the military, and two years later the artist unveiled his masterpiece. While it was not what many were expecting, the winged statue Galio would become vital to the defense of the nation, and serve as a symbol of Demacia across Valoran.</p><p>Using a system of pulleys, steel sledges, and countless oxen, they would pull the great stone figure to the battlefield. Many would-be invaders simply froze at the sight of the awe-inspiring silhouette looming before them\u2014the titan who \u201cate magic\u201d inspired a kingdom, and terrified those who opposed it.</p><p>However, no one thought to consider what exposing the statue to such unpredictable energies might do\u2026</p><p>Demacia had been mired in battle with enemy forces in the Greenfang Mountains. A skilled order of warmages, known as the Arcane Fist, bombarded the Demacians with crackling bolts of raw, mystical power for thirteen days. Those who had survived this long felt their morale dwindling, and huddled close to Galio. Just when their spirits could be brought no lower, a slow, deafening rumble shook the vale, as if two mountains were grinding against each other. As a great shadow grew above them, the Demacian soldiers steeled themselves for death.</p><p>A deep voice bellowed from above. To the Demacians\u2019 astonishment, the sound came from the colossus at their backs\u2014Galio was moving, and speaking, entirely on his own. Somehow, the accumulation of absorbed magic had given him life. He threw himself in front of the Demacians, shielding them from attack after attack, absorbing each fresh bolt into his massive, stone frame.</p><p>Then Galio turned, bounded up the mountainside, and crushed every last one of the Arcane Fist into the craggy soil.</p><p>The Demacians cheered. They were eager to thank the petricite sentinel that had saved them\u2026 but as quickly as he\u2019d come to life, their fearsome protector had ceased moving, returning to his pedestal, just as before. Back in the Great City, this bizarre tale was told in hushed tones by the few who had survived the Battle of the Greenfangs, and was usually received with silent incredulity. That day passed into legend\u2014perhaps a mere allegory of ancient days to help people through hard times.</p><p>Certainly, no one would have believed that the colossus continued to see all that transpired around him. Even while immobile, Galio retained consciousness, longing to experience the sensations of battle once again.</p><p>He watched mortals pass beneath him, paying him tribute year after year. It puzzled him to see them disappear one by one as time rolled on. Galio wondered where they went when they vanished. Perhaps they were sent away to be mended, as he often was when he returned from war?</p><p>As the years slipped by, Galio began to realize the sorrowful answer to his question\u2014unlike himself, the people of Demacia could not be repainted, or have their damage easily repaired. Mortals were frail, ephemeral creatures, and he now understood just how badly they needed his protection. Fighting had been his passion, but the people were now his purpose.</p><p>Even so, Galio has been called to battle only a handful of times in all the centuries since. Demacia has begun to look inward, with magic becoming rarer in his world than it once was, and so the petricite colossus remains dormant, observing the world through the murk of his waking dreams. The statue\u2019s greatest hope is to be blessed by a magic so powerful that he will never be forced to sleep again.</p><p>Only then will Galio be able to truly serve his purpose: to stand and fight as Demacia\u2019s protector, forevermore.</p>",
+                "short": "Outside the Great City of Demacia, the stone colossus Galio keeps vigilant watch. Built as a bulwark against enemy mages, he often stands motionless for decades until the presence of powerful magic stirs him to life. Once activated, Galio makes the most of his time, savoring the thrill of a fight and the rare honor of defending his countrymen. But his triumphs are always bittersweet, for the magic he destroys is also his source of reanimation, and each victory leaves him dormant once again.",
+                "quote": "\u201cGet behind me, Demacian! You may not have noticed, but I\u2019m very large.\u201d",
+                "quote_author": "Galio"
+            },
+            "header_image": null,
+            "subtitle": "the Colossus",
+            "echelon": 1
+        },
+        {
+            "type": "champion",
+            "release_date": "2010-04-27T00:00:00.000Z",
+            "name": "Garen",
+            "title": "Garen",
+            "section_title": "Garen",
+            "slug": "garen",
+            "associated_faction": "",
+            "associated_faction_slug": "demacia",
+            "image": {
+                "title": "Garen_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/1bdf6576f5940b47f7eecc73545d8c80050cbd80-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1137,
+                "y": 141,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Garen_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/1bdf6576f5940b47f7eecc73545d8c80050cbd80-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1137,
+                "y": 141,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/garen",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/garen",
+            "biography": {
+                "full": "<p>Born into the noble Crownguard family, along with his younger sister Lux, Garen knew from an early age that he would be expected to defend the throne of Demacia with his life. His father, Pieter, was a decorated military officer, while his aunt Tianna was Sword-Captain of the elite Dauntless Vanguard\u2014and both were recognized and greatly respected by King Jarvan III. It was assumed that Garen would eventually come to serve the king\u2019s son in the same manner.</p><p>The kingdom of Demacia had risen from the ashes of the Rune Wars, and the centuries afterward were plagued with further conflict and strife. One of Garen\u2019s uncles, a ranger-knight in the Demacian military, told young Garen and Lux his tales of venturing outside the kingdom\u2019s walls to protect its people from the dangers of the world beyond.</p><p>He warned them that, one day, something would undoubtedly end this time of relative peace\u2014whether it be rogue mages, creatures of the abyss, or some other unimaginable horror yet to come.</p><p>As if to confirm those fears, their uncle was killed in the line of duty by a mage, before Garen turned eleven. Garen saw the pain this brought to his family, and the fear in his young sister\u2019s eyes. He knew then, for certain, that magic was the first and greatest peril that Demacia faced, and he vowed never to let it within their walls. Only by following their founding ideals, and by displaying their unshakeable pride, could the kingdom be kept safe.</p><p>At the age of twelve, Garen left the Crownguard home in High Silvermere to join the military. As a squire, his days and nights were consumed by training and the study of war, honing his body and mind into a weapon as strong and true as Demacian steel. It was then that he first met young Jarvan IV\u2014the prince who, as king, he would one day serve\u2014among the other recruits, and the two became inseparable.</p><p>In the years that followed, Garen earned his place in the shieldwall as a warrior of Demacia, and quickly gained a fearsome reputation on the battlefield. By the time he was eighteen, he had served with honor in campaigns along the Freljordian borders, played a key role in purging fetid cultists from the Silent Forest, and fought alongside the valiant defenders of Whiterock.</p><p>King Jarvan III himself summoned Garen\u2019s battalion back to the Great City of Demacia, honoring them before the royal court in the Hall of Valor. Tianna Crownguard, recently elevated to the role of High Marshal, singled out her nephew in particular, and recommended him for the trials necessary to join the ranks of the Dauntless Vanguard.</p><p>Garen returned home in preparation, and was greeted warmly by Lux and his parents, as well as the common people living on his family\u2019s estate. Though he was pleased to see his sister growing into an intelligent, capable young woman, something about her had changed. He had noticed it whenever he visited, but now Garen wrestled with a real and gnawing suspicion that Lux possessed magical powers\u2026 though he never let himself entertain the idea for long. The thought of a <i>Crownguard</i> being capable of the same forbidden sorceries that had slain their uncle was too unbearable to confront.</p><p>Naturally, through courage and skill, Garen won his place among the Vanguard. With his proud family and his good friend the prince looking on, he took his oaths before the throne.</p><p>Lux and her mother spent much more time in the capital, in service to the king as well as the humble order of the Illuminators\u2014yet Garen tried to keep his distance as much as possible. Though he loved his sister more than anything else in the world, some small part of him had a hard time getting close to her, and he tried not to think about what he would be forced to do if his suspicions were ever confirmed. Instead, he threw himself into his new duties, fighting and training twice as hard as he had before.</p><p>When the new Sword-Captain of the Dauntless Vanguard fell in battle, Garen found himself put forward for command by his fellow warriors, and the nomination was unopposed.</p><p>To this day, he stands resolute in the defense of his homeland, against all foes. Far more than Demacia's most formidable soldier, he is the very embodiment of all the greatest and most noble ideals upon which it was founded.</p>",
+                "short": "A proud and noble soldier, Garen fights at the head of the Dauntless Vanguard. He is popular among his fellows, and respected well enough by his enemies\u2014not least as a scion of the prestigious Crownguard family, entrusted with defending Demacia and its ideals. Clad in magic-resistant armor and bearing a mighty broadsword, Garen stands ready to confront mages and sorcerers on the field of battle, in a veritable whirlwind of righteous steel.",
+                "quote": "\u201cThis kingdom, and its people, have given me everything. What kind of man would I be if I gave any less in return?\u201d",
+                "quote_author": "Garen"
+            },
+            "header_image": null,
+            "subtitle": "The Might of Demacia",
+            "echelon": 2
+        },
+        {
+            "type": "champion",
+            "release_date": "2011-03-01T00:00:00.000Z",
+            "name": "Jarvan IV",
+            "title": "Jarvan IV",
+            "section_title": "Jarvan IV",
+            "slug": "jarvaniv",
+            "associated_faction": "",
+            "associated_faction_slug": "demacia",
+            "image": {
+                "title": "JarvanIV_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/a078dc1670a0b2565aaaf9d50d3e10ec2d583498-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1011,
+                "y": 35,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "JarvanIV_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/a078dc1670a0b2565aaaf9d50d3e10ec2d583498-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1011,
+                "y": 35,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/jarvaniv",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                },
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                },
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/jarvaniv",
+            "biography": {
+                "full": "<p>Soon after King Jarvan III\u2019s coronation, he addressed the people of Demacia. Even though there were still many foes beyond the borders of their proud kingdom, several of the noble families had begun to feud with one another, some even raising private militias to seek the favor of their new king.</p><p>This would not stand. Jarvan would not allow such dangerous rivalries to develop, and declared his intention to end the feuding by marriage. His bride, the Lady Catherine, was much beloved by the people\u2014and courtly gossip had long held that the two shared some secret fondness for one another. The bells of the Great City rang for a day and a night in celebration, and by year\u2019s end came the announcement that the royal couple were expecting their first son.</p><p>But all joy was forgotten when Catherine died in childbirth.</p><p>The infant, named for his father\u2019s line, was declared heir apparent to the throne of Demacia. Torn between grief and elation, Jarvan III swore never to take another wife, and that all his hopes and dreams for the kingdom\u2019s future would live on in his son.</p><p>With no memory of his mother, the young prince Jarvan was raised at court, groomed and guarded every moment of his life. The king insisted that he receive the finest Demacian education, learning from an early age the moral value of charity, the solemn burden of duty, and the honor of a life spent in service to one\u2019s people. As he grew, he was also introduced to the history and politics of Valoran by his father\u2019s seneschal, Xin Zhao. Hailing from distant Ionia, this loyal protector taught the prince about the world\u2019s more spiritual philosophies, as well as the myriad arts of war.</p><p>During his military training, Prince Jarvan found himself facing a brash youth of the Crownguard family named Garen. The two were of similar age, and became a quick pair\u2014Jarvan admired Garen\u2019s sheer determination and fortitude, and Garen looked up to the prince\u2019s tactical instincts.</p><p>When Jarvan came of age, his father rewarded him with the honorary rank of general. While it was not necessarily expected that the heir to the throne would take to the field of battle, Jarvan was determined to prove himself, with or without the king\u2019s blessing. The lands beyond the Argent Mountains had long been contested by the empire of Noxus, creating an almost lawless frontier where foreign reavers and warring tribes threatened many of Demacia\u2019s allies. The prince pledged to bring stability back to the region. His great grandfather had been slain by a foul Noxian brute many years ago, in the first clashes between their nations in the south. Now, that insult would finally be answered.</p><p>Jarvan\u2019s armies won victory after victory\u2026 but the carnage he witnessed in the outlying towns troubled him deeply. When word came that the Gates of Mourning had fallen, he resolved to drive onward into Noxian territory, against the advice of his lieutenants.</p><p>Inevitably, with the battalions spread so thin, Jarvan was encircled and defeated by Noxian warbands before he even reached Trevale.</p><p>Refusing to surrender, the prince and a handful of other survivors fled into the forests, only to be hounded for days by enemy scouts. Eventually, pierced through his side by an arrow, Jarvan collapsed into the shade of a fallen tree, where he drifted in and out of consciousness. He was devastated. He had failed his family, his kingdom, and his brothers-in-arms.</p><p>Doubtless he would have died there, alone, were it not for Shyvana.</p><p>This strange, violet-skinned woman somehow carried Jarvan all the way back to Demacia, to the old castle at Wrenwall, where she proved herself a kind and worthy companion during his days of healing. At first taken aback by her outlandish appearance, the garrison commander could not deny that she had done a great service to the throne in saving Jarvan\u2019s life.</p><p>Unfortunately, Shyvana was herself being pursued\u2014by the monstrous elemental dragon Yvva. When the castle\u2019s watchmen spotted the beast on the horizon, Jarvan saw a chance to redeem himself. As Shyvana prepared to meet the beast in the skies in her half-dragon form, the prince limped from his bed to marshal the garrison, and reinforce the walls. He took up his lance, and swore that they would return to the Great City with the head of Yvva, or not at all.</p><p>The battle was swift and deadly. When his men were driven in fear from their posts, it was Jarvan who rallied them. When they were wounded, it was Jarvan who directed healers to their aid. The fell creature was slain by Shyvana, but it was the prince\u2019s leadership that had held the line. In that moment, Jarvan saw the true strength of the Demacian people\u2014standing together as one in defense of their homeland, no matter their differences or misgivings. He promised Shyvana that she would always have a place among his guard, if she so chose.</p><p>With the dragon\u2019s skull in tow, Jarvan journeyed to his father\u2019s court in triumph, Shyvana at his side. Though the king was overcome with emotion at his son\u2019s return, some of the gathered nobles quietly questioned the wisdom of allowing such a creature to stand with the prince\u2026 let alone serve as one of his protectors.</p><p>Even so, Jarvan resumed his position within the military, also playing a key role in stately matters beyond the defense of the realm. With his friend Garen now Sword-Captain of the elite Dauntless Vanguard, and Shyvana and the Wrenwall veterans training other border garrisons, the prince felt assured that Demacia could answer any emergent threat.</p><p>But the kingdom itself was changing.</p><p>The Mageseeker order had gained support among the noble families, leading to widespread imprisonment of anyone in Demacia possessing magical talents. Fear of persecution quickly gave way to resentment, and finally rebellion. When mages attacked the Great City, Jarvan was distraught to discover that his father, the king, had been killed.</p><p>Although the prince\u2019s political stance toward mages has hardened significantly since then, he has yet to fully allay concerns over his suitability to rule. As such, he has taken the counsel of many prominent nobles\u2014including Garen\u2019s aunt, High Marshal Tianna Crownguard\u2014and pledged to heed their wisdom and experience in the days ahead.</p><p>For he must examine his own conscience and allegiances carefully if he is ever to come into his inheritance, and be crowned King Jarvan IV of Demacia.</p>",
+                "short": "As the king\u2019s only son, Prince Jarvan is heir apparent to the throne of Demacia. Raised to be a paragon of his nation\u2019s greatest virtues, he is forced to balance the heavy expectations placed upon him with his own desire to prove himself on the battlefield. An exceptional warrior in his own right, Jarvan also inspires his troops with fearsome courage and selfless determination, raising his family\u2019s colors high and revealing his true strength as a future leader of his people.",
+                "quote": "\u201cWords may make a ruler, but only actions make history.\u201d",
+                "quote_author": "Jarvan IV"
+            },
+            "header_image": null,
+            "subtitle": "the Exemplar of Demacia",
+            "echelon": 3
+        },
+        {
+            "type": "champion",
+            "release_date": "2009-02-21T00:00:00.000Z",
+            "name": "Kayle",
+            "title": "Kayle",
+            "section_title": "Kayle",
+            "slug": "kayle",
+            "associated_faction": "",
+            "associated_faction_slug": "demacia",
+            "image": {
+                "title": "Kayle_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/e542dbab1925ff2d1fdddaf60a8412b6095ee316-1920x1149.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1149,
+                "x": 1704,
+                "y": 566,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Kayle_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/e542dbab1925ff2d1fdddaf60a8412b6095ee316-1920x1149.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1149,
+                "x": 1704,
+                "y": 566,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/kayle",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Support",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Support",
+                    "slug": "support"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/kayle",
+            "biography": {
+                "full": "<p>As the Rune Wars raged, Mount Targon stood as a beacon against the oncoming darkness\u2014Kayle and her twin sister Morgana were born beneath that light. Their parents, Mihira and Kilam, began the perilous climb in search of the power to save their tribe from destruction.</p><p>Even when Mihira learned she was with child, she pushed onward. At the mountain\u2019s summit, she was chosen as a divine vessel for the Aspect of Justice, wielding a sword that blazed with a fire brighter than the sun.</p><p>Not long after, the twins were born. Kayle, the elder by a breath, was as bright as Morgana was dark.</p><p>But Mihira had become a fearsome warrior, far greater than any mortal. Kilam began to fear her new divinity, and the sorcerous enemies that were drawn to her light. He resolved to take the girls out of harm\u2019s way, journeying across the Conqueror\u2019s Sea to a settlement where the land itself was said to offer protection against magic.</p><p>In their new homeland, Kilam raised the twins, their temperaments growing more different with each passing day. Kayle was precocious, often arguing with the settlement\u2019s leaders about their rules\u2014she had no real memory of her mother\u2019s powers, but knew the laws were meant to keep them all safe. Her father rarely spoke of such things, but Kayle was certain Mihira had saved them by ending the Rune Wars on some distant battlefield.</p><p>When the twins were teenagers, a streak of flame split the sky. A sword smoldering with celestial fire struck the ground between Kayle and her sister, breaking in two\u2014Kilam was distraught when he recognized the blade as Mihira\u2019s.</p><p>Kayle eagerly snatched up one half of the weapon, feathered wings springing forth from her shoulders, and Morgana cautiously followed her example. In that moment, Kayle felt more connected to her mother than ever, certain that this was a sign she was alive and wanted her daughters to follow the same path as her.</p><p>The people of the settlement believed the girls had been blessed by the stars, destined to protect the fledgling nation of Demacia from outsiders. These winged protectors became symbols of light and truth, and were revered by all. Kayle fought in many battles, flying at the head of the growing militia and imbuing the weapons of the worthy with her own sanctified fire\u2026 but in time, her pursuit of justice began to consume her. Seeing threats within and without, she founded a judicator order to enforce the law, and hunted down rebels and reavers with equal fervor.</p><p>But there was one person she softened her judgment toward. To the dismay of her followers, Kayle allowed Morgana to rehabilitate wrongdoers who appeared humble enough to admit their guilt. Kayle\u2019s protege, Ronas, was the most disapproving of all\u2014he swore to do what Kayle would not, and attempted to imprison Morgana.</p><p>Kayle returned to find the people rioting, and Ronas dead. Consumed by rage, she looked down upon the city, and summoned her divine fire to cleanse the city of its sins.</p><p>Morgana flew up to meet her, raising her blade. If Kayle was to purge the darkness she saw in mortal hearts, she would have to start with her own sister. The two battled across the heavens, each matching the other\u2019s terrible blows and striking the buildings beneath them to rubble.</p><p>Abruptly, the fight was halted by their father\u2019s anguished cry.</p><p>Kayle watched Kilam die in her sister\u2019s arms, a senseless victim of the violence that had overtaken the city that day. Then she held the two halves of their mother\u2019s sword in her hands, and vowed she would never again let mortal emotions rule her. As she leapt back into the sky, soaring high above the clouds, she felt she could almost see Mount Targon beyond the horizon, its formidable peak bathed red by the setting sun.</p><p>There she would seek perfect, celestial clarity. There she would stand at her mother\u2019s side, and fulfill her legacy to the Aspect of Justice.</p><p>Though she has been absent from Demacia for many centuries, Kayle\u2019s legend has inspired much of the kingdom\u2019s culture and law. Grand statues and icons of the Winged Protector give strength to the heart of every warrior who marches to illuminate the night, and banish all shadows from their land.</p><p>In times of strife and chaos, there are many who cling to the hope that Kayle might eventually return\u2026 and others who pray that such a day will never come.</p>",
+                "short": "Born to a Targonian Aspect at the height of the Rune Wars, Kayle honored her mother\u2019s legacy by fighting for justice on wings of divine flame. She and her twin sister Morgana were the protectors of Demacia for many years\u2014until Kayle became disillusioned with the repeated failings of mortals, and abandoned this realm altogether. Still, legends are told of her punishing the unjust with her fiery swords, and many hope that she will one day return\u2026",
+                "quote": "\u201cNo human is perfect. But I am not human.\u201d",
+                "quote_author": "Kayle"
+            },
+            "header_image": null,
+            "subtitle": "The Righteous",
+            "echelon": 4
+        },
+        {
+            "type": "champion",
+            "release_date": "2013-08-22T00:00:00.000Z",
+            "name": "Lucian",
+            "title": "Lucian",
+            "section_title": "Lucian",
+            "slug": "lucian",
+            "associated_faction": "",
+            "associated_faction_slug": "demacia",
+            "image": {
+                "title": "Lucian_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe_live/5a752c276c2b99c1a0bee1c1f81ea0bc156fd589-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 866,
+                "y": 267,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Lucian_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe_live/5a752c276c2b99c1a0bee1c1f81ea0bc156fd589-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 866,
+                "y": 267,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/lucian",
+            "video": {
+                "title": "lucian-splashvideo.webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe_live/dc0f76989a923cc4ce7fb6ed294757bdb0be8741.webm?accountingTag=LoL",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 896,
+                "y": 267,
+                "featured_champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/lucian",
+            "biography": {
+                "full": "<p>From an early age, Lucian wanted nothing more than to be like his father, Urias, who was a member of the ancient order of the Sentinels of Light. While Lucian remained home in Demacia, Urias ranged far and wide, protecting the living from the wraiths of the Black Mist. </p>\n<p>Urias would regale Lucian with tales of his adventures, where courage and ingenuity carried the day. Lucian hung on every word, picturing himself saving the people of Runeterra at his father\u2019s side. But Urias did not want his son to follow in his footsteps, hoping to keep his family safe from the dangerous life he had chosen.</p>\n<p>Lucian waited for the day he would become Urias\u2019 apprentice, but it never came.</p>\n<p>Instead, Lucian stayed in Demacia, where he found himself increasingly at odds with the kingdom\u2019s culture. It especially rankled him that Demacia would exile peaceful mages to the hinterlands. Lucian found fulfillment in safeguarding the banished on their perilous journey. Where his countrymen saw only outlaws, reducing the world to good or evil, Lucian looked closer, and saw people in need of help.</p>\n<p>After returning home from one such journey, Lucian found a stranger waiting at his door. She introduced herself as Senna, a Sentinel of Light. Cradling Urias\u2019 relic pistol in her hands, Senna explained that Lucian\u2019s father had died, falling in battle against the the long-dead wraiths of the Black Mist. </p>\n<p>Senna had been Urias\u2019 apprentice, fighting at his side for years.</p>\n<p>Lucian reeled in shock\u2014not only was his father dead, but before him stood a woman who had lived the life he had wanted for so long. As Senna made to take her leave, Lucian stopped her at the door, insisting he join her. He knew what came next\u2014the vigil for lost Sentinels. Senna reluctantly allowed Lucian to accompany her.</p>\n<p>Along the way, the two traded stories of their time with Urias, Senna comforting Lucian with her plainspoken wisdom, and Lucian easing her pain with fond remembrances. They arrived at Urias\u2019 birthplace, far away from Demacian lands. There, they held the vigil for lost Sentinels.</p>\n<p>As they prepared to depart, dark clouds rolled in over the coast, and wraiths manifested from the foulness, attacking them. Where Lucian was horrified, Senna drew her weapons with a grim familiarity\u2014this was her curse. Since she was a child, tendrils of the Black Mist had stalked her wherever she went, unleashing its horror should she tarry anywhere for too long.</p>\n<p>As Senna fought one of the creatures, it clawed Urias\u2019 pistol from her grip. Lucian retrieved it, sensing his fate opening up before him. The blazing sorrow in his heart manifested in a bolt of light that blasted from the pistol, distracting the wraith so Senna could banish it. Senna fought off the remaining spirits before the pair left, the Mist ever on her trail.</p>\n<p>Never before had one of the uninitiated fired a Sentinel\u2019s relic weapon. For the first time, Lucian had shown Senna his potential to join the order.</p>\n<p>Eventually, Senna entrusted Lucian with his father\u2019s pistol, and instructed him in the tactics and doctrines of the Sentinels. He proved himself worthy of the lessons. A bond slowly formed between them, Lucian\u2019s warmth and charm the perfect balance to Senna\u2019s discipline and unbreakable resolve. </p>\n<p>Lucian and Senna battled the myriad evils that ushered forth from the Black Mist, and their reliance upon each other blossomed into love. The closer Lucian grew to Senna, the more he witnessed the curse she bore. Each conflict hardened him, splitting the world apart into light and shadow, good and evil. Lucian\u2019s urge to heal Senna became a crusade he pursued with reckless zeal. </p>\n<p>Scouring a forgotten vault for a cure, the two Sentinels were attacked by the monstrous wraith Thresh. The ghoulish Chain Warden was a dangerous foe, and when Senna called to withdraw and regroup, Lucian refused to turn back. Throwing himself blindly into the attack, Lucian realized his mistake as Thresh gained the upper hand. Senna stepped into Thresh\u2019s path, imploring Lucian to run.</p>\n<p>As the dust settled, Senna lay dead before him, her soul claimed by Thresh\u2019s eldritch lantern.</p>\n<p>Senna\u2019s sacrifice was nearly Lucian\u2019s undoing. For years, he stalked Runeterra, a husk of the man he once was, his former warmth replaced with anger and bitterness. Wielding both his pistol and Senna\u2019s, Lucian hunted Thresh in the hope of destroying the lantern and granting oblivion to his captive love. On the day that battle finally came, Lucian shattered the lantern\u2014but instead of finding her eternal rest, Senna <em>reemerged.</em></p>\n<p>Lucian and Senna\u2019s love is a bond even death could not sever. As Lucian struggles to grasp Senna\u2019s altered form, he is forced to confront his own. Lucian now fights to return to his former self, while grappling with the reality that the dark forces he hates are all that keep Senna with him.</p>\n<p>While Senna has returned with knowledge of a new mission, Lucian remains obsessed with exacting vengeance from Thresh, as he is certain the Chain Warden\u2019s machinations have only begun.</p>",
+                "short": "Lucian, a Sentinel of Light, is a grim hunter of wraiths and specters, pursuing them relentlessly and annihilating them with his twin relic pistols. After the specter Thresh slew his wife, Lucian embarked on the path of vengeance\u2014but even with her return to life, his rage is undiminished. Merciless and single-minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist.",
+                "quote": "\u201cWield the light, endure the pain, and cleanse all shadow from this world.\u201d",
+                "quote_author": "Lucian"
+            },
+            "header_image": null,
+            "subtitle": "the Purifier",
+            "echelon": 5
+        },
+        {
+            "type": "champion",
+            "release_date": "2010-10-19T00:00:00.000Z",
+            "name": "Lux",
+            "title": "Lux",
+            "section_title": "Lux",
+            "slug": "lux",
+            "associated_faction": "",
+            "associated_faction_slug": "demacia",
+            "image": {
+                "title": "Lux_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/7dae022eb3726b7b351cf90ad8351731907229a1-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 784,
+                "y": 51,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Lux_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/7dae022eb3726b7b351cf90ad8351731907229a1-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 784,
+                "y": 51,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/lux",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Support",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Support",
+                    "slug": "support"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/lux",
+            "biography": {
+                "full": "<p>Luxanna\u2014or Lux, as she prefers to be called\u2014grew up in the Demacian city of High Silvermere, along with her older brother Garen. They were born to the prestigious Crownguard family, which had served for generations as protectors of the kings of Demacia. Their grandfather saved the king\u2019s life at the Battle of Storm\u2019s Fang, and their aunt Tianna was named commander of the elite Dauntless Vanguard regiment before Lux was born.</p><p>Garen took to his family\u2019s role with fervor, joining the military when he was still little more than a boy. Lux, in his absence, was expected to help run the family\u2019s many estates\u2014a task she resented, even as a young child. She wanted to explore the world, to see what lay beyond the walls and borders of Demacia. She idolized Garen, but railed against his insistence that she put her own ambitions aside.</p><p>To the endless frustration of Lux\u2019s tutors, who sought to prepare her for a life of dutiful service to the Crownguard family, she would question their every teaching, examine differing perspectives, and seek out knowledge far beyond what they were prepared for. Even so, few could find it in themselves to stay angry at Lux, with her zest for life and intoxicating optimism.</p><p>Little did any of them know a time of change was approaching. Magic had once brought Runeterra to the brink of annihilation, and Demacia had been founded as a place where such powers were forbidden. Many of the kingdom\u2019s folktales told of pure hearts turned dark by the lure of magic. Indeed, Lux and Garen\u2019s uncle had been slain by a rogue mage some years earlier.</p><p>And there were fearful whispers, rumors from beyond the great mountains, that magic was rising once more in the world\u2026</p><p>Riding home one fateful night, Lux and her horse were attacked by a ravenous sabrewulf pack. In a moment of fear and desperation, the young girl let loose a torrent of magical light from deep within her, routing the beasts but leaving her shivering in fear. Magic, the terror of Demacian myths, was as much a part of Lux as her Crownguard lineage.</p><p>Fear and doubt gnawed at her. Would she become evil? Was she an abomination, to be imprisoned or exiled? At the very least, if her powers were discovered, it would see the Crownguard name disgraced forever.</p><p>With Garen spending more time away from High Silvermere, Lux found herself alone in the halls of their family home. Still, over time, she became more familiar with her magic, and her sleepless nights\u2014fists clenched, willing her inner light to fade\u2014became fewer and fewer. She began experimenting in secret, playing with sunbeams in the courtyards, bending them into solid form, and even creating tiny, glowing figures in her palm. She resolved to keep it a secret, as much as she could.</p><p>When she was sixteen, Lux traveled with her parents Pieter and Augatha to their formal residence in the Great City of Demacia, to witness Garen\u2019s investiture into the honored ranks of the Dauntless Vanguard.</p><p>The city dazzled Lux. It was a monument to the noble ideals of the kingdom, with every citizen protected and cared for; and it was there that Lux learned of the Illuminators, a charitable religious order working to help the sick and the poor. Between her family\u2019s courtly engagements, she became close with a knight of the order named Kahina, who also taught Lux more <i>martial</i> skills, sparring and training with her in the gardens of the Crownguard manor.</p><p>Spending more time in the capital, Lux has finally begun to learn about the wider world\u2014its diversity, and its history. She now understands that the Demacian way of life is not the only way, and with clear eyes she can see her love for her homeland standing alongside her desire to see it made more just\u2026 and perhaps a little more accepting of mages like her.</p>",
+                "short": "Luxanna Crownguard hails from Demacia, an insular realm where magical abilities are viewed with fear and suspicion. Able to bend light to her will, she grew up dreading discovery and exile, and was forced to keep her power secret in order to preserve her family\u2019s noble status. Nonetheless, Lux\u2019s optimism and resilience have led her to embrace her unique talents, and she now seeks to bring greater tolerance and understanding to her homeland.",
+                "quote": "\u201cThe light inside is what makes me different, and I\u2019m always careful where I shine it.\u201d",
+                "quote_author": "Lux"
+            },
+            "header_image": null,
+            "subtitle": "the Lady of Luminosity",
+            "echelon": 6
+        },
+        {
+            "type": "champion",
+            "release_date": "2009-02-21T00:00:00.000Z",
+            "name": "Morgana",
+            "title": "Morgana",
+            "section_title": "Morgana",
+            "slug": "morgana",
+            "associated_faction": "",
+            "associated_faction_slug": "demacia",
+            "image": {
+                "title": "Morgana_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/dc1bbb10a4d5ed7946d6a7eb12de7324309be314-1920x1149.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1919,
+                "height": 1149,
+                "x": 1704,
+                "y": 566,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Morgana_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/dc1bbb10a4d5ed7946d6a7eb12de7324309be314-1920x1149.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1919,
+                "height": 1149,
+                "x": 1704,
+                "y": 566,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/morgana",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Support",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Support",
+                    "slug": "support"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/morgana",
+            "biography": {
+                "full": "<p>Whether through destiny or circumstance, Morgana and her sister were born to a world in conflict. The cataclysmic Rune Wars had ripped through most of Valoran and Shurima, and seemed poised to engulf even the peaks of Targon. Morgana\u2019s parents, Mihira and Kilam, knew the legends of the great mountain granting divine power\u2014they saw no other choice than to attempt the long and perilous journey, if their tribe was to be saved.</p><p>Even when they learned Mihira was with child, they could not turn back. Finally, where Runeterra touches the stars, Kilam watched in wonder and fear as Mihira was chosen to embody the Aspect of Justice.</p><p>The couple returned not only with the salvation they sought, but twin daughters\u2014Morgana and Kayle. However, the celestial power that claimed Mihira began to overshadow her mortal personality and affections. She would often push the girls into their father\u2019s arms, abandoning them to answer battle\u2019s call.</p><p>For many months, uncertainty gnawed at Kilam. The wars still raged on countless fronts, and his beloved wife was slipping away. Fearing for his daughters\u2019 safety, he waited for Mihira to leave once more, then fled Targon with them both.</p><p>Though their destination did not yet have a name, it would become known as a haven from magic and persecution: the kingdom of Demacia.</p><p>There the twins grew different as day and night. While Kayle studied the settlement\u2019s growing set of laws, dark-haired Morgana became troubled by their distrust of new arrivals. Knowing what it was to be a refugee, she wandered the wilds, talking to wayward mages and others cast out for the dangers they might bring. At home, she felt her father\u2019s heartbreak at leaving Mihira behind, and grew bitter at her mother for causing such pain.</p><p>Morgana\u2019s fears that she and Kayle might carry some remnant of the Aspect\u2019s power were eventually confirmed, when a great blade wreathed in shadow and starfire fell from the heavens. As it pierced the ground, splitting in two, feathered wings burst from the girls\u2019 shoulders. Their father wept at the sight of them each taking up half of the weapon, and turned away even as Morgana reached out to comfort him.</p><p>While Kayle embraced their new calling, rallying an order of judicators to enforce the laws, Morgana resented her gifts\u2026 until the night their settlement was raided. Kilam found himself surrounded as the fighting spread. In that moment, Morgana rushed to shield him, burning his attackers to ash. Together, the sisters saved countless lives, and were hailed as the Winged Protectors of Demacia.</p><p>But Kayle grew more extreme in her ideologies, and Morgana increasingly found herself pleading the case of those who wanted to atone for their crimes. An accord was struck between the sisters and their mortal devotees\u2014though it was uneasy, and did not last. Kayle\u2019s most ardent disciple, Ronas, came to arrest Morgana herself. Attempting to protect her penitent followers, she shackled him with dark flame until he fell to the floor, dead.</p><p>Divine fire lit the city from above as Kayle swore to bring Ronas\u2019 killer to justice, and Morgana met her sister in the skies.</p><p>They raised their blades, each matching the other with arcs of blinding light and burning darkness that lashed down at the buildings beneath them. It seemed certain that one of them would win\u2026 but Morgana faltered when she heard their father\u2019s anguished voice. Kilam lay in the rubble, mortally wounded. Howling with grief, Morgana hurled her half of their mother\u2019s sword at Kayle, and plunged to the surface like a meteorite.</p><p>She cradled her father, cursing their inheritance for the destruction around them. Kayle landed, dumbstruck, and Morgana demanded to know if the smiting of wicked mortals included Kilam, whose crime was stealing them away from their mother. Kayle gave no answer, but soared into the heavens without looking back.</p><p>Morgana\u2019s wings became an inescapable reminder of her pain. She tried to cut them from her flesh, but could find no blade strong enough. Instead, she bound them with iron chains, resolving instead to walk the world of mortals.</p><p>Over the centuries, her tale fell into myth, and the name Morgana was all but forgotten. To this day, the people of Demacia venerate \u201cthe Winged Protector,\u201d but recall only the glory and truth of one sister, while Morgana\u2019s dark outbursts and belief in personal redemption became the mysteries of \u201cthe Veiled One.\u201d</p><p>Through all of this, she still refuses to abandon those who would seek her aid. Bitter, betrayed, she bides her time in the kingdom\u2019s shadows, knowing with certainty that Kayle\u2019s light will someday return to Runeterra, and all will face her judgment.</p><p>As magic begins to rise again, Morgana sees that dawn is nearly upon them.</p>",
+                "short": "Conflicted between her celestial and mortal natures, Morgana bound her wings to embrace humanity, and inflicts her pain and bitterness upon the dishonest and the corrupt. She rejects laws and traditions she believes are unjust, and fights for truth from the shadows of Demacia\u2014even as others seek to repress it\u2014by casting shields and chains of dark fire. More than anything else, Morgana truly believes that even the banished and outcast may one day rise again.",
+                "quote": "\u201cOnly those you love can break your heart.\u201d",
+                "quote_author": "Morgana"
+            },
+            "header_image": null,
+            "subtitle": "The Fallen",
+            "echelon": 7
+        },
+        {
+            "type": "champion",
+            "release_date": "2010-01-13T00:00:00.000Z",
+            "name": "Poppy",
+            "title": "Poppy",
+            "section_title": "Poppy",
+            "slug": "poppy",
+            "associated_faction": "",
+            "associated_faction_slug": "demacia",
+            "image": {
+                "title": "Poppy_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/0fb0e7692c05c9b0ab8b4d3e53fafcdf4bbdf985-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 873,
+                "y": 3,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Poppy_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/0fb0e7692c05c9b0ab8b4d3e53fafcdf4bbdf985-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 873,
+                "y": 3,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/poppy",
+            "video": {
+                "title": "poppy-splashvideo.webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/8705f71e69600c37016a0a57bc4aa06721833932.webm?accountingTag=LoL",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 873,
+                "y": 3,
+                "featured_champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                },
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                },
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/poppy",
+            "biography": {
+                "full": "<p>Runeterra has no shortage of valiant champions, but few are as tenacious as Poppy. Bearing a hammer twice the length of her body, this determined yordle has spent untold years searching for the \u201cHero of Demacia,\u201d a fabled warrior said to be the rightful wielder of her weapon.</p>\n<p>As legend describes it, this hero is the only person who can unlock the full power of the hammer and lead Demacia to true greatness. Though Poppy has searched the furthest corners of the kingdom for this legendary fighter, her quest has proven fruitless. Each time she has attempted to pass the hammer on to a potential hero, the results have been disastrous, often ending in the warrior\u2019s death. Most people would have abandoned the task long ago, but most people do not possess the pluck and resolve of this indomitable heroine.</p>\n<p>Poppy was once a very different yordle. For as long as she could remember, she had been in search of a purpose. Feeling alienated by the chaotic whimsy of other yordles, she preferred to soak up stability and structure where she could find it. This drive brought her to the human settlements of western Valoran, where she gazed in wonder at the caravans striping the countryside in an endless file. Many of the people there looked tattered and weary, but they stumbled on in pursuit of some ephemeral better life that might lie just beyond the horizon.</p>\n<p>One day, however, a different sort of caravan passed through. Unlike the other travelers, these people seemed to move with purpose. They all awoke at the exact same time each morning, roused by the sound of a watchman\u2019s horn. They took their meals together every day at the same hour, always finishing within a few minutes. They set up their camps and took them down with remarkable efficiency.</p>\n<p>While yordles used their innate magic to fashion extraordinary things, these humans achieved equally astounding feats through coordination and discipline. They acted in concert like the cogs of a gear, becoming something much larger and stronger than any single person could ever be. To Poppy, that was more marvelous than all the magic in the world.</p>\n<p>As Poppy watched the camp from the safety of her hiding place, her eyes caught the gleam of armor emerging from a tent. It was the group\u2019s commanding officer, wearing a brigandine of gleaming steel plates, each piece overlapping, each an integral part of the whole. The man\u2019s name was Orlon, and his presence seemed to stir the souls of everyone there. If someone became discouraged, he was there to remind them of why they pressed on. If someone collapsed from exhaustion, he inspired them to get up. It reminded Poppy of certain yordle charms, though again, <em>without magic</em>.</p>\n<p>Poppy crept in for a closer look. She found herself following this shining commander, as if drawn to him by fate itself. She observed Orlon as he led his soldiers in training exercises. He was not a large fellow, yet he swung his massive battle hammer with surprising alacrity. At night, Poppy listened intently to his hushed discussions with the elders of the camp. She heard them making plans to pull up stakes and head west to build a permanent settlement.</p>\n<p>Poppy\u2019s mind was overwhelmed with questions. Where was Orlon going? Where did he come from? How did he assemble this meticulous band of travelers, and was there a place for a yordle in it? At that moment, she made the most important decision in her life: For the first time ever, she would reveal herself to a human, as this was the first time she\u2019d ever felt a connection with one.</p>\n<p>The introduction was a jarring one, with Orlon having just as many questions for Poppy as she had for him, but the two soon became inseparable. He became a mentor to her, and she a devotee to his cause. In the training grounds, Poppy was an invaluable sparring partner\u2013the only member of Orlon\u2019s battalion who was unafraid to strike him. She was never obsequious, questioning his decisions with an almost childlike innocence, as though she didn\u2019t know she was supposed to meekly follow orders. She accompanied him to the site of the new settlement\u2013an ambitious new nation called Demacia, where all were welcome, regardless of station or background, so long as they contributed to the good of the whole.</p>\n<p>Orlon became a beloved figure throughout the kingdom. Though few had actually seen him wield his hammer, he always bore it on his back, and the weapon quickly became a revered icon for the fledgling nation. People whispered that it had the power to level mountains and tear the earth itself asunder.</p>\n<p>Orlon passed the hammer to Poppy on his deathbed, and with it, his hope of an enduring kingdom. It was only then that Orlon told her the story of his weapon\u2019s creation, and how it was never truly intended for his hands. He explained to Poppy that the hammer was meant to go to the Hero of Demacia\u2013the only one who could keep Demacia whole. As her friend drew his last breath, Poppy swore to him that she would find this hero and place the weapon in his hands.</p>\n<p>But what Poppy possesses in resolve, she lacks in ego, as it never even occurred to her that <em>she</em> might be the hero Orlon described.</p>",
+                "short": "Runeterra has no shortage of valiant champions, but few are as tenacious as Poppy. Bearing the legendary hammer of Orlon, a weapon twice her size, this determined yordle has spent untold years searching in secret for the fabled \u201cHero of Demacia,\u201d said to be its rightful wielder. Until then, she dutifully charges into battle, pushing back the kingdom\u2019s enemies with every whirling strike.",
+                "quote": "\u201cI\u2019m no hero. Just a yordle with a hammer.\u201d",
+                "quote_author": "Poppy"
+            },
+            "header_image": null,
+            "subtitle": "Keeper of the Hammer",
+            "echelon": 8
+        },
+        {
+            "type": "champion",
+            "release_date": "2013-03-01T00:00:00.000Z",
+            "name": "Quinn",
+            "title": "Quinn",
+            "section_title": "Quinn",
+            "slug": "quinn",
+            "associated_faction": "",
+            "associated_faction_slug": "demacia",
+            "image": {
+                "title": "Quinn_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/c184e107070eb49041d26b2d681424d120abe1b6-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 800,
+                "y": 6,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Quinn_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/c184e107070eb49041d26b2d681424d120abe1b6-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 800,
+                "y": 6,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/quinn",
+            "video": {
+                "title": "quinn-splashvideo.webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/183765feb69482fa1ff8c0a752ddfe22030084c5.webm?accountingTag=LoL",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 800,
+                "y": 6,
+                "featured_champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/quinn",
+            "biography": {
+                "full": "<p>Quinn and her twin brother, Caleb, were born in Uwendale, a remote mountain hamlet in northeastern Demacia. It was a thriving village of hunters and farmers, protected by rangers who patrolled the wilderness and drove off any dangerous creatures wandering down from the high peaks.</p><p>When the twins were still young, King Jarvan III visited Uwendale on a tour of his kingdom. Quinn and Caleb thrilled at the pageantry of the knights in his entourage, resplendent in their gleaming armor. Their father, a weaponsmith in the village, later saw them pretending to bravely defend the land themselves, and fashioned simple weapons for them to play with.</p><p>But as they grew, they spent every moment they could outdoors with their mother\u2014a warden among the local rangers. She taught them how to survive in the wilds, how to track beasts, and most importantly how to fight. Quinn and Caleb became a formidable team\u2014with her keen eye for trails, his skill at baiting their prey, her aim with a bow, and his prowess with a hunting spear.</p><p>But one expedition ended in tragedy.</p><p>Quinn and Caleb, now rangers for Uwendale, were hired to accompany a party of nobles from the capital as they hunted a giant tuskvore\u2014a predator known for its thick hide, long horns, and ferocious temperament. But they failed to kill the creature outright, and the wounded beast turned on them. The twins were quick to intervene, with Caleb\u2019s spear putting out one of the monster\u2019s eyes, and Quinn driving off the tuskvore with her arrows... but not before it gored Caleb with its deadly horns.</p><p>The leader of the party, Lord Barrett Buvelle, helped Quinn bury her brother near where he had fallen. But all could see his death had broken her.</p><p>Unable to move on, she would return to the gravesite, and the joy she had felt as a ranger began to dim. Her prowess in the wilderness waned, and she started making mistakes\u2014she missed easy tracks, and her aim was off.</p><p>A few months later, Lady Lestara Buvelle visited Quinn\u2019s family. The noblewoman was grateful that Quinn had saved her husband\u2019s life, and asked what she could do to repay them. Quinn could think of nothing. She thanked Lady Buvelle, and politely turned her away.</p><p>A year to the day after Caleb\u2019s death, Quinn returned to his grave, as she so often did. Lost in grief, she didn\u2019t hear the approaching tuskvore, its one eye marking it as the very beast that had slain her brother.</p><p>The monster charged. Quinn fired arrow after arrow, but to no avail, and she knew it was her doom. Just then, a majestic bird swooped in\u2014an azurite eagle, a breed long thought extinct. The eagle\u2019s talons and beak ripped bloody gouges across the tuskvore\u2019s face, but the creature was resilient, its horns tearing into the bird\u2019s wing.</p><p>Quinn fired her last arrow as the monster charged her again. This time her aim was true, and the shaft flew right down its gullet, felling the creature in a heartbeat.</p><p>Though the eagle was injured, she approached with caution, for such birds had been known as vicious and untamable hunters\u2014but instead, she saw in his eyes a deep well of kinship. Quinn bound the eagle\u2019s broken pinion, and returned to Uwendale with him. She named him Valor, and the bond that formed between them rekindled the fire in Quinn\u2019s heart. Once more, her thoughts turned to serving Demacia in battle, as a knight.</p><p>Her mother reminded her that this would require sponsorship, and that was far beyond their family\u2019s humble means. But her father urged her to seek out Lady Buvelle, who had already offered recompense for service to her noble family, in the capital.</p><p>With his help, Quinn crafted a new weapon worthy of a knight, a finely wrought repeater crossbow capable of firing multiple bolts with a single pull of the trigger. Quinn and Valor then set out for the Great City together.</p><p>Lestara Buvelle gladly vouched for Quinn, even paying a personal visit to High Marshal Tianna Crownguard to petition for her. Within a week, Quinn took her oaths as a ranger-knight of Demacia.</p><p>Now, having brought renown to the rangers of Uwendale, she prefers to remain out in the hinterlands, never staying within the walls of the outlying towns for long. Quinn rarely pulls rank with the rangers who report to her, instead deferring to their specialized skills and experience in the field\u2014a stark departure from the rigid hierarchy of the rest of the military.</p><p>Quinn and Valor have ventured far and wide in service of Demacia, risking journeys into the icy Freljord and deep within Noxian-held territory. And with each mission, their unique bond has helped ensure the security of the kingdom\u2019s borders for generations to come.</p>",
+                "short": "Sponsored by the noble Buvelle family, Quinn is a ranger-knight of Demacia who undertakes dangerous missions deep in enemy territory. She and her legendary eagle, Valor, share an unbreakable bond, and their foes are often slain before they realize they are fighting not one, but two of the kingdom\u2019s greatest heroes. Nimble and acrobatic, Quinn takes aim with her crossbow while Valor marks their elusive targets from above, making them a deadly pair on the battlefield.",
+                "quote": "\u201cMost soldiers only rely on their weapons. Few truly rely on each other.\u201d",
+                "quote_author": "Quinn"
+            },
+            "header_image": null,
+            "subtitle": "Demacia's Wings",
+            "echelon": 9
+        },
+        {
+            "type": "champion",
+            "release_date": "2011-11-01T00:00:00.000Z",
+            "name": "Shyvana",
+            "title": "Shyvana",
+            "section_title": "Shyvana",
+            "slug": "shyvana",
+            "associated_faction": "",
+            "associated_faction_slug": "demacia",
+            "image": {
+                "title": "Shyvana_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/3a3eacd9c6ff7ca76a309611a508b9416fe3c01c-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 951,
+                "y": 0,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Shyvana_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/3a3eacd9c6ff7ca76a309611a508b9416fe3c01c-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 951,
+                "y": 0,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/shyvana",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/shyvana",
+            "biography": {
+                "full": "<p>Though they are rare creatures now indeed, there exist a handful of places across Runeterra where the great elemental dragons still nest.</p><p>Long after the fall of the Shuriman empire, in the chambers beneath a lost volcano, the elder beast known as Yvva guarded her clutch of eggs. Beyond the depredations of rival drakes, dragon eggs were priceless almost beyond a mortal\u2019s comprehension, and so many were daring or foolish enough to try their luck. Yvva feasted upon the charred remains of a score or more would-be thieves over the years\u2026 before one succeeded in his attempt.</p><p>This upstart mage fled the mountains with the large egg hugged close to his chest, the jungle at his heels set ablaze by Yvva\u2019s fury. Against all odds, he reached the coast and left the dragon to slink back to her lair in defeat. She had lost one egg. She would not lose another.</p><p>The mage traveled north to Piltover\u2014but before he could find a buyer, the egg began to hatch. Whether it was the act of removing it from the nest, or the last moon of autumn giving way to winter, something had changed. It was no infant dragon that emerged, but an apparently humanoid baby girl with pale, violet skin, and the mage found he could not bear to abandon her. He raised the child as his own, naming her Shyvana after the dark legend of her brood-mother.</p><p>It became clear that Shyvana was no mortal. From an early age, she was able to shift her form into something monstrous, akin to the half-dragons of ancient myth. This made living among the common folk of Valoran difficult, to say the least. One thing was clear: Yvva retained some connection with her lost daughter, and it grew stronger over time. When her other offspring finally took flight, Yvva left her empty nest and soared far over the ocean in search of Shyvana.</p><p>The land was wracked by fierce border wars, but armies and villagers alike scattered at the great dragon\u2019s approach. Seeking refuge in a ruined farmhouse, Shyvana saw her adopted father engulfed in flames as Yvva swept low overhead\u2014the young woman dragged him into the nearby forest, but there was nothing more she could do. She buried him in a simple grave beneath a spreading oak, and set off alone.</p><p>After many weeks in hiding in the wilds, always on the move, Shyvana picked out the faint scent of blood among the trees. She found a wounded warrior, close to death, and knew this was someone she <i>could</i> save.</p><p>Without a thought for the beast that hunted her, she assumed her half-dragon form and carried the unconscious man far away, to an outpost on the borders of Demacia.</p><p>There, in the castle at Wrenwall, Shyvana discovered that this warrior was none other than Prince Jarvan\u2014the king\u2019s only son, and heir to the throne. Though the stationed soldiers regarded her violet skin and strange manners with some suspicion, she was made welcome. Demacians, it seemed, always looked out for one another, and her time in the town was the most peaceful she had ever known.</p><p>The peace was not to last. Shyvana sensed darkness on the wind. Yvva was coming.</p><p>The recovering prince, knowing that he had to marshal Wrenwall\u2019s garrison, brought the terrified locals inside the stronghold in preparation for the coming battle. Even so, Shyvana prepared to make her escape. Jarvan confronted her, and she admitted that the creature in pursuit of her was of her own blood. She could not allow innocent people to die for that.</p><p>Jarvan refused to let her go. Shyvana had saved his life, so it was only right that he fight at her side, now. Moved by his offer, she accepted.</p><p>As Yvva came into view, Demacian archers loosed volleys of arrows to keep her distracted. In retaliation, she bathed the battlements in flame, tearing at the stonework with her powerful talons and sending armored warriors tumbling from the parapet. It was then that Shyvana leapt forth, transforming in mid-air and bellowing a challenge to her brood-mother. In a sight seldom witnessed in Valoran since the Rune Wars, the two dragons clashed, tooth and claw, in the skies over Wrenwall.</p><p>And finally, bleeding from a dozen wounds, Shyvana grappled Yvva to the ground, and broke the creature\u2019s neck upon the flagstones.</p><p>The prince himself honored Shyvana\u2019s bravery, and promised that she would always have a place at his side, if she would return with him to his father\u2019s halls. With Yvva\u2019s skull as proof of their triumph, they set out for the Great City of Demacia together.</p><p>Shyvana has learned that King Jarvan III\u2019s realm is somewhat divided\u2014with the people\u2019s distrust of mages and magic putting them at odds with the noble ideals upon which it was founded. While she has found a measure of acceptance as one of the prince\u2019s most trusted guardians, she is left to wonder whether that would still be the case if her true nature were more widely known\u2026</p>",
+                "short": "Shyvana is a creature with pure elemental magic blazing in her heart. Though she most often appears humanoid, she can take her true form when necessary\u2014that of a fearsome dragon, incinerating her foes with fiery breath. Having saved the life of the crown prince Jarvan IV, Shyvana now serves uneasily in his royal guard, struggling to find acceptance among the suspicious people of Demacia.",
+                "quote": "\u201cI am of two worlds, yet I belong to neither.\u201d",
+                "quote_author": "Shyvana"
+            },
+            "header_image": null,
+            "subtitle": "the Half-Dragon",
+            "echelon": 10
+        },
+        {
+            "type": "champion",
+            "release_date": "2010-09-21T00:00:00.000Z",
+            "name": "Sona",
+            "title": "Sona",
+            "section_title": "Sona",
+            "slug": "sona",
+            "associated_faction": "",
+            "associated_faction_slug": "demacia",
+            "image": {
+                "title": "Sona_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/5244dd28bd065e6247105381854a18df3900ec73-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 931,
+                "y": 1,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Sona_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/5244dd28bd065e6247105381854a18df3900ec73-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 931,
+                "y": 1,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/sona",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Support",
+                    "slug": "support"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Support",
+                    "slug": "support"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/sona",
+            "biography": {
+                "full": "<p>Sona\u2019s earliest memories are of the Ionian monastery where she was raised, in the province of Galrin. The monks, along with kindhearted volunteers from the local villages, took in any orphans or foundlings left at the front gates, and made sure that they would want for nothing.</p>\n<p>As a young girl, Sona was considered shy and quiet, until it became apparent that she couldn\u2019t speak at all. But she was unusually thoughtful and attentive, and the other children tended to seek her out whenever they needed comfort, their playful smiles quickly restored.</p>\n<p>And Sona discovered other ways to express herself.</p>\n<p>Unlike her playmates, she had one possession when she was first found\u2014a curiously strung instrument, packed into a plain wooden case. None of the visiting musicians or teachers knew what it was\u2026 though that did not stop several of them from attempting to procure it for themselves, one way or another. Instead, Sona taught herself how to play it, and her simple, beautiful melodies moved even the most skeptical listener to tears of joy.</p>\n<p>However, dark times were approaching. The foreign empire of Noxus had begun landing troops in the northern provinces, and the monks decided to evacuate their young charges to safety before the invasion reached Galrin. After their caretakers struck a deal with a Demacian trader, Sona and a handful of her friends found themselves bundled onto one of the last ships to escape before the Noxian blockade of Ionia\u2019s western coast. She looked back in anguish, knowing that she would not be able to return for many years, if at all.</p>\n<p>After months at sea, they arrived in Demacia\u2014a strange, dour land where magic was widely distrusted. Their monks were called \u201cIlluminators\u201d, and they worshipped no gods or spirits, yet still placed great value on showing kindness to strangers and the needy.</p>\n<p>So it was that Sona was taken in by the Buvelle family. Lord Barrett and his wife, Lestara, were prominent supporters of the Illuminator order, and renowned patrons of the arts in the Great City. Sona became like a sister to their daughter, Kahina, and Lestara in particular grew very attached to her. The Demacian language was often difficult to learn, but the Buvelles developed a personalized sign language that enabled Sona to communicate easily with her new family, and their friends.</p>\n<p>Yet she yearned to express so much more. To show her appreciation to her adopted countrymen, she decided to use her gift to delight and soothe them, and returned to her music with renewed passion.</p>\n<p>Soon, word spread of her virtuoso talents. Her performances captivated audiences, bringing them from sorrow to bliss, from righteous martial pride to almost exquisite peace\u2026 and Lestara became intrigued by the mysterious instrument that made this possible.</p>\n<p>Delving deep into the libraries of the Illuminators, she came to believe it was one of the fabled <em>etwahls</em>\u2014wondrous artifacts dating back thousands of years before Demacia\u2019s founding, and now exceedingly rare in the world. If that were true, then this was an object of magic, and Sona\u2019s preternatural connection to it was a dangerous gift indeed. Lestara urged her to keep it secret, to avoid bringing unwanted attention from the Demacian mageseekers.</p>\n<p>Sona obeyed, though she wondered how something that brought people peace could be seen as a threat.</p>\n<p>Some years later, Lord Barrett Buvelle was slain fighting Noxus at the Gates of Mourning. When Kahina took up her father\u2019s blade and military commission, the heartbroken Lestara decided the time had come for Sona to return to Ionia, and the two of them withdrew from all courtly engagements to make the journey together.</p>\n<p>In the war\u2019s aftermath, a great \u201crestoration\u201d was underway across the First Lands, but the people were much changed by what they had endured, and Sona realized there was no longer any place for her there. Saying farewell to Ionia once again, she went back to Demacia with Lestara.</p>\n<p>Even so, her chosen homeland is not without its own problems. In the wake of King Jarvan III\u2019s assassination, the mageseekers have gained significant power, and many innocent citizens are persecuted for any supposed connection to magic.</p>\n<p>As a child of two wildly different cultures, Sona increasingly finds herself at odds with her family\u2019s political allegiances. With etwahl in hand, her melodies now serve not only to provide comfort, but also to defend what she knows is right and just.</p>",
+                "short": "Sona is a virtuoso of the stringed <em>etwahl</em>, speaking only through her graceful chords and vibrant arias. Her genteel manner has endeared her to the Demacian nobility, though some speculate her arresting melodies actually emanate magic\u2014a dangerous prospect in the kingdom. Silent to outsiders but understood easily enough by close companions, Sona plucks her harmonies not only to soothe injured allies, but also to strike down unsuspecting enemies.",
+                "quote": "\u201cMy spies whisper to me of this Ionian treasure\u2014that her melody moves the soul, and her silence sunders the body.\u201d",
+                "quote_author": "Jericho Swain"
+            },
+            "header_image": null,
+            "subtitle": "Maven of the Strings",
+            "echelon": 11
+        },
+        {
+            "type": "champion",
+            "release_date": "2018-01-08T00:00:00.000Z",
+            "name": "Sylas",
+            "title": "Sylas",
+            "section_title": "Sylas",
+            "slug": "sylas",
+            "associated_faction": "",
+            "associated_faction_slug": "demacia",
+            "image": {
+                "title": "sylas-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/e653368823aa1fbaf7955ce92bca15a81abc8440-1920x1190.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1190,
+                "x": 970,
+                "y": 121,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "sylas-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/e653368823aa1fbaf7955ce92bca15a81abc8440-1920x1190.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1190,
+                "x": 970,
+                "y": 121,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/sylas",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Support",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Support",
+                    "slug": "support"
+                }
+            ],
+            "game_info_url": "https://na.leagueoflegends.com/en/featured/sylas-the-unshackled",
+            "biography": {
+                "full": "<p>As a mage born to a poor Demacian family, Sylas of Dregbourne was perhaps doomed from the start. Despite their low social standing, his parents were firm believers in their country\u2019s ideals. So, when they discovered their son was \u201cafflicted\u201d with magical abilities, they convinced him to turn himself in to the kingdom\u2019s mageseekers.</p>\n<p>Noting the boy\u2019s curious ability to sense magic, they used Sylas to identify other mages living among the citizenry. For the first time in his life he felt he had a future, a life in service to his country, and he performed these duties faithfully. He was proud, but lonely\u2014forbidden from associating with anyone but his handlers.</p>\n<p>Through his work, Sylas began to notice that magic was far more prevalent than Demacia cared to admit. He could sense glimmers of hidden power even among the wealthy and prominent\u2026 some of whom were the most outspoken decriers of mages. But while the poor were punished for their afflictions, the elite seemed above the law, and this hypocrisy planted the first seeds of doubt in Sylas\u2019 mind.</p>\n<p>Those doubts finally bloomed in one deadly, fateful event, when Sylas and his handlers encountered a mage living in hiding in the countryside. After discovering it was only a young girl, Sylas took pity on her. When he tried to shield the child from the mageseekers, he accidentally brushed against her skin. The girl\u2019s magic rushed through Sylas\u2019s body\u2014but rather than killing him, it shot forth from his hands in raw, uncontrolled bursts. It was a talent he did not know he possessed, and it resulted in the deaths of three people, including his mageseeker mentor.</p>\n<p>Knowing he would be called a murderer, Sylas went on the run, and quickly gained notoriety as one of the most dangerous mages in Demacia. Indeed, when the mageseekers found him, they showed no mercy.</p>\n<p>Though he was still just a youth, Sylas was sentenced to life imprisonment.</p>\n<p>He languished in the darkest depths of the mageseeker compound, forced to wear heavy shackles of magic-dampening petricite. Robbed of his arcane sight, his heart turned as hard as the stone that bound him, and he dreamed of vengeance on all who had put him there.</p>\n<p>After fifteen wretched years, a young volunteer from the Illuminators named Luxanna began to visit him. Even with his shackles, Sylas recognized her as a singularly powerful mage, and over time the two forged an unusual and secretive bond. In exchange for Sylas\u2019 knowledge of the control of magic, Lux educated him about the world outside his cell, and brought him whatever books he desired.</p>\n<p>Eventually, through careful manipulation, he convinced the girl to smuggle a forbidden tome into his cell\u2014the original writings of the great sculptor Durand, detailing his work with petricite.</p>\n<p>The work revealed the secrets of the stone to Sylas. It was the foundation of Demacia\u2019s defenses against harmful sorcery, but he came to see that it did not suppress magic, but <em>absorb</em> it.</p>\n<p>And if the power was held <em>within</em> the petricite, Sylas wondered, could he release it\u2026?</p>\n<p>All he needed was a source of magic. A source like Lux.</p>\n<p>But she never visited Sylas again. Her family, the immensely powerful Crownguards, had learned of their contact, and were furious that Lux had broken the law to help this vile criminal. Without explanation, it was arranged for Sylas to be executed.</p>\n<p>On the scaffold, Lux pleaded for her friend\u2019s life, but her cries fell on deaf ears. As the headsman pushed past her to raise his sword, Sylas managed to touch Lux. As he had predicted, her power surged into the petricite shackles, ready for him to unleash\u2014and with that stolen magic, Sylas blasted his way free, sparing only the terrified young Crownguard.</p>\n<p>He left the mageseeker compound not as an outcast, but as a new, defiant symbol of the broken and persecuted in Demacia. While traveling the kingdom in secret, he amassed a following of exiled mages\u2026 However, perhaps he always knew that even their combined power would not be enough to succeed in toppling the throne.</p>\n<p>Which is why, with a band of his closest followers and several hardy oxen, Sylas eventually journeyed over the northern mountains to the frozen tundra of the Freljord.</p>\n<p>There he seeks new allies, and the great elemental magic of ancient legend, so that he might return to Demacia and demolish the oppressive system that has made him and his fellow mages suffer for so long.</p>",
+                "short": "Raised in one of Demacia\u2019s lesser quarters, Sylas of Dregbourne has come to symbolize the darker side of the Great City. As a boy, his ability to root out hidden sorcery caught the attention of the notorious mageseekers, who eventually imprisoned him for turning those same powers against them. Having now broken free, Sylas lives as a hardened revolutionary, using the magic of those around him to destroy the kingdom he once served\u2026 and his band of outcast mage followers seems to grow by the day.",
+                "quote": "\u201cI am no traitor. I am the true Demacia.\u201d",
+                "quote_author": "Sylas"
+            },
+            "header_image": null,
+            "subtitle": "the Unshackled",
+            "echelon": 12
+        },
+        {
+            "type": "champion",
+            "release_date": "2011-05-10T00:00:00.000Z",
+            "name": "Vayne",
+            "title": "Vayne",
+            "section_title": "Vayne",
+            "slug": "vayne",
+            "associated_faction": "",
+            "associated_faction_slug": "demacia",
+            "image": {
+                "title": "Vayne_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/beb13350daed0456c1f0feb6b0e8175c23443ebe-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1122,
+                "y": 76,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Vayne_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/beb13350daed0456c1f0feb6b0e8175c23443ebe-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1122,
+                "y": 76,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/vayne",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/vayne",
+            "biography": {
+                "full": "<p>Shauna Vayne is a deadly, remorseless monster hunter who has pledged her life to finding and killing the demon who murdered her family. Armed with her wrist-mounted crossbows and a heart full of vengeance, Vayne is only truly happy when she\u2019s slaying practitioners or creations of the dark arts.</p><p>As the only child to a wealthy Demacian couple, Vayne enjoyed an upbringing of privilege. She spent most of her childhood indulged in solitary pursuits \u2013 reading, learning music, and avidly collecting the various insects found on their manor\u2019s grounds. Her parents had traveled across Runeterra in their youth, but settled in Demacia after Shauna\u2019s birth because more than any place they\u2019d found, Demacians looked out for one another.</p><p>Shortly after Vayne\u2019s sixteenth birthday, she returned home from a midsummer banquet and saw something she would never forget. </p><p>An unspeakably beautiful, horned woman stood before the bloodied corpses of her parents.</p><p>Vayne screamed in agony and terror. Before disappearing, the demon looked down at the young girl and flashed her a terrible, lustful smile. </p><p>Vayne tried to brush the bloody hair out of her mother\u2019s eyes, but that haunting smile lingered in her mind, growing and consuming her. Even as she shakily smoothed her father\u2019s eyelids closed \u2013 his mouth still agape, frozen in his last horrific moments of confusion \u2013 the demon\u2019s smile seeped through her thoughts. </p><p>It was a smile that would fill Shauna\u2019s veins with hatred for the rest of her days.</p><p>Vayne tried to explain what happened, but no one truly believed her. The thought of a demon on the loose \u2013 in the well-defended, magic-averse kingdom of Demacia, of all places \u2013 was too far-fetched to consider.</p><p>Vayne knew better. She knew from the demon\u2019s smile the enchantress would strike again. Even Demacia\u2019s tall walls couldn\u2019t keep dark magic from creeping through the cracks. It may disguise itself with subtleties or keep to shadowed corners, but Vayne knew it was there. </p><p>And she was done being afraid.</p><p>Vayne had a heart full of hatred and enough coin to outfit a small army, but where she would go, no army dared follow. She needed to learn everything about dark magic: How to track it. How to stop it. How to kill those who practiced it.</p><p>She needed a teacher.</p><p>Her parents had told her stories of iceborn warriors who fought against an Ice Witch in the north. For generations, they had defended themselves from her unknowable forces and dark minions. This, Vayne knew, would be where she would find her tutor. She evaded her appointed custodians and booked passage on the next ship to the Freljord.</p><p>Shortly after arriving, Vayne set out in search of a monster hunter. She found one, although not in the way she intended. Traversing a frozen ravine, Vayne was ensnared by a cleverly carved icetrap. After tumbling to the bottom of a jagged, crystalline pit, Vayne stared up to see a ravenous ice troll, lips smacking with anticipation as he gazed upon his catch.</p><p>His gigantic blue tongue fell limp as a spear whistled through the air, pierced the troll\u2019s skull and planted itself deep in his brain. The giant toppled into the pit and Vayne rolled aside just in time to escape being crushed. A sticky pool of drool and blood collected at her boots.</p><p>Vayne\u2019s savior was a grizzled, middle-aged woman named Frey. She bandaged Vayne\u2019s wounds as they clung to the warmth of a campfire that struggled to stay ablaze in the frigid canyon. Frey told Vayne of her life\u2019s work spent fighting the Ice Witch\u2019s minions who had murdered her children. Vayne implored the woman to take her on as a student and teach her to track the dark creatures of the world, but the Freljordian had no interest. Vayne stank of privilege and money, neither of which kept your teeth gritted or your blade sharp through the grueling perseverance of a fight.</p><p>Vayne couldn\u2019t accept Frey\u2019s answer and challenged her to a duel: if she won, Frey would train her. If she lost, she\u2019d offer herself as bait to the Ice Witch\u2019s minions, so Frey could ambush them. Vayne had no reason to think she\u2019d win \u2013 her training amounted to a single afternoon of studying fencing before she wearied of trying to fight with one hand behind her back \u2013 but she refused to back down. To reward Vayne\u2019s mettle, Frey threw snow in Vayne\u2019s eyes and subsequently taught her the first rule of monster hunting: don\u2019t play fair.</p><p>Frey saw a determination in Vayne she couldn\u2019t help but respect. The girl had a long way to go as a fighter, but each time Vayne pushed her bruised body up from the dirtied snow to continue the fight, Frey saw a little more of the relentless hunter this girl could become. Beaten in skill, but never in spirit, Vayne beseeched Frey one last time: both of their families were dead. Frey could spend the rest of her days tracking ice trolls until one of them caved her head in, or she could teach Vayne. Together, they could kill twice as many monsters. Together, they could save twice as many families from experiencing the pain that defined them both. Frey saw the same hatred and loss in Vayne\u2019s eyes her own had burned with for years. </p><p>Frey agreed to accompany Vayne back to Demacia.</p><p>Together they made the journey south, heavily disguising Frey to illude Demacia\u2019s border guards. Once back at Vayne\u2019s estate, the two spent years training. Despite the pageant of suitors who solicited Vayne\u2019s company, Shauna had no interest in anything other than training with Frey. As a result, the two became incredibly close.</p><p>Frey taught Vayne the fundamentals of dark magic, conjured beasts, and vile spells. Vayne committed every word of Frey's teachings to heart, but found it slightly unnerving that Frey never explained how she came to know so many specifics of these malefic practices. </p><p>Due to the kingdom\u2019s watchful soldiers and antimagic trees, dark creatures were rare within Demacia's walls, so Frey and Vayne would venture into the border forests at night to hunt. Vayne earned her first kill \u2013 a bloodthirsty creature who preyed on traveling merchants \u2013 at the age of eighteen.</p><p>Soaked in the creature\u2019s viscera, something awoke within Vayne: pleasure. The hot flush of vengeance and violence raced through her blood, and she relished in the sensation. </p><p>Vayne and Frey spent several years hunting dark creatures, their respect for one another growing with every kill. One day, Vayne realized that she loved Frey like a mother, but her emotions of familial love were so tangled with pain and tainted by trauma, Vayne fought them as she would any beast out to hurt her.</p><p>Vayne and Frey traveled Valoran, until tavern tales from the highlands caught their ear, whispering of a demonic horned creature of mesmerizing beauty. According to the stories, the demon had been busy: she\u2019d formed a cult, designed to attract worshippers who would do her bidding. People would walk into the hills, never to be heard from again. It was said the cult\u2019s high priests had a holy grounds near the cliffside, where they\u2019d prepare the demon\u2019s sacrificial offerings. Vayne and Frey immediately set off on the hunt.</p><p>As they journeyed into the hills by cover of night, Vayne found herself distracted. For the first time since their partnership began, she felt worried for Frey \u2013 worried she might lose her mother figure for a second time. Before she could confess her fear, one of the demon\u2019s priests lunged from the brush, swinging a mace into Vayne\u2019s shoulder. </p><p>Vayne was badly wounded. Frey had a brief moment of hesitation, but her eyes steeled with certainty as she apologized to her friend and transformed into a monstrous Freljordian wolf. As Vayne watched in shock, Frey \u2013 in her animalistic form \u2013 tore the priest\u2019s tendons from his throat with a swift snap of her mighty jaws.</p><p>With the priest\u2019s body laid strewn at Vayne\u2019s feet, Frey retook her human form, yet her eyes betrayed the scared animal within. She explained that after the death of her family, she had become a shaman, inviting the curse upon herself in order to gain the power to change shape and fight against the Ice Witch. The ritual that gave her these powers involved dark magic, but she made this sacrifice to protect\u2013</p><p>\u2013Vayne put an arrow through Frey\u2019s heart without allowing her another syllable. Whatever affection she had felt for Frey evaporated upon discovering her true nature. A tear formed in Frey\u2019s eye as she collapsed, but Vayne didn\u2019t notice \u2013 whatever warmth the two had shared died with Frey.</p><p>There were still hours left before dawn, which meant hours left to continue the hunt. Vayne thought only of the demon. The kill that would be hers to savor. And all the kills to come. Runeterra\u2019s underworld would come to fear her, just as she had once feared them.</p><p>For the first time since her parents\u2019 death, Vayne smiled.</p>",
+                "short": "Shauna Vayne is a deadly, remorseless Demacian monster hunter, who has dedicated her life to finding and destroying the demon that murdered her family. Armed with a wrist-mounted crossbow and a heart full of vengeance, she is only truly happy when slaying practitioners or creations of the dark arts, striking from the shadows with a flurry of silver bolts.",
+                "quote": "\u201cI don\u2019t kill creatures like you because it\u2019s the right thing to do. I kill you because I enjoy it.\u201d",
+                "quote_author": "Vayne"
+            },
+            "header_image": null,
+            "subtitle": "the Night Hunter",
+            "echelon": 13
+        },
+        {
+            "type": "champion",
+            "release_date": "2010-07-13T00:00:00.000Z",
+            "name": "Xin Zhao",
+            "title": "Xin Zhao",
+            "section_title": "Xin Zhao",
+            "slug": "xinzhao",
+            "associated_faction": "",
+            "associated_faction_slug": "demacia",
+            "image": {
+                "title": "XinZhao_Splash_Banner_v2.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe_live/012f791aeeff7d8270f5576abe72990277d38b1d-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 1024,
+                "y": 309,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "XinZhao_Splash_Banner_v2.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe_live/012f791aeeff7d8270f5576abe72990277d38b1d-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 1024,
+                "y": 309,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/xinzhao",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "game_info_url": "https://www.leagueoflegends.com/en-us/champions/xinzhao/",
+            "biography": {
+                "full": "<p>Rumored to have never lost in one-on-one combat, Xin Zhao spent much of his life fighting an uphill battle. Some of his earliest memories are of the <i>Viscero</i>, an Ionian fishing boat he served aboard off the coast of Raikkon. A diligent cabin boy, he obeyed his elders\u2019 every request\u2014from cleaning grimy decks to fixing tangled nets\u2014and enjoyed a peaceful existence\u2026 until the day they unknowingly ventured too deep into foreign waters.</p><p>A pair of privateer ships from Noxus chased down the smaller vessel. Their commander cited the glory of the empire as he boarded, claiming the <i>Viscero</i> and its crew as his rightful property. They were mostly ageing fishermen, unfit for military service, but they would be taken back to Noxian territory regardless.</p><p>After enduring a tough journey across the open ocean, Xin Zhao found himself in a strange new land. There was no delicate beauty in the waters here, no magic in the trees. Imposing gateways and fortified stone walls unlike anything he had ever seen lined the streets, and the people were crammed into every available inch of space. He learned this was the capital of Noxus, and it was from here that a man known as \u201cDarkwill\u201d ruled the vast empire. Separated from the rest of the <i>Viscero</i>\u2019s crew, and with no means of returning home, Xin Zhao entered the service of the man who had taken him prisoner.</p><p>His skill with a spear did not go unnoticed, and soon he was promised a better life\u2014with meals served on plates\u2014in exchange for his martial prowess. Noxus celebrated strength, and his patron deemed him to be a strong fighter.</p><p>Having nothing to lose, the young man accepted. He shed his ragged clothes for crude armor, and entered the Reckoning arenas.</p><p>Truly, this was a strange form of entertainment. Mighty warriors, known by even mightier titles, fought each other before ravenous crowds, who cheered for displays of skill and showmanship as often as they did for blood. Xin Zhao, taking the name \u201cViscero\u201d, was catapulted into success. His bouts soon filled the seats of every arena\u2026 and also the pockets of his sponsors. In only a few short years, Viscero became a celebrated name\u2014one that audiences adored, and other Reckoners came to fear.</p><p>But this good fortune did not last.</p><p>Beyond the distractions of the Reckoner circuit, the empire faced difficult times. Hostile nations encroached upon its territories, provoking rebellion all along the Noxian frontier. It was rumored that Darkwill and his advisors had offered a fortune in gold for the private release of mercenaries, prisoners, and Reckoners alike, to be conscripted into the empire\u2019s warhosts. With little more than a handshake, Xin Zhao and his fellows were bought out, and placed on a transport ship heading west.</p><p>Here, at the coastal fortress of Kalstead, the names and reputations of even the most well-known Reckoners counted for little. They were hurled into battle against the elite forces of King Jarvan III of Demacia, who was determined to curb Noxian influence on Valoran\u2026 and Xin Zhao quickly learned that war was unlike any arena duel.</p><p>While many of the former Reckoners deserted in the face of inevitable defeat, Xin Zhao held his ground, staining his spear with the blood of hundreds. When the king\u2019s Dauntless Vanguard\u2014some of whom were silently impressed by his skill\u2014finally surrounded him, still he refused to run. Xin Zhao stood tall, welcoming his execution.</p><p>However, Jarvan thought differently. Unlike the arena crowds, the king of Demacia took no pleasure in needless killing. He granted the defeated Noxians their freedom, if they would swear to leave Kalstead in peace. Surprised by this show of mercy, Xin Zhao thought about what awaited him back in Noxus. He could return to a society where his life had meant little beyond the gold he earned for his patrons\u2026 or he could fight for those who embodied the virtues to which he, himself, aspired.</p><p>Compelled by honor, he knelt before Jarvan III, pledging himself to the king\u2019s service.</p><p>In the decades that followed, Xin Zhao proved his loyalty time and again. As Seneschal of the royal household, he became bodyguard and advisor not only to his friend and master, but also to the king\u2019s son\u2014young Prince Jarvan, who would one day inherit the crown.</p><p>Xin Zhao\u2019s path to becoming a Demacian may have been unusual, yet never once has he faltered in his commitment to the kingdom and its ideals. This is not from a sense of duty, he reasons, but by choice.</p>",
+                "short": "Xin Zhao is a resolute warrior loyal to the royal family of Demacia. Once condemned to the fighting pits of Noxus, he survived countless Reckonings\u2014but after facing the forces of King Jarvan III in battle, he decided to relinquish his past life in favor of serving what he saw as a more honorable cause. Armed with a Demacian steel spear gifted to him by the throne, Xin Zhao now fights for his adopted kingdom, audaciously challenging any foe no matter the odds.",
+                "quote": "\u201cNeither my spear nor my spirit falters.\u201d",
+                "quote_author": "Xin Zhao"
+            },
+            "header_image": null,
+            "subtitle": "the Seneschal of Demacia",
+            "echelon": 14
+        }
+    ]
+}

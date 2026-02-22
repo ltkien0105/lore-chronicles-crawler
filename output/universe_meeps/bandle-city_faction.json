@@ -1,0 +1,544 @@
+{
+    "id": "bandle-city",
+    "name": "Bandle City Faction Page",
+    "locale": "en_us",
+    "faction": {
+        "slug": "bandle-city",
+        "image": {
+            "title": "bandle-city_splash.jpg",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/109f1c35b08e87598eaa1e0755a992e17d9425c2-1920x1080.jpg?accountingTag=LoL",
+            "encoding": "image/jpeg",
+            "width": null,
+            "height": null,
+            "x": null,
+            "y": null,
+            "featured_champions": []
+        },
+        "video": {
+            "title": "bandle-city-splashvideo.webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/84d14187e66ee28277609d55a3db93b96ae2a34c.webm?accountingTag=LoL",
+            "encoding": "video/webm",
+            "width": null,
+            "height": null,
+            "x": null,
+            "y": null,
+            "featured_champions": []
+        },
+        "name": "Bandle City",
+        "overview": {
+            "short": "Opinions differ as to where exactly the home of the yordles is to be found, though a handful of mortals claim to have traveled unseen pathways to a land of curious enchantment beyond the material realm. They tell of a place of unfettered magic, where the foolhardy can be led astray by myriad wonders, and end up lost in a dream...</p><p>In Bandle City, it is said that every sensation is heightened for non-yordles. Colors are brighter. Food and drink intoxicates the senses for years and, once tasted, will never be forgotten. The sunlight is eternally golden, the waters crystal clear, and every harvest brings a fruitful bounty. Perhaps some of these claims are true, or maybe none\u2014for no two taletellers ever seem to agree on what they actually saw.</p><p>Only one thing is known for certain, and that is the timeless quality of Bandle City and its inhabitants. This might explain why those mortals who find their way back often appear to have aged tremendously, while many more never return at all."
+        },
+        "header_image": ""
+    },
+    "champion_list_order": 0,
+    "associated_champions": [
+        {
+            "type": "champion",
+            "release_date": "2009-09-19T00:00:00.000Z",
+            "name": "Corki",
+            "title": "Corki",
+            "section_title": "Corki",
+            "slug": "corki",
+            "associated_faction": "",
+            "associated_faction_slug": "bandle-city",
+            "image": {
+                "title": "Corki_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/5bf51137ae5bdf98b83e2e791f6c288d6121470d-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 966,
+                "y": 91,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Corki_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/5bf51137ae5bdf98b83e2e791f6c288d6121470d-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 966,
+                "y": 91,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/corki",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/corki",
+            "biography": {
+                "full": "<p>When Heimerdinger and his yordle colleagues migrated to Piltover, they embraced science as a way of life, and they immediately made several groundbreaking contributions to the techmaturgical community. What yordles lack in stature, they make up for with industriousness. Corki, the Daring Bombardier, gained his title by test-piloting one of these contributions - the original design for the Reconnaissance Operations Front-Line Copter, an aerial assault vehicle which has become the backbone of the Bandle City Expeditionary Force (BCEF). Together with his squadron - the Screaming Yipsnakes - Corki soars over Valoran, surveying the landscape and conducting aerial acrobatics for the benefit of onlookers below.</p><p>Corki is the most renowned of the Screaming Yipsnakes for remaining cool under fire and exhibiting bravery to the point of madness. He served several tours of duty, often volunteering for missions that would take him behind enemy lines, either gathering intelligence or delivering messages through hot zones. He thrived on danger, and enjoyed nothing more than a good dogfight in the morning. More than just an ace pilot, Corki also made several modifications to his copter, outfitting it with an arsenal of weapons which some speculate were more for show than functionality. When open hostilities ceased, Corki was forced into a retirement, which he felt &apos;&apos;cut the engines and clipped the wings.&#x2019;&#x2019; He tried to make do with stunt flying and canyon running, but it was never the same without the refreshing smell of gunpowder streaking through the air around him.</p>",
+                "short": "The yordle pilot Corki loves two things above all others: flying, and his glamorous mustache... though not necessarily in that order. After leaving Bandle City, he settled in Piltover and fell in love with the wondrous machines he found there. He dedicated himself to the development of flying contraptions, leading an aerial defense force of seasoned veterans known as the Screaming Yipsnakes. Calm under fire, Corki patrols the skies around his adopted home, and has never encountered a problem that a good missile barrage couldn\u2019t solve.",
+                "quote": "\u201cDeath from above!\u201d",
+                "quote_author": "Corki"
+            },
+            "header_image": null,
+            "subtitle": "the Daring Bombardier",
+            "echelon": 0
+        },
+        {
+            "type": "champion",
+            "release_date": "2012-03-20T00:00:00.000Z",
+            "name": "Lulu",
+            "title": "Lulu",
+            "section_title": "Lulu",
+            "slug": "lulu",
+            "associated_faction": "",
+            "associated_faction_slug": "bandle-city",
+            "image": {
+                "title": "Lulu_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/8cadd76b5624b8dab1cafbdfe04ee285197dd594-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 956,
+                "y": 173,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Lulu_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/8cadd76b5624b8dab1cafbdfe04ee285197dd594-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 956,
+                "y": 173,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/lulu",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Support",
+                    "slug": "support"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Support",
+                    "slug": "support"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/lulu",
+            "biography": {
+                "full": "<p>Lulu was always a caring and deeply empathetic yordle, who lived as much in her whimsical daydreams as in reality. One day, while wandering the material realm, she came upon what appeared to be a bird with a broken wing. She ran to help, at which point the bird turned into a tiny, mischievous fae spirit. Before she could react, the faerie grabbed her walking stick and took off. Giggling, Lulu gave chase.</p><p>The spirit led her far into the forest. They went over boulders, under logs, and around ancient, overgrown stone circles. The faerie darted into a cave hidden behind a waterfall, and Lulu went after it. It flittered ahead, always just out of reach.</p><p>Down and down and down they went. Lulu tumbled and scrambled around twisted roots and glowing mushrooms, and at some point they crossed over into the spirit realm without her realizing it. Their surroundings became progressively stranger and more disorienting; up became down, forward became backward, big became small.</p><p>Finally, after what seemed forever, Lulu caught up with the faerie, whose name, she discovered, was Pix.</p><p>With a click of his tiny fingers, Pix turned her humble walking stick into a spiraling staff, and tossed it back to her. It sprouted leaves and flowers, making Lulu gasp in delight. So began their forever-friendship, built of mischief, fun, and love of nature.</p><p>Pix had led her to the Glade. </p><p>Bandle City, Lulu\u2019s home, was a bizarre and magical place that defied logic, where time was meaningless and the natural laws of the material realm did not wholly apply. And yet the Glade was a place stranger still\u2014it existed long before yordles came into the world, and it was perhaps from the Glade that Bandle City itself sprung. A place of raw primordial magic, it was hidden away so deeply that no yordle had ever found it\u2026 until now.</p><p>Here, Lulu\u2019s own magic became wildly magnified. Laughing joyfully, she discovered she could reshape her surroundings at will, as well as alter her form to whatever she wanted. Everything and anything from her overactive imagination came to life. </p><p>Lulu didn\u2019t know if Pix had brought her here because he saw in her a kindred soul and simply wanted someone to play with, or if the Glade needed her for some other purpose\u2014but she fell in love with it instantly. Her life became one of endless creation and play, and she soon forgot anything else existed. </p><p>When finally she remembered, it was like waking from a dream.</p><p>She found herself back in the material realm, not knowing if a single day had passed, or a thousand years. To her surprise and joy, she found that some of her newfound power had come with her, allowing her to make small things large, change colors to those more pleasing to her, and cause creatures to fall spontaneously asleep. To Pix\u2019s endless amusement, she turned the mightiest beasts into tiny, bewildered frogs or squirrels with a flick of her staff.</p><p>Nevertheless, she began to miss the Glade. She decided to go back, but realized she didn\u2019t remember the way. Pix was no help, claiming to have forgotten as well, though it was possible he just didn\u2019t want to return quite yet. </p><p>Unperturbed, Lulu set out anyway. She was certain the route back to the Glade was always shifting, making one way as good as another. She simply picked whatever direction took her fancy at any particular moment, and even threw herself into seemingly terrible danger whenever it looked fun. Her travels took her far and wide, and magic, mayhem, and mishap tended to follow wherever she went.</p><p>In Demacia, she freed a group of children from their boring history lessons, and led them off into a nearby meadow. Her game resulted in them being turned into toadstools for a full turn of the moon, while their desperate parents and the local militia searched for them in vain. It wasn\u2019t quite what Lulu had intended, but fun nonetheless. When the children finally returned home and told everyone what had happened, no one believed them.</p><p>In the borderlands of the Freljord, Lulu thought it would be hilarious to change the weapons of two rival tribes into flowers just as they clashed, which resulted in absolute chaos and confusion. More recently, she has found herself happily lost in Ionia, playing in the glowing everblooms of Qaelin, and playing pranks on bewildered acolytes of the Order of Shadow, who she thinks are far too serious for their own good.</p><p>While Lulu seeks to return to the Glade, and misses it, she is happy, for every day brings more opportunity for adventure and fun. </p><p>And besides, she has come to realize that she carries a part of the Glade in her heart, wherever she goes.</p>",
+                "short": "The yordle mage Lulu is known for conjuring dreamlike illusions and fanciful creatures as she roams Runeterra with her fairy companion Pix. Lulu shapes reality on a whim, warping the fabric of the world, and what she views as the constraints of this mundane, physical realm. While others might consider her magic at best unnatural, and at worst dangerous, she believes everyone could use a touch of enchantment.",
+                "quote": "''The best path between two points is upside-down, between, then inside-out and round again.''",
+                "quote_author": "Lulu"
+            },
+            "header_image": null,
+            "subtitle": "the Fae Sorceress",
+            "echelon": 1
+        },
+        {
+            "type": "champion",
+            "release_date": "2026-02-12T19:00:00.000Z",
+            "name": "Norra",
+            "title": "Norra",
+            "section_title": "Norra",
+            "slug": "norra",
+            "associated_faction": "",
+            "associated_faction_slug": "bandle-city",
+            "image": {
+                "title": "Norra_1920x1080_Prefer this one.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe_live/11e3f6bb92001305252d12841d9c763454967118-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 960,
+                "y": 650,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Norra_1920x1080_Prefer this one.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe_live/11e3f6bb92001305252d12841d9c763454967118-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 960,
+                "y": 650,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/norra",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "game_info_url": "https://wildrift.leagueoflegends.com/en-us/champions/",
+            "biography": {
+                "full": "<p>\"Oh dear, oh dear,\" Norra muttered half to herself, rustling through the trinkets and tomes lining the uppermost shelves of her cluttered, yet unmistakably grand, library. As she combed each row, the books reacted to her touch. Brave ones grew bigger, their text boldening, clamoring \u201cREAD ME,\u201d while shyer titles shrunk as she scanned their spines. Norra addressed each book with a friendly pat or a decorous wave.</p>\n\n<p>She was perched precariously atop a tower of stout volumes stacked to a staggering height. It swayed to and fro, compelled by magic to arrange itself however the yordle pleased.</p>\n\n<p>\u201cA little to the left,\u201d Norra guided, and the pile of poetry and prose clumsily moved right. \u201cMy left,\u201d Norra insisted, before each piece of the tower shifted in tandem, creating a great clunking and shuffling of pages that would make any ordinary librarian proclaim, \u201cShhh!\u201d</p>\n\n<p>But Norra was no ordinary librarian, if the spellbound spire on which she stood wasn\u2019t evidence enough. Her stockpile contained literature and history, yes, but also subjects other scholars might dismiss:</p>\n\n<p><center>All the Hubbub About Shrubbery</center></p>\n<p><center>Yordle Etiquette for Beginners</center></p>\n<p><center>Rock Solid: A Story of Stone</center></p>\n<p><center>The Elongated History of Taffy</center></p>\n<p><center>Pleasing Poems for Pirates</center></p>\n\n<p>Not all of the library housed its knowledge in books, of course. One as wise as Norra knew that a great deal could be gleaned from memories. And any one of these many-hued threads\u2014wisdom and wonder, heartbreak and heroism, and every shade besides\u2014could be plucked from even the most mundane-seeming objects. In the paws of a gifted sorcerer, these memories could unlock secrets of the past\u2014or, perhaps more miraculously, weave a doorway from one place to another.</p>\n\n<p>In the paws of this particular sorcerer, a portal woven from such thread could connect a tea room to a turnip patch, a bathroom to a barley field, or even one realm to another\u2014a gap that anyone less than extraordinary at such a craft would find immensely tricky to breach.</p>\n\n<p>\u201cNow where did I put that confounded knickknack?\u201d</p>\n\n<p>\u201cIs this the one?\u201d A pair of feline toe beans poked through an opening in a nearby shelf and wiggled out a strangely-shaped mass of metal. Perhaps it was once a musical instrument for birds, with its small levers and a mouthpiece perfectly suited to beaks of many sizes. Or maybe it was a cartographer\u2019s guide of old, and peering through it\u2014while pressing a sequence of its metal buttons\u2014allowed one to chart the stars.</p>\n\n<p>Regardless of its former function, the object now served another: access to a memory dear to its previous owner. Knocked from its perch, the doodad toppled from the shelf and began its predictable plummet toward the floor.</p>\n\n<p>Norra reached out her arm, and like an extension of herself, her construction of canon followed. The tower weaved through the air like a serpent, keeping its mistress perfectly balanced as she stretched beyond gravity\u2019s purview to snatch the trinket from its descent.</p>\n\n<p>\u201cSplendid!\u201d she exclaimed. \u201cI\u2019ve still got it.\u201d</p>\n\n<p>\u201cMy turn!\u201d With a mischievous chirp, Norra\u2019s lively companion Yuumi leapt from her post high above in a rush of freshly-brushed white fur. \u201cFaster than a falling book!\u201d the magical cat yowled, legs splayed out before her as she careened toward her owner without a care.</p>\n\n<p>Not a moment too soon, the reflexes\u2014and celebrated luck\u2014of Yuumi\u2019s feline ancestry kicked in. She landed safely with a plomp in Norra\u2019s arms, where she received compulsory pats and responded in kind with a pleasant, vibrating purrrr. \"So what\u2019s inside?\"</p>\n\n<p>\u201cThat\u2019s the next part of the puzzle, isn\u2019t it?\u201d Norra began to fiddle with what-could-very-well-have-been-a fiddle, lightly tapping on its sides and turning it over, hoping to uncover the mysteries within. \u201cWhy, this is the invention of a most fascinating yordle!\u201d</p>\n\n<p>Yuumi, ever the curious cat, joined in the inspection. She batted around the object\u2019s base, delighting in what began as a chore but had since become a game.</p>\n\n<p>\u201cYuumi, do be careful!\u201d</p>\n\n<p>But Norra\u2019s outcry came too late, for Yuumi had cleanly swiped the bottommost button. A button that only moments ago, Norra had discovered. A button that if Yuumi could read\u2014and she could not\u2014would have told her:</p>\n\n<p><center>\u201cDO NOT PUSH.\u201d</center></p>\n\n<p>Suddenly, announced by a sharp, exhilarating screech, the device in Norra\u2019s arms started spewing an amorphous azure goo. It shot to the ceiling before arching backwards toward the pair, a rainfall of sludge fast-approaching. As the pitch of the machine rose to a steady whine, so too did the speed of the downpour increase.</p>\n\n<p>\u201cDear me!\u201d With a flick of her wrist, Norra summoned a shiny bubble, swathing Yuumi and her precious fur in protective magic. \u201cLook for the off switch, Yuumi!\u201d The cat obeyed, pawing at the still-spitting gloop generator.</p>\n\n<p>At last, Yuumi\u2019s claw snagged a lever too small for most paws. She yanked, and the device sputtered to a stop. The friends regarded each other with wordless disbelief\u2026 then burst into a chorus of laughter.</p>\n\n<p>\u201cHow\u2019d you know that was the right lever?\u201d Norra asked. </p>\n\n<p>\u201cI didn\u2019t!\u201d replied Yuumi, through spouts of spirited hiccups. \u201cWhy\u2019d you want that sticky thing anyways?\u201d</p>\n\n<p>\u201cYou know, for the life of me, I don\u2019t rightly remember!\u201d Their hysterics resumed, the two friends finding rapturous delight in their messy misadventure.</p>\n\n<p><center>*        *        *</center></p>\n\n<p>Norra awoke with a start, clutching the device firmly in her grasp. Watching the impossible architecture of Realm\u2019s End swirl around her, she remembered with a shiver how far from the comfort of her own library she had come.</p>\n\n<p>Just below her thumb, the button\u2019s warning had changed altogether: \u201cLOST? PUSH ME.\u201d In her heart, Norra had always suspected this device would prove useful, though she had not then fully known why.</p>\n\n<p>She turned it over in her palm, relieved that it had at last chosen to cooperate. There was no magical cat here to assist in the clean-up, after all. No playful purr to fill the silence, nor unkempt fur to smooth back into place. </p>\n\n<p>\u201cI\u2019ll find my way back, Yuumi,\u201d Norra said aloud. \u201cDon\u2019t fret.\u201d With a press of her paw, she activated the device, and a pleasant chiming sprung forth, its music filling her mind with thoughts of home.</p>\n\n<p>She concentrated hard on the memory within the device. Before long, a portal flickered before her, sewn from the thread of an afternoon spent with her dearest friend. She stepped inside\u2014and disappeared.</p>\n\n",
+                "short": "Norra, the Portal Mistress, is an esteemed magician and keeper of the most enviable library in Bandle City. She weaves colorful threads of memory into her crafty realm-hopping portals, proving that magic lies in even the most ordinary of trinkets. Ever the curious yordle, she was accidentally transported to a far-flung realm when she explored the Book of Threshold\u2019s mysterious final chapter. Now Norra must summon every ounce of wit within her to find a way home\u2014where her faithful cat, Yuumi, waits patiently, and the kettle is always warm.",
+                "quote": "\u201cJoy is a good look in a book, and a cat in the lap.\u201d",
+                "quote_author": ""
+            },
+            "header_image": null,
+            "subtitle": "The Portal Mistress",
+            "echelon": 2
+        },
+        {
+            "type": "champion",
+            "release_date": "2011-04-26T00:00:00.000Z",
+            "name": "Rumble",
+            "title": "Rumble",
+            "section_title": "Rumble",
+            "slug": "rumble",
+            "associated_faction": "",
+            "associated_faction_slug": "bandle-city",
+            "image": {
+                "title": "Rumble_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/96575d035661d8c3238a1a8f098aebefb5641862-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 968,
+                "y": 6,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Rumble_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/96575d035661d8c3238a1a8f098aebefb5641862-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 968,
+                "y": 6,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/rumble",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/rumble",
+            "biography": {
+                "full": "<p>Even amongst yordles, Rumble was always the runt of the litter. As such, he was used to being bullied. In order to survive, he had to be scrappier and more resourceful than his peers. He developed a quick temper and a reputation for getting even, no matter who crossed him. This made him something of a loner, but he didn&apos;t mind. He liked to tinker, preferring the company of gadgets, and he could usually be found rummaging through the junkyard. </p><p>Rumble showed great potential as a mechanic, and his teachers recommended him for enrollment at the Yordle Academy of Science and Progress in Piltover. He may very well have become one of Heimerdinger&apos;s esteemed proteges, but Rumble refused to go. He believed that Heimerdinger and his associates were &apos;&apos;sellouts,&apos;&apos; trading superior yordle technology to humans for nothing more than a pat on the head while yordles remained the butt of their jokes. </p><p>When a group of human graduates from the Yordle Academy sailed to Bandle City to visit the place where their mentor was born and raised, Rumble couldn&apos;t resist the temptation to see them face-to-face (so to speak). He only intended to get a good look at the humans, but four hours and several choice words later, he returned home bruised and bloodied with an earful about how he was an embarrassment to &apos;&apos;enlightened&apos;&apos; yordles like Heimerdinger. </p><p>The next morning, Rumble left Bandle City without a word, and wasn&apos;t seen again for months. When he returned, he was at the helm of a clanking, mechanized monstrosity. He marched it to the center of town amidst dumbfounded onlookers and there announced that he would show the world what yordle-tech was really capable of achieving.</p>",
+                "short": "Rumble is a young inventor with a temper. Using nothing more than his own two hands and a heap of scrap, the feisty yordle constructed a colossal mech suit outfitted with an arsenal of electrified harpoons and incendiary rockets. Though others may scoff and sneer at his junkyard creations, Rumble doesn't mind\u2014after all, he's the one with the flamespitter.",
+                "quote": "''Ugh, it's gonna take forever to scrape your face off my suit!''",
+                "quote_author": "Rumble"
+            },
+            "header_image": null,
+            "subtitle": "the Mechanized Menace",
+            "echelon": 3
+        },
+        {
+            "type": "champion",
+            "release_date": "2009-02-21T00:00:00.000Z",
+            "name": "Teemo",
+            "title": "Teemo",
+            "section_title": "Teemo",
+            "slug": "teemo",
+            "associated_faction": "",
+            "associated_faction_slug": "bandle-city",
+            "image": {
+                "title": "Teemo_0_v2.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/cbec5c5ced03b21b745997294e4a391d77cf6720-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 675,
+                "y": 93,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Teemo_0_v2.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/cbec5c5ced03b21b745997294e4a391d77cf6720-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 675,
+                "y": 93,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/teemo",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/teemo",
+            "biography": {
+                "full": "<p><i>On my honor as a scout, I will strive:</i></p>\n<p><i>To help every living thing thrive</i></p>\n<p><i>To be a friend to all in need</i></p>\n<p><i>To seek out every rock and tree</i></p>\n<p><i>To be honest and kind and brave and true</i></p>\n<p><i>To try my best in all I do</i></p>\n<p><i>To meet every challenge with courage and wit</i></p>\n<p><i>And to leave the world better than when I found it</i></p>\n<p><i>So I pledge to uphold the Bandle Scout way</i></p>\n<p><i>And serve yordlekind each and every day!</i></p>\n\t<p>\u2014The Bandle Scout Oath</p>\n\n<br>\n\n\n<p>Teemo has been a Bandle Scout for as long as he can remember\u2014hopping through portals all across Runeterra in order to find people in need (badge 131: \u201cHelp a Stranger\u201d), to befriend new creatures (badge 389: \u201cAdopt a Pet\u201d), or even to document strange new species of mushrooms (badge 248: \u201cFungology Expert\u201d). For Teemo, there was no greater joy than spending his days seeking adventure and earning Bandle Scout badges, which was how he became the most decorated Bandle Scout the world had ever seen.</p>\n\n<br>\n<center><i>Bandle Scout rule #154: Never fear the unknown.</i></center>\n<br>\n\n<p>When other yordles saw everything Teemo had accomplished, his dedication and enthusiasm inspired them to become Bandle Scouts. What began as a single scout with a dream grew and grew until Teemo was handing out badges to intrepid young cadets and writing new copies of the Bandle Scout rules for their journeys across Runeterra (rules he\u2019d luckily memorized, since his original handbook was lost somewhere in the waters south of the Serpent Isles while he was learning to tie sailing knots).</p>\n\n<br>\n<center><i>Bandle Scout rule #13: Every day is an adventure. Make sure you are prepared!</i></center>\n<br>\n\n<p>When one cadet surveyed yordles across Runeterra regarding Bandle Scout contributions (badge 567: \u201cMarket Research\u201d), the feedback was unanimous\u2014under Teemo\u2019s fearless leadership, the Bandle Scouts were beloved the world over:</p>\n\n<br>\n\n<center><i>\u201cTeemo is SO COOL. One time, I saw him stop a raging stampede of wild horses. It was awesome!\u201d</i></center>\n\n<p><center><i>\u2014Ava, Bandle Scout</i></center></p>\n\n<br>\n\t\n<p><center><i>\u201cThe Bandle Scouts have grown a lot. They put on this great big festival a while ago\u2014had floats and everything. It was pretty neat. They even let me set off some fireworks!\u201d</i></center></p>\n\n<p><center><i>\u2014Tristana, the Bandle Gunner</i></center></p>\n\n<br>\n\n<p><center><i>\u201cI love those rascals with their missions and badges and adventurer\u2019s moxy. It brings a happy tear to this old pilot\u2019s eye.\u201d</i></center></p>\n\n<p><center><i>\u2014Corki, the Daring Bombardier</i></center></p>\n\n<br>\n\n<p><center><i>\u201cWhat the @#$%*^ is a Bandle Scout?\u201d</i></center></p>\n\n<p><center><i>\u2014Kled, High Major Commodore of the First Legion Third Multiplication Double Admiral Artillery Vanguard Company</i></center></p>\n\n<br>\n\n<p>Teemo even introduced the world to Bandle Scout biscuits, now carried by scouts all across Runeterra. Their inventory includes over a hundred exciting and unique flavors, such as:</p>\n\n<br>\n\n<p>- Poro-Snax</p>\n<p>- Old Cheese</p>\n<p>- Honeyfruit</p>\n<p>- Meat!</p>\n<p>- Limited Edition Spirit Blossom</p>\n<p>- Bilge Rat</p>\n<p>- Helian Puff-Pastry (permanently retired)</p>\n<p>- Shuriman Sand</p>\n<p>- And many more!</p>\n\n<br>\n\n<p>Nowadays, Teemo is focusing on completing Bandle Scout missions of his own design. His most recent achievements are propagating a near-extinct species of exploding mushroom, and freeing all the cute little basilisks in a Noxian war camp (who looked so very sad inside their stables). He\u2019s also researching the origins of the Bandle Scouts\u2014who founded it? Made the first badge? Penned the first rule? And could it have been Teemo himself in a time long lost to his memories? Eh, he can\u2019t remember! But no matter the mission, one thing remains constant, which is Teemo\u2019s dedication to live by the words of the Scout\u2019s Oath: to uphold the Bandle Scout way, and serve yordlekind each and every day.</p>\n",
+                "short": "Teemo is the fearless leader of the Bandle Scouts\u2014a group of intrepid yordles dedicated to exploring Runeterra and learning about the great big world. He ventures far and wide, completing challenges to earn merit badges, writing new rules to add to the ever-growing Bandle Scout Handbook, and leaving exploding mushrooms around as a surprise gift for new friends. As a scout leader, nothing bad ever happens when Teemo\u2019s around!",
+                "quote": "\u201cBandle Scout Teemo, reporting for duty!\u201d",
+                "quote_author": ""
+            },
+            "header_image": null,
+            "subtitle": "the Swift Scout",
+            "echelon": 4
+        },
+        {
+            "type": "champion",
+            "release_date": "2009-02-21T00:00:00.000Z",
+            "name": "Tristana",
+            "title": "Tristana",
+            "section_title": "Tristana",
+            "slug": "tristana",
+            "associated_faction": "",
+            "associated_faction_slug": "bandle-city",
+            "image": {
+                "title": "Tristana_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/1c1cbd9b934a2c5ff23e5340ca774f62712d28f4-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 922,
+                "y": 26,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Tristana_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/1c1cbd9b934a2c5ff23e5340ca774f62712d28f4-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 922,
+                "y": 26,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/tristana",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/tristana",
+            "biography": {
+                "full": "<p>Like most yordles, Tristana was always fascinated by the world beyond Bandle City. She traveled far and wide, full of wonder and enthusiasm for the varied places, people, and creatures she encountered. Using the hidden pathways that only yordles know, she explored the length and breadth of the material realm, remaining mostly unseen.</p><p>She witnessed such breathtaking sights as ice trolls migrating across the floes of the far north beneath kaleidoscopic auroras. She marveled as warships blasted each other to pieces in naval battles that churned the seas. She watched, awestruck, as great armies marched with unity and precision\u2014incredibly strange concepts to a yordle!\u2014across the endless sands to the south.</p><p>But Tristana\u2019s carefree, wandering ways changed the day she witnessed the destruction of a bandlewood. These places are steeped in the magic of the gateways they grow around, giving yordles a safe haven from the world. Tristana, dozing in the dappled sunshine, was shaken awake as the trees around her began to burn and topple. A warband of armored marauders rampaged through the woodland with fire and axes, led by a sorcerer wreathed in dark energy.</p><p>Tristana hid in horror. The sorcerer focused his power upon the portal at the heart of the bandlewood, speaking one final utterance. Her ears still ringing with pain, Tristana watched the gateway collapse, never to be opened again. The ripples of that destruction were felt in Bandle City itself, causing great despair among the yordles.</p><p>Tristana had never experienced anything like the pain of this loss, or the guilt she felt for not acting. Never again would she allow such a terrible thing to happen. In that moment, she dedicated herself to become the guardian of all bandlewoods, and her fellow yordles.</p><p>Tristana had often marveled at how mortals protected the things that were dear to them. While she couldn\u2019t comprehend their reasons to guard shiny metals, or walls of stone, she respected their methods, and decided to emulate them. Other yordles watched with curiosity as she took to marching around the borders of Bandle City stern-faced, and watching out for danger. She started calling her food \u201crations\u201d, and set herself strict times for rest and relaxation.</p><p>But something was missing. In her travels, she had seen many powerful inventions, including the black powder cannons of Bilgewater. Inspired by them, she collected enough precious metal discs to commission a gun suited to her diminutive size.</p><p>With a wry smile, she named it Boomer.</p><p>Since then,Tristana has defended the bandlewoods from innumerable threats. In the jungles of the Serpent Isles, she intervened in a clash between the local Buhru people and treasure hunters from Valoran that was getting too close to a hidden portal, sending them all running for their lives after she leapt into their midst, Boomer roaring. And in the burning deserts at the edge of Shurima, she destroyed a Void-horror after it began consuming a secret bandlewood oasis, killing it with an explosive bomb down the gullet.</p><p>Tristana has become something of a legend in Bandle City, and recently, a number of yordles have started to imitate her, trying\u2014and mostly failing\u2014to copy her disciplined ways. Some have even had weapons mimicking Boomer constructed for them by the scrappy inventor Rumble, who is always seeking to win Tristana\u2019s approval. While Tristana finds this all rather embarrassing, she has come to the conclusion that if they are going to defend the pathways to Bandle City, they had better do it properly. As such, she has started training these new recruits, and they have adopted a new moniker\u2014the Bandle Gunners.</p><p>Nevertheless, Tristana can often be found out in the wilds on patrol by herself\u2014simultaneously protecting the bandlewoods and also getting away from her new, and rather annoying, trainees.</p>",
+                "short": "While many other yordles channel their energy into discovery, invention, or just plain mischief-making, Tristana was always inspired by the adventures of great warriors. She had heard much about Runeterra, its factions, and its wars, and believed her kind could become worthy of legend too. Setting foot in the world for the first time, she took up her trusty cannon Boomer, and now leaps into battle with steadfast courage and optimism.",
+                "quote": "\u201cBoomer says hi.\u201d",
+                "quote_author": "Tristana"
+            },
+            "header_image": null,
+            "subtitle": "the Yordle Gunner",
+            "echelon": 5
+        },
+        {
+            "type": "champion",
+            "release_date": "2009-07-24T00:00:00.000Z",
+            "name": "Veigar",
+            "title": "Veigar",
+            "section_title": "Veigar",
+            "slug": "veigar",
+            "associated_faction": "",
+            "associated_faction_slug": "bandle-city",
+            "image": {
+                "title": "Veigar_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/34b61751da58c5ccdb657faf8b606007070c41b0-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 865,
+                "y": 71,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Veigar_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/34b61751da58c5ccdb657faf8b606007070c41b0-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 865,
+                "y": 71,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/veigar",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/veigar",
+            "biography": {
+                "full": "<p>For most of the peoples of Runeterra, yordles are not typically something to be feared. Their fabled home of Bandle City is said to be a mysterious, spiritual place, filled with odd trinkets and keepsakes gathered from across the material realm. While these curious creatures often leave to dwell among mortal races for a time, they generally return with fresh tales and new experiences to recount.</p><p>Yet, sadly, there are also those yordles who lose their way. Among them is the sorcerer Veigar.</p><p>After the Great Darkin War left the world in ruin many centuries ago, the only light that seemed to shine on Valoran came from the skies above. Scattered survivors looked to the heavens, and their renewed study of ancient celestial magic piqued Veigar\u2019s interest. Imagining himself already a master of these mystical arts, the yordle joined an order of mages in the Noxii territories, hoping to learn more of their craft. They did not think to question this eager newcomer, and he taught them to draw hope from the patterns created by the movements of the stars.</p><p>But while many toiled to rebuild the world, others sought to conquer it. The brutal warlord Mordekaiser and his armies swept across the lands, crushing and enslaving any who would oppose his rule, and the mages of the order\u2014unskilled in war\u2014were of little value to this tyrant. Looming over them in his accursed battleplate, his keen eye fell upon Veigar, and Mordekaiser recognized the yordle for what he truly was. He snatched him up in one iron gauntlet, and dragged his prize away as the other mages were put to the sword.</p><p>Imprisoned in the heart of the warlord\u2019s new, monolithic fortress, Veigar was forced to turn his magic to darker purposes. Knowing that yordles were craftier than any of the mortal races, Mordekaiser bound Veigar to the physical plane, preventing him even from escaping to Bandle City. He was not the only captive in that hellish place, but such isolation was the worst and most cruel form of torture for a yordle. Veigar performed grisly enchantments against his will\u2014some strengthening his master\u2019s dominion, others simply evoking terror for terror\u2019s sake.</p><p>Indeed, terror was what seemed to fuel this dreadful empire. Miserable beyond imagining, Veigar became a reluctant witness as Mordekaiser's vile deeds empowered him to near-immortality. Whether it was over the course of decades or centuries, Veigar never knew, but eventually the yordle\u2019s magic and appearance started to twist in response\u2026</p><p>Memories of his past faded. Why had he come to Valoran? Where had he come from? Had he known any other life before this? Questions such as these weighed on his fragile mind, like the last flickers of light before an eclipse.</p><p>When the revenant warlord\u2019s own followers conspired against him, the nightmare of his reign was ended, but by this point Veigar was nigh unrecognizable. His eyes blazed. Even his voice had become a sneer of malice. Fleeing from his ensorcelled cage, the wretched creature had no interest in the wars of succession that inevitably followed. Deep down, he most likely yearned to regain the sense of safety and freedom that all living things crave.</p><p>And yet, he chose not to turn away from evil, but to embrace it. Clad in armor befitting a sinister warlock, he vowed to seize respect in the only way he could remember\u2014through ruthless villainy, inspiring fear in all who encountered him. He would call down the fury of the stars themselves upon his foes, and trap them in the timeless infinities between moments.</p><p>And yet\u2026 Veigar could not quite find the same success as his former captor.</p><p>Certainly, the good people of Valoran <i>did</i> learn to fear him, to some extent. More often than not, they would find their pastures scorched, or the local baron\u2019s mansion razed to its foundations. Sometimes though, inexplicably, bands of brigands would be driven from their woodland hideouts, or the remains of feral murk wolves found scattered through the town square, and it was difficult to tell whether these acts were malicious or actually reasonably helpful. For all his aspirations of evildoing, it seemed Veigar would always come up a tiny bit short.</p><p>Still, the nefarious yordle has not abandoned his quest to become the world\u2019s most wicked villain. With his diabolic staff in hand, he seeks nothing less than to bring all before him to their knees, and revels in the timely demise of those who dare to underestimate him.</p>",
+                "short": "<p>An enthusiastic yordle sorcerer, Veigar has embraced powers that few others dare even approach. As a free-spirited inhabitant of Bandle City, he once longed to learn more of the celestial magic practiced by mortals, but his natural curiosity was twisted by imprisonment in the Immortal Bastion. Now a stubborn creature with the dark fury of the stars at his command, Veigar is often underestimated by others\u2014and though he believes himself truly evil, there are some who still question his deeper motivations\u2026</p>",
+                "quote": "You deny the darkness in your soul...",
+                "quote_author": "Veigar"
+            },
+            "header_image": null,
+            "subtitle": "the Tiny Master of Evil",
+            "echelon": 6
+        },
+        {
+            "type": "champion",
+            "release_date": "2019-04-25T00:00:00.000Z",
+            "name": "Yuumi",
+            "title": "Yuumi",
+            "section_title": "Yuumi",
+            "slug": "yuumi",
+            "associated_faction": "",
+            "associated_faction_slug": "bandle-city",
+            "image": {
+                "title": "Yuumi_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/a6229d0ef91811bbe60b4bae20956ac581633fa8-1920x1204.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1204,
+                "x": 863,
+                "y": 75,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Yuumi_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/a6229d0ef91811bbe60b4bae20956ac581633fa8-1920x1204.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1204,
+                "x": 863,
+                "y": 75,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/yuumi",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Support",
+                    "slug": "support"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Support",
+                    "slug": "support"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "game_info_url": "https://youtu.be/oZWEV3bACZo",
+            "biography": {
+                "full": "<p>In the outlands of Bandle City, there was once a wooded glen where the moon-moths glimmered and the riverbanks overflowed with rainbowfish. In a cottage nestled between the verdant trees lived a yordle enchantress named Norra, with her cat, Yuumi.</p><p>Born with magical powers of protection, Yuumi enjoyed a life of leisure for many years, pouncing on sunbeams and napping beneath the mouse-trees. Whenever adventure sparked her interest, she joined Norra on explorations across the material and spirit realms. Norra spent her time collecting strange objects like broken cups, shards of colored glass, and fabric with funny stitching. She examined each artifact with deep reverence, though Yuumi never understood their purpose. Nevertheless, Yuumi would use her magic to protect Norra from harm, and would warm her feet when they returned home.</p><p>The doorways between realms are finicky and seldom open, even to creatures as dexterous as cats. Yuumi watched as other yordles waited for days for the eastern star to align with a particular stone archway, or waded impatiently between marsh-lilies, seeking a silver blossom blooming from the mud\u2014only then would a pathway appear. But Yuumi\u2019s yordle, Norra, possessed the powerful Book of Thresholds, which allowed her to instantly travel anywhere depicted in its pages. When Norra opened a portal, she and Yuumi would gleefully dive into its glowing paper and arrive at their destination, joined a moment later by the book.</p><p>Yuumi never paid the book much attention until one starless night, when she returned home from luring moon-moths with her shinylight to find Norra missing. She saw the book on her master\u2019s desk and flipped through its pages in a panic, noticing that some were torn out entirely. Unable to read its title, Yuumi cried out to it in distress, calling it, simply, \u201cBook\u201d. In response, the book wiggled, and Yuumi was surprised to learn she could understand thoughts amidst the rustling paper. Despite not having a voice, Book made itself loud and clear. Yuumi learned that Norra had gone somewhere so perilous, she had destroyed the portal as she traveled.</p><p>Yuumi knew she had to rescue Norra, and turned to Book for help. Each of its thousand pages led to a different location along the lines of magic that crossed the material and spirit realms. The page Norra had used to travel was lost, but Book might be able to get them close. Yuumi and Book would have to explore every possible threshold. She became Book\u2019s unlikely Keeper, vowing to protect it with the courage of a lion\u2014if it fell into the wrong hands, the doorways to Bandle City could open to all kinds of unsavory and ravenous intruders.</p><p>Yuumi and Book began their arduous journey, visiting dangerous and unfamiliar lands. Yuumi sought Norra\u2019s scent on the wind, to little avail. While Yuumi would sometimes break from their search to follow the scent of a mouse or restore her strength with a quick catnap, Book was frustratingly cautious, grumpy over lost time and nervous about threats they might encounter. Nevertheless, Yuumi and Book were both determined to find their master and bring her home.</p><p>When Yuumi especially missed Norra, she often sought out other companions. One of her favorites was a door-carrying shepherd with thick whiskers and a deep laugh like a babbling brook. Yuumi rested on his shoulders for a time, protecting him from angry snow-spirits stirring up flurries in a hailstorm, while he brought her wriggling fish.</p><p>Eventually, Yuumi uncovered the scent of her master lingering in a vast Shuriman ruin. Digging deep into the sand, she unearthed a broken shard of blue pottery that looked like a piece from one of Norra\u2019s teapots. Before she could burrow further, a ferocious beast surfaced from the sand, and Yuumi and Book barely escaped. She could only imagine the chaos if a creature like that ripped its claws into Book\u2019s pages.</p><p>Though unlikely companions, Yuumi and Book have become fast friends, united by their love for Norra. Yuumi continues to search everywhere for signs of her master, so she can someday return to her life of napping in the sun by Norra\u2019s side.</p>",
+                "short": "A magical cat from Bandle City, Yuumi was once the familiar of a yordle enchantress, Norra. When her master mysteriously disappeared, Yuumi became the Keeper of Norra\u2019s sentient Book of Thresholds, traveling through portals in its pages to search for her. Yearning for affection, Yuumi seeks friendly companions to partner with on her journey, protecting them with luminous shields and fierce resolve. While Book strives to keep her on task, Yuumi is often drawn to worldly comforts, such as naps and fish. In the end, however, she always returns to her quest to find her friend.",
+                "quote": "\u201cCats are made of twilight and tricks, dogs are made of barks and sticks! Book\u2019s just old trees.\u201d",
+                "quote_author": "Yuumi"
+            },
+            "header_image": null,
+            "subtitle": "the Magical Cat",
+            "echelon": 7
+        }
+    ]
+}

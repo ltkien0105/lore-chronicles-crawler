@@ -1,0 +1,1610 @@
+{
+    "id": "ionia",
+    "name": "Ionia Faction Page",
+    "locale": "en_us",
+    "faction": {
+        "slug": "ionia",
+        "image": {
+            "title": "ionia-01.jpg",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/1691574092da433ea3a4c896c96f8c87d5f7e45a-1920x888.jpg?accountingTag=LoL",
+            "encoding": "image/jpeg",
+            "width": null,
+            "height": null,
+            "x": null,
+            "y": null,
+            "featured_champions": []
+        },
+        "video": {
+            "title": "ionia-splashvideo.webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/a9b6b551e2589189615eb4f7d56a17862ff3a882.webm?accountingTag=LoL",
+            "encoding": "video/webm",
+            "width": null,
+            "height": null,
+            "x": null,
+            "y": null,
+            "featured_champions": []
+        },
+        "name": "Ionia",
+        "overview": {
+            "short": "<p>Surrounded by treacherous seas, Ionia is composed of a number of allied provinces scattered across a massive archipelago, known to many as the First Lands. Since Ionian culture has long been shaped by the pursuit of balance in all things, the border between the material and spirit realms tends to be more permeable here, especially in the wild forests and mountains.</p><p>Although these lands\u2019 enchantments can be fickle, its creatures dangerous and fae, for many centuries most Ionians led lives of plenty. The warrior monasteries, provincial militias\u2014and even Ionia itself\u2014had been enough to protect them.</p><p>But that ended twelve years ago, when Noxus attacked the First Lands. The empire\u2019s seemingly endless warhosts savaged Ionia, and were only defeated after many years, and at great cost.</p><p>Now, Ionia exists in an uneasy peace. Different reactions to the war have divided the region\u2014some groups, such as the Shojin monks or the Kinkou, seek a return to isolationist pacifism, and pastoral traditions. Other more radical factions, such as the Navori Brotherhood and the Order of Shadow, demand a militarization of the land\u2019s magic, to create a single, unified nation that can take vengeance on Noxus.</p><p>The fate of Ionia hangs in a delicate balance that few are willing to overturn, but <i>all</i> can feel shifting uneasily beneath their feet.</p>"
+        },
+        "header_image": ""
+    },
+    "champion_list_order": 0,
+    "associated_champions": [
+        {
+            "type": "champion",
+            "release_date": "2011-12-14T00:00:00.000Z",
+            "name": "Ahri",
+            "title": "Ahri",
+            "section_title": "Ahri",
+            "slug": "ahri",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "Ahri_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/0619a0db80701ccb952027a51bcfea713ea9f75f-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 820,
+                "y": 105,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Ahri_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/0619a0db80701ccb952027a51bcfea713ea9f75f-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 820,
+                "y": 105,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/ahri",
+            "video": null,
+            "races": [
+                {
+                    "name": "Vastaya",
+                    "slug": "vastaya"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/ahri",
+            "biography": {
+                "full": "<p>For most of her life, Ahri's origins were a mystery to her, the history of her vastayan tribe all but lost save for the twin gemstones she has carried her entire life.</p>\n\n<p>Ahri's earliest memories are of running with icefoxes in the northern reaches of Shon-Xan. Though she knew she was not one of them, they clearly saw her as something of a kindred spirit, and came to accept her within the pack.</p>\n<p>In that wild, predatory existence, Ahri nonetheless felt a deeper connection to the forests around her. In time, she came to understand that this was the magic of the vastaya that coursed through every fiber of her being, and the realm of spirits that lay beyond. With no one to teach her, instead she learned to call upon this power in her own ways\u2014most often using it to quicken her reflexes in pursuit of prey. If she was careful and close enough, she also found she might soothe a panicked deer, so that it remained serene and calm even as she and her packmates sank their teeth into its flesh.</p>\n<p>The world of mortals was as distant and unsettling to Ahri as it was to the icefoxes, but she felt drawn to it for reasons she could not explain. Humans in particular were coarse, gruff creatures\u2026 and when a band of huntsmen camped nearby, Ahri watched them from afar as they went about their grim business.</p>\n<p>When one of them was wounded by a stray arrow, Ahri could feel his life seeping away. Knowing nothing but the instincts of a predator, she savored the spirit essence leaving his body, and through it gained brief flashes of his memories\u2014the lover he had lost in battle, and the children he had left behind when he came north. Ahri subtly pushed his emotions from fear to sorrow to joy, and comforted him with visions of a sun-soaked meadow as he died.</p>\n<p>Afterward, she found that human words now came to her easily, like something from a half-remembered dream, and Ahri knew the time had come to leave the pack behind.</p>\n<p>Keeping to the fringes of society, she felt more alive than ever. Her predatory nature remained, but she was caught up in a riot of new experiences, emotions, and customs across Ionia. Mortals, it seemed, also became fascinated by her in return\u2014and she often used this to her advantage, draining their essence while charming them with recollections of beauty, hallucinations of deep longing, and occasionally dreams colored by raw sorrow.</p>\n<p>She grew drunk on memories that were not her own, and exhilarated in ending the lives of others even as she felt the grief and woe she brought to her victims. She experienced heartbreak and elation in tantalizing flashes that left her craving more. It was overwhelming, but she sensed her own power fading whenever she tried to stay away, and could not help but partake again and again\u2026&nbsp;</p>\n<p>In time, she began to see herself as mortals did: a monster.</p>\n<p>Until one day, an artist stumbled upon her, hunched over a man as she drained his life essence from him. Where others would run, he stayed, offering his own life essence in exchange for her heart. For the first time in her life, Ahri let herself fall in love and be loved, wholly and completely.</p>\n<p>Their days passed in warmth and laughter, Ahri curbing her hunger by feeding on her lover. She was truly happy... until she lost control, draining her lover completely.</p>\n<p>Ahri fell into despair, her grief consuming her as she mourned the loss of the first and only person she's ever truly loved. The first and only person who ever truly loved her. Retreating even further from society, she became consumed with learning more about where she came from, in hopes that it would help her control her abilities.</p>\n\n<p>With her twin sunstones in hand, she set out in search of others like her, a journey that would take her out of Ionia and across Runeterra, eventually leading her to the discovery of her ancestors, the Vesani, a vastayan tribe that brought innovation and magic to the world before being wiped out.</p>\n\n<p>Inspired by their memories, Ahri has set off to travel the world in search of other remnants of the Vesani. She hopes to carry their legacy forward, bringing good into the world like they did. No longer burdened by the heavy weight of her regrets, she also hopes to finally leave her stolen memories behind and create new memories of her own making.</p>",
+                "short": "<p>Innately connected to the magic of the spirit realm, Ahri is a fox-like vastaya who can manipulate her prey's emotions and consume their essence\u2014receiving flashes of their memory and insight from each soul she consumes. Once a powerful yet wayward predator, Ahri is now traveling the world in search of remnants of her ancestors while also trying to replace her stolen memories with ones of her own making.</p>",
+                "quote": "\u201cHuman emotions can be more volatile than even the deepest magic.\u201d",
+                "quote_author": "Ahri"
+            },
+            "header_image": null,
+            "subtitle": "the Nine-Tailed Fox",
+            "echelon": 0
+        },
+        {
+            "type": "champion",
+            "release_date": "2010-05-11T00:00:00.000Z",
+            "name": "Akali",
+            "title": "Akali",
+            "section_title": "Akali",
+            "slug": "akali",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "Classic_Akali_Splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/40f31a2bd25a32f90183e28bf304ea2bf764d38c-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 939,
+                "y": 162,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Classic_Akali_Splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/40f31a2bd25a32f90183e28bf304ea2bf764d38c-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 939,
+                "y": 162,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/akali",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/akali",
+            "biography": {
+                "full": "<p>Ionia has always been a land of wild magic, its vibrant people and powerful spirits seeking to live in harmony\u2026 but sometimes this peaceful equilibrium does not come easily. Sometimes it needs to be kept in check.</p><p>The Kinkou are the self-appointed keepers of Ionia\u2019s sacred balance. The order\u2019s loyal acolytes walk the spirit and material realms, mediating conflicts between them and, when necessary, intervening by force. Born among their ranks was Akali, daughter of Mayym Jhomen Tethi, the renowned Fist of Shadow. Mayym and her partner Tahno raised their daughter within the Kinkou Order, under the watchful leadership of Great Master Kusho, the Eye of Twilight.</p><p>Whenever her parents were called away, other members of the order stepped in as Akali\u2019s surrogate family. Kennen, the Heart of the Tempest, spent many hours with the young girl, teaching her shuriken techniques, and emphasizing speed and agility over strength. Akali was a precocious child, and soaked up the knowledge like a sponge. It became clear to all that she would follow her parents\u2019 path\u2014along with the Great Master\u2019s son and appointed successor Shen, she would lead a new generation dedicated to preserving Ionia\u2019s balance.</p><p>But balance can be fleeting. The order found itself divided.</p><p>A wayward acolyte named Zed returned, and clashed violently with Kusho, wresting power in a bloody coup. Akali fled into the eastern mountains along with Mayym, Shen, Kennen, and a handful of other acolytes. Sadly, Tahno was not among them.</p><p>Zed\u2019s transformation of the Kinkou into the merciless Order of Shadow was almost complete. But, as the new Eye of Twilight, Shen intended to rebuild what had been lost. They would return to the Kinkou\u2019s three fundamental philosophies: the pure impartiality of <i>Watching the Stars</i>, the passage of judgment in <i>Coursing the Sun</i>, and the elimination of imbalance by <i>Pruning the Tree</i>. Even though they were now few, they would train neophytes to restore and grow their numbers once more.</p><p>When Akali came of age at fourteen, she formally entered her Kinkou training, determined to succeed her mother as the new Fist of Shadow.</p><p>She was a prodigious fighter, and mastered the kama and kunai\u2014a handheld sickle and throwing dagger. Though she did not possess the magical abilities of many of her fellow acolytes, she proved to all she was worthy of the title, in time allowing her mother to step down and help mentor the younger neophytes.</p><p>But Akali\u2019s soul was restless, and her eyes were open. Though the Kinkou and the Order of Shadow had come to an uneasy accord in the wake of the Noxian invasion of Ionia, she saw that her homeland continued to suffer. She questioned whether they were truly fulfilling their purpose. Pruning the Tree was meant to eliminate those who threatened the sacred balance... yet Shen would always urge restraint.</p><p>He was holding her back. All the mantras and meditations could quiet her spirit, but such platitudes would not defeat their adversaries. Her youthful precociousness turned to outright disobedience. She argued with Shen, she defied him, and she took down Ionia\u2019s enemies <i>her</i> way.</p><p>In front of the whole order, she declared the impotence of the Kinkou, all its talk of spiritual balance and patience accomplishing little. Ionians were dying in the material realm, and that was the realm Akali would defend. She was trained as an assassin. She was going to <i>be</i> an assassin. She did not need the order anymore.</p><p>Shen let her go without a fight, knowing this was a path that Akali must walk alone. Perhaps that path would bring her back one day, but that would be for her to decide.</p>",
+                "short": "<p>Abandoning the Kinkou Order and her title of the Fist of Shadow, Akali now strikes alone, ready to be the deadly weapon her people need. Though she holds onto all she learned from her master Shen, she has pledged to defend Ionia from its enemies, one kill at a time. Akali may strike in silence, but her message will be heard loud and clear: fear the assassin with no master.</p>",
+                "quote": "\u201cIf you look dangerous, you better be dangerous.\u201d",
+                "quote_author": "Akali"
+            },
+            "header_image": null,
+            "subtitle": "the Rogue Assassin",
+            "echelon": 1
+        },
+        {
+            "type": "champion",
+            "release_date": "2023-11-22T18:00:00.000Z",
+            "name": "Hwei",
+            "title": "Hwei",
+            "section_title": "Hwei",
+            "slug": "hwei",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "hwei_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/097c165ef2a832f04f6f7302203f4b7b40a82cb0-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1150,
+                "y": 250,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "hwei_splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/097c165ef2a832f04f6f7302203f4b7b40a82cb0-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1150,
+                "y": 250,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/hwei",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/hwei",
+            "biography": {
+                "full": "<p>In northwest Ionia, the island of Koyehn once stood beautiful and serene. Among its golden sands, seasonal bazaar, and quaint mill town sat the Temple of Koyehn, an ancient and renowned conservatory for the arts.</p>\n\n<p>Lukai Hwei was born to inherit this temple.</p>\n\n<p>Kind and precocious, Hwei spent his childhood putting to canvas his wild daydreams, which exaggerated the world around him into surreal, fantastical sights. He knew these visions differed from reality, but through them, he saw life itself as art. So connected was Hwei to the shades of the world that even his eye color shifted in hue to reflect his mind and mood.</p>\n\n<p>Hwei expressed this vibrant imagination through paint magic, a medium that influenced the emotions of its audience. As such, it required strict control and discipline, lest it overpower both mental perceptions and bodily sensations. Among its current practitioners, those unable or unwilling to control their art endangered themselves and the community\u2014and were banished from Koyehn.</p>\n\n<p>Despite these precepts, young Hwei indulged his imagination. In a demonstration for the temple masters, he recreated Koyehn\u2019s sea. As paint flowed around the canvas, however, his control ebbed. Emotion crashed through him, wild and fathomless as an ocean, and he surrendered himself to its beauty. His vision turned black, his last memory the awestruck masters, drowning.</p>\n\n<p>Hwei awoke days later, surrounded by his masters\u2014alive, but infuriated. They would not exile the temple\u2019s heir, but they stressed his responsibilities. Hwei was horrified\u2014but fascinated\u2014by the depths of his power, and he craved to see more.</p>\n\n<p>Thus, by day, he upheld Koyehn\u2019s conventions. But alone at night, he pushed the boundaries, driven to explore the extent of his power. In time, this practice focused the intensity of Hwei\u2019s imagination, allowing him to manifest a palette that flowed with magical paint.</p>\n\n<p>Well into adulthood, Hwei mastered his craft. And with passion and humility, he prepared to inherit his birthright, surrounded by the respect and affection of his peers. But part of his mind remained forever shrouded at nightfall.</p>\n\n<p>And so it remained, until the temple received a visiting artist: Khada Jhin.</p>\n\n<p>Over a gilded summer, Hwei accompanied Jhin, guiding him around Koyehn. They often exchanged their creative perspectives, and, respecting their differences, Hwei recognized Jhin\u2019s virtuosity and valued their time together.</p>\n\n<p>But the night before Jhin\u2019s departure, the man challenged Hwei. Jhin sensed that the pieces Hwei showed others were forced fa\u00e7ades\u2014and he wanted to see a real performance. Hwei tried to deny it, but his eyes betrayed him. Flooded by the years spent creating meaningless art, his imagination begged catharsis.</p>\n\n<p>So Hwei painted. Decades of practice guided his brush. The night came alive, colored by the brilliant infinity of his mind. Emotions washed over him, harmonious and visceral, and Hwei welcomed them. Sharing these forbidden visions for another exhilarated him and illuminated the powers of his art: connection, inspiration, and unfettered creation.</p>\n\n<p>Jhin witnessed all. Afterward, with eyes alight and tone inscrutable, he said farewell, stating he would be moving on tomorrow \u201cto watch the lotuses bloom.\u201d</p>\n\n<p>At dawn, Hwei and his fellow artists awoke to a series of tragedies.</p>\n\n<p>First: four historic paintings, destroyed.</p>\n\n<p>Second: an arrangement of four bodies\u2014the masters that Hwei had almost killed in his youth.</p>\n\n<p>Third: the fiery eruption of the temple\u2019s four lowest floors.</p>\n\n<p>Amid the flames, Hwei imagined the air electric with color. Everything that lived within him bled outward.</p>\n\n<p>It was terrifying. It was beautiful. It was... art. Realizing its dark potential\u2014of destruction, devastation, and torment\u2014Hwei felt the same horror and fascination he had in his youth.</p>\n\n<p>The temple quickly collapsed into ruins, with Hwei emerging as its only survivor.</p>\n\n<p>Exhausted and guilt-ridden, he mourned. Yet his imagination overflowed, reliving every moment of the disaster.</p>\n\n<p>During the day, Hwei and the villagers from the mill town held burials. At night, he revisited the ashen-gray wreckage and painted, his palette taking the shape of Koyehn\u2019s crest\u2014the same worn over his heart.</p>\n\n<p>On one such night, Hwei found the remnants of a trap beneath the rubble\u2014one petaled like a lotus flower.</p>\n\n<p>Realizing who\u2019d wreaked this havoc, a cascade of emotions engulfed Hwei. Fear. Sorrow. Betrayal... <em>Awe</em>.</p>\n\n<p>A question burned within him: why?</p>\n\n<p>But did he want the answer? Or would it be safer to suppress this need? He could stay here with his people\u2014as the heir\u2014help them rebuild... or...</p>\n\n<p>Bearing little more than his paintbrush and palette, Hwei left his island, and his people, behind.</p>\n\n<p>In the time since, Hwei has learned that the answers he seeks arise through revealing the full extent of his art to others. He tracks down nefarious individuals in Ionia\u2019s darkest corners, unleashing scenes of suffering upon them to understand his own well of pain. Yet he also reaches out to Ionia\u2019s victims\u2014fellow witnesses\u2014to create shared tranquility and reflection.</p>\n\n<p>Both the relentless artist rising from the ashes and the kindhearted man from a once-peaceful isle, Hwei faces the conflicting hues of Ionia\u2014and his own imagination. As he spirals deeper into the shadows, he lights a path, mind brimming with possibility.</p>\n\n<p>Which shade of himself will triumph, however, is yet to be seen.</p>\n",
+                "short": "<p>Hwei is a brooding painter who creates brilliant art in order to confront Ionia\u2019s criminals and comfort their victims. Beneath his melancholy roils a torn, emotional mind\u2014haunted by both the vibrant visions of his imagination and the gruesome memories of his temple\u2019s massacre. Hwei seeks to understand this light and dark, which drives him inevitably toward the artist who unraveled him. With paintbrush and palette, Hwei shapes endless possibilities as he draws ever closer to earning closure or embracing despair.</p>",
+                "quote": "\u201cCalm and chaos\u2014leave everything on the canvas.\u201d",
+                "quote_author": ""
+            },
+            "header_image": null,
+            "subtitle": "the Visionary",
+            "echelon": 2
+        },
+        {
+            "type": "champion",
+            "release_date": "2010-11-16T00:00:00.000Z",
+            "name": "Irelia",
+            "title": "Irelia",
+            "section_title": "Irelia",
+            "slug": "irelia",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "Classic_Irelia_Splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/3530078042f4933c89949ad02fbd1dd281812d95-1920x1071.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1071,
+                "x": 964,
+                "y": 124,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Classic_Irelia_Splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/3530078042f4933c89949ad02fbd1dd281812d95-1920x1071.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1071,
+                "x": 964,
+                "y": 124,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/irelia",
+            "video": {
+                "title": "irelia-splashvideo.webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/03cc763c5e5a5914e4de4f5598abe1b8cc99adeb.webm?accountingTag=LoL",
+                "encoding": "video/webm",
+                "width": 1920,
+                "height": 1071,
+                "x": 964,
+                "y": 124,
+                "featured_champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/irelia",
+            "biography": {
+                "full": "<p>Even as a small child, Xan Irelia was fascinated by the grace and beauty of human movement. Under her grandmother\u2019s tutelage, she learned the traditional silk dances of her province\u2014though she was dubious of their supposedly mystical connection to the Spirit of Ionia, Irelia\u2019s love for the dances was real. Seeking to master the art, she eventually left home to study with some of Ionia\u2019s most respected performers at the Placidium of Navori.</p><p>Irelia\u2019s people were peaceful and sought harmony with their neighbors, but rumors of foreign invaders sighted off the coast unsettled many at the Placidium. Irelia returned to her village to find it already occupied, with steel-helmed soldiers from distant Noxus shoving unarmed civilians through the streets with the butts of their spears. The Noxian Admiral Duqal had seized the Xan home to quarter his fleet officers.</p><p>Irelia\u2019s brothers and her father Lito had evidently protested; her entire family now lay in unmarked graves, in the gardens.</p><p>Ravaged by grief, the young girl saw Duqal\u2019s men hauling valuables from the house. Among the loot was a large metal crest, depicting the Xan family emblem. Irelia raced to it, wrenching it from Noxian hands. The admiral himself hurled her to the ground, and had his warriors shatter the crest with a heavy iron maul, before ordering them to dig a fresh grave for this upstart child.</p><p>As they surrounded her, Irelia averted her eyes, looking to the pieces of the Xan crest scattered on the ground. From deep within her soul, she felt a strange rhythm begin to beat. The shards of metal began to twitch, to twist, moving seemingly on their own, and Irelia felt the serene joy of the ancient dances once more...</p><p>With a sweep of her arm, she sent the pieces flying like ragged blades, cutting clean through two of the Noxians. As Duqal and his officers reeled in shock, Irelia snatched up the shards of her crest, and fled the village.</p><p>In the quiet forests beyond, Irelia mourned her family, and thought back to her grandmother\u2019s teachings. She realized that the techniques she had learned were more than mere dances\u2014they were a powerful expression of something far greater.</p><p>The Noxian occupation soon began to test the fragile peace of the First Lands. It was said that even the religious leader Karma had been forced to strike back at the invaders with deadly magic, though her followers had now withdrawn to the Lasting Altar and would not condone any further violence. Across Navori, dissenting voices began to band together. A resistance was forming, one that would not rest until Ionia was free once more. Irelia joined their ranks, performing her cherished dances for them in the woodland camps, to preserve some vestige of their vanishing culture.</p><p>She was barely fourteen years old when she found herself back at the Placidium. Her band of resistance fighters joined the militia who had sworn to guard the monasteries and wild, sacred gardens.</p><p>But Noxus knew only too well what this place represented. A particularly cunning general named Jericho Swain captured the Placidium and took its defenders hostage, hoping to lure the inevitable reinforcements into a trap.</p><p>It was in this moment that Irelia rose to meet her destiny. Freed from her bonds, she unleashed the full potential of her ancient blade dance, lashing out with graceful zeal. A dozen of Swain\u2019s veterans fell, sowing chaos in their ranks as the other captives joined her, before she struck down the general himself\u2014the sight of this rebellious girl hefting his severed arm over her head would be the turning point of the war.</p><p>This victory, the Great Stand at Navori, ensured that everyone in Ionia knew the name of Xan Irelia, and looked to her for leadership. Reluctantly, she led the growing resistance for almost three years of grueling battle before her triumph at Dalu Bay. There, she finally cornered the defeated Admiral Duqal, and exacted the vengeance she had sought for so long.</p><p>Though the war has long since ended, Ionia has been permanently changed by it. The First Lands are now divided, with rival factions fighting each other almost as bitterly as they did the Noxians. Many continue to look to Irelia for answers but, while others might welcome such power, Irelia remains uneasy with it.</p><p>At heart, she still yearns only to dance alone.</p>",
+                "short": "The Noxian occupation of Ionia produced many heroes, none more unlikely than young Irelia of Navori. Trained in the ancient dances of her province, she adapted her art for war, using the graceful and carefully practised movements to levitate a host of deadly blades. After proving herself as a fighter, she was thrust into the role of resistance leader and figurehead, and to this day remains dedicated to the preservation of her homeland.",
+                "quote": "\u201cThere was a time when I danced only for myself. Now, I dance for the First Lands.\u201d",
+                "quote_author": "Irelia"
+            },
+            "header_image": null,
+            "subtitle": "the Blade Dancer",
+            "echelon": 3
+        },
+        {
+            "type": "champion",
+            "release_date": "2016-10-05T00:00:00.000Z",
+            "name": "Ivern",
+            "title": "Ivern",
+            "section_title": "Ivern",
+            "slug": "ivern",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "Ivern_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/0eefbfee5b5d494c950d5566f2cb093fa50e877a-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 569,
+                "y": 0,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Ivern_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/0eefbfee5b5d494c950d5566f2cb093fa50e877a-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 569,
+                "y": 0,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/ivern",
+            "video": {
+                "title": "ivern-splashvideo.webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/a2021849f16b1d3cfe4e70dbc97fc32f8bfb8b86.webm?accountingTag=LoL",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 498,
+                "y": 0,
+                "featured_champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "Support",
+                    "slug": "support"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Support",
+                    "slug": "support"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/ivern",
+            "biography": {
+                "full": "<p>Ivern the Cruel was renowned as a fierce warrior, in the latter days of the ancient Vorrijaard. His clan followed the most warlike of the old gods, and would not kneel before the upstart \u201cThree Sisters\u201d like so many others had.</p><p>However, the dark sorcery that strengthened their armies was undeniable. Ivern and his kin plotted long and hard to overthrow these hated Iceborn, eventually setting sail into the east\u2014in search of the land where the sun first rose, from where it was said that all magic flowed into the world. If Ivern could seize such power for his own, then he could surely break any foe.</p><p>As his fleet sailed over the horizon, they passed out of memory and into myth, for they were never seen in their homeland again.</p><p>In truth, Ivern the Cruel landed on the shores of Ionia. After cleaving through a dozen coastal settlements, he and his warriors discovered a sacred grove known as <i>Omikayalan</i>, \u201cthe Heart of the World\u201d. And there, in that strange and verdant garden, they met the fiercest resistance. Chimeric beings\u2014half human, half beast\u2014came at them again and again beneath the twisted branches.</p><p>Undeterred, Ivern pressed on, until the battered remnants of his expedition reached what the Ionians held so sacred: the legendary God-Willow.</p><p>Ivern was transfixed, even as the fighting raged around him. It was a truly <i>colossal</i> tree, dripping with long gossamer leaves that shimmered with golden-green light. It was magic like nothing he had ever felt before, and it was clear these inhuman creatures would die to protect it. Seeking to shatter their resolve, he took up his war axe, and roared with hatred as he struck at the God-Willow over and over again.</p><p>The great tree fell. In a riot of life-energy, Ivern the Cruel was instantly undone.</p><p>Detached, drifting, he saw the battle was over. The flesh of the fallen fed carrion birds and insects alike, or decayed under bursts of colorful mushrooms. Bones rotted into fertile soil, and seeds within it budded and sprouted into trees bearing fruit of their own. Leaves and petals pulsed like colorful hearts. From the death that surrounded him, life exploded forth in ways too numerous to believe.</p><p>Never had Ivern beheld such beauty. Life, in all its forms, was tangled together like an impossible knot that didn\u2019t want to be untied. He wept, and those dewdrop tears fell upon his changed body. He was taller than he remembered, his limbs rough with bark and leaves. The magic of an entirely different world coursed through him. He did not know why, or how, but he <i>was</i> all that now remained of the God-Willow.</p><p>With that realization, he heard the bawling of hills, the howling of trees, and the dripping tears of moss. He reflected on the mistakes he\u2019d made, the cruelty he\u2019d visited on others. Remorse washed over Ivern, and he cried out for forgiveness.</p><p>When he finally moved, so much time had passed that the world felt\u2026 new? The violence and sadness of his former self were mere echoes in his heart. He found he could dig his toes deep into the soil, and commune with the roots, rocks, and rivers. Even the dirt itself had opinions!</p><p>Ivern wandered far\u2014across Ionia, and beyond\u2014and the strange magic of Omikayalan followed in his wake. He developed close kinships with creatures great and small, observing their foibles, delighting in their little habits, and occasionally offering a helping hand. He shortened the inchworm\u2019s path, played tricks with mischievous bramblebacks, hugged thorny elmarks, and laughed with wizened elder-fungus.</p><p>In one instance, he found a wounded stone golem. Knowing the poor thing\u2019s spirit was fading, he fashioned her a new heart from a river pebble, and the golem became Ivern\u2019s devoted life-friend. He named her Daisy, after the flowers that mysteriously sprouted from her stone body.</p><p>Sometimes, Ivern encountered mortals, and many of them were at least <i>somewhat</i> peaceful. They called him Bramblefoot, or Green Father, or the Old Woodsman, and told tales of his strange benevolence. But he was filled with sadness to see how they still took more than they gave, how they could be so cruel and so careless, and he retreated from their company.</p><p>If he bore the God-Willow\u2019s legacy, he needed to cultivate humanity\u2014help them watch, listen, and grow. Being mortal once himself, Ivern knew this would be difficult, so he smiled and challenged himself to complete this task before the final sunset.</p><p>He knew he would have time.</p>",
+                "short": "Ivern, known to many as Bramblefoot or the Old Woodsman, is a peculiar half-man, half-tree who roams the wilds of Runeterra, cultivating life everywhere he goes. He knows all the secrets of the natural world, and holds deep friendships with things that grow, fly, and scuttle. Ivern enriches the forests, imparts strange wisdom to any mortal he meets, and occasionally entrusts loose-lipped butterflies with his secrets.",
+                "quote": "\u201cThe cleverness of mushrooms always surprises me.\u201d",
+                "quote_author": "Ivern"
+            },
+            "header_image": null,
+            "subtitle": "the Green Father",
+            "echelon": 4
+        },
+        {
+            "type": "champion",
+            "release_date": "2016-02-01T00:00:00.000Z",
+            "name": "Jhin",
+            "title": "Jhin",
+            "section_title": "Jhin",
+            "slug": "jhin",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "Jhin_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/087251eea63def0d4a457624b3cd5c36b8cb52d0-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 780,
+                "y": 2,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Jhin_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/087251eea63def0d4a457624b3cd5c36b8cb52d0-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 780,
+                "y": 2,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/jhin",
+            "video": {
+                "title": "jhin-splashvideo.webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/20a1802bcbb42e21ae66152dffa25671d3b924b7.webm?accountingTag=LoL",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 780,
+                "y": 2,
+                "featured_champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/jhin",
+            "biography": {
+                "full": "<p>One can travel to nearly any village across Ionia and hear the tale of the Capture of the Golden Demon. Depicted in a variety of plays and epic poems, the cruel spirit\u2019s banishment is still celebrated to this day.</p>\n<p>But at the heart of every myth there lies a kernel of truth, and the truth of the Golden Demon is one far different than the fiction.</p>\n<p>For years, Ionia\u2019s southern mountains were plagued by the infamous creature. Throughout the province of Zhyun, and even as far as Shon-Xan and Galrin, a monster slaughtered scores of travelers and sometimes whole farmsteads, leaving behind twisted displays of corpses. Armed militias searched the forests, towns hired demon hunters, Wuju masters patrolled the roads\u2014but nothing slowed the beast\u2019s grisly work.</p>\n<p>In desperation, the Council of Zhyun sent an envoy to beg Great Master Kusho of the Kinkou Order for help. Charged with maintaining the balance between the spirit and material realms, Kusho was adept in the banishment of demons. Leaving in secret lest the cunning creature be alerted to their intent, Kusho, his teenage son, Shen, and young apprentice, Zed, traveled to the province. They tended to countless families shattered by the killings, dissected the horrific crime scenes, and looked for connections between the murders. Soon, Kusho realized they were far from the first to hunt this killer, and his conviction grew that this was the work of something beyond the demonic.</p>\n<p>For the next four years, the Golden Demon remained beyond their reach, and the long investigation left the three men changed. The famous red mane of Kusho turned white; Shen, known for his wit and humor, became somber; and Zed, the brightest star of Kusho\u2019s temple, began to struggle with his studies. It was almost as though the demon knew they were seeking it, and delighted in the torment sown by their failure.</p>\n<p>Upon finally finding a pattern to the killings, the Great Master is quoted as saying: \u201cGood and evil are not truths. They are born from men, and each sees the shades differently.\u201d Kusho sought to hand off the investigation, believing now that they sought not a demon, but a wicked human or vastaya, taking them beyond the Kinkou\u2019s mandate. Shen and Zed, unwilling to turn back after all they had sacrificed to bring the killer within reach, convinced him to continue the hunt.</p>\n<p>On the eve of the Spirit Blossom Festival in Jyom Pass, Kusho disguised himself as a renowned calligrapher to blend in with the other guest artists. Then he waited. Shen and Zed laid a carefully prepared trap, and at long last, they found themselves face to face with their hated quarry. Kusho was proven right\u2014the famed \u201cGolden Demon\u201d was a mere stagehand in Zhyun\u2019s traveling theaters and opera houses, working under the name Khada Jhin.</p>\n<p>After they caught Jhin, young Zed made to kill the cowering man, but Kusho held him back. He reminded his students that they had already broken their remit, and that killing Jhin would only worsen matters. Kusho worried that knowledge of Jhin\u2019s humanity would undermine the harmony and trust that defined Ionian culture, or could even encourage others to commit similar crimes. Despite Jhin\u2019s actions, the legendary master decided the killer should be taken alive and locked away within the monastery prison at Tuula.</p>\n<p>Shen disagreed, but submitted to the emotionless logic of his father\u2019s judgment. Zed, disturbed and haunted by the horrors he had witnessed, was unable to understand or accept this mercy, and it is said a resentment began to bloom in his heart.</p>\n<p>Imprisoned in Tuula, Jhin kept his secrets, revealing little of himself as many years went by. The monks guarding him noted he was a bright student who excelled in many subjects, including smithing, poetry, and dance. Regardless, they could find nothing to cure him of his morbid fascinations. Meanwhile, outside the monastery\u2019s walls, Ionia fell into turmoil as the Noxian empire invaded, and war awoke the tranquil nation\u2019s appetite for bloodshed.</p>\n<p>Jhin was freed from Tuula sometime after the war with Noxus, possibly put to use by one of the many radical elements vying for power of the First Lands near the conflict\u2019s end. He now has access to the Kashuri armories\u2019 new weapons, though how he came to possess such implements of destruction, and what connection he has to Kashuri, is still a mystery.</p>\n<p>Whoever his shadowy patrons might be, they have endowed Jhin with nearly unlimited funds, and seem unconcerned by the growing scale of his \u201cperformances\u201d. Recently, he attacked members of Zed\u2019s Yanlei order, and mass murders and assassinations bearing his signature \u201cflair\u201d have occurred not only across Ionia\u2019s many regions, but also in distant Piltover and Zaun.</p>\n<p>It seems that all of Runeterra might be but a canvas for the atrocity that is Khada Jhin\u2019s art, and only he knows where the next brushstroke will fall.</p>",
+                "short": "Jhin is a meticulous criminal psychopath who believes murder is art. Once an Ionian prisoner, but freed by shadowy elements within Ionia\u2019s ruling council, the serial killer now works as their cabal's assassin. Using his gun as his paintbrush, Jhin creates works of artistic brutality, horrifying victims and onlookers. He gains a cruel pleasure from putting on his gruesome theater, making him the ideal choice to send the most powerful of messages: terror.",
+                "quote": "\u201cArt requires a certain\u2026 cruelty.\u201d",
+                "quote_author": "Jhin"
+            },
+            "header_image": null,
+            "subtitle": "the Virtuoso",
+            "echelon": 5
+        },
+        {
+            "type": "champion",
+            "release_date": "2011-02-01T00:00:00.000Z",
+            "name": "Karma",
+            "title": "Karma",
+            "section_title": "Karma",
+            "slug": "karma",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "Karma_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/d55c76e8c8a67dd290192f51eaa0576d90dd0261-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1021,
+                "y": 11,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Karma_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/d55c76e8c8a67dd290192f51eaa0576d90dd0261-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1021,
+                "y": 11,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/karma",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Support",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Support",
+                    "slug": "support"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/karma",
+            "biography": {
+                "full": "<p>Karma is the living embodiment of an ancient Ionian soul, who serves as a spiritual beacon to each generation of her people. Her most recent incarnation came in the form of a 12-year-old girl named Darha. Raised in the northern highlands of Shon-Xan, she was headstrong and independent, always dreaming of a life beyond her provincial village.</p><p>But Darha began to suffer strange, fitful visions. The images were curious\u2014they felt like memories, yet the girl was certain they had not happened to her. At first, the problem was easy enough to conceal, but the visions grew in intensity until Darha was convinced she was descending into madness.</p><p>Just when it seemed she would be confined to the healing huts forever, a group of monks visited her village. They had come from a place known as the Lasting Altar, where the divine leader Karma had passed away some months earlier. The monks were in search of the old man\u2019s next incarnation, believing him to be among the villagers. They applied a series of tests to everyone they met, but eventually prepared to leave empty handed.</p><p>As they passed the healing huts, Darha threw herself out of her cot and ran to stop them. She wept, telling them of her visions, and that she had known the monks\u2019 voices from the babble in her head.</p><p>They recognized the signs immediately. This was their Karma. The visions were past lives rushing to fill a new vessel.</p><p>In that moment, Darha\u2019s life changed forever. She bid farewell to all she\u2019d ever known, and journeyed to the Lasting Altar to learn from the monks. Over the years, they taught her to connect with her ancient soul, and to commune with thousands of previous incarnations, each espousing the wisdom of ages past. Karma had always advocated peace and harmony, teaching that any act of evil would bring about its own repercussions, and so required no response.</p><p>But Darha questioned these principles, even as she <i>became</i> Karma. Some of her followers were confused. How could she be invested with the Spirit of Ionia, the First Lands\u2019 most sacred manifestation, and yet disagree with their most self-evident philosophies?</p><p>Indeed, these beliefs were truly tested when Noxus invaded Ionia. Many thousands were killed as the enemy warbands advanced inland, and Karma was forced to face the harsh realities of war. She could feel the immense destructive potential that swelled in her soul, and wondered what the point of this power could be, if it was not to be used.</p><p>The voices of the past urged her to remain at the Lasting Altar, to comfort her people and allow this conflict to pass. And yet, a far deeper truth compelled her to act...</p><p>Karma agonized over this, until she could stand it no longer. She confronted a Noxian commander on the deck of his own war frigate, and unleashed her divine fury. This was no single, measured attack\u2014she obliterated the entire vessel and its crew in a heartbeat.</p><p>Though many Ionians rejoiced at this apparent victory, the monks believed she had made a huge mistake. She had upset the spiritual harmony of their homeland, disgracing all who had borne the name of Karma before her, and tarnished her own undying soul along with those of her followers. Even if it meant a life of solitary meditation and penance, they implored her to do no further injury.</p><p>Karma silenced them with a raised hand. Though she could still hear the voices in her head, it was the Spirit of Ionia in her heart that guided her\u2026 and the First Lands were stirring to defend themselves. She did not know if she had been chosen for her courage and strength of will, but Karma knew that sometimes harmony came only at a great cost. Their world was changing, and true wisdom lay not in resisting that fact, but accepting it.</p><p>Though the war with Noxus is now long over, there are still many in Ionia who have become only too glad to meet violence with violence, even against their own neighbors. Karma has pledged to guide as many of them as she can to a more enlightened path\u2014to peace when possible, to action when necessary.</p>",
+                "short": "<p>No mortal exemplifies the spiritual traditions of Ionia more than Karma. She is the living embodiment of an ancient soul reincarnated countless times, carrying all her accumulated memories into each new life, and blessed with power that few can comprehend. She has done her best to guide her people in recent times of crisis, though she knows that peace and harmony may come only at a considerable cost\u2014both to her, and to the land she holds most dear.</p>",
+                "quote": "<i>As Ionia changes, so must I.</i>",
+                "quote_author": "Karma"
+            },
+            "header_image": null,
+            "subtitle": "the Enlightened One",
+            "echelon": 6
+        },
+        {
+            "type": "champion",
+            "release_date": "2017-07-10T00:00:00.000Z",
+            "name": "Kayn",
+            "title": "Kayn",
+            "section_title": "Kayn",
+            "slug": "kayn",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "kayn-splash-resized.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6513f8a9eb12f5a3c06601b0d75b8b05542b2296-1920x1134.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1134,
+                "x": 975,
+                "y": 579,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "kayn-splash-resized.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6513f8a9eb12f5a3c06601b0d75b8b05542b2296-1920x1134.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1134,
+                "x": 975,
+                "y": 579,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/kayn",
+            "video": null,
+            "races": [
+                {
+                    "name": "Darkin",
+                    "slug": "darkin"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "game_info_url": null,
+            "biography": {
+                "full": "<p>Noxian by birth, Shieda Kayn and others like him were conscripted as child soldiers, a cruel practice employed by only the most devious commanders in Boram Darkwill\u2019s empire. Following the disastrous battle at the Placidium of Navori, the invasion was deliberately reformulated into a protracted war of attrition. Ionian compassion was a weakness to be exploited\u2014their warriors would hesitate before striking down a supposed innocent. Thus, barely able to lift the blade he had been given, Kayn\u2019s first day in battle was also expected to be his last.</p><p>Striking against the province of Bahrl, Noxian forces landed at the mouth of the Epool River. Kayn and the others were a reluctant vanguard, facing disorganized bands of locals defending their home from these returning invaders. While his young comrades were cut down or fled the battlefield, Kayn showed no fear. He dropped his heavy sword and snatched up a fallen sickle, turning to face the shocked Ionians just as the Noxian regulars swept in from the flank.</p><p>The carnage was staggering. Farmers, hunters\u2014even a handful of vastaya\u2014all were butchered without ceremony.</p><p>Two days later, after word had spread throughout the southern provinces, the Order of Shadow came upon the grisly scene. Their leader, Zed, knew this area had no tactical significance. This massacre was intended as a message. Noxus would show no mercy.</p><p>A flickering glint of steel caught his eye. A child of no more than ten lay in the mud, leveling his broken sickle at the master assassin, bloody knuckles straining white. The boy\u2019s eyes harbored a pain that belied his age, yet still burned with all the fury of a hardened warrior. This tenacity was not something that could be taught. Zed saw in this child, this abandoned Noxian survivor, a weapon that could be turned against those who had sent him here to die. The assassin held out his hand and welcomed Kayn into the Order of Shadow.</p><p>Acolytes traditionally spent years training with a single weapon of their choosing, but Kayn mastered them all\u2014to him, they were mere tools, and he was the weapon. Armor he viewed as a cumbersome burden, instead cloaking himself in shadows and slaying his enemies with quickness and stealth. These swift executions instilled fear in the hearts of those fortunate enough to be spared.</p><p>And as Kayn\u2019s legend grew, so did his arrogance. He truly believed that one day his power would eclipse even that of Zed himself.</p><p>This hubris led Kayn to embrace his final test: to seek out a Darkin weapon recently unearthed by Noxus, and prevent it from ever being used against the weary defenders of Ionia. He accepted without hesitation, never questioning why he had been chosen for this task. Indeed, where any other acolyte would have destroyed the living scythe known as Rhaast, Kayn took it for himself.</p><p>The corruption took hold the moment his fingers closed around the weapon, locking them both in a fateful struggle. Rhaast has long awaited the perfect host in order to rejoin its Darkin brethren and lay waste to the world, but Kayn will not be easily dominated. He returns to Ionia in triumph, convinced that Zed will name him the new leader of the Order of Shadow.</p>",
+                "short": "<p>A peerless practitioner of lethal shadow magic, Shieda Kayn battles to achieve his true destiny\u2014to one day lead the Order of Shadow into a new era of Ionian supremacy. He wields the sentient Darkin weapon Rhaast, undeterred by its creeping corruption of his body and mind. There are only two possible outcomes: either Kayn bends the weapon to his will... or the malevolent blade consumes him completely, paving the way for the destruction of all Runeterra.</p>",
+                "quote": "\u201cThe child is gone. The killer remains.\u201d",
+                "quote_author": "Kayn"
+            },
+            "header_image": null,
+            "subtitle": "the Shadow Reaper",
+            "echelon": 7
+        },
+        {
+            "type": "champion",
+            "release_date": "2010-04-08T00:00:00.000Z",
+            "name": "Kennen",
+            "title": "Kennen",
+            "section_title": "Kennen",
+            "slug": "kennen",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "Kennen_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/84f760ba5344b243d0cb24a8ecd69eabb31e773f-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1018,
+                "y": 37,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Kennen_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/84f760ba5344b243d0cb24a8ecd69eabb31e773f-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1018,
+                "y": 37,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/kennen",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/kennen",
+            "biography": {
+                "full": "<p>A riotous domain of constant transformation, Bandle City was no place for a yordle like Kennen. Searching for harmony and balance, he ventured out from the spirit realm millennia ago. He explored the material realm with boundless curiosity, traveling great distances in a heartbeat. But he was drawn in particular to Ionia.</p><p>In the First Lands, he witnessed ancient wars that none now remember, and a land struggling to rebuild afterward. Kennen grew fascinated by a people seeking balance for themselves and their home. Over time, he returned to Bandle City less and less, choosing to remain in Ionia, where yordles were respected as creatures of the spirit realm. Though he did not age as beings of the material realm did, Kennen embraced mortals, studying them for generations. He admired how, despite their fragile lives, they were diligent protectors of the sacred balance.</p><p>Even so, there were threats to the tranquility of Ionia. Malevolent entities of the spirit realm traversed the land with ill intent. Kennen battled these disturbances alone for years, enjoying the fun each challenge brought, but in the end he understood he was doing little to address <i>why</i> the incursions were happening: imbalance. He discovered a fledgling order whose members actively pursued balance between the realms\u2014who, after careful observation, would judge what needed to be done to restore it.</p><p>They called themselves the Kinkou.</p><p>Kennen was intrigued by the order, led by a distant Eye of Twilight and a vindictive Fist of Shadow. He realized that the Kinkou\u2019s leadership required another aspect. A consensus builder, one who would prevent the warlike Fist from domineering over the introspective Eye, and likewise keep the Eye\u2019s tireless observation from paralyzing the Fist.</p><p>As a creature of both the spirit and material realms, Kennen proposed that he was uniquely suited to be an arbiter. The order accepted Kennen\u2019s wisdom, and he became the Kinkou\u2019s first Heart of the Tempest. As part of the new triumvirate with the Eye of Twilight and the Fist of Shadow, Kennen passed judgment on how best to preserve balance, and his affability and diplomacy kept the Kinkou in harmony.</p><p>Moreover, Kennen noticed that a rift had grown between the order and the people around them, as judgments were carried out swiftly, mysteriously, and without chance for appeal. Again, the yordle realized he could fill a need for the Kinkou. With his fantastic speed and compassion, he was the ideal representative to communicate the judgments of the order to those affected by them. He\u2019d seen how the Kinkou distanced themselves from the people, wearing masks over their faces, and took care to remove his to connect with those he sought to protect.</p><p>Yet there was another side to Kennen, a far more serious aspect as Heart of the Tempest. Charged with <i>Coursing the Sun</i>, he addressed challenges to the Kinkou\u2019s judgments, and not always with words.</p><p>For sometimes, the cost of balance was the blood of the offender\u2014and Kennen\u2019s shuriken and summoned maelstroms were quite capable of silencing all dissent.</p><p>There have been many threats to the Kinkou over the centuries, but none as grave as the Noxian invasion and its aftermath. When Noxus invaded the First Lands, Kennen opposed joining the resistance, even as the war threatened to tear the Kinkou apart. In their darkest hour, after a coup led by a former acolyte named Zed, the yordle guided the order while the new Eye of Twilight, Shen, struggled to lead. Kennen urged the Fist of Shadow, Mayym, to look to her daughter Akali, whom he\u2019d trained since childhood, and see her as a successor.</p><p>But even he couldn\u2019t find the words to stop Akali from eventually leaving the Kinkou, frustrated at the order\u2019s failure to act against Ionia\u2019s enemies.</p><p>Recent events have tested Kennen, a new age of disruption and violence that has thrown Ionia into chaos. Come what may, he will protect the fractured Kinkou Order, fighting alongside Shen to defend the balance of the First Lands. Do not let Kennen\u2019s diminutive appearance fool you\u2014for the heart of the tempest is its calmest part, but when it turns its eye upon you, its force is never more than a moment behind.</p>",
+                "short": "The longest-standing member of the ancient Kinkou Order, the yordle Kennen is the first and only Heart of the Tempest. For centuries, he has used diplomacy\u2014and force\u2014to maintain the sacred balance in his adopted home of Ionia. Lightning fast and bearing the wisdom of a long and storied life, Kennen works with the Eye of Twilight, Shen, to protect the fragile harmony of the First Lands with a whirling storm of shuriken and devastating electrical energy.",
+                "quote": "\u201cI exist across realms, in the space between lightning\u2019s strike and thunder\u2019s call, the true balance within the storm.\u201d",
+                "quote_author": "Kennen"
+            },
+            "header_image": null,
+            "subtitle": "the Heart of the Tempest",
+            "echelon": 8
+        },
+        {
+            "type": "champion",
+            "release_date": "2011-04-01T00:00:00.000Z",
+            "name": "Lee Sin",
+            "title": "Lee Sin",
+            "section_title": "Lee Sin",
+            "slug": "leesin",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "LeeSin_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/dd13baac33f9d14817a84fc280974caeb64a5dce-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 889,
+                "y": 0,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "LeeSin_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/dd13baac33f9d14817a84fc280974caeb64a5dce-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 889,
+                "y": 0,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/leesin",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/leesin",
+            "biography": {
+                "full": "<p>Among the many spirits Ionians revere, none are as storied as that of the dragon. While some believe it embodies ruin, others view it as a symbol of rebirth. Few can say for certain, and fewer still have ever been able to channel the dragon\u2019s spirit, and none so completely as Lee Sin.</p><p>He arrived at the Shojin monastery as a boy, claiming the dragon had chosen him to wield its power. The elder monks saw flashes of its fire in the talented child, but also sensed his reckless pride, and the disaster it could bring. Warily, they nonetheless took him as a pupil\u2014though, as others advanced, the elders kept him cleaning dishes and scrubbing floors.</p><p>Lee Sin grew impatient. He longed to fulfill his destiny, not waste time on chores.</p><p>Sneaking into the hidden archives, he found ancient texts describing how to call upon the spirit realm, and chose to flaunt his skill during a combat lesson. Brashly, he unleashed the dragon\u2019s rage in a wild kick, paralyzing his learned instructor. Consumed with shame and banished for his arrogance, the young man set out to atone.</p><p>Years passed. Lee Sin wandered far, to distant places, benevolently aiding those in need. Eventually he reached the Freljord, where he met Udyr, a wildman who channeled the primal beasts of his homeland. The so-called Spirit Walker struggled to control the powers that warred within him, and Lee Sin began to wonder if controlling the dragon was even possible. Sharing a need for spiritual guidance, the two men forged a bond, and he invited Udyr on his journey back home.</p><p>The two were dismayed to hear that the empire of Noxus had invaded and occupied Ionia. Monks from every province had fallen back to defend the holy monastery at Hirana, high up in the mountains.</p><p>Lee Sin and Udyr found it besieged. Noxian soldiers had broken through to Hirana\u2019s great hall. As Udyr leapt to join the fray, Lee Sin hesitated, seeing his former peers and elders fall to the enemy\u2019s blades. The wisdom of Hirana, Shojin, so much of Ionia\u2019s ancient culture\u2014all would be lost.</p><p>With no other choice left, he invoked the dragon spirit.</p><p>A tempest of flames engulfed him, searing his skin and burning the sight from his eyes. Imbued with wild power, he crippled the invaders with a flurry of breakneck punches and rapid kicks, the untamable spirit flaring brighter and hotter with each blow.</p><p>The monks were victorious, but Lee Sin\u2019s desperate actions left the monastery in ruins, and his vision would never return. At last, in the blind darkness, he understood that no mortal could ever bend the might of the dragon spirit to their will completely. Devastated, agonized, he bound a cloth over his sightless eyes and tried to stagger away down the mountain paths.</p><p>But the surviving elders stopped him. In forsaking all desire for power, their disgraced pupil was finally ready to begin anew. Although they would not forget his previous arrogance, the monks offered absolution: the dragon\u2019s wrath was deadly and unpredictable, true enough, but the humblest and worthiest mortal souls could counter its fiery nature, and direct it from time to time.</p><p>Gratefully, Lee Sin stayed with the monks to rebuild their monastery, and after the work was done and the Spirit Walker returned to the Freljord, Lee Sin devoted himself fully toward the pursuit of enlightenment.</p><p>In the years since the war with Noxus ended, he has continued to meditate on his role in Ionia. Knowing his homeland has not faced the last of its trials, Lee Sin must master himself, and the dragon spirit within, to face whatever foe is yet to come.</p>",
+                "short": "A master of Ionia\u2019s ancient martial arts, Lee Sin is a principled fighter who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland against any who would dare upset its sacred balance. Enemies who underestimate his meditative demeanor will endure his fabled burning fists and blazing roundhouse kicks.",
+                "quote": "\u201cEnlightenment is knowing the value of one\u2019s ignorance.\u201d",
+                "quote_author": "Lee Sin"
+            },
+            "header_image": null,
+            "subtitle": "the Blind Monk",
+            "echelon": 9
+        },
+        {
+            "type": "champion",
+            "release_date": "2020-07-07T00:00:00.000Z",
+            "name": "Lillia",
+            "title": "Lillia",
+            "section_title": "Lillia",
+            "slug": "lillia",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "lillia-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/582b71a9d168d66687558c98d0140a571fe6332c-1920x1133.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 5000,
+                "height": 2950,
+                "x": 2255,
+                "y": 634,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "lillia-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/582b71a9d168d66687558c98d0140a571fe6332c-1920x1133.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 5000,
+                "height": 2950,
+                "x": 2255,
+                "y": 634,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/lillia",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "game_info_url": null,
+            "biography": {
+                "full": "<p>In Ionia, magic is woven into the land. Forests spread vibrantly, and trees often boast nearly as many colors as leaves, touched by the wonders of the spirit realm.</p><p>But there is one forest, hidden away, that draws on a different kind of magic\u2014a garden with a tree at its heart that gathers humanity\u2019s dreams in its blooms.</p><p>The Dreaming Tree grew from a seed of the God-Willow, which towered over the ancient grove of Omikayalan. Cast loose when the God-Willow was tragically felled, the seed took root in what came to be known as the Garden of Forgetting. Nurtured by the Green Father, Ivern\u2014as many of the descendants of Omikayalan were\u2014the Dreaming Tree spiraled up, spreading the magic of humanity\u2019s desires each time the dream-laden buds bloomed.</p><p>Lillia was born when one of the tree\u2019s <i>own</i> dreams was captured in a bud that fell to the ground before it could bloom\u2014something that had never happened before. Sprouting into an awkward fawn creature with the flower bud still on her head, Lillia\u2019s only company was her mother tree, and the dreams that drifted to the garden each night.</p><p>Lillia helped tend the buds, and learned about humanity through them. Enchanted by the people and places she glimpsed, she spent every waking moment experiencing a swirl of emotions and desires that mortals could only see when they closed their eyes.</p><p>In caring for the dreams, Lillia also cared for the dreamers. She came to consider each of them a new friend, wanting nothing more than to one day greet the people who imagined such wonders. Lillia wanted it so badly that her own desires eventually gathered in a bud on the tree.</p><p>But when Lillia finally did meet humans, it wasn\u2019t like remembering a familiar dream. It was more like waking up.</p><p>Something was happening in the world outside Lillia\u2019s forest. War blazed like a fire through the land, and in time, fewer dreams began to reach the garden. The tree itself grew sick, and became infected with burls\u2014writhing tangles in its trunk, which oozed darkness.</p><p>Lillia did her best to nurture her mother tree and the dreams that remained in its buds, but it was not long before the garden became so weak that the violence of the world spilled in. One night, warriors entered the forest and chased a lone figure all the way to the Dreaming Tree. With a single errant blade\u2019s slash, the branch containing Lillia\u2019s unrealized dream came thudding to the ground.</p><p>Lillia panicked and forced them all to sleep, shocked at the difference between the mortals she thought she knew, and the ones she had found.</p><p>They were so afraid\u2014more tangle than sparkle. <i>They were like the burls</i>\u2026</p><p>But as the warriors slept and Lillia wept, a dream emerged from the lone figure the others had been chasing. Weakly, it floated toward the broken branch on the ground and moved into the bough\u2019s bud.</p><p>Lillia picked it up. She could feel the dream. As she whispered to it and soothed it, it glowed ever brighter\u2014and so did she. The bud upon her head unfurled, and magic swirled around like sparkling pollen. In that moment, swept up in possibility and wonder, Lillia herself bloomed\u2026 until, with a sneeze, she sent the magic curling into the surrounding forest.</p><p>The humans awoke one by one, unable to remember what had brought them to the forest, or what they had done. None noticed the timid fawn behind the tree. With relief, Lillia watched the humans go, still seeing only confusing tangles\u2014but knowing now that there was still a sparkle beneath it all.</p><p>And if their dreams wouldn\u2019t come to the tree, she would have to bring the tree to them.</p><p>Taking up her branch, Lillia left the garden and entered the world of humans\u2014a world she had always wanted to know, but one that frightened her now more than anything. It was so unlike what she understood.</p><p>Hiding just out of sight, Lillia now helps people\u2019s dreams be born, drawn forward by glimpses of who they could be, and by what may be trapped beneath their tangles. By helping humans realize their deepest wishes, Lillia realizes her own, the bud on her head blooming as she is filled with joy.</p><p>Though darkness may be encroaching on Ionia once more, it is but a mask, and beneath it lies the familiar sparkle of hope. Only by braving the world, and braving herself, can Lillia hope to untangle its burls.</p>",
+                "short": "Intensely shy, the fae fawn Lillia skittishly wanders Ionia\u2019s forests. Hiding just out of sight of mortals\u2014whose mysterious natures have long captivated, but intimidated, her\u2014Lillia hopes to discover why their dreams no longer reach the ancient Dreaming Tree. She now travels Ionia with a magical branch in hand, in an effort to find people\u2019s unrealized dreams. Only then can Lillia herself bloom and help others untangle their fears to find the sparkle within. Eep!",
+                "quote": "\u201cWhen the humans bloom, it\u2019s so beautiful\u2026 I can help them! Maybe. Possibly? Perhaps\u2026\u201d",
+                "quote_author": "Lillia"
+            },
+            "header_image": null,
+            "subtitle": "the Bashful Bloom",
+            "echelon": 10
+        },
+        {
+            "type": "champion",
+            "release_date": "2009-02-21T00:00:00.000Z",
+            "name": "Master Yi",
+            "title": "Master Yi",
+            "section_title": "Master Yi",
+            "slug": "masteryi",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "MasterYi_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/80e5b987ed8bf072e8987afc3e5f75f02f5c2c84-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1145,
+                "y": 99,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "MasterYi_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/80e5b987ed8bf072e8987afc3e5f75f02f5c2c84-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1145,
+                "y": 99,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/masteryi",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/masteryi",
+            "biography": {
+                "full": "<p>In Ionia\u2019s central province of Bahrl, a mountain settlement once stood, hidden away in its serene beauty. Here, in the village of Wuju, the boy Yi grew up learning the ways of the sword, chasing a dream that later turned to tragedy.</p><p>Like most children, he admired those who wore silk robes and carried blades with poems to their name. His parents being swordsmiths, Yi made a strong impression on the local warriors who frequented their workshop. He spent his mornings in the garden, sparring with his mother, and his nights reciting poetry to his father by candlelight. When it came time for Yi to study under Wuju\u2019s masters, his parents could not have been prouder.</p><p>Carrying his talent and discipline over to his training, he surpassed every expectation. Soon, the whole village knew of the \u201cYoung Master\u201d Yi.</p><p>Still, the humble student wondered about the rest of Ionia. From atop the tallest pagodas, he spotted faraway towns no one else ever mentioned, but when he sought to journey down the mountain with blade in hand, his mentors forbade him. Wuju was founded by those believing their swordsmanship to be too precious to share, too sacred to draw blood\u2014so for centuries, it flourished in isolation, with no outsiders knowing its true nature. </p><p>All this changed the day Yi saw vast plumes of smoke rising above the distant towns. Noxian warbands had invaded from the coast, conquering settlement after settlement in waves that washed the provinces red. Choosing the people of Ionia over Wuju\u2019s hallowed tradition, Yi ventured down to help defend the First Lands. To astonished eyes, he swept across the front lines in a blur, routing the enemy with blinding swordplay never before seen by outsiders.</p><p>Word of the one-man army spread far and wide, like mist in the mountains. Inspired by his courage, even his fellow disciples joined the fight, and together they journeyed to Navori where the greater war was raging.</p><p>The Noxian commanders saw in Wuju a threat that could not be ignored. They scouted the origin of these peerless warriors, and elected to strike at their home without mercy. In a single night, the entire village was destroyed, its people and culture obliterated by chemical fire that no steel could hold back.</p><p>After the war finally ended, Yi returned as the only surviving disciple, to find nothing but ruins. The very magic of the land had been defiled, and everyone he had known and loved was no more. Slain in spirit, if not in body, Yi became the attack\u2019s final casualty. With no other practitioners of Wuju left alive, he realized the title of master was his to bear alone.</p><p>Grief-stricken, he chose seclusion, training obsessively to bury the guilt of his survival, but the wisdom of bygone masters seemed to fade with the haze of time. He began to doubt if one man could preserve an entire heritage\u2026 until he encountered the least expected of individuals.</p><p>A curious, monkey-like vastaya challenged him to a duel. Reluctantly, Master Yi entertained the creature\u2019s demands, defeating him with ease. But the vastaya refused to give up, returning day after day with increasingly clever tricks that forced Yi to react and improvise. For the first time in years, Yi felt the spirit of Wuju once more.</p><p>The two clashed for weeks, until the bruised stranger finally knelt on the ground and introduced himself as Kong, of the Shimon tribe. He begged to learn from Yi, who saw in this reckless but determined fighter the makings of a new disciple. Through teaching, Yi found his purpose restored. He would pass on the ways of Wuju, and gifted his pupil an enchanted staff and an honorific as a sign of this vow\u2014from that day onward, Kong was known as Wukong.</p><p>Together, they now travel the First Lands, as Yi seeks to honor the legacy of his lost home, allowing him to fully embody the \u201cmaster\u201d in his name.<br></p>",
+                "short": "<p>Master Yi has tempered his body and sharpened his mind, so that thought and action have become almost as one. Though he chooses to enter into violence only as a last resort, the grace and speed of his blade ensures resolution is always swift. As one of the last living practitioners of the Ionian art of Wuju, Yi has devoted his life to continuing the legacy of his people\u2014scrutinizing potential new disciples with the Seven Lenses of Insight to identify the most worthy among them.</p>",
+                "quote": "''The edge of the sharpest blade is no match for the calm of the peaceful mind.''",
+                "quote_author": "Master Yi"
+            },
+            "header_image": null,
+            "subtitle": "the Wuju Bladesman",
+            "echelon": 11
+        },
+        {
+            "type": "champion",
+            "release_date": "2017-04-11T19:43:26.000Z",
+            "name": "Rakan",
+            "title": "Rakan",
+            "section_title": "Rakan",
+            "slug": "rakan",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "rakan-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/f5202263b1685fbaaa6aab44868ac08b53bb786b-2181x844.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 2792,
+                "height": 1080,
+                "x": 1150,
+                "y": 108,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "rakan-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/f5202263b1685fbaaa6aab44868ac08b53bb786b-2181x844.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 2792,
+                "height": 1080,
+                "x": 1150,
+                "y": 108,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/rakan",
+            "video": null,
+            "races": [
+                {
+                    "name": "Vastaya",
+                    "slug": "vastaya"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "Support",
+                    "slug": "support"
+                },
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Support",
+                    "slug": "support"
+                },
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                }
+            ],
+            "game_info_url": "http://na.leagueoflegends.com/en/featured/champion-xayah-rakan-reveal",
+            "biography": {
+                "full": "<p>The Lhotlan vastaya once lived on the ancient, mystical borders of Ionia\u2019s deep forests, on the eastern island of Qaelin. It was a place where magic was breathed like air, and time had little meaning. To these chimeric creatures, the lands of mortals were an unforgiving desert, virtually devoid of magic\u2014and over the centuries, that desert only grew, encroaching on the vastaya\u2019s territories.</p><p>Rakan was born into a tribe in decline, yet he never gave up hope.</p><p>Like his brethren, Rakan watched as human settlements continued to expand, damming the flow of Ionia\u2019s wild, chaotic magic for their own safety. Many tribes sent emissaries to negotiate with them, securing treaties to protect the mystical energy the vastaya needed to thrive. Yet over and over again, these promises were broken.</p><p>Disillusioned, most vastaya became increasingly isolationist as they clung to their remaining lands. But young Rakan advocated a different path. The battle-dancer believed that mortals could be convinced to let wild magic run free if they could only appreciate its beauty, and he boasted that he was the one to make them see it. For this, he was labeled <i>mu\u2019takl</i>\u2014distrusted as a human sympathizer, and collaborator.</p><p>Rakan left the Lhotlan tribe, determined to spread the song of his people across Ionia. He was an entertaining rogue, a welcome performer at any tavern or village carnival, but over the years he realized that was <i>all</i> he was to mortals\u2014no matter how many dances and songs he performed, no matter how much he enthralled the crowds, he merely provided diversion to drunken revelers.</p><p>Rakan grew restless, finding himself without purpose... until he had a chance encounter with Xayah, a fellow Lhotlan, at the harvest festival in Vlonqo.</p><p>Seeing her in the crowd, Rakan sang one of his old songs, entrancing the entire town with his gleaming plumage. Though countless human and vastayan women had fallen for him in the past, this violet raven seemed immune to his charms, though not uninterested.</p><p>How could she see him and yet choose not to follow him? It was a puzzle with no easy answer.</p><p>Intrigued, the battle-dancer approached Xayah and asked after the welfare of their tribe. When she told him that the Lhotlan had lost the last of their lands, Rakan howled with rage. This finally seemed to impress Xayah, and she assured him that there was still hope: she was part of something greater, a rebellion of sorts, to take back what the vastaya had lost. Not just for the Lhotlan, but for all tribes.</p><p>Rakan was thunderstruck. Here was a chance for him to redeem his people, a cause he was willing to die for. He implored Xayah to let him accompany her, and she agreed\u2014as long as he carried his weight.</p><p>And, as Xayah would soon learn, Rakan\u2019s dances were as impressive in battle as they were on stage. He called himself the greatest battle-dancer in Lhotlan history, a boast that none could refute. His grand entrances and dazzling acrobatics distracted and befuddled enemies, before Xayah felled them with her razor-sharp quills. In any dangerous situation, they fought together with uncanny harmony.</p><p>During their travels, Rakan became fascinated by how Xayah interacted with the world. She seemed always prepared, aloof, and focused... whereas he was absent-minded, affable, and lacking seriousness. Although Rakan would often forget her carefully laid plans, he made up for it with his ability to read the emotions of others, using charisma and insight to persuade them. The two vastaya were so different, and yet they achieved great feats, each one\u2019s strengths complementing the other\u2019s weaknesses.</p><p>Soon enough, Rakan couldn\u2019t imagine life without Xayah, and it was clear that she felt the same for him. The pair pledged themselves to each other in the midst of a raucous tavern brawl.</p><p>Yet they did not see eye to eye in all things. Where she viewed the world as black and white, with mortals always the enemy, he had more compassion, and believed some of them were redeemable. Despite this difference, Rakan was certain that his and Xayah\u2019s love for each other would bear them through the storms that lay ahead.</p><p>Through Xayah, Rakan has found purpose. Inspired by his partner\u2019s singular drive, Rakan has made her crusade his own, and together they will fight to reclaim the First Lands for the vastaya.</p>",
+                "short": "As mercurial as he is charming, Rakan is an infamous vastayan troublemaker and the greatest battle-dancer in Lhotlan tribal history. To the humans of the Ionian highlands, his name had long been synonymous with wild festivals, uncontrollable parties, and anarchic music. But this energetic, traveling showman has left his old life behind, dedicating himself to the cause of his lover, the rebel Xayah. Together, they seek to free Ionia\u2019s wild magic, restoring the vastaya\u2019s birthright.",
+                "quote": "\u201cI got freedom. I got a lady. I got a cause I'd die for.\u201d",
+                "quote_author": "Rakan"
+            },
+            "header_image": null,
+            "subtitle": "the Charmer",
+            "echelon": 12
+        },
+        {
+            "type": "champion",
+            "release_date": "2019-12-18T00:00:00.000Z",
+            "name": "Sett",
+            "title": "Sett",
+            "section_title": "Sett",
+            "slug": "sett",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "sett-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/ed30a9687c5c05d36d5bd73588c8e79b58e8f864-1900x1092.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1900,
+                "height": 1092,
+                "x": 927,
+                "y": 98,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "sett-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/ed30a9687c5c05d36d5bd73588c8e79b58e8f864-1900x1092.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1900,
+                "height": 1092,
+                "x": 927,
+                "y": 98,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/sett",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "game_info_url": null,
+            "biography": {
+                "full": "<p>Though now a powerful player in Ionia\u2019s flourishing criminal underworld, Sett had humble origins. Born from an Ionian vastaya and a Noxian human, the \u201chalf-beast\u201d child was an outcast from the start. His birth appalled his mother\u2019s vastayan community, which expelled the family for violating its tribal norms. The humans of Ionia were no more accepting of the taboo union, though Sett\u2019s father\u2019s infamy as a local pitfighter usually kept them from voicing their disapproval.</p><p>What little security the family enjoyed vanished the day Sett\u2019s father disappeared. All of a sudden, those who had bitten their tongues at the sight of young Sett felt free to express their contempt. The boy was bewildered, wondering where his father had gone, and why trouble suddenly seemed to be following him.</p><p>Sett grew up quickly, becoming calloused in the face of the taunts and threats he endured, and before long, he began using his fists to silence the insults. When news of his fights reached his mother, she made him swear not to go near the Noxian pits where his father had fought.</p><p>But the more Sett fought, the more he thought of his father.</p><p>Longing to find the man he only vaguely remembered, Sett snuck away to the pit late one night, after his mother had gone to bed. Immediately, he was enthralled by the spectacle. Scores of Noxian soldiers, fresh to the shores of Ionia, roared with bloodlust from the stands around him. Down in the center of the arena, fighters from all backgrounds and martial disciplines clashed in gruesome duels with a variety of weapons\u2014the winners handsomely paid in Noxian coin. When the event was over, Sett inquired about his father, and learned a hard truth: his father had bought out his contract and left to tour more profitable pits abroad. He had deserted his family, to seek fortune on the other side of the world.</p><p>Burning with rage, Sett asked the arena\u2019s matchmaker for a fight, hoping that somehow his father would return from his tour\u2014and be the opponent standing across the pit from him. The matchmaker assigned the boy a fight on the next card, figuring he would be easy fodder for one of his star combatants.</p><p>Sett would prove him wrong.</p><p>From the moment he threw his first punch, \u201cThe Beast-Boy Bastard\u201d was a pit-fighting sensation. Though Sett had no formal martial arts training, his primal strength and ferocity more than compensated, and he leveled his more technically sound opponents like a battering ram. Never abandoning hope that he might one day fight his father, he soon became the undisputed \u201cKing of the Pit\u201d, with a swollen coffer of prize money\u2014and a trail of broken opponents\u2014to his name.</p><p>Night after night, Sett brought money and comforts to his mother, always lying about how he had acquired them. It warmed his calloused heart to see her so proud of his success, no longer forced to toil at menial jobs. Still, Sett couldn\u2019t help but feel he could do better. Being the King of the Pit was good, but being the person who owned the pit\u2026 that was where the real money was.</p><p>Late one night, after defending his title in front of a record-breaking crowd, Sett presented his new demands to the Noxian matchmaker and his cronies. He suggested they grant him control of the arena and its revenue. When they refused, Sett barred the doors. Minutes later, the doors re-opened, and the Noxians emerged, badly maimed, with a message on their bloodied lips: the half-beast was the new boss.</p><p>With the promoters out of the picture, Sett took control of the pit he once fought in. Ionians, who had only recently been conditioned for war, flocked to the arena, paying to satisfy an urge they only now knew they possessed. Sett took full advantage of their newfound bloodlust, accumulating wealth and power beyond his wildest boyhood dreams, as he transformed the pit into the hub of an underground empire of gambling and vice.</p><p>The half-beast who reigned supreme in the pit now runs his illicit enterprises with the same iron fist. Any time someone challenges his authority, he personally reminds them where they stand. Every punch Sett throws is a blow to his old life of poverty and ostracism, and he intends to make sure that old life stays down.</p>",
+                "short": "A leader of Ionia\u2019s growing criminal underworld, Sett rose to prominence in the wake of the war with Noxus. Though he began as a humble challenger in the fighting pits of Navori, he quickly gained notoriety for his savage strength, and his ability to take seemingly endless amounts of punishment. Now, having climbed through the ranks of local combatants, Sett has muscled to the top, reigning over the pits he once fought in.",
+                "quote": "\u201cBein\u2019 the boss\u2026 is a lot better than not bein\u2019 the boss.\u201d",
+                "quote_author": "Sett"
+            },
+            "header_image": null,
+            "subtitle": "the Boss",
+            "echelon": 13
+        },
+        {
+            "type": "champion",
+            "release_date": "2010-03-24T00:00:00.000Z",
+            "name": "Shen",
+            "title": "Shen",
+            "section_title": "Shen",
+            "slug": "shen",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "Shen_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6cb82fdaf892111de0b767513f45cf82be59909d-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1034,
+                "y": 0,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Shen_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6cb82fdaf892111de0b767513f45cf82be59909d-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1034,
+                "y": 0,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/shen",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                },
+                {
+                    "name": "Melee",
+                    "slug": "melee"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                },
+                {
+                    "name": "Melee",
+                    "slug": "melee"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/shen",
+            "biography": {
+                "full": "<p>An enigma to the spirit realm, as well as the mortal world, Shen belongs to neither. Although born to one of the most revered families of northern Navori, it was his father\u2019s role as the Eye of Twilight that set his destiny in the Kinkou Order.</p><p>As the son of Great Master Kusho, he was immersed in the order\u2019s culture, and its core tenets were as familiar to him as the Ionian sunset. He knew the necessity of <i>Pruning the Tree</i>, the determination of <i>Coursing the Sun</i>, but above all, he learned the wisdom of <i>Watching the Stars</i>. He meditated and studied throughout his childhood, and was considered exemplary by all his teachers.</p><p>His closest friend, the only one who could match him in practice bouts, was the young acolyte Zed. They grew up as brothers, often confiding in each other their personal hopes and dreams. Shen could turn to Zed for a fresh perspective on any matter, and the two became known as the Kinkou\u2019s most promising students.</p><p>As their skills developed, Kusho brought them on dangerous missions, including a hunt for the Golden Demon plaguing the province of Zhyun. Their search took years, but Shen stayed committed even after uncovering countless gruesome murders. When they at last captured the \u201cdemon\u201d, it was revealed to be Khada Jhin, a mere stagehand from a traveling theater. Instead of execution, Great Master Kusho ordered the criminal imprisoned.</p><p>Though he and Zed both thought the killer deserved heavier punishment, Shen accepted his father\u2019s decision. He strived to emulate the Eye of Twilight\u2019s dispassion, and so found himself failing to console a bitter and resentful Zed.</p><p>Even when Noxian invaders threatened the peace of the First Lands, Shen reluctantly supported Kusho\u2019s inaction. But when Zed abandoned the Kinkou to join the fight, Shen stayed within the temple walls.</p><p>Many of the provinces were soon occupied by the enemy. Despite this, Shen focused on maintaining Ionia\u2019s spiritual harmony. So it was, when he was far from home, he felt a jolting imbalance within the Kinkou Order\u2014rushing back, he came upon the survivors of a bloody coup. From them, he learned Zed had raised acolytes of his own, and seized the temple.</p><p>Worst of all, Shen\u2019s father had been slain by the man he once saw as kin.</p><p>Repressing his anguish, he led the remnants of the Kinkou to safety in the mountains. Shen took up his father\u2019s spirit blade, as well as the title of Eye of Twilight. His role was not to seek vengeance, but to rebuild the order. Following the core tenets, he began to recruit and train others, hoping to restore its strength.</p><p>One acolyte in particular showed boundless potential. Shen taught the girl, Akali Jhomen Tethi, to master the arts of stealth and subterfuge. Her mother, Mayym, had stood alongside Kusho as the Fist of Shadow, and it seemed as though her daughter could follow the same path. Even so, Shen found himself forced to urge restraint whenever Akali would seek to strike back at their mortal foes.</p><p>When Noxus finally withdrew, many Ionians celebrated the victorious resistance. Others, like Shen, endured the consequences of war\u2014he persisted in his duty, while in private he wrestled with his hatred for Zed, and doubt in his own ability to lead. The years of conflict had taken a heavy toll on the First Lands, and Shen was uncertain whether the rebuilt Kinkou would ever be able to redress the balance.</p><p>Indeed, even as Akali became the new Fist of Shadow, he felt her beginning to drift away. In time, she openly denounced his teachings, and left the order.</p><p>Shen meditated, watching the stars, and understood that Akali would need to find her own way\u2026 and so would the Kinkou.</p><p>Sometimes, between unseen struggles in the spirit realm, Shen still contemplates the value of his beliefs. He has never let his emotions stop him from preserving tradition, but the question remains: how long can one man walk two worlds, before the acts of one destroy the other?<br></p>",
+                "short": "Among the secretive, Ionian warriors known as the Kinkou, Shen serves as their leader, the Eye of Twilight. He longs to remain free from the confusion of emotion, prejudice, and ego, and walks the unseen path of dispassionate judgment between the spirit realm and the physical world. Tasked with enforcing the equilibrium between them, Shen wields blades of steel and arcane energy against any who would threaten it.",
+                "quote": "\u201cThe Eye is blind to fear, to hate, to love \u2013 to all things that would sway equilibrium.\u201d",
+                "quote_author": "Shen"
+            },
+            "header_image": null,
+            "subtitle": "the Eye of Twilight",
+            "echelon": 14
+        },
+        {
+            "type": "champion",
+            "release_date": "2012-09-13T00:00:00.000Z",
+            "name": "Syndra",
+            "title": "Syndra",
+            "section_title": "Syndra",
+            "slug": "syndra",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "Syndra_0_v2.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/f292e53a2a59925e3c10bc4ee9917f92d35aec03-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 650,
+                "y": 69,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Syndra_0_v2.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/f292e53a2a59925e3c10bc4ee9917f92d35aec03-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 650,
+                "y": 69,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/syndra",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Support",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                },
+                {
+                    "name": "Support",
+                    "slug": "support"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/syndra",
+            "biography": {
+                "full": "<p>As a young child of Navori, Syndra was prone to distraction. She would often get lost in the magical beauty of a pond eclipsed in shadow, or a trail of sugarbeetles climbing the wall. Whenever her chores at home went unfinished, she was scolded harshly by her mother for her lack of focus. Syndra was even blamed when the milk soured, or when any other minor misfortunes befell the family.</p><p>Her older brother, Evard, teased her more than anyone. Syndra often fled to her favorite hiding spot\u2014the ghost-willow, a tree sacred to the people of her village. Alone, she would whisper to the tree for hours, seeking solace. Unbeknownst to her, one warm evening, Evard and his friends followed her in secret. They snickered at her childish tears. Her shame and rage grew as she tried to ignore their insults, until one of them threw a clump of dirt at her head.</p><p>Syndra could no longer control her emotions. All her anger erupted from deep within her, in the form of darkly shining magical orbs, heavy with the weight of her anguish.</p><p>This powerful ability had been dormant until now. It flared with volatile strength, the orbs like pearls of negativity that leached the spirit magic from the world around her, draining the ghost-willow of its life essence. Evard and his friends backed away in horror as the ancient tree twisted, its bark withering to a tarry black.</p><p>Deprived of the ghost-willow, the villagers grew concerned that their connection to the Spirit of Ionia had been severed, and Syndra\u2019s family was to blame. Forced to move on in search of a new home, all had become fearful of her magic.</p><p>After months of travel, they reached the coast and encountered a hermit-priest named Konigen. He spoke of his home on the island of Fae\u2019lor, where he taught those who wished to learn to control their wild magic, and Syndra\u2019s family could see no other option\u2014perhaps he could succeed where they had not. Young Syndra climbed the steps to a cliffside temple, crafted long ago from dark stone, and overlooking the sea. Though she missed her old life, she tried to embrace her teacher\u2019s wisdom, and put all her effort into tempering her emotions.</p><p>However, Syndra grew frustrated as, instead of gaining more control, over the years her magic seemed to weaken. Konigen now locked himself away each morning, meditating in solitude rather than teaching her anything new, and so she confronted him. His teeth gritted with exhaustion, he confessed that he was deliberately dampening her power, for her own safety. Such negativity had a strange, unpredictable effect on reality, and Syndra had grown far beyond his ability as a mentor.</p><p>She felt more betrayed than she ever had before. Konigen tried to calm her, which only fueled her anger\u2026 and in that moment, his focus was lost. </p><p>The foundations of the temple shook. The morning light seemed to pale. Syndra rose from the floor, as her frustrations surged within her. She snatched dark orbs from the air, and cast them <i>through</i> her mentor\u2019s body, forcing him to feel all of her bitter outrage as he died.</p><p>The ceiling gave way, rubble raining down, burying the sacred gardens in dust. Syndra turned her powers against what was left of the temple, sending shockwaves throughout Fae\u2019lor, and draining raw magic from the island itself. </p><p>Never had such negative energy been so concentrated in one place, and it was the Spirit of Ionia that swelled to counter it. The bedrock opened up beneath Syndra, dragging her down to a cavern deep underground\u2014roots pulled her into a pool of living water to suppress her powers, and trap her in a magical slumber.</p><p>Syndra dreamed for what seemed an eternity. Most of the world forgot she had ever existed.</p><p>War with the Noxian empire divided the people of Ionia, and Syndra was eventually awakened by those who had once stood guard over Fae\u2019lor. Some came to kill her, while others hoped she would aid them against Noxus, but she unleashed chaos upon them all. She refused to be a pawn in someone else\u2019s game. Ripping apart the walls of the fortress that had been built on top of her island prison, Syndra raised the greatest tower into the skies to carry her far away.</p><p>She would not be controlled. Not ever again.</p>",
+                "short": "<p>Syndra is a fearsome Ionian mage with incredible power at her command. As a child, she disturbed the village elders with her reckless and wild magic. She was sent away to be taught greater control, but eventually discovered her supposed mentor was restraining her abilities. Forming her feelings of betrayal and hurt into dark spheres of energy, Syndra has sworn to destroy all who would try to control her.</p>",
+                "quote": "<i>My potential is limitless. I will not be restrained.</i>",
+                "quote_author": "Syndra"
+            },
+            "header_image": null,
+            "subtitle": "the Dark Sovereign",
+            "echelon": 15
+        },
+        {
+            "type": "champion",
+            "release_date": "2012-05-08T00:00:00.000Z",
+            "name": "Varus",
+            "title": "Varus",
+            "section_title": "Varus",
+            "slug": "varus",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "varus-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/c4f1197764d67a050281377f366587334f5fc61a-1920x1133.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 1034,
+                "y": 0,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "varus-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/c4f1197764d67a050281377f366587334f5fc61a-1920x1133.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 1034,
+                "y": 0,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/varus",
+            "video": null,
+            "races": [
+                {
+                    "name": "Darkin",
+                    "slug": "darkin"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "Mage",
+                    "slug": "mage"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/varus",
+            "biography": {
+                "full": "<p>Regardless of what he would later become, Varus was once a paragon of loyalty and honor. A skilled archer of the ancient Shuriman empire, he was appointed as a temple warden in the eastern states, and he held this duty sacred above all else.</p><p>During the earliest stages of the war with Icathia, even though it lay far from that cursed place, Varus' homeland was attacked. While other wardens abandoned their posts to join the defense of the outlying villages, he alone remained, screaming in anguish with every arrow he loosed\u2014for he had chosen to uphold his oaths rather than return home to protect his own family.</p><p>Emissaries from the Ascended Host found him kneeling in solemn meditation amid the corpses of his foes. It was said that his cold gaze unsettled even the god-warriors themselves, and yet, in recognition of his noble sacrifice, Varus was offered a place in their ranks.</p><p>As one of the great Ascended, he was utterly consumed by his pursuit of vengeance against the Icathians, and the voidling horrors they had unleashed. It is likely that Varus did not even fully comprehend Shurima's ultimate victory in that war, so twisted had his mind become\u2014nor the empire's fall centuries later. Atrocity after atrocity blurred together, leaving him as a withdrawn, callous killer, reshaped and sent into battle countless times by his degenerate brethren.</p><p>Their name became feared throughout the known world.</p><p>The <i>Darkin</i>.</p><p>Warring among themselves, they destroyed any other who stood against them. With his crystalline bow, Varus assassinated enemy commanders and champions, helping the Darkin defeat entire mortal armies with ever greater ease.</p><p>Eventually, legend has it that Varus was cornered by vastayan moon-stalkers and human mages in service of a golden-armored warrior queen of Valoran. They bound him within his bow, leaving him to howl in impotent rage. By then, the raw, corrupting influence of the Darkin was known, and yet still the queen chose to wield the deadly weapon in the final days of the war, gladly sacrificing herself for a greater victory.</p><p>In the months that followed, the queen carried Varus to the First Lands\u2014those that would later be known as Ionia. Now made monstrous by the bow's power, her last act was to command her followers to bury her alive in a lightless well, sunk deep beneath a mountain temple overlooking the village of Pallas.</p><p>Curiously, no record of these events exists in any monastery in Ionia. And yet, it was there that Varus was imprisoned, and tended by the ritual ministrations of the temple's shrine maidens.</p><p>The bow remained hidden for centuries, unknown, untouched, and all but forgotten, until Noxian invaders attacked the First Lands. Two beast hunters\u2014Valmar and his heartlight, Kai\u2014fought against the first wave at the Temple of Pallas. Though their courage was great and they drove off the attackers, Kai was mortally wounded, and a grief-stricken Val carried him inside, believing the well's forbidden magic could restore him.</p><p>But the temple held only damnation, and both hunters were consumed by the unleashed power of the Darkin within it. The very matter of their bodies was unraveled and bound together again to craft a new body, a body fit to free Varus from his imprisonment. What emerged from the well was a gestalt creature, pale and inhumanly beautiful, part human and part Darkin. After more than a thousand years, Varus was reborn.</p><p>Even so, the human and Darkin elements of this imperfect form are in constant flux, with each managing to wrest control for a short time before being reined in by the other. Varus fights to silence the two mortal souls once and for all, and wreak vengeance for the destruction of his race. Still, Kai and Val struggle against his malevolent influence, hoping against hope that their love can overcome the Darkin's hatred.</p><p>How long they can keep Varus conflicted is anyone's guess\u2014but should this sadistic and egotistical killer come to fully dominate his new host, it is certain he will seek to reunite with others of his kind, and reduce all of Runeterra to an ashen wasteland.</p>",
+                "short": "<p>One of the ancient Darkin, Varus was a deadly killer who loved to torment his foes, driving them almost to insanity before delivering the killing arrow. He was imprisoned at the end of the Great Darkin War, but escaped centuries later in the remade flesh of two Ionian hunters\u2014they had unwittingly released him, cursed to bear the bow containing his bound essence. Varus now seeks out those who trapped him, in order to enact his brutal vengeance, but the mortal souls within still resist him every step of the way.</p>",
+                "quote": "\u201cYou didn\u2019t destroy us all. And that mistake will be your undoing.\u201d",
+                "quote_author": "Varus"
+            },
+            "header_image": null,
+            "subtitle": "the Arrow of Retribution",
+            "echelon": 16
+        },
+        {
+            "type": "champion",
+            "release_date": "2011-07-26T00:00:00.000Z",
+            "name": "Wukong",
+            "title": "Wukong",
+            "section_title": "Wukong",
+            "slug": "monkeyking",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "MonkeyKing_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/55a17baa4556728c30e3997f1a5d4624835cfd1d-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 852,
+                "y": 132,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "MonkeyKing_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/55a17baa4556728c30e3997f1a5d4624835cfd1d-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 852,
+                "y": 132,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/monkeyking",
+            "video": null,
+            "races": [
+                {
+                    "name": "Vastaya",
+                    "slug": "vastaya"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/monkeyking",
+            "biography": {
+                "full": "<p>Within Ionia\u2019s magical forests dwells a tribe of vastaya known as the Shimon. A cautious people, they see life as an evolutionary climb to wisdom\u2014upon death, they believe they become stones, returning to the soil to begin the climb of life anew.</p><p>Impulsive, clever, and easily bored, young Kong never had much in common with other Shimon. For countless years, they endured his pranks\u2026 until the day he arrived in a panic, insisting that a great elemental dragon was coming to burn their woodland home.</p><p>But Kong only chuckled as his tribe began to flee. Realizing he had fooled them, and with their patience finally at an end, the Shimon named him outcast. Kong, for his part, was ambivalent. He would seek out people with a better sense of humor.</p><p>Living as something of a charlatan, he proclaimed himself \u201cthe Monkey King\u201d and often challenged mortals to duels, or games of cunning. He claimed to be undefeated\u2014until he crossed a Noxian headsman in the hinterlands of Zhyun. The Noxian and his comrades chased the Monkey King deep into the wilderness, where he hid, only emerging again after the invaders left the shores of the First Lands for good.</p><p>And in time, Kong saw the brutality Noxus had inflicted upon his homeland.</p><p>He set out to meet the fabled combat-masters of Wuju, but found that their village had been annihilated. The only living soul was a man sitting quietly among the ruins, so Kong challenged him to a good-natured fight. In a single motion, the man stood, knocked the vastaya down, then resumed his meditation.</p><p>For weeks, Kong returned again and again, determined to defeat this dour man\u2014but the Monkey King was always outmaneuvered, no matter if he approached from behind, above, or below. The warrior could sense whenever Kong was about to attack, even when the vastaya tried to distract him with <i>hilarious</i> jokes, and he somehow knew not to drink his tea when Kong laced it with stupefying spirits.</p><p>Eventually, the Monkey King knelt before the man and begged to learn his ways. Kong wanted to be the greatest warrior, but he also sought something more. He just couldn\u2019t quite put it into words.</p><p>The man saw Kong\u2019s humility, and knew the vastaya was ready. He introduced himself as Yi, the last master of Wuju, and agreed to train Kong in its virtues of discipline and patience. He could help channel Kong\u2019s recklessness and impulsiveness into a lethally swift and surprising fighting style.</p><p>The two grew to respect each other, yet Yi refused to speak much of his past, or why he would not leave the ruined village. Kong made a proposition. The two would engage in a friendly sparring bout. If Kong won, Yi had to reveal why he\u2019d stopped fighting. If Yi prevailed, Kong wouldn\u2019t speak for four full seasons.</p><p>Yi eagerly accepted.</p><p>When Kong had first arrived at Wuju, he crept through a field of smokepoppies, and he lured his master back there now. Each time Yi attacked, the agitated flowers would burst around him\u2014until finally he struck out through the growing haze at what he <i>believed</i> was Kong, but instead hit a straw decoy. Kong seized his opportunity, and grappled Yi to the ground.</p><p>Finally, Yi told Kong the truth. He and his fellow disciples had gone to defend Ionia during the war, bringing the wrath of Noxus down upon Wuju in turn. He blamed himself for the death of every last villager, and watched over the ruins as penance.</p><p>This, Kong realized, was what he sought. Although his tribe had cast him out, he wanted to defend the Shimon, who had sheltered him for so long, and set him on the path to wisdom and enlightenment. Proud of his student, Yi also felt a renewed sense of purpose\u2014he granted Kong an enchanted staff, crafted by the legendary weaponsmith Doran, and a new honorific, reserved only for the brightest students of Wuju.</p><p>From that day forward, he was known as Wukong.</p><p>Though the war is long over, Noxus\u2019 influence continues to defile Ionia. Roads have been carved through the ancient forests, self-styled \u201ctax collectors\u201d hound peaceful folk who have nothing left to give, and the great festivals of renewal have been slowly declining, year after year.</p><p>But the great warriors Wukong and Master Yi are ready. Side by side, they roam the First Lands, resolved to combat injustice and hatred wherever they find it.</p>",
+                "short": "Wukong is a vastayan trickster who uses his strength, agility, and intelligence to confuse his opponents and gain the upper hand. After finding a lifelong friend in the warrior known as Master Yi, Wukong became the last student of the ancient martial art known as Wuju. Armed with an enchanted staff, Wukong seeks to prevent Ionia from falling to ruin.",
+                "quote": "\u201cMy journey is only beginning\u2026\u201d",
+                "quote_author": "Wukong"
+            },
+            "header_image": null,
+            "subtitle": "the Monkey King",
+            "echelon": 17
+        },
+        {
+            "type": "champion",
+            "release_date": "2017-04-11T19:43:26.000Z",
+            "name": "Xayah",
+            "title": "Xayah",
+            "section_title": "Xayah",
+            "slug": "xayah",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "xayah-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/7dc493395d5c991557d7b0657253bb201f85143b-2181x844.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 2792,
+                "height": 1080,
+                "x": 1700,
+                "y": 256,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "xayah-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/7dc493395d5c991557d7b0657253bb201f85143b-2181x844.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 2792,
+                "height": 1080,
+                "x": 1700,
+                "y": 256,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/xayah",
+            "video": null,
+            "races": [
+                {
+                    "name": "Vastaya",
+                    "slug": "vastaya"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "Tank",
+                    "slug": "tank"
+                }
+            ],
+            "game_info_url": "http://na.leagueoflegends.com/en/featured/champion-xayah-rakan-reveal",
+            "biography": {
+                "full": "<p>As a child of the Lhotlan tribe, Xayah loved listening to her father sing folk-hymns about ancient vastayan heroes. The haunting melodies transported her to a long-forgotten time, when magic danced freely through the island of Qaelin, imbuing the Lhotlan with immense power.</p><p>Yet with each new generation, humans encroached farther into all the vastaya\u2019s ancestral tribelands, disrupting their raw essence. The tribes began to fade, losing vitality as they were gradually cut off from the spirit of the First Lands, and were forced to negotiate with their mortal rivals.</p><p>Xayah watched in frustration as, time and again, her tribe\u2019s <i>juloah</i> ambassadors made treaties with mortals that were swiftly broken. Most disturbingly, humans had discovered the secrets of towering constructs known as quinlons, and were using them to inhibit Ionia\u2019s natural magic in order to protect their expanding settlements.</p><p>Even though Xayah and others like her urged their people to fight back, the Lhotlan instead withdrew into themselves, shunning the mortal world as they clung to what little they had left. Yet this would not protect them, and they were eventually driven from their homes.</p><p>The Lhotlan became rootless nomads. Xayah became a freedom fighter.</p><p>And she was not alone. Vastayan rebellions were growing across Ionia, seeking retribution against mortals. The time for negotiation was over. Xayah was determined to use her lethal quills in battle, to release the land\u2019s wild magic.</p><p>Flitting in and out of the most fortified strongholds and leaving a trail of bodies in her wake, she earned the sobriquet \u201cthe Violet Raven\u201d. Her dedication to the cause was unmatched, as she focused only on the next mission, and the next step toward freedom for her kind. Though she cherished her rebel allies, she usually acted alone, believing she could do the job better than any other.</p><p>But then she met another vastaya who would change her life forever.</p><p>After she entered the remote mountain town of Vlonqo in search of a stolen artifact, she was struck by the sight of a braying crowd of humans. Onstage before them stood a preening, flamboyant performer, who sang old vastayan songs for his captivated audience. As he finished his show with a dazzling array of cheap tricks, the crowd erupted and chanted his name: <i>Rakan! Rakan! Rakan!</i></p><p>He took a theatrical bow. Xayah dismissed him as a buffoon. A fellow Lhotlan he might be, but this Rakan seemed like nothing more than a foolish <i>mu\u2019takl.</i></p><p>Xayah willed herself to ignore him, and completed her mission... which she couldn\u2019t deny had become far easier thanks to Rakan distracting the locals.</p><p>Before Xayah could flee into the wilderness, Rakan accosted her. After making a series of failed attempts to charm her with flattery, the brash vastaya asked for news of the Lhotlan tribe. When she told him they had lost their lands, his plumage darkened, and she was surprised at the depth of his rage. Perhaps there was more to Rakan than she\u2019d thought.</p><p>When she told him of her true cause, he begged to join her. Seeing potential in his ability to create diversions, if nothing else, Xayah agreed.</p><p>When they began their travels, she saw Rakan as a useful\u2014but annoying\u2014asset. The showboating battle-dancer would leap and pirouette through enemies with ease, distracting them before Xayah struck them down. Indeed, this fighting style <i>almost</i> compensated for his irritating inability to remember Xayah\u2019s meticulous plans.</p><p>Rakan helped Xayah in other ways as well. While she was blunt and abrasive, he was insightful and charismatic, able to use charm and persuasion where she would have resorted to violence. She was impressed by his uncanny ability to assess people\u2019s emotions and trustworthiness. She sometimes questioned Rakan\u2019s compassion for mortals, but never doubted his devotion to the rebel cause.</p><p>Eventually, Xayah realized her feelings for Rakan were changing. There was a lightness to him and his free-spirited ways that she found aggravatingly alluring. Over time, she grew to welcome his company, and\u2014though she was initially loath to admit it\u2014the world didn\u2019t feel so broken and lonely. They became inseparable.</p><p>In all the years since, the two of them have become formidable champions of the vastaya, and word of their deeds is spreading. In the wake of the Noxian invasion, Ionians are undeniably more aggressive and dangerous\u2014especially the peoples of Navori, and the hated \u201cOrder of Shadow\u201d. Even so, this has enabled Xayah and Rakan to rally countless more vastaya to their side, and their dream of rebellion is coming to fruition.</p><p>Together, they will fight to reclaim the First Lands, so that the tribes may thrive once again.</p>",
+                "short": "Deadly and precise, Xayah is a vastayan revolutionary waging a personal war to save her people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in her way. Xayah fights alongside her partner and lover, Rakan, to protect their dwindling tribe, and restore their race to her vision of its former glory.",
+                "quote": "\u201cEver been stabbed by a feather?\u201d",
+                "quote_author": "Xayah"
+            },
+            "header_image": null,
+            "subtitle": "the Rebel",
+            "echelon": 18
+        },
+        {
+            "type": "champion",
+            "release_date": "2013-12-13T00:00:00.000Z",
+            "name": "Yasuo",
+            "title": "Yasuo",
+            "section_title": "Yasuo",
+            "slug": "yasuo",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "Yasuo_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/0b19bbfa3272f9625762f9b5974429bedc345008-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1069,
+                "y": 225,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Yasuo_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/0b19bbfa3272f9625762f9b5974429bedc345008-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1069,
+                "y": 225,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/yasuo",
+            "video": {
+                "title": "yasuo-splashvideo.webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/64bf102eba34a29dfe59d0595f916a0848753141.webm?accountingTag=LoL",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1069,
+                "y": 225,
+                "featured_champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/yasuo",
+            "biography": {
+                "full": "<p>As a child, Yasuo often believed what the others in his village said of him: on the best days, his very existence was an error in judgement; on the worst, he was a mistake that could never be undone.</p><p>Like most pain, there was some truth to it. His mother was a widow already raising a young son, when the man who would be Yasuo\u2019s father blew into her life like an autumn wind. And, just like that lonely season, he was gone again before the blanket of Ionian winter settled over the small family.</p><p>Even though Yasuo\u2019s older half-brother, Yone, was everything Yasuo was not\u2014respectful, cautious, conscientious\u2014the two were inseparable. When other children teased Yasuo, Yone was there to defend him. But what Yasuo lacked in patience, he made up for in determination. When Yone began his apprenticeship at the village\u2019s renowned sword school, a young Yasuo followed, waiting outside in monsoon rain, until the teachers relented and opened the gates.</p><p>Much to the annoyance of his new peers, Yasuo showed natural talent, and became the only student to catch the attention of Elder Souma, last master of the legendary wind technique. The old man saw Yasuo\u2019s potential, but the impulsive pupil refused his tutelage, remaining unbridled like a whirlwind. Yone pleaded with his brother to set aside his arrogance, gifting him a maple seed, the school\u2019s highest lesson in humility. The next morning, Yasuo accepted the position as Souma\u2019s apprentice, and personal bodyguard.</p><p>When word of the Noxian invasion reached the school, some were inspired by the great stand that had been taken at the Placidium of Navori, and soon the village was bled of the able bodied. Yasuo longed to add his sword to the cause, but even as his classmates and brother left to fight, he was ordered to remain and protect the elders.</p><p>The invasion became a war. Finally, one rain-slicked night, the drums of a Noxian march could be heard in the next valley over. Yasuo abandoned his post, foolishly believing he could turn the tide.</p><p>But he found no battle\u2014only a raw grave for hundreds of Noxian and Ionian corpses. Something terrible and unnatural had happened here, something that no single blade could have stopped. The land itself seemed tainted by it.</p><p>Sobered, Yasuo returned to the school the next day, only to be surrounded by the remaining students, their swords drawn. Elder Souma was dead, and Yasuo found himself accused not only of dereliction, but of murder. He realized the true killer would go unpunished if he did not act quickly, so he fought his way free, though he knew this would all but confirm his apparent guilt.</p><p>Now a fugitive in war-torn Ionia, Yasuo sought any clue that might lead him to the murderer. All the while, he was hunted by his former allies, continually forced to fight or die. This was a price he was willing to pay, until he was tracked down by the one he dreaded most\u2014his own brother, Yone.</p><p>Bound by honor, they circled each other. When their swords finally met, Yasuo\u2019s wind magic overcame Yone\u2019s dual blades, and with a single flash of steel, the outcast cut his brother down.</p><p>He begged forgiveness, but Yone\u2019s dying words were of the wind techniques responsible for Elder Souma\u2019s death, and that his brother was the only one who could have known them. Then he fell silent, passing on before he could grant any absolution.</p><p>Without master or brother, Yasuo roamed the mountains distraught, drinking away the pain of war and loss, a sword without a sheath. There in the snow, he met Taliyah, a young Shuriman stone mage who had fled the Noxian military. In her, Yasuo saw an unlikely student, and in himself, an even more unlikely teacher. He trained her in the ways of elemental magic, wind shaping stone, embracing at last the teachings of Elder Souma.</p><p>Their world changed with rumors of a risen Shuriman god-emperor. Yasuo and Taliyah parted ways, though he gifted her the treasured maple seed, its lesson now learned. As she returned to her native desert sands, Yasuo set out for his own village, determined to put right his mistakes and find his old master\u2019s true killer.</p><p>Within the stone walls of the council hall, Elder Souma\u2019s death was revealed to have been an accident, one brought about by the Noxian exile known as Riven\u2014and one for which she felt deep remorse. Even so, Yasuo still could not absolve himself of the choice he had made to abandon his master or, worse yet, how that choice had ultimately led to Yone\u2019s death.</p><p>Yasuo eventually journeyed to the spirit blossom festival in Weh\u2019le, though he held little hope that its healing rituals would ease his heart. It was there he encountered a demonic creature that sought to devour him, an <i>azakana</i> that fed on his pain and regret.</p><p>Yet a masked intruder intervened, striking down the creature with righteous fury, and Yasuo realized he knew this man\u2014it was <i>Yone</i>.</p><p>Fully expecting his brother to take vengeance, Yasuo was surprised when Yone let him go with little more than a bitter blessing.</p><p>With nothing left for him in the First Lands, Yasuo has embarked on a new adventure, though he knows not where it will lead, his sense of guilt the only thing weighing down the free wind.</p>",
+                "short": "An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies. As a proud young man, he was falsely accused of murdering his master\u2014unable to prove his innocence, he was forced to slay his own brother in self-defense. In time, his master\u2019s true killer was revealed, and his brother mysteriously returned from death, yet Yasuo still could not forgive himself for all he had done. Now, he wanders the world with only the wind to guide his blade.",
+                "quote": "\u201cDeath is like the wind\u2014always by my side.\u201d",
+                "quote_author": "Yasuo"
+            },
+            "header_image": null,
+            "subtitle": "the Unforgiven",
+            "echelon": 19
+        },
+        {
+            "type": "champion",
+            "release_date": "2020-07-24T00:00:00.000Z",
+            "name": "Yone",
+            "title": "Yone",
+            "section_title": "Yone",
+            "slug": "yone",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "yone-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/0e7b421f83e58b69bc071fd2658019effc9c464b-1920x1100.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1100,
+                "x": 1134,
+                "y": 102,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "yone-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/0e7b421f83e58b69bc071fd2658019effc9c464b-1920x1100.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1100,
+                "x": 1134,
+                "y": 102,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/yone",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                }
+            ],
+            "game_info_url": null,
+            "biography": {
+                "full": "<p>In life, Yone adhered to a strict code of honor and duty. Even as a child, his love for his family led him to assume the mantle of protector, motivated in no small way by the loss of his father. This was in stark contrast to his half-brother, Yasuo, who was brash and reckless where Yone was patient and disciplined.</p><p>Still, the two were inseparable\u2014and when Yone began his studies at the renowned sword school near their village, Yasuo followed.</p><p>As they trained, Yone was often forced to temper his younger brother\u2019s impulsiveness. However, when Yasuo refused the personal tutelage of Elder Souma, master of the legendary wind technique, Yone gifted him a maple seed\u2014a symbol of humility\u2014as a sign of his support and encouragement.</p><p>Yone was proud of his brother, but he had doubts about the wise master\u2019s judgment, fearing that Yasuo\u2019s impulsive nature would make him a poor student. But Elder Souma was well respected, and did not make careless decisions.</p><p>Putting his concerns aside, Yone continued to practice with dual blades, his prowess quickly earning the respect and admiration of his fellow disciples. Though Yone\u2019s skill was unmatched, Yasuo\u2019s use of the wind technique made their sparring sessions a sight to behold, and a joy to the brothers themselves.</p><p>But that joy did not last long. War came to Ionia.</p><p>Yone, along with many other disciples, left to defend against the approaching Noxian forces while Yasuo reluctantly stayed behind to protect his master. But one fateful night, Elder Souma was discovered dead\u2014slain by the very wind technique that he taught.</p><p>When Yone returned, he found that Yasuo had fled.</p><p>This shook Yone to his core. His fears were proven true\u2014Elder Souma had been wrong.</p><p>Yone blamed himself. If Yasuo <i>had</i> murdered Souma, Yone had failed to teach him the righteous path. If Yasuo had simply abandoned his post and allowed his master to die, then Yone had failed to instill him with discipline. Either way, Yasuo had already killed several of those who pursued him\u2014and to Yone, their blood stained his own hands as much as his brother\u2019s.</p><p>He tracked Yasuo down. When their swords finally crossed, Yone\u2019s steel was unmatched\u2026 but Yasuo\u2019s mastery of the wind cut his brother down.</p><p>Death, however, was not the end. When Yone awoke within the spirit realm, the weight of his failure crushed him. His fury flared, and he pounded his fists on the ground in rage.</p><p>A rumbling laugh pierced his thoughts. He turned, and beheld a monstrous, humanoid spirit with a blood-red blade. It was a powerful <i>azakana</i>, a predatory entity that had long stalked Yone from beyond the veil.</p><p>Before Yone could speak, it struck.</p><p>He drew the spiritual echoes of his blades to his side just in time to block the attack. He once again found himself in a duel where his swordsmanship was unparalleled, but he was overwhelmed by magic.</p><p>Anger consumed him. A lifetime of honor and duty snapped. In one furious moment, Yone wrested the azakana\u2019s blade from it and ran the creature through.</p><p>The last thing he heard before a new darkness took him was that same rumbling laughter\u2026</p><p>As he came to, Yone found himself back in the material realm, though it was a grim shadow of what it had been. He struggled to his feet, the spirit realm hazy in his mind, and a blood-red sword in his hand. Upon his head, a mask had coalesced in the form of the azakana\u2019s face\u2014he could not remove it, but he could now see <i>other</i> azakana through its eyes. They were not yet true demons, content to feed on negativity before eventually manifesting to devour their hosts. But, as Yone would discover, if an azakana\u2019s name was learned, they could be reduced to inert masks of personified emotion.</p><p>Even so, he could not tell if\u2014or when\u2014the azakana he wore would reawaken to consume him. In life, Yone had worn the mask of <i>protector</i>, <i>brother</i>, and <i>disciple</i> for so long that it had become his identity. But now, in moments of stillness, he swears he can feel the mask shifting upon his face, his own past and unresolved conflict with Yasuo now paling in comparison to this new threat.</p><p>Yone hunts these insidious creatures in an attempt to understand what he has become\u2014with each name bringing him a step closer to uncovering that of the one whose laughter still haunts him.</p><p>Nothing else matters. There is only the chase of truth.</p>",
+                "short": "In life, he was Yone\u2014half-brother of Yasuo, and renowned student of his village\u2019s sword school. But upon his death at the hands of his brother, he found himself hunted by a malevolent entity of the spirit realm, and was forced to slay it with its own sword. Now, cursed to wear its demonic mask upon his face, Yone tirelessly hunts all such creatures in order to understand what he has become.",
+                "quote": "\u201cThey look at me and see only the mask. I look at them and see only their fears.\u201d",
+                "quote_author": "Yone"
+            },
+            "header_image": null,
+            "subtitle": "the Unforgotten",
+            "echelon": 20
+        },
+        {
+            "type": "champion",
+            "release_date": "2025-07-16T18:00:00.000Z",
+            "name": "Yunara",
+            "title": "Yunara",
+            "section_title": "Yunara",
+            "slug": "yunara",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "Yunara_Splash_Banner_v2.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe_live/7438b87454595bc3d3582056d4d1a45dcb9e97c9-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1370,
+                "y": 105,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Yunara_Splash_Banner_v2.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe_live/7438b87454595bc3d3582056d4d1a45dcb9e97c9-1920x1080.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1370,
+                "y": 105,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/yunara",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Marksman",
+                    "slug": "marksman"
+                }
+            ],
+            "game_info_url": "https://www.leagueoflegends.com/",
+            "biography": {
+                "full": "<p><b><strike>[For your attention: a series of damaged manuscript fragments, recovered from the old ruins of Koeshin during restoration of the upper promontory. Please advise on how these should be archived.]</b></p><p></strike><b>[Lord Vladimir\u2014I have completed the re-translation as requested. Your suspicions regarding the previous translator\u2019s incompetence were well-founded.]</p><p>[fragment #45]</b></p><p><i>I mistook the scuttling of azakana across the roof for rain today. Leaving my quarters, thirteen awaited me outside the temple. Most were dispatched quickly, but two proved more difficult.</p><p>One clung to the temple\u2019s side with its grotesque maw. Its teeth shattered against the Aion Er\u2019na\u2014I knocked its shriveled remains off the cliff. The second rose from the waters like a shadow, eyes piercing the gloom. As it attacked, darkness swallowed the temple\u2019s glow.</p><p>But I do not fear the dark.</p><p>It felt good to face a real challenge again. With each strike, each gesture of my hand illuminated by my weapon, I cast the thing away.</p><p>However, the skirmish brought me perilously close to the temple\u2019s entrance. Until that moment, I had avoided coming so near. I returned to my chambers to meditate.</p><p>Of late, there has been far more akana activity in general, and I fear his power attracts the restless.</p><p>I have added another full circle of the perimeter to my daily duties.</p><p></i><b>[The term \u201cAion Er\u2019na\u201d appears derived from an archaic root language\u2014perhaps related to \u201cIonia.\u201d Full meaning unclear.]</b><p/><br><hr class='story-divider' /><br><p><b>[fragment #166]</b><i></p><p>I find that here, in the spirit realm, my mind drifts often to thoughts of the dead.</p><p>It is Master Lao I think of most\u2014and he\u2019d probably laugh at me for saying so. His teachings, though offered sparingly, punctuated our routine with deeper meaning. It would be years before I came to understand how precious and fragile it all was. How important we were.</p><p>By the time Grand Master Bhinan raised us to full acolytes, Lao had already begun preparing us for war.</p><p></i><b>[Kinkou leaders at the time were Bhinan, Kennen, and the Shadowmaster Lao. Seems he had a direct hand in her training, while the others were more distant figures.]</b><i></p><p>He warned that confronting the Fallen Ones themselves was utterly futile. Even their mortal followers were not to be taken lightly.</p><p>Sadly, his words did little to dissuade those who heard not a warning, but a challenge\u2014and in seeking victory, found only death.</p><p>Zai tah'lo. I only wish he had followed his own advice.</p><br><hr class='story-divider' /><br><p></i><b>[fragment #98]</p><p>[Though this entry\u2019s beginning is lost, it is evidently a recollection of the war.]</b><i></p><p>In the moonlight, I caught sight of a servant of the Fallen\u2014only one\u2014right in Lao\u2019s blind spot. I slipped between the shadows and struck him down. As Lao turned, his face held a proud smile\u2014one that shifted to horror when he spotted the symbol on the dead man\u2019s tunic.</p><p>\u201cThe blood\u2026 She will come for us.\u201d</p><p>He tore my gloves away, and wiped them on his tattered robes. His eyes told me to run.</p><p>And then I saw her.</p><p>Lao stood to face our immortal foe, but was bound instantly. What she does to people\u2026 It is something I wish I had never witnessed, yet\u2014</p><p></i><b>[Rest of scroll damaged beyond legibility, but description above feels evocative of hemomancy, I\u2019m certain you would agree. What she witnessed, we can but speculate.]</b></p><br><hr class='story-divider' /><br><p></i><b>[fragment #104]</b><i></p><p>I have had time to reflect on my vows\u2014in particular those I pledged to uphold on becoming the Fist of Shadow:</p><center><p>I will follow the Eye\u2019s guidance and turn to the Heart for wisdom.<br>I will vanquish all who disrupt balance.<br>I will prune the tree of weakness and blight.<br>I will serve no false gods, nor kanmei.<br>I will not allow my feelings to prevent what must be done.</p></center><p>My parents entrusted me to the order as a child, so I knew the oaths by heart, and swore to live by them without question. I channeled guidance handed down to me by the learned masters, and strived to follow their example even when their true wishes were unknown to me.</p><p></i><b>[The oblation of children\u2014given to temples for safekeeping, offering service for sanctuary\u2014rose again during dear old Boram\u2019s escapades in Ionia. Supply shortages and casualties of war left many families unable to provide for their own.]</b><i></p><p>Even so, after the war, I was forced to relinquish that role to another.</p><p>I swore to guard the Temple of Twilight, and Bhinan\u2019s parting words haunted me the most. \u201cYou go now into a place where few can follow. From here, it is you who must determine what is to be pruned. Deliver your judgments as if they were my own.\u201d</p><p>I knew then that we would never speak again, in this realm or the next. Did her words in that moment come from the heavens, or were they simply what I needed to hear?</p><p>Does it matter?</p><br><hr class='story-divider' /><br><p></i><b>[fragment #201]</b><i></p><p>The days I spend out of meditation now bleed together.</p><p>With endless time to train, I have begun experimenting with non-combat uses for the Aion Er\u2019na. I can now dance with them in perfect synchronization, and use them as stepping stones between my chambers and the temple.</p><p>After bathing in the spirit waters, I feel faster, stronger, and more attuned to the relic. A martial pattern that once required sixteen invocations of the Twilight Orison now takes only eleven\u2014whether this is due to the water or cold, I cannot say. Still, I miss the hot springs of Koeshin.</p><p></i><b>[Use of \u201cTwilight\u201d here not necessarily the time of day, as previous translator asserted. In context, could equally refer to martial technique, Kinkou role, temple, or Aspect.]</b><i></p><br><hr class='story-divider' /><br><p></i><b>[fragment #206]</b><i></p><p>A vision came to me as I was meditating. Or was it a memory?</p><p>Once more, we were chasing the Fan and its followers up a mountain, beyond the treeline. The Darkin shrieked in anger at the pursuit, echoing among the snowy peaks.</p><p>I sent the Aion Er\u2019na soaring through the air, caving in the chest of a woman charging me with a sword. Voices rose behind me as a kunai grazed my ear. I pivoted and arced ruin upon them both.</p><p>I looked down to identify our assailants\u2026 but I was no longer on the mountain.</p><p>The walls of the temple surrounded me, alive and seething. Where my companion had stood, a stranger now loomed\u2014cloaked in foreign robes. A new threat?</p><p>The temple is warded against all intrusions, even dreams. Was this a prophecy? A wayward nightmare? I cannot say.</p><p>But it is clear I must not lose faith.</p><p>Not in my cause, and not in myself. There is still more to be done.</i></p><p><b>[This is the only \u201cvision\u201d referenced in 207 recovered fragments. I cannot determine whom she was fighting alongside, but they were unlikely to have been Kinkou. If it <u>is</u> the being housed inside the temple, it appears you share a common enemy. I see nothing else to suggest it would retaliate against you for past actions against its brethren\u2014in my view, your caution toward the host you were cultivating may have been\u2026 excessive.]</b></p>",
+                "short": "Unwavering in her devotion to Ionia, Yunara has spent centuries cloistered away in the spirit realm honing her skills with the Aion Er\u2019na, a legendary Kinkou relic. Despite all she has sacrificed, Yunara\u2019s vow to rid the land of disharmony and strife remains unbroken, as does her faith. But the world that now awaits her\u2014and the shadow of an ancient threat risen once more\u2014will test every ounce of her resolve.",
+                "quote": "\u201cThe War of the False Kanmei\u2014a name bestowed by those who know nothing of which they speak.\u201d",
+                "quote_author": ""
+            },
+            "header_image": null,
+            "subtitle": "The Unbroken Faith",
+            "echelon": 21
+        },
+        {
+            "type": "champion",
+            "release_date": "2012-11-13T00:00:00.000Z",
+            "name": "Zed",
+            "title": "Zed",
+            "section_title": "Zed",
+            "slug": "zed",
+            "associated_faction": "",
+            "associated_faction_slug": "ionia",
+            "image": {
+                "title": "Zed_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/db24370ba8674557039c865f6ce0d92128881326-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 925,
+                "y": 22,
+                "featured_champions": []
+            },
+            "background": {
+                "title": "Zed_0.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/db24370ba8674557039c865f6ce0d92128881326-1215x717.jpg?accountingTag=LoL",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 925,
+                "y": 22,
+                "featured_champions": []
+            },
+            "url": "/en_us/champion/zed",
+            "video": {
+                "title": "zed-splashvideo.webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/5cb0965af44636e26e714ab08e77689950689f8c.webm?accountingTag=LoL",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 925,
+                "y": 22,
+                "featured_champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "Assassin",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "Fighter",
+                    "slug": "fighter"
+                }
+            ],
+            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/zed",
+            "biography": {
+                "full": "<p>Beneath Ionia\u2019s veil of harmony lie the tales of those left behind. For Zed, his story began as a boy on the cold steps of the home of the Kinkou Order.</p><p>Taken in by Great Master Kusho himself, Zed found his place within the temple\u2019s ancient walls. He dedicated himself to understanding the Kinkou\u2019s spiritual tenets, quickly outpacing his peers both in combat and study. Even so, he felt overshadowed by another\u2014his master\u2019s son, Shen. Though Zed\u2019s passion shone through in every technique he perfected, he lacked Shen\u2019s emotional balance. In spite of this, the two pupils became like brothers.</p><p>In time, they journeyed together with their master to track down the infamous Golden Demon. When they finally succeeded in capturing this feared \u201cmonster,\u201d it was revealed to be a mere man named Khada Jhin. The young Zed marched forward with his blades held high, but Kusho stopped him, ordering that Jhin be imprisoned instead.</p><p>Returning to their temple, Zed\u2019s heart bloomed with resentment, and he began to struggle in his studies. He was haunted by the memories of Jhin\u2019s grisly murders, and rising tensions between Ionia and the imperialistic forces of Noxus only worsened his disillusionment. While Shen was growing to adopt his father\u2019s dispassion, Zed refused to let lofty notions of balance stand in the way of punishing evil.</p><p>He ventured deep into the temple\u2019s hidden catacombs, and there he discovered an ornate, black box. Even though he knew it was forbidden to any but the masters of the order, he peered inside.</p><p>Shadows enveloped Zed\u2019s mind, feeding his bitterness with contempt for the weak, and hinting at an ancient, dark magic.</p><p>Returning to the light of the temple, he came face to face with Great Master Kusho. Zed demanded the Kinkou strike at the Noxian invaders with every means at their disposal. When Kusho refused, Zed turned his back on the order that had raised him.</p><p>Unbound by Kinkou doctrine, he raised a following of warriors to resist Noxus. Any soul who threatened his homeland, or stood idle in its defense, was marked for death without mercy\u2014including native vastaya who wavered in their allegiance. Zed urged his followers to embrace the fervor of war, but soon enough he realized his own abilities would never match his ambitions without the black box.</p><p>Amassing his new acolytes, he returned to the Kinkou temple, where he was met by Kusho. The elderly man laid his weapons at Zed\u2019s feet, imploring his former pupil to renounce the shadows in favor of a more balanced path.</p><p>Moments later, Zed emerged back onto the temple steps. In one hand, he grasped the box\u2014and in the other, his freshly bloodied blade.</p><p>The Kinkou, frozen with shock, fell in droves as Zed\u2019s warriors cut them down. He then claimed the temple for himself, establishing his Order of Shadow, and began training his acolytes in the ways of darkness. They etched their flesh with shadowy tattoos, learning to fight alongside shrouded reflections of themselves.</p><p>Zed took advantage of the ongoing war with Noxus, and the suffering it brought to the Ionian people. In the wake of a massacre near the Epool River, he came upon Kayn, a Noxian child soldier wielding nothing but a farmer\u2019s sickle. Zed could see the boy was a weapon waiting to be sharpened, and took him as his personal student. In this young acolyte, he saw a purity of purpose to match his own. In Kayn, Zed could see the future of the Order of Shadow.</p><p>Though he did not reconcile with Shen and the remaining Kinkou, now scattered throughout the provinces, they reached an uneasy accord in the aftermath of the war. Zed knew what he had done could not be undone.</p><p>In recent years, it has become clear that the balance of the First Lands has been disrupted, perhaps forever. For Zed, spiritual harmony holds little consequence\u2014he will do what needs to be done to see Ionia triumph.<br></p>",
+                "short": "<p>Utterly ruthless and without mercy, Zed is the leader of the Order of Shadow, an organization he created with the intent of militarizing Ionia\u2019s magical and martial traditions to drive out Noxian invaders. During the war, desperation led him to unlock the secret shadow form\u2014a malevolent spirit magic as dangerous and corrupting as it is powerful. Zed has mastered all of these forbidden techniques to destroy anything he sees as a threat to his nation, or his new order.</p>",
+                "quote": "<i>\u201cBalance is a fool\u2019s master.\u201d</i>",
+                "quote_author": "Zed"
+            },
+            "header_image": null,
+            "subtitle": "the Master of Shadows",
+            "echelon": 22
+        }
+    ]
+}
