@@ -17,6 +17,8 @@ def write_json_from_pydantic_model(
     universer_meeps = model.model_validate(response)
 
     with open(path, "w") as f:
-        json.dump(universer_meeps.model_dump(), f, indent=4)
+        json.dump(
+            universer_meeps.model_dump(exclude_none=True, by_alias=True), f, indent=4
+        )
 
     return universer_meeps

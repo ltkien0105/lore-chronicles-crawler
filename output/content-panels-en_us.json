@@ -1,0 +1,5465 @@
+{
+    "bilgewater": {
+        "slug": "bilgewater",
+        "disabled": false,
+        "cardSlugs": [
+            "bilgewater_culture",
+            "bilgewater_people",
+            "bilgewater_tools"
+        ],
+        "crestImage": "bilgewater.png",
+        "toastBackground": "bilgewater-region.jpg",
+        "flyoutBackground": "bilgewater-region.jpg",
+        "backgroundImage": "bilgewater-region.jpg",
+        "title": "Bilgewater",
+        "subtitle": "Lawless port city",
+        "description": "Bilgewater is a port city like no other\u2014home to monster hunters, dock-gangs, indigenous peoples, and traders from across the known world. Almost anything can be purchased here, from outlawed hextech to the favor of local crime lords. There is no better place to seek fame and fortune, though death lurks in every alleyway, and the law is almost non-existent.",
+        "link": {
+            "url": "https://universe.leagueoflegends.com/{LOCALE}/region/bilgewater/",
+            "label": "Bilgewater"
+        },
+        "facts": [
+            {
+                "label": "Governance",
+                "description": "Gang syndicates"
+            },
+            {
+                "label": "Attitude towards magic",
+                "description": "Employ"
+            },
+            {
+                "label": "Level of technology",
+                "description": "Medium"
+            },
+            {
+                "label": "General environment",
+                "description": "Tropical archipelago"
+            }
+        ],
+        "championSlugs": [
+            "missfortune",
+            "gangplank",
+            "twistedfate",
+            "graves",
+            "illaoi",
+            "nautilus",
+            "fizz",
+            "pyke",
+            "tahmkench"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "bilgewater",
+                "zoomLevel": 300
+            },
+            {
+                "type": "contentPanel",
+                "slug": "bilgewater"
+            }
+        ]
+    },
+    "demacia": {
+        "slug": "demacia",
+        "disabled": false,
+        "cardSlugs": [
+            "demacia_military",
+            "demacia_architecture"
+        ],
+        "crestImage": "demacia.png",
+        "toastBackground": "demacia-region.jpg",
+        "flyoutBackground": "demacia-region.jpg",
+        "backgroundImage": "demacia-region.jpg",
+        "title": "Demacia",
+        "subtitle": "Proud military kingdom",
+        "description": "Demacia is a proud, lawful kingdom with a prestigious military history. Founded as a refuge from magic after the Rune Wars, some might suggest that the golden age of Demacia has passed, unless it proves able to adapt to a changing world. Self-sufficient and agrarian, its society is inherently defensive and insular, valuing justice, honor, and duty above all else.",
+        "link": {
+            "url": "https://universe.leagueoflegends.com/{LOCALE}/region/demacia/",
+            "label": "Demacia"
+        },
+        "facts": [
+            {
+                "label": "Governance",
+                "description": "Feudal monarchy"
+            },
+            {
+                "label": "Attitude towards magic",
+                "description": "Deny"
+            },
+            {
+                "label": "Level of technology",
+                "description": "Medium"
+            },
+            {
+                "label": "General environment",
+                "description": "Fertile countryside"
+            }
+        ],
+        "championSlugs": [
+            "jarvaniv",
+            "garen",
+            "lux",
+            "xinzhao",
+            "fiora",
+            "quinn",
+            "shyvana",
+            "lucian",
+            "sona",
+            "vayne",
+            "sylas",
+            "kayle",
+            "morgana",
+            "poppy",
+            "galio"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "demacia",
+                "zoomLevel": 300
+            },
+            {
+                "type": "contentPanel",
+                "slug": "demacia"
+            }
+        ]
+    },
+    "freljord": {
+        "slug": "freljord",
+        "disabled": false,
+        "cardSlugs": [
+            "freljord_architecture",
+            "freljord_people",
+            "freljord_tools"
+        ],
+        "crestImage": "freljord.png",
+        "toastBackground": "freljord-region.jpg",
+        "flyoutBackground": "freljord-region.jpg",
+        "backgroundImage": "freljord-region.jpg",
+        "title": "Freljord",
+        "subtitle": "Harsh frozen land",
+        "description": "The Freljord is a harsh and unforgiving land, where demi-gods walk the earth and the people are born warriors. While there are many individual tribes, the three greatest are the Avarosans, the Winter\u2019s Claw, and the Frostguard, each uniquely shaped by their will to survive. It is also the only place on Runeterra where True Ice can be found.",
+        "link": {
+            "url": "https://universe.leagueoflegends.com/{LOCALE}/region/freljord/",
+            "label": "Freljord"
+        },
+        "facts": [
+            {
+                "label": "Governance",
+                "description": "Tribal matriarchy"
+            },
+            {
+                "label": "Attitude towards magic",
+                "description": "Venerate"
+            },
+            {
+                "label": "Level of technology",
+                "description": "Low"
+            },
+            {
+                "label": "General environment",
+                "description": "Icy tundra"
+            }
+        ],
+        "championSlugs": [
+            "ashe",
+            "lissandra",
+            "sejuani",
+            "tryndamere",
+            "braum",
+            "nunu",
+            "olaf",
+            "trundle",
+            "udyr",
+            "gnar",
+            "gragas",
+            "anivia",
+            "ornn",
+            "volibear"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "freljord",
+                "zoomLevel": 300
+            },
+            {
+                "type": "contentPanel",
+                "slug": "freljord"
+            }
+        ]
+    },
+    "icathia": {
+        "slug": "icathia",
+        "disabled": false,
+        "cardSlugs": [
+            "void_history"
+        ],
+        "toastBackground": "icathia-region.jpg",
+        "flyoutBackground": "icathia-region.jpg",
+        "backgroundImage": "icathia-region.jpg",
+        "title": "Icathia",
+        "subtitle": "Barren forbidden wasteland",
+        "description": "A rebellious vassal-state of ancient Shurima, Icathia is now a barren and forbidding wasteland. And yet, amid the ruins, unspeakable horrors of the Void are beginning to stir once more...",
+        "championSlugs": [
+            "jax",
+            "zilean"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "icathia",
+                "zoomLevel": 300
+            },
+            {
+                "type": "contentPanel",
+                "slug": "icathia"
+            }
+        ]
+    },
+    "ionia": {
+        "slug": "ionia",
+        "disabled": false,
+        "cardSlugs": [
+            "ionia_culture",
+            "ionia_environment",
+            "ionia_architecture",
+            "ionia_people",
+            "ionia_tools"
+        ],
+        "crestImage": "ionia.png",
+        "toastBackground": "ionia-region.jpg",
+        "flyoutBackground": "ionia-region.jpg",
+        "backgroundImage": "ionia-region.jpg",
+        "title": "Ionia",
+        "subtitle": "The First Lands",
+        "description": "Known as the First Lands, Ionia is an island continent of natural beauty and magic. Its inhabitants, living in loosely collected provinces, are a spiritual people, seeking harmony with the world. They remained largely neutral until their land was invaded by Noxus\u2014this brutal occupation forced Ionia to reassess its place in the world, and its future path remains undetermined.",
+        "link": {
+            "url": "https://universe.leagueoflegends.com/{LOCALE}/region/ionia/",
+            "label": "Ionia"
+        },
+        "facts": [
+            {
+                "label": "Governance",
+                "description": "Regional provinces"
+            },
+            {
+                "label": "Attitude towards magic",
+                "description": "Harmonize"
+            },
+            {
+                "label": "Level of technology",
+                "description": "Low"
+            },
+            {
+                "label": "General environment",
+                "description": "Magical (varied)"
+            }
+        ],
+        "championSlugs": [
+            "irelia",
+            "karma",
+            "zed",
+            "ahri",
+            "yasuo",
+            "masteryi",
+            "monkeyking",
+            "kayn",
+            "xayah",
+            "rakan",
+            "akali",
+            "jhin",
+            "kennen",
+            "leesin",
+            "shen",
+            "syndra",
+            "varus",
+            "ivern"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ionia",
+                "zoomLevel": 300
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ionia"
+            }
+        ]
+    },
+    "ixtal": {
+        "slug": "ixtal",
+        "disabled": false,
+        "cardSlugs": [
+            "ixtal_region"
+        ],
+        "crestImage": "ixtal.png",
+        "toastBackground": "ixtal-region-card.jpg",
+        "flyoutBackground": "ixtal-region-card.jpg",
+        "backgroundImage": "ixtal-region-card.jpg",
+        "title": "Ixtal",
+        "subtitle": "Perilous Eastern Jungles",
+        "description": "Secluded deep in the wilderness of eastern Shurima, the sophisticated arcology-city of Ixaocan remains mostly free of outside influence. Having witnessed from afar the ruination of the Blessed Isles, and the softening of Buhru culture, the Ixtali view the other factions of Runeterra as little more than upstarts and pretenders, and use their powerful elemental magic to keep any intruders at bay.",
+        "link": {
+            "url": "https://universe.leagueoflegends.com/{LOCALE}/region/ixtal/",
+            "label": "Ixtal"
+        },
+        "facts": [
+            {
+                "label": "Governance",
+                "description": "Magical autocracy"
+            },
+            {
+                "label": "Attitude towards magic",
+                "description": "Control"
+            },
+            {
+                "label": "Level of technology",
+                "description": "Unknown (alchemical)"
+            },
+            {
+                "label": "General environment",
+                "description": "Tropical rainforest"
+            }
+        ],
+        "championSlugs": [
+            "qiyana",
+            "skarner",
+            "nidalee",
+            "neeko",
+            "malphite",
+            "rengar",
+            "zyra"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ixtal",
+                "zoomLevel": 300
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ixtal"
+            }
+        ]
+    },
+    "noxus": {
+        "slug": "noxus",
+        "disabled": false,
+        "cardSlugs": [
+            "noxus_culture",
+            "noxus_legion",
+            "noxus_creatures"
+        ],
+        "crestImage": "noxus.png",
+        "toastBackground": "noxus-region.jpg",
+        "flyoutBackground": "noxus-region.jpg",
+        "backgroundImage": "noxus-region.jpg",
+        "title": "Noxus",
+        "subtitle": "Brutal expansionist empire",
+        "description": "Noxus is a brutal, expansionist empire, yet those who look beyond its warlike exterior will find an unusually inclusive society. Anyone can rise to a position of power and respect if they display the necessary aptitude, regardless of social standing, background, or wealth. Noxians value strength above all, though that strength can manifest in many different ways.",
+        "link": {
+            "url": "https://universe.leagueoflegends.com/{LOCALE}/region/noxus/",
+            "label": "Noxus"
+        },
+        "facts": [
+            {
+                "label": "Governance",
+                "description": "Expansionist empire"
+            },
+            {
+                "label": "Attitude towards magic",
+                "description": "Weaponize"
+            },
+            {
+                "label": "Level of technology",
+                "description": "Medium"
+            },
+            {
+                "label": "General environment",
+                "description": "Inhospitable steppes"
+            }
+        ],
+        "championSlugs": [
+            "swain",
+            "darius",
+            "leblanc",
+            "katarina",
+            "draven",
+            "vladimir",
+            "cassiopeia",
+            "kled",
+            "riven",
+            "sion",
+            "talon",
+            "mordekaiser"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "noxus",
+                "zoomLevel": 300
+            },
+            {
+                "type": "contentPanel",
+                "slug": "noxus"
+            }
+        ]
+    },
+    "piltover-zaun": {
+        "slug": "piltover-zaun",
+        "disabled": false,
+        "cardSlugs": [
+            "piltover_zaun"
+        ],
+        "crestImage": [
+            "piltover.png",
+            "zaun.png"
+        ],
+        "toastBackground": "piltover-zaun-region.jpg",
+        "flyoutBackground": "piltover-zaun-region.jpg",
+        "backgroundImage": "piltover-zaun-region.jpg",
+        "title": "Piltover\n& Zaun",
+        "subtitle": "Dual city-states",
+        "description": "Dual city-states that control the major trade routes between Valoran and Shurima. Home both to visionary inventors and their wealthy patrons, the divide between social classes is becoming more dangerous.",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "piltover-zaun",
+                "zoomLevel": 300
+            },
+            {
+                "type": "contentPanel",
+                "slug": "piltover-zaun"
+            }
+        ]
+    },
+    "shadow-isles": {
+        "slug": "shadow-isles",
+        "disabled": false,
+        "cardSlugs": [
+            "shadow_environment",
+            "shadow_entities"
+        ],
+        "crestImage": "shadow-isles.png",
+        "toastBackground": "shadow-isles-region.jpg",
+        "flyoutBackground": "shadow-isles-region.jpg",
+        "backgroundImage": "shadow-isles-region.jpg",
+        "title": "Shadow\nIsles",
+        "subtitle": "Lands shrouded by the Black Mist",
+        "description": "The Shadow Isles were once a beautiful realm, long since shattered by a magical cataclysm. Now, Black Mist permanently shrouds the land, tainting and corrupting with its malevolent sorcery. Those who perish within it are condemned to become part of it for all eternity\u2026 and worse still, each year the Mist extends its grasp to reap more souls across Runeterra.",
+        "link": {
+            "url": "https://universe.leagueoflegends.com/{LOCALE}/region/shadow-isles/",
+            "label": "Shadow\nIsles"
+        },
+        "facts": [
+            {
+                "label": "Governance",
+                "description": "None"
+            },
+            {
+                "label": "Attitude towards magic",
+                "description": "Suffer"
+            },
+            {
+                "label": "Level of technology",
+                "description": "Low"
+            },
+            {
+                "label": "General environment",
+                "description": "Cursed archipelago"
+            }
+        ],
+        "championSlugs": [
+            "thresh",
+            "kalista",
+            "hecarim",
+            "karthus",
+            "yorick",
+            "maokai",
+            "elise"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "shadow-isles",
+                "zoomLevel": 300
+            },
+            {
+                "type": "contentPanel",
+                "slug": "shadow-isles"
+            }
+        ]
+    },
+    "shurima": {
+        "slug": "shurima",
+        "disabled": false,
+        "cardSlugs": [
+            "shurima_people"
+        ],
+        "crestImage": "shurima.png",
+        "toastBackground": "shurima-region.jpg",
+        "flyoutBackground": "shurima-region.jpg",
+        "backgroundImage": "shurima-region.jpg",
+        "title": "Shurima",
+        "subtitle": "Fallen desert empire",
+        "description": "Shurima was once a thriving civilization that spanned the southern continent, left in ruins by the fall of its god-emperor. Over millennia, tales of its former glory became myth and ritual. Now, its nomadic inhabitants eke out a life in the deserts, or turn to mercenary work. Still, some dare to dream of a return to the old ways.",
+        "link": {
+            "url": "https://universe.leagueoflegends.com/{LOCALE}/region/shurima/",
+            "label": "Shurima"
+        },
+        "facts": [
+            {
+                "label": "Governance",
+                "description": "Divine empire"
+            },
+            {
+                "label": "Attitude towards magic",
+                "description": "Covet"
+            },
+            {
+                "label": "Level of technology",
+                "description": "Unknown"
+            },
+            {
+                "label": "General environment",
+                "description": "Arid desert"
+            }
+        ],
+        "championSlugs": [
+            "azir",
+            "xerath",
+            "nasus",
+            "renekton",
+            "sivir",
+            "taliyah",
+            "kaisa",
+            "amumu",
+            "rammus"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "shurima",
+                "zoomLevel": 300
+            },
+            {
+                "type": "contentPanel",
+                "slug": "shurima"
+            }
+        ]
+    },
+    "targon": {
+        "slug": "targon",
+        "disabled": false,
+        "cardSlugs": [
+            "targon_architecture",
+            "targon_rakkor",
+            "targon_solari",
+            "targon_lunari",
+            "targon_tools"
+        ],
+        "crestImage": "targon.png",
+        "toastBackground": "targon-region.jpg",
+        "flyoutBackground": "targon-region.jpg",
+        "backgroundImage": "targon-region.jpg",
+        "title": "Targon",
+        "subtitle": "Sprawling western mountains",
+        "description": "A mountainous and sparsely inhabited region to the west of Shurima, Targon boasts the tallest peak in Runeterra. Located far from civilization, Mount Targon is all but impossible to reach, save by the most determined pilgrims, chasing some soul-deep yearning to reach its summit. Those hardy few who survive the climb return haunted and empty, or changed beyond all recognition.",
+        "link": {
+            "url": "https://universe.leagueoflegends.com/{LOCALE}/region/mount-targon/",
+            "label": "Targon"
+        },
+        "facts": [
+            {
+                "label": "Governance",
+                "description": "Tribal theocracy"
+            },
+            {
+                "label": "Attitude towards magic",
+                "description": "Aspire"
+            },
+            {
+                "label": "Level of technology",
+                "description": "Low"
+            },
+            {
+                "label": "General environment",
+                "description": "Harsh mountains"
+            }
+        ],
+        "championSlugs": [
+            "leona",
+            "diana",
+            "pantheon",
+            "taric",
+            "zoe",
+            "soraka",
+            "aurelionsol"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "targon",
+                "zoomLevel": 300
+            },
+            {
+                "type": "contentPanel",
+                "slug": "targon"
+            }
+        ]
+    },
+    "sun-disc": {
+        "slug": "sun-disc",
+        "disabled": false,
+        "cardSlugs": [
+            "shurima_sun"
+        ],
+        "toastBackground": "sun-disc-landmark.jpg",
+        "flyoutBackground": "sun-disc-landmark.jpg",
+        "backgroundImage": "sun-disc-landmark.jpg",
+        "title": "The Sun Disc",
+        "subtitle": "Ancient tool of Ascension",
+        "description": "The tool used by the ancient Shurimans to ascend to godhood. It fell with the ruin of their empire, but now rises to bathe in the sun\u2019s light once more.",
+        "championSlugs": [
+            "azir",
+            "nasus",
+            "renekton",
+            "xerath",
+            "taliyah",
+            "sivir",
+            "cassiopeia"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Shurima",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "shurima",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "shurima",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "shurima",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "sun-disc"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "sun-disc"
+            }
+        ]
+    },
+    "immortal-bastion": {
+        "slug": "immortal-bastion",
+        "disabled": false,
+        "cardSlugs": [
+            "noxus_bastion"
+        ],
+        "toastBackground": "immortal-bastion-landmark.jpg",
+        "flyoutBackground": "immortal-bastion-landmark.jpg",
+        "backgroundImage": "immortal-bastion-landmark.jpg",
+        "title": "The Immortal Bastion",
+        "subtitle": "Sprawling capital of Noxus",
+        "description": "Once the stronghold of the dread revenant Mordekaiser, now a forbidden vault of mysteries. In its shadow, the capital city of Noxus has grown over many centuries of imperial expansion.",
+        "championSlugs": [
+            "swain",
+            "mordekaiser",
+            "leblanc",
+            "darius",
+            "draven",
+            "talon",
+            "katarina",
+            "cassiopeia",
+            "sion",
+            "vladimir",
+            "elise"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Noxus",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "noxus",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "noxus",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "noxus",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "immortal-bastion"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "immortal-bastion"
+            }
+        ]
+    },
+    "ixaocan": {
+        "slug": "ixaocan",
+        "disabled": false,
+        "cardSlugs": [
+            "ixtal_splash"
+        ],
+        "toastBackground": "ixtal-splash-card.jpg",
+        "flyoutBackground": "ixtal-splash-card.jpg",
+        "backgroundImage": "ixtal-splash-card.jpg",
+        "title": "Ixaocan",
+        "subtitle": "The Last Sanctuary",
+        "description": "Hidden city of the Ixtali. Far older than most outsiders would ever guess, its great arcologies are neither wholly habitats nor colleges of magic, but something in between.",
+        "championSlugs": [
+            "malphite",
+            "qiyana",
+            "neeko",
+            "rengar",
+            "zyra",
+            "nidalee"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Ixtal",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "ixtal",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ixtal",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ixtal",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ixaocan"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ixaocan"
+            }
+        ]
+    },
+    "mount-targon": {
+        "slug": "mount-targon",
+        "disabled": false,
+        "cardSlugs": [
+            "targon_ring",
+            "targon_ascent",
+            "targon_impossible",
+            "targon_peak"
+        ],
+        "toastBackground": "mount-targon-landmark.jpg",
+        "flyoutBackground": "mount-targon-landmark.jpg",
+        "backgroundImage": "mount-targon-landmark.jpg",
+        "title": "Mount Targon",
+        "subtitle": "Runeterra\u2019s highest peak",
+        "description": "Runeterra\u2019s highest peak, and the site of many sacred pilgrimages. Its rocky heights have been twisted and elongated, some say drawn upward, by powers beyond mortal comprehension.",
+        "championSlugs": [
+            "aurelionsol",
+            "leona",
+            "diana",
+            "pantheon",
+            "taric",
+            "zoe"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Targon",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "targon",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "targon",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "targon",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "mount-targon"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "mount-targon"
+            }
+        ]
+    },
+    "demacia-city-landmark": {
+        "slug": "demacia-city-landmark",
+        "disabled": false,
+        "cardSlugs": [
+            "demacia_plaza"
+        ],
+        "toastBackground": "demacia-landmark.jpg",
+        "flyoutBackground": "demacia-landmark.jpg",
+        "backgroundImage": "demacia-landmark.jpg",
+        "title": "The Great City\nof Demacia",
+        "subtitle": "Seat of power for the noble houses",
+        "description": "King Jarvan III\u2019s seat of power, where the noble houses of Demacia reside. Its mighty walls are heavily defended, the stones themselves reinforced with petricite, a magic-nullifying substance.",
+        "championSlugs": [
+            "jarvaniv",
+            "lux",
+            "garen",
+            "xinzhao",
+            "galio",
+            "poppy",
+            "quinn",
+            "shyvana"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Demacia",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "demacia",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "demacia",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "demacia",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "demacia-city-landmark"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "demacia-city-landmark"
+            }
+        ]
+    },
+    "frostguard": {
+        "slug": "frostguard",
+        "disabled": false,
+        "cardSlugs": [
+            "freljord_citadel"
+        ],
+        "toastBackground": "frostguard-landmark.jpg",
+        "flyoutBackground": "frostguard-landmark.jpg",
+        "backgroundImage": "frostguard-landmark.jpg",
+        "title": "The Frostguard\nCitadel",
+        "subtitle": "Ancient Freljordian stronghold",
+        "description": "An ancient stronghold built to watch over the dark chasm of the Howling Abyss, the Citadel also houses many of the Freljord\u2019s hidden treasures and historical records.",
+        "championSlugs": [
+            "lissandra",
+            "trundle",
+            "ivern",
+            "udyr",
+            "ornn"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Freljord",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "freljord",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "freljord",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "freljord",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "frostguard"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "frostguard"
+            }
+        ]
+    },
+    "placidium": {
+        "slug": "placidium",
+        "disabled": false,
+        "cardSlugs": [
+            "ionia_placidium"
+        ],
+        "toastBackground": "placidium-landmark.jpg",
+        "flyoutBackground": "placidium-landmark.jpg",
+        "backgroundImage": "placidium-landmark.jpg",
+        "title": "The Placidium\nof Navori",
+        "subtitle": "Sacred site of Ionian harmony",
+        "description": "The Placidium is one of the First Lands\u2019 most sacred places. Over countless centuries, Ionians have journeyed here to study at renowned schools, or meditate in its wild, magical gardens.",
+        "championSlugs": [
+            "irelia",
+            "swain"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Ionia",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "ionia",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ionia",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ionia",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "placidium"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "placidium"
+            }
+        ]
+    },
+    "bandle-city": {
+        "slug": "bandle-city",
+        "disabled": false,
+        "cardSlugs": [
+            "yordle_portals"
+        ],
+        "crestImage": "bandle.png",
+        "toastBackground": "bandlecity-landmark.jpg",
+        "flyoutBackground": "bandlecity-landmark.jpg",
+        "backgroundImage": "bandlecity-landmark.jpg",
+        "title": "Bandle City",
+        "subtitle": "Mythical land of curious enchantment",
+        "description": "Opinions differ as to where exactly the home of the yordles is to be found, though many claim to have travelled through unseen portals to a land of curious enchantment. They tell of a place of unfettered magic, where the foolhardy can be led astray by myriad wonders and end up lost in a dream, never to return at all.",
+        "link": {
+            "url": "https://universe.leagueoflegends.com/{LOCALE}/region/bandle-city/",
+            "label": "Bandle City"
+        },
+        "facts": [
+            {
+                "label": "Governance",
+                "description": "None"
+            },
+            {
+                "label": "Attitude towards magic",
+                "description": "Play"
+            },
+            {
+                "label": "Level of technology",
+                "description": "Unknown"
+            },
+            {
+                "label": "General environment",
+                "description": "Unknown"
+            }
+        ],
+        "championSlugs": [
+            "corki",
+            "lulu",
+            "rumble",
+            "teemo",
+            "tristana",
+            "veigar"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "bandle-city"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "bandle-city"
+            }
+        ]
+    },
+    "the-void": {
+        "slug": "the-void",
+        "disabled": false,
+        "cardSlugs": [
+            "void_environment",
+            "void_voidborn"
+        ],
+        "crestImage": "void.png",
+        "toastBackground": "the-void-landmark.jpg",
+        "flyoutBackground": "the-void-landmark.jpg",
+        "backgroundImage": "the-void-landmark.jpg",
+        "title": "The Void",
+        "subtitle": "The unknowable nothingness",
+        "description": "Screaming into existence with the birth of the universe, the Void is a manifestation of the unknowable nothingness that lies beyond. It is a force of insatiable hunger, waiting through the eons until its masters, the mysterious Watchers, mark the final time of undoing, and so usher in total oblivion across Runeterra.",
+        "link": {
+            "url": "https://universe.leagueoflegends.com/{LOCALE}/region/void/",
+            "label": "The Void"
+        },
+        "facts": [
+            {
+                "label": "Governance",
+                "description": "None"
+            },
+            {
+                "label": "Attitude towards magic",
+                "description": "Devour"
+            },
+            {
+                "label": "Level of technology",
+                "description": "Unknown"
+            },
+            {
+                "label": "General environment",
+                "description": "Unknown"
+            }
+        ],
+        "championSlugs": [
+            "chogath",
+            "kaisa",
+            "kassadin",
+            "khazix",
+            "kogmaw",
+            "malzahar",
+            "reksai",
+            "velkoz"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "the-void"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "the-void"
+            }
+        ]
+    },
+    "basilich": {
+        "slug": "basilich",
+        "disabled": false,
+        "toastBackground": "noxus.jpg",
+        "flyoutBackground": "noxus.jpg",
+        "backgroundImage": "noxus.jpg",
+        "title": "Basilich",
+        "subtitle": "Port city",
+        "description": "Port city whose rebellion against the empire was quashed by its very own son, Darius.",
+        "championSlugs": [
+            "darius",
+            "draven"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Noxus",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "noxus",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "noxus",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "noxus",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "basilich"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "basilich"
+            }
+        ]
+    },
+    "belzhun": {
+        "slug": "belzhun",
+        "disabled": false,
+        "toastBackground": "noxus.jpg",
+        "flyoutBackground": "noxus.jpg",
+        "backgroundImage": "noxus.jpg",
+        "title": "Bel\u2019zhun",
+        "subtitle": "Coastal outpost",
+        "description": "Coastal outpost, known for its thriving black markets and signature mwatis wool.",
+        "championSlugs": [
+            "taliyah"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Noxus",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "noxus",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "noxus",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "noxus",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "belzhun"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "belzhun"
+            }
+        ]
+    },
+    "bilgewater-bay": {
+        "slug": "bilgewater-bay",
+        "disabled": false,
+        "cardSlugs": [
+            "bilgewater_thecity",
+            "bilgewater_architecture",
+            "bilgewater_slaughterdocks"
+        ],
+        "toastBackground": "bilgewater-landmark.jpg",
+        "flyoutBackground": "bilgewater-landmark.jpg",
+        "backgroundImage": "bilgewater-landmark.jpg",
+        "title": "Bilgewater Bay",
+        "subtitle": "Natural harbor, crammed with settlements",
+        "description": "A natural harbor in the Blue Flame Isles. Its many haphazard settlements make up the greater city of Bilgewater, a renowned haven for criminal activity in the region.",
+        "championSlugs": [
+            "gangplank",
+            "missfortune",
+            "illaoi",
+            "graves",
+            "twistedfate",
+            "pyke",
+            "nautilus",
+            "tahmkench",
+            "fizz",
+            "olaf",
+            "lucian",
+            "thresh",
+            "hecarim"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Bilgewater",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "bilgewater",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "bilgewater",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "bilgewater",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "bilgewater-bay"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "bilgewater-bay"
+            }
+        ]
+    },
+    "delverhold": {
+        "slug": "delverhold",
+        "disabled": false,
+        "toastBackground": "noxus.jpg",
+        "flyoutBackground": "noxus.jpg",
+        "backgroundImage": "noxus.jpg",
+        "title": "The Delverhold",
+        "subtitle": "Mountain fortress",
+        "description": "Mountain fortress, whose rich mines supply Noxus with gold and iron.",
+        "championSlugs": [
+            "darius"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Noxus",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "noxus",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "noxus",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "noxus",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "delverhold"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "delverhold"
+            }
+        ]
+    },
+    "fossbarrow": {
+        "slug": "fossbarrow",
+        "disabled": false,
+        "toastBackground": "demacia.jpg",
+        "flyoutBackground": "demacia.jpg",
+        "backgroundImage": "demacia.jpg",
+        "title": "Fossbarrow",
+        "subtitle": "Haunted town",
+        "description": "Named after the late Fossian Crownguard, this town was once haunted by a nightmarish demon.",
+        "championSlugs": [
+            "garen",
+            "lux",
+            "nocturne"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Demacia",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "demacia",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "demacia",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "demacia",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "fossbarrow"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "fossbarrow"
+            }
+        ]
+    },
+    "frostheld": {
+        "slug": "frostheld",
+        "disabled": false,
+        "toastBackground": "freljord.jpg",
+        "flyoutBackground": "freljord.jpg",
+        "backgroundImage": "freljord.jpg",
+        "title": "Frostheld",
+        "subtitle": "Glacial harbor city",
+        "description": "Situated within a glacial harbor, this city served as the former capital of the Avarosan tribes.",
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Freljord",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "freljord",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "freljord",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "freljord",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "frostheld"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "frostheld"
+            }
+        ]
+    },
+    "glaserport": {
+        "slug": "glaserport",
+        "disabled": false,
+        "cardSlugs": [
+            "freljord_glaseport"
+        ],
+        "toastBackground": "freljord.jpg",
+        "flyoutBackground": "freljord.jpg",
+        "backgroundImage": "freljord.jpg",
+        "title": "Glaserport",
+        "subtitle": "Harbor settlement",
+        "description": "Settlement known for its chained wolfships, the natural harbor providing shelter from ice and snow.",
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Freljord",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "freljord",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "freljord",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "freljord",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "glaserport"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "glaserport"
+            }
+        ]
+    },
+    "ghulfrost": {
+        "slug": "ghulfrost",
+        "disabled": false,
+        "cardSlugs": [
+            "ghulfrost_warmother"
+        ],
+        "toastBackground": "warmother-comic-bg.jpg",
+        "flyoutBackground": "warmother-comic-bg.jpg",
+        "backgroundImage": "warmother-comic-bg.jpg",
+        "title": "Ghulfrost",
+        "subtitle": "Ancient Ruins",
+        "description": "After traveling unforgiving ice cliffs for days, Ashe reached the edge of her mother's maps: Ghulfrost. Though Grena expected to find Avarosa's Throne, a hall and hoard of treasure, Ashe found merely an unmarked cairn in the snow... only to discover a legendary bow made entirely of True Ice buried in the rocks.",
+        "championSlugs": [
+            "ashe"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Freljord",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "freljord",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "freljord",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "freljord",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ghulfrost"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ghulfrost"
+            }
+        ]
+    },
+    "high-silvermere": {
+        "slug": "high-silvermere",
+        "disabled": false,
+        "cardSlugs": [
+            "demacia_silvermere"
+        ],
+        "toastBackground": "demacia.jpg",
+        "flyoutBackground": "demacia.jpg",
+        "backgroundImage": "demacia.jpg",
+        "title": "High Silvermere",
+        "subtitle": "Highland city",
+        "description": "Childhood home of Luxanna and Garen Crownguard, noted for its rocky highlands and silverwing raptors.",
+        "championSlugs": [
+            "garen",
+            "lux"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Demacia",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "demacia",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "demacia",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "demacia",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "high-silvermere"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "high-silvermere"
+            }
+        ]
+    },
+    "hirana-monastery": {
+        "slug": "hirana-monastery",
+        "disabled": false,
+        "toastBackground": "ionia.jpg",
+        "flyoutBackground": "ionia.jpg",
+        "backgroundImage": "ionia.jpg",
+        "title": "Hirana Monastery",
+        "subtitle": "Sacred site",
+        "description": "Renowned sanctuary for those seeking to better understand their connection to the spirit realm.",
+        "championSlugs": [
+            "leesin",
+            "udyr",
+            "sona",
+            "ryze"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Ionia",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "ionia",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ionia",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ionia",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "hirana-monastery"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "hirana-monastery"
+            }
+        ]
+    },
+    "kinkou-monastery": {
+        "slug": "kinkou-monastery",
+        "disabled": false,
+        "cardSlugs": [
+            "ionia_kinkou"
+        ],
+        "toastBackground": "ionia.jpg",
+        "flyoutBackground": "ionia.jpg",
+        "backgroundImage": "ionia.jpg",
+        "title": "Kinkou Monastery",
+        "subtitle": "Sacred site",
+        "description": "Home of the Kinkou Order, whose warriors are sworn to protect the balance within Ionia.",
+        "championSlugs": [
+            "akali",
+            "kennen",
+            "shen",
+            "zed"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Ionia",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "ionia",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ionia",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ionia",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "kinkou-monastery"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "kinkou-monastery"
+            }
+        ]
+    },
+    "nashramae": {
+        "slug": "nashramae",
+        "disabled": false,
+        "cardSlugs": [
+            "shurima_nashramae"
+        ],
+        "toastBackground": "shurima.jpg",
+        "flyoutBackground": "shurima.jpg",
+        "backgroundImage": "shurima.jpg",
+        "title": "Nashramae",
+        "subtitle": "Port city",
+        "description": "Shuriman port famed for its silk, Sun Disc replica, and festival celebrating Rammus.",
+        "championSlugs": [
+            "ezreal",
+            "nasus",
+            "rammus",
+            "renekton",
+            "sivir",
+            "taliyah"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Shurima",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "shurima",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "shurima",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "shurima",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "nashramae"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "nashramae"
+            }
+        ]
+    },
+    "ornnkaal-rocks": {
+        "slug": "ornnkaal-rocks",
+        "disabled": false,
+        "cardSlugs": [
+            "ornnkaal_rocks_warmother"
+        ],
+        "toastBackground": "Ornnkaal1.jpg",
+        "flyoutBackground": "Ornnkaal1.jpg",
+        "backgroundImage": "Ornnkaal1.jpg",
+        "title": "Ornnkaal Rocks",
+        "subtitle": "Sacred Site",
+        "description": "A coastal pilgrimage site visited by Sejuani and Ashe's tribes during the summers of their youth, with plentiful fishing and many fields for grazing animals.",
+        "championSlugs": [
+            "ashe",
+            "sejuani"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Freljord",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "freljord",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "freljord",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "freljord",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ornnkaal-rocks"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ornnkaal-rocks"
+            }
+        ]
+    },
+    "piltover-town": {
+        "slug": "piltover-town",
+        "disabled": false,
+        "cardSlugs": [
+            "piltover_culture",
+            "piltover_environment",
+            "piltover_architecture",
+            "piltover_people",
+            "piltover_hextech",
+            "piltover_tools"
+        ],
+        "crestImage": "piltover.png",
+        "toastBackground": "piltover-capital.jpg",
+        "flyoutBackground": "piltover-capital.jpg",
+        "backgroundImage": "piltover-capital.jpg",
+        "title": "Piltover",
+        "subtitle": "Thriving coastal city",
+        "description": "Piltover is a thriving, progressive city overlooking the ocean. Fleets of ships pass through its titanic sea-gates, bringing goods from all over the world. Merchant clans fund incredible endeavors, including artistic follies and architectural monuments to their individual power. With ever more inventors delving into hextech, Piltover has become the destination for the most skilled craftspeople from across Runeterra.",
+        "link": {
+            "url": "https://universe.leagueoflegends.com/{LOCALE}/region/piltover/",
+            "label": "Piltover"
+        },
+        "facts": [
+            {
+                "label": "Governance",
+                "description": "Aristocratic oligarchy"
+            },
+            {
+                "label": "Attitude towards magic",
+                "description": "Commodify"
+            },
+            {
+                "label": "Level of technology",
+                "description": "High"
+            },
+            {
+                "label": "General environment",
+                "description": "Coastal metropolis"
+            }
+        ],
+        "championSlugs": [
+            "camille",
+            "caitlyn",
+            "ezreal",
+            "jayce",
+            "orianna",
+            "vi",
+            "heimerdinger"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Piltover\n& Zaun",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "piltover-zaun",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "piltover-zaun",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "piltover-zaun",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "piltover-town"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "piltover-town"
+            }
+        ]
+    },
+    "rakelstake": {
+        "slug": "rakelstake",
+        "disabled": false,
+        "cardSlugs": [
+            "freljord_rakelstake"
+        ],
+        "toastBackground": "freljord.jpg",
+        "flyoutBackground": "freljord.jpg",
+        "backgroundImage": "freljord.jpg",
+        "title": "Rakelstake",
+        "subtitle": "Sacred site",
+        "description": "A statue of Avarosa guards this sacred site, where Ashe and Tryndamere were oathbound.",
+        "championSlugs": [
+            "ashe"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Freljord",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "freljord",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "freljord",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "freljord",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "rakelstake"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "rakelstake"
+            }
+        ]
+    },
+    "temple-pallas": {
+        "slug": "temple-pallas",
+        "disabled": false,
+        "cardSlugs": [
+            "noxus_shurima"
+        ],
+        "toastBackground": "ionia.jpg",
+        "flyoutBackground": "ionia.jpg",
+        "backgroundImage": "ionia.jpg",
+        "title": "Temple of Pallas",
+        "subtitle": "Sacred site",
+        "description": "The darkin Varus was imprisoned here for centuries, but the seals have since been broken...",
+        "championSlugs": [
+            "varus"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Ionia",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "ionia",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ionia",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ionia",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "temple-pallas"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "temple-pallas"
+            }
+        ]
+    },
+    "trevale": {
+        "slug": "trevale",
+        "disabled": false,
+        "toastBackground": "noxus.jpg",
+        "flyoutBackground": "noxus.jpg",
+        "backgroundImage": "noxus.jpg",
+        "title": "Trevale",
+        "subtitle": "Farming community",
+        "description": "A collection of farming villages clinging to the rocky hillsides, where Riven was born.",
+        "championSlugs": [
+            "kled",
+            "riven"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Noxus",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "noxus",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "noxus",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "noxus",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "trevale"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "trevale"
+            }
+        ]
+    },
+    "uwendale": {
+        "slug": "uwendale",
+        "disabled": false,
+        "toastBackground": "demacia.jpg",
+        "flyoutBackground": "demacia.jpg",
+        "backgroundImage": "demacia.jpg",
+        "title": "Uwendale",
+        "subtitle": "Farming town",
+        "description": "Often invaded by wyverns, this hunting and farming town was also the birthplace of Quinn.",
+        "championSlugs": [
+            "poppy",
+            "quinn"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Demacia",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "demacia",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "demacia",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "demacia",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "uwendale"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "uwendale"
+            }
+        ]
+    },
+    "zaun-town": {
+        "slug": "zaun-town",
+        "disabled": false,
+        "cardSlugs": [
+            "zaun_environment",
+            "zaun_architecture",
+            "zaun_promenade",
+            "zaun_entersol",
+            "zaun_sumps",
+            "zaun_baron",
+            "zaun_punks",
+            "zaun_tools"
+        ],
+        "crestImage": "zaun.png",
+        "toastBackground": "zaun-capital.jpg",
+        "flyoutBackground": "zaun-capital.jpg",
+        "backgroundImage": "zaun-capital.jpg",
+        "title": "Zaun",
+        "subtitle": "Polluted undercity",
+        "description": "Zaun is a polluted undercity beneath Piltover\u2014once united, they are now separate, symbiotic cultures. Stifled inventors often find their unorthodox research welcomed in Zaun, but reckless industry has rendered whole swathes of the city highly toxic. Even so, thanks to a thriving black market, chemtech, and mechanical augmentation, the people still find ways to prosper.",
+        "link": {
+            "url": "https://universe.leagueoflegends.com/{LOCALE}/region/zaun/",
+            "label": "Zaun"
+        },
+        "facts": [
+            {
+                "label": "Governance",
+                "description": "Industrial oligarchy"
+            },
+            {
+                "label": "Attitude towards magic",
+                "description": "Exploit"
+            },
+            {
+                "label": "Level of technology",
+                "description": "High"
+            },
+            {
+                "label": "General environment",
+                "description": "Urbanized (toxic)"
+            }
+        ],
+        "championSlugs": [
+            "jinx",
+            "ekko",
+            "twitch",
+            "blitzcrank",
+            "drmundo",
+            "janna",
+            "singed",
+            "urgot",
+            "viktor",
+            "warwick",
+            "zac",
+            "ziggs"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Piltover\n& Zaun",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "piltover-zaun",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "piltover-zaun",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "piltover-zaun",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "zaun-town"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "zaun-town"
+            }
+        ]
+    },
+    "zirima": {
+        "slug": "zirima",
+        "disabled": false,
+        "toastBackground": "shurima.jpg",
+        "flyoutBackground": "shurima.jpg",
+        "backgroundImage": "shurima.jpg",
+        "title": "Zirima",
+        "subtitle": "Merchant camp",
+        "description": "Merchant camp where traders and explorers often gather before venturing into the Great Sai.",
+        "championSlugs": [
+            "renekton"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Shurima",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "shurima",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "shurima",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "shurima",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "zirima"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "zirima"
+            }
+        ]
+    },
+    "ryganns-reach": {
+        "slug": "ryganns-reach",
+        "disabled": false,
+        "cardSlugs": [
+            "ryze_short_pt1"
+        ],
+        "toastBackground": "freljord.jpg",
+        "flyoutBackground": "freljord.jpg",
+        "backgroundImage": "freljord.jpg",
+        "title": "Rygann's Reach",
+        "subtitle": "Cursed Ruins",
+        "description": "Rumored to have been cursed by an evil mage and her son, the settlement that once stood here was burned to the ground many centuries ago.",
+        "championSlugs": [
+            "ryze"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Freljord",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "freljord",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "freljord",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "freljord",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryganns-reach"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ryganns-reach"
+            }
+        ]
+    },
+    "valars-hollow": {
+        "slug": "valars-hollow",
+        "disabled": false,
+        "cardSlugs": [
+            "ryze_short_pt2"
+        ],
+        "toastBackground": "freljord.jpg",
+        "flyoutBackground": "freljord.jpg",
+        "backgroundImage": "freljord.jpg",
+        "title": "Valar's Hollow",
+        "subtitle": "Trader Settlement",
+        "description": "For countless generations, merchants and traders would gather here throughout the winter months, before venturing into the icy north.",
+        "championSlugs": [
+            "ryze"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Freljord",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "freljord",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "freljord",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "freljord",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "valars-hollow"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "valars-hollow"
+            }
+        ]
+    },
+    "marrowmark-market": {
+        "slug": "marrowmark-market",
+        "disabled": false,
+        "cardSlugs": [
+            "shurima_marrowmark"
+        ],
+        "toastBackground": "shurima.jpg",
+        "flyoutBackground": "shurima.jpg",
+        "backgroundImage": "shurima.jpg",
+        "title": "Marrowmark",
+        "subtitle": "Trader Settlement",
+        "description": "Erected in the ribcage of some long-dead desert behemoth, it is said that anything under the sun can be found in the bazaars of Marrowmark... for the right price.",
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Shurima",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "shurima",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "shurima",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "shurima",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "marrowmark-market"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "marrowmark-market"
+            }
+        ]
+    },
+    "the-city-of-gardens": {
+        "slug": "the-city-of-gardens",
+        "disabled": false,
+        "cardSlugs": [
+            "ryze_comic_pt1"
+        ],
+        "toastBackground": "shurima.jpg",
+        "flyoutBackground": "shurima.jpg",
+        "backgroundImage": "shurima.jpg",
+        "title": "The City of Gardens",
+        "subtitle": "Scorched Ruins",
+        "description": "This once thriving, beautiful city was destroyed during the apocalyptic Rune Wars. It is said that the entire population was annihilated in one terrible night, the city utterly leveled\u2026 and all that remains now lies in ruin.",
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Shurima",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "shurima",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "shurima",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "shurima",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "the-city-of-gardens"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "the-city-of-gardens"
+            }
+        ]
+    },
+    "yetis-vigil": {
+        "slug": "yetis-vigil",
+        "disabled": false,
+        "toastBackground": "freljord.jpg",
+        "flyoutBackground": "freljord.jpg",
+        "backgroundImage": "freljord.jpg",
+        "title": "Yeti's Vigil",
+        "subtitle": "Ancient Ruins",
+        "description": "Ruins of the lost yeti civilization. Where dreams swirl in snow, an unlikely friendship was born.",
+        "championSlugs": [
+            "nunu"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Freljord",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "freljord",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "freljord",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "freljord",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "yetis-vigil"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "yetis-vigil"
+            }
+        ]
+    },
+    "foundling-village": {
+        "slug": "foundling-village",
+        "disabled": false,
+        "toastBackground": "freljord.jpg",
+        "flyoutBackground": "freljord.jpg",
+        "backgroundImage": "freljord.jpg",
+        "title": "Foundling Village",
+        "subtitle": "Frostguard Settlement",
+        "description": "In the shadow of their great Citadel, the Frostguard shelter children orphaned by the cold.",
+        "championSlugs": [
+            "lissandra"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Freljord",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "freljord",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "freljord",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "freljord",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "foundling-village"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "foundling-village"
+            }
+        ]
+    },
+    "naljaag": {
+        "slug": "naljaag",
+        "disabled": false,
+        "toastBackground": "freljord.jpg",
+        "flyoutBackground": "freljord.jpg",
+        "backgroundImage": "freljord.jpg",
+        "title": "Nalja\u00e4g",
+        "subtitle": "Cursed Village",
+        "description": "A simple milling settlement beneath a waterfall. Its original name has been lost to stone.",
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Freljord",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "freljord",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "freljord",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "freljord",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "naljaag"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "naljaag"
+            }
+        ]
+    },
+    "vathcaer": {
+        "slug": "vathcaer",
+        "disabled": false,
+        "cardSlugs": [
+            "vathcaer_warmother"
+        ],
+        "toastBackground": "asheVathcaer_BG.jpg",
+        "flyoutBackground": "asheVathcaer_BG.jpg",
+        "backgroundImage": "asheVathcaer_BG.jpg",
+        "title": "Vathcaer",
+        "subtitle": "Avarosan Settlement",
+        "description": "Village where Ashe grew up, controlled by her mother Grena. Subsequently destroyed by the Ice Children.",
+        "championSlugs": [
+            "ashe"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Freljord",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "freljord",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "freljord",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "freljord",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "vathcaer"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "vathcaer"
+            }
+        ]
+    },
+    "village-of-the-ice-children": {
+        "slug": "village-of-the-ice-children",
+        "disabled": false,
+        "toastBackground": "villageoftheicechildren_BG.jpg",
+        "flyoutBackground": "villageoftheicechildren_BG.jpg",
+        "backgroundImage": "villageoftheicechildren_BG.jpg",
+        "title": "Village of the Ice Children",
+        "subtitle": "Farming Village",
+        "description": "Settlement of herders and warriors, rivals of the Avarosan tribe.",
+        "championSlugs": [
+            "ashe"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Freljord",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "freljord",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "freljord",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "freljord",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "village-of-the-ice-children"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "village-of-the-ice-children"
+            }
+        ]
+    },
+    "quchar": {
+        "slug": "quchar",
+        "disabled": false,
+        "cardSlugs": [
+            "quchar_warmother"
+        ],
+        "toastBackground": "Quchar_1BG.jpg",
+        "flyoutBackground": "Quchar_1BG.jpg",
+        "backgroundImage": "Quchar_1BG.jpg",
+        "title": "Quchar",
+        "subtitle": "Hearthbound Village",
+        "description": "Home of the Ebrataal, a magic-less community who were the first to follow Ashe as the leader of the Avarosan tribe.",
+        "championSlugs": [
+            "ashe"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Freljord",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "freljord",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "freljord",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "freljord",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "quchar"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "quchar"
+            }
+        ]
+    },
+    "yadulsk": {
+        "slug": "yadulsk",
+        "disabled": false,
+        "cardSlugs": [
+            "yadulsk_warmother"
+        ],
+        "toastBackground": "Yadulsk_2BG.jpg",
+        "flyoutBackground": "Yadulsk_2BG.jpg",
+        "backgroundImage": "Yadulsk_2BG.jpg",
+        "title": "Yadulsk",
+        "subtitle": "Coastal Settlement",
+        "description": "Winter's Claw village where Sejuani's mother Kalkia temporarily settled the tribe during her rule. Traditionally, Winter's Claw tribes relocate every winter, rebuilding their villages out of their ships and scavenged materials.",
+        "championSlugs": [
+            "ashe"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "Freljord",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "contentPanel",
+                        "slug": "freljord",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "freljord",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "zoomToPin",
+                        "slug": "freljord",
+                        "zoomLevel": 700
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "yadulsk"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "yadulsk"
+            }
+        ]
+    },
+    "bilgewater_nagakabouros": {
+        "slug": "bilgewater_nagakabouros",
+        "disabled": false,
+        "toastBackground": "bilgewater_nagakabouros_card.jpg",
+        "flyoutBackground": "bilgewater_nagakabouros_card.jpg",
+        "backgroundImage": "bilgewater_nagakabouros_card.jpg",
+        "title": "Nagakabouros",
+        "subtitle": "Great Kraken of Bilgewater",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "bilgewater_nagakabouros"
+            },
+            {
+                "type": "gallery",
+                "slug": "bilgewater_nagakabouros"
+            }
+        ]
+    },
+    "bilgewater_buhru": {
+        "slug": "bilgewater_buhru",
+        "disabled": false,
+        "toastBackground": "bilgewater_serpentisles_card.jpg",
+        "flyoutBackground": "bilgewater_serpentisles_card.jpg",
+        "backgroundImage": "bilgewater_serpentisles_card.jpg",
+        "title": "The Serpent Isles",
+        "subtitle": "Environments of Bilgewater",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "bilgewater_buhru"
+            },
+            {
+                "type": "gallery",
+                "slug": "bilgewater_serpentisles"
+            }
+        ]
+    },
+    "bilgewater_warfrats": {
+        "slug": "bilgewater_warfrats",
+        "disabled": false,
+        "toastBackground": "bilgewater_critters_card.jpg",
+        "flyoutBackground": "bilgewater_critters_card.jpg",
+        "backgroundImage": "bilgewater_critters_card.jpg",
+        "title": "Wharf Rats",
+        "subtitle": "Creatures of Bilgewater",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "bilgewater_warfrats"
+            },
+            {
+                "type": "gallery",
+                "slug": "bilgewater_critters"
+            }
+        ]
+    },
+    "bilgewater_hunting": {
+        "slug": "bilgewater_hunting",
+        "disabled": false,
+        "toastBackground": "bilgewater_hunting_card.jpg",
+        "flyoutBackground": "bilgewater_hunting_card.jpg",
+        "backgroundImage": "bilgewater_hunting_card.jpg",
+        "title": "Monster Hunting",
+        "subtitle": "Culture of Bilgewater",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "bilgewater_hunting"
+            },
+            {
+                "type": "gallery",
+                "slug": "bilgewater_hunting"
+            }
+        ]
+    },
+    "noxus_warbands": {
+        "slug": "noxus_warbands",
+        "disabled": false,
+        "toastBackground": "noxus_warbands_card.jpg",
+        "flyoutBackground": "noxus_warbands_card.jpg",
+        "backgroundImage": "noxus_warbands_card.jpg",
+        "title": "Armies and Warbands",
+        "subtitle": "Military of Noxus",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "noxus_warbands"
+            },
+            {
+                "type": "gallery",
+                "slug": "noxus_warbands"
+            }
+        ]
+    },
+    "noxus_expansion": {
+        "slug": "noxus_expansion",
+        "disabled": false,
+        "toastBackground": "noxus_expansion_card.jpg",
+        "flyoutBackground": "noxus_expansion_card.jpg",
+        "backgroundImage": "noxus_expansion_card.jpg",
+        "title": "Noxian Expansion",
+        "subtitle": "Culture of Noxus",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "noxus_expansion"
+            },
+            {
+                "type": "gallery",
+                "slug": "noxus_expansion"
+            }
+        ]
+    },
+    "ionia_fauna": {
+        "slug": "ionia_fauna",
+        "disabled": false,
+        "toastBackground": "ionia_creatures_card.jpg",
+        "flyoutBackground": "ionia_creatures_card.jpg",
+        "backgroundImage": "ionia_creatures_card.jpg",
+        "title": "Wildlife and Fauna",
+        "subtitle": "Creatures of Ionia",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ionia_fauna"
+            },
+            {
+                "type": "gallery",
+                "slug": "ionia_creatures"
+            }
+        ]
+    },
+    "ionia_flora": {
+        "slug": "ionia_flora",
+        "disabled": false,
+        "toastBackground": "ionia_flora_card.jpg",
+        "flyoutBackground": "ionia_flora_card.jpg",
+        "backgroundImage": "ionia_flora_card.jpg",
+        "title": "Unique Flora",
+        "subtitle": "Plants of Ionia",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ionia_flora"
+            },
+            {
+                "type": "gallery",
+                "slug": "ionia_flora"
+            }
+        ]
+    },
+    "targon_creature": {
+        "slug": "targon_creature",
+        "disabled": false,
+        "toastBackground": "targon_creature_card.jpg",
+        "flyoutBackground": "targon_creature_card.jpg",
+        "backgroundImage": "targon_creature_card.jpg",
+        "title": "Targonian Beasts",
+        "subtitle": "Creatures of Mount Targon",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "targon_creature"
+            },
+            {
+                "type": "gallery",
+                "slug": "targon_creature"
+            }
+        ]
+    },
+    "shadow_history": {
+        "slug": "shadow_history",
+        "disabled": false,
+        "toastBackground": "shadow_architecture_card.jpg",
+        "flyoutBackground": "shadow_architecture_card.jpg",
+        "backgroundImage": "shadow_architecture_card.jpg",
+        "title": "Shattered Past",
+        "subtitle": "History of the Blessed Isles",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "shadow_history"
+            },
+            {
+                "type": "gallery",
+                "slug": "shadow_architecture"
+            }
+        ]
+    },
+    "ionian_rocks": {
+        "slug": "ionian_rocks",
+        "disabled": false,
+        "toastBackground": "ionia_rocks_card.jpg",
+        "flyoutBackground": "ionia_rocks_card.jpg",
+        "backgroundImage": "ionia_rocks_card.jpg",
+        "title": "Swirl Rock",
+        "subtitle": "Environments of Ionia",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ionian_rocks"
+            },
+            {
+                "type": "gallery",
+                "slug": "ionia_rocks"
+            }
+        ]
+    },
+    "demacia_raptors": {
+        "slug": "demacia_raptors",
+        "disabled": false,
+        "toastBackground": "demacia_raptors_card.jpg",
+        "flyoutBackground": "demacia_raptors_card.jpg",
+        "backgroundImage": "demacia_raptors_card.jpg",
+        "title": "Demacian Raptors",
+        "subtitle": "Military of Demacia",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "demacia_raptors"
+            },
+            {
+                "type": "gallery",
+                "slug": "demacia_raptors"
+            }
+        ]
+    },
+    "shurima_dormun": {
+        "slug": "shurima_dormun",
+        "disabled": false,
+        "toastBackground": "shurima_dormun_card.jpg",
+        "flyoutBackground": "shurima_dormun_card.jpg",
+        "backgroundImage": "shurima_dormun_card.jpg",
+        "title": "Dormun Riders",
+        "subtitle": "Nomads of Shurima",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "shurima_dormun"
+            },
+            {
+                "type": "gallery",
+                "slug": "shurima_dormun"
+            }
+        ]
+    },
+    "shurima_valley": {
+        "slug": "shurima_valley",
+        "disabled": false,
+        "toastBackground": "shurima_valley_card.jpg",
+        "flyoutBackground": "shurima_valley_card.jpg",
+        "backgroundImage": "shurima_valley_card.jpg",
+        "title": "Valley of Song",
+        "subtitle": "Environments in Shurima",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "shurima_valley"
+            },
+            {
+                "type": "gallery",
+                "slug": "shurima_valley"
+            }
+        ]
+    },
+    "shurima_cascade": {
+        "slug": "shurima_cascade",
+        "disabled": false,
+        "toastBackground": "shurima_cascade_card.jpg",
+        "flyoutBackground": "shurima_cascade_card.jpg",
+        "backgroundImage": "shurima_cascade_card.jpg",
+        "title": "Zoantha Cascade",
+        "subtitle": "Environments in Shurima",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "shurima_cascade"
+            },
+            {
+                "type": "gallery",
+                "slug": "shurima_cascade"
+            }
+        ]
+    },
+    "shurima_sandswimmers": {
+        "slug": "shurima_sandswimmers",
+        "disabled": false,
+        "toastBackground": "shurima_sandswimmers_card.jpg",
+        "flyoutBackground": "shurima_sandswimmers_card.jpg",
+        "backgroundImage": "shurima_sandswimmers_card.jpg",
+        "title": "Scavengers",
+        "subtitle": "People of Shurima",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "shurima_sandswimmers"
+            },
+            {
+                "type": "gallery",
+                "slug": "shurima_sandswimmers"
+            }
+        ]
+    },
+    "shadow_harrowing": {
+        "slug": "shadow_harrowing",
+        "disabled": false,
+        "toastBackground": "shadow_harrowing_card.jpg",
+        "flyoutBackground": "shadow_harrowing_card.jpg",
+        "backgroundImage": "shadow_harrowing_card.jpg",
+        "title": "The Harrowing",
+        "subtitle": "Black Mist of the Shadow Isles",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "shadow_harrowing"
+            },
+            {
+                "type": "gallery",
+                "slug": "shadow_harrowing"
+            }
+        ]
+    },
+    "shurima_noxus": {
+        "slug": "shurima_noxus",
+        "disabled": false,
+        "toastBackground": "shurima_noxus_card.jpg",
+        "flyoutBackground": "shurima_noxus_card.jpg",
+        "backgroundImage": "shurima_noxus_card.jpg",
+        "title": "Noxus in Shurima",
+        "subtitle": "Relationship with Noxus",
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "shurima_noxus"
+            },
+            {
+                "type": "gallery",
+                "slug": "shurima_noxus"
+            }
+        ]
+    },
+    "ryze_story_3": {
+        "slug": "ryze_story_3",
+        "disabled": false,
+        "toastBackground": "ryze_short_card_03.jpg",
+        "flyoutBackground": "ryze_short_card_03.jpg",
+        "backgroundImage": "ryze_short_card_03.jpg",
+        "title": "Master and Apprentice",
+        "subtitle": "From the Ashes",
+        "championSlugs": [
+            "ryze"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_story_3"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_short_pt3"
+            }
+        ]
+    },
+    "ryze_comic_5": {
+        "slug": "ryze_comic_5",
+        "disabled": false,
+        "toastBackground": "ryze_comic_card_05.jpg",
+        "flyoutBackground": "ryze_comic_card_05.jpg",
+        "backgroundImage": "ryze_comic_card_05.jpg",
+        "title": "Endless Plain",
+        "subtitle": "Ryze: The Burning Lands",
+        "championSlugs": [
+            "ryze"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_comic_5"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_comic_pt5"
+            }
+        ]
+    },
+    "ryze_comic_4": {
+        "slug": "ryze_comic_4",
+        "disabled": false,
+        "toastBackground": "ryze_comic_card_04.jpg",
+        "flyoutBackground": "ryze_comic_card_04.jpg",
+        "backgroundImage": "ryze_comic_card_04.jpg",
+        "title": "Skallashi",
+        "subtitle": "Ryze: The Burning Lands",
+        "championSlugs": [
+            "ryze"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_comic_4"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_comic_pt4"
+            }
+        ]
+    },
+    "featured": {
+        "slug": "featured",
+        "disabled": false,
+        "cardSlugs": [
+            "junglestory_featured",
+            "ezrealnotes_featured",
+            "ryzecg_featured"
+        ],
+        "toastBackground": "ionia_rocks_card.jpg",
+        "flyoutBackground": "ionia_rocks_card.jpg",
+        "backgroundImage": "ionia_rocks_card.jpg",
+        "title": "Collections",
+        "subtitle": "Check it out",
+        "onToastSelectEvents": [
+            {
+                "type": "contentPanel",
+                "slug": "featured"
+            },
+            {
+                "type": "zoomToPin",
+                "slug": "piltover-town",
+                "zoomLevel": 1000
+            }
+        ],
+        "onContentPanelOpen": [
+            {
+                "type": "zoomToPin",
+                "slug": "piltover-town",
+                "zoomLevel": 1000
+            }
+        ]
+    },
+    "ryzecg_featured": {
+        "slug": "ryzecg_featured",
+        "disabled": false,
+        "cardSlugs": [
+            "ryze_cg_pt1",
+            "ryze_cg_pt3",
+            "ryze_cg_pt4",
+            "ryze_cg_pt5",
+            "ryze_cg_pt6",
+            "ryze_cg_pt7",
+            "ryze_cg_pt8"
+        ],
+        "toastBackground": "ryze_cg_card_1.jpg",
+        "flyoutBackground": "ryze_cg_card_1.jpg",
+        "backgroundImage": "ryze_cg_card_1.jpg",
+        "title": "Call of Power",
+        "subtitle": "Video: Gallery Collection",
+        "link": {
+            "url": "https://youtu.be/oGnZk-_R0KQ",
+            "label": "Ryze: Call of Power"
+        },
+        "championSlugs": [
+            "ryze",
+            "missfortune",
+            "nasus",
+            "sona",
+            "trundle"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "piltover-town",
+                "zoomLevel": 1000
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ryzecg_featured"
+            }
+        ]
+    },
+    "ryze_cgi_1": {
+        "slug": "ryze_cgi_1",
+        "disabled": false,
+        "toastBackground": "ryze_cg_card_1.jpg",
+        "flyoutBackground": "ryze_cg_card_1.jpg",
+        "backgroundImage": "ryze_cg_card_1.jpg",
+        "title": "The Demacia Vault",
+        "subtitle": "Ryze: Call of Power",
+        "link": {
+            "url": "https://youtu.be/oGnZk-_R0KQ",
+            "label": "Ryze: Call of Power"
+        },
+        "championSlugs": [
+            "ryze"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_cgi_1"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_cg_pt1"
+            }
+        ]
+    },
+    "ryze_cgi_3": {
+        "slug": "ryze_cgi_3",
+        "disabled": false,
+        "toastBackground": "ryze_cg_card_3.jpg",
+        "flyoutBackground": "ryze_cg_card_3.jpg",
+        "backgroundImage": "ryze_cg_card_3.jpg",
+        "title": "Memories of Destruction",
+        "subtitle": "Ryze: Call of Power",
+        "link": {
+            "url": "https://youtu.be/oGnZk-_R0KQ",
+            "label": "Ryze: Call of Power"
+        },
+        "championSlugs": [
+            "ryze"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_cgi_3"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_cg_pt3"
+            }
+        ]
+    },
+    "ryze_cgi_4": {
+        "slug": "ryze_cgi_4",
+        "disabled": false,
+        "toastBackground": "ryze_cg_card_4.jpg",
+        "flyoutBackground": "ryze_cg_card_4.jpg",
+        "backgroundImage": "ryze_cg_card_4.jpg",
+        "title": "Shootout on the Bay",
+        "subtitle": "Ryze: Call of Power",
+        "link": {
+            "url": "https://youtu.be/oGnZk-_R0KQ",
+            "label": "Ryze: Call of Power"
+        },
+        "championSlugs": [
+            "ryze",
+            "missfortune"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_cgi_4"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_cg_pt4"
+            }
+        ]
+    },
+    "ryze_cgi_5": {
+        "slug": "ryze_cgi_5",
+        "disabled": false,
+        "toastBackground": "ryze_cg_card_5.jpg",
+        "flyoutBackground": "ryze_cg_card_5.jpg",
+        "backgroundImage": "ryze_cg_card_5.jpg",
+        "title": "Guardians of Knowledge",
+        "subtitle": "Ryze: Call of Power",
+        "link": {
+            "url": "https://youtu.be/oGnZk-_R0KQ",
+            "label": "Ryze: Call of Power"
+        },
+        "championSlugs": [
+            "ryze",
+            "nasus"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_cgi_5"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_cg_pt5"
+            }
+        ]
+    },
+    "ryze_cgi_6": {
+        "slug": "ryze_cgi_6",
+        "disabled": false,
+        "toastBackground": "ryze_cg_card_6.jpg",
+        "flyoutBackground": "ryze_cg_card_6.jpg",
+        "backgroundImage": "ryze_cg_card_6.jpg",
+        "title": "Silent Allies",
+        "subtitle": "Ryze: Call of Power",
+        "link": {
+            "url": "https://youtu.be/oGnZk-_R0KQ",
+            "label": "Ryze: Call of Power"
+        },
+        "championSlugs": [
+            "ryze",
+            "sona"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_cgi_6"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_cg_pt6"
+            }
+        ]
+    },
+    "ryze_cgi_7": {
+        "slug": "ryze_cgi_7",
+        "disabled": false,
+        "toastBackground": "ryze_cg_card_7.jpg",
+        "flyoutBackground": "ryze_cg_card_7.jpg",
+        "backgroundImage": "ryze_cg_card_7.jpg",
+        "title": "Freljordian Diplomacy",
+        "subtitle": "Ryze: Call of Power",
+        "link": {
+            "url": "https://youtu.be/oGnZk-_R0KQ",
+            "label": "Ryze: Call of Power"
+        },
+        "championSlugs": [
+            "ryze",
+            "trundle"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_cgi_7"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_cg_pt7"
+            }
+        ]
+    },
+    "ryze_cgi_8": {
+        "slug": "ryze_cgi_8",
+        "disabled": false,
+        "toastBackground": "ryze_cg_card_8.jpg",
+        "flyoutBackground": "ryze_cg_card_8.jpg",
+        "backgroundImage": "ryze_cg_card_8.jpg",
+        "title": "Facing the Void",
+        "subtitle": "Ryze: Call of Power",
+        "link": {
+            "url": "https://youtu.be/oGnZk-_R0KQ",
+            "label": "Ryze: Call of Power"
+        },
+        "championSlugs": [
+            "ryze"
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_cgi_8"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_cg_pt8"
+            }
+        ]
+    },
+    "ezrealnotes_featured": {
+        "slug": "ezrealnotes_featured",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "Who Needs A Map?",
+        "subtitle": "Ezreal\u2019s Field Notes",
+        "description": "Read Ezreal's Field Notes and trace his travels across Runeterra with the latest update to the map.",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "text",
+                "label": "Start Reading",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes1"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes1",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes1",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "piltover-town"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes_featured"
+            }
+        ]
+    },
+    "ezrealnotes1": {
+        "slug": "ezrealnotes1",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**Oshra Va'zaun**",
+        "subtitle": "**EZREAL\u2019S FIELD NOTES**",
+        "description": "*No one appreciates what\u2019s beneath their feet. I mean, there\u2019s an entire Shuriman outpost buried\u2026 uhh, I mean flooded\u2026 down under the Sump. Those ancient Shurimans really flexed their imperial muscles, back in their day. (Must have been all that Sun Disc magic?) You never know when\u2014or where\u2014you\u2019re going to find one of their temples, or ossuaries, or arcane reliquaries, filled with esoteric artifacts.*\n\n*The Vault of Resplendent Holies is down here, somewhere, under Zaun, and I\u2019ll bet there\u2019s a whole lot of holies still left to be discovered.*\n\n -Ez",
+        "link": {
+            "url": "https://universe.leagueoflegends.com/en_US/story/an-explorers-journey/",
+            "label": "An Explorer's Journey"
+        },
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "piltover-town"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes_featured",
+                        "desktopOnly": true,
+                        "delay": 1200
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes_featured",
+                        "mobileOnly": true,
+                        "delay": 1200
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "01/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes2"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes2",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes2",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes1"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes1"
+            }
+        ]
+    },
+    "ezrealnotes2": {
+        "slug": "ezrealnotes2",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**Northern Coastal Cities**",
+        "subtitle": "**EZREAL\u2019S FIELD NOTES**",
+        "description": "*All of this belongs to Noxus. In my experience, one always ends an adventure in enemy territory\u2014so it\u2019s generally wiser not to start there. Sometimes it can\u2019t be avoided, though. For example, Bel\u2019zhun is the place to hire the best Shuriman guides.*\n\n*My first guide, Kasdjar, was especially knowledgeable, charismatic, and hardworking. What he was not, however, was made of iron. That\u2019s why he was smooshed to death by a falling obelisk.*\n\n*Poor Kasdjar, we hardly knew ye.*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes1"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes1",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes1",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "02/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes3"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes3",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes3",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes2"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes2"
+            }
+        ]
+    },
+    "ezrealnotes3": {
+        "slug": "ezrealnotes3",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**Into Icathia**",
+        "subtitle": "**EZREAL\u2019S FIELD NOTES**",
+        "description": "*I took one look at this wasteland and was like \u201cWell, that\u2019s beyond my pay grade!\u201d*\n\n*For now.*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes2"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes2",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes2",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "03/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes4"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes4",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes4",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes3"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes3"
+            }
+        ]
+    },
+    "ezrealnotes4": {
+        "slug": "ezrealnotes4",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**Look, Nothing Happened!**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*There\u2019s an island here. It\u2019s not on any maps, but it\u2019s there.*\n\n*I was marooned on that deserted rock for a week. It\u2019s home to a colony of aggressively flirtatious\u2026 things? I don\u2019t know. Walruses, maybe?*\n\n*Sailors beware, indeed.*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes3"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes3",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes3",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "04/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes5"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes5",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes5",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes4"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes4"
+            }
+        ]
+    },
+    "ezrealnotes5": {
+        "slug": "ezrealnotes5",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**The Oldest Gods**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*As I outlined in my pioneering work On the Origins of Ascension (self-published, many copies still available) Nerimazeth was the original capital of Shurima. I\u2019m talking waaay back, like, before there was even an empire.\nAccording to my trusty former guide Kasdjar, the land outside this city was home to the first iteration of what is now known as the Sun Disc. That\u2019s got to be right up there on my list of Lost Wonders of the World! I\u2019m guessing this prototype failed because\u2026 Well\u2026 historically, Sun Discs don\u2019t seem very stable.*\n\n*After Nerimazeth, the Shurimans apparently started over, and built an even a bigger one. Surely, history could not repeat itself?! Heh.*\n\n*I guarantee there\u2019s some interesting stuff buried out there. Old stuff. Priceless stuff.*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes4"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes4",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes4",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "05/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes6"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes6",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes6",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes5"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes5"
+            }
+        ]
+    },
+    "ezrealnotes6": {
+        "slug": "ezrealnotes6",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**Walking the Plank**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*Ah, my inaugural journey! I had stowed away on a mercantile vessel to find the lost tomb of Ne\u2019Zuk, but the captain caught me red handed, pilfering some lime-grog. They were going to throw me overboard, until I convinced them otherwise.*\n\n*As the ship\u2019s logs will attest, \u201ca patch of rough seas\u201d claimed our navigator. My quick thinking (and star charts) not only saved the day, but earned me a field promotion. That\u2019s a big deal, since the navigator is essentially the captain, minus the funny hat.*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes5"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes5",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes5",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "06/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes7"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes7",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes7",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes6"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes6"
+            }
+        ]
+    },
+    "ezrealnotes7": {
+        "slug": "ezrealnotes7",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**Where's the Proof**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*Rumors say the ancient city has risen once more. I\u2019m skeptical.*\n\n*When Ezreal\u2019s field notes say a metropolis is buried\u2026 well, it stays buried. Usually.*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes6"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes6",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes6",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "07/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes8"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes8",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes8",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes7"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes7"
+            }
+        ]
+    },
+    "ezrealnotes8": {
+        "slug": "ezrealnotes8",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**Too Close for Comfort**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*I\u2019ll give credit to the Noxians\u2014they do a couple of things well. One of them is ignoring the great, imposing monoliths that practically shimmer with dark energy in the heart of their capital. The other thing is tacos. I strolled the promenades around the Immortal Bastion while sampling their cuisine. Impending dread makes a great taco seasoning, I must say.*\n\n*I was supposed to be meeting with a new contact, to collect some archival materials. She never showed, but a few shady types started following me, and one of them eventually handed me a rose petal. You guessed it, the petal was black. That was enough for me!*\n\n*Found a single black petal every day, until I made it back over the border\u2014one of them was at the bottom of my satchel. Ominous trip.*\n\n*Good tacos, though.*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes7"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes7",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes7",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "08/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes9"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes9",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes9",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes8"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes8"
+            }
+        ]
+    },
+    "ezrealnotes9": {
+        "slug": "ezrealnotes9",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**Curtain Call**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*Jandelle\u2019s this charming hamlet\u2026 blah blah blah. What I\u2019m after is a pair of Kindred masks. Not just any Kindred masks, but the originals\u2014carved from the wood of a supposedly bewitched eldlock tree. Real spooky, storybook stuff, eh?*\n\n*But myths are rooted in truth. A famous actress died on stage while playing the dual role of Kindred, in Demacia. Strangest part was, the theatre company said the prop masks created for the performance never left her dressing room.*\n\n*The masks she wore on stage? Vanished. Probably in some collector\u2019s show room. Makes you wonder, though.*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes8"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes8",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes8",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "09/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes10"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes10",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes10",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes9"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes9"
+            }
+        ]
+    },
+    "ezrealnotes10": {
+        "slug": "ezrealnotes10",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**Humble Beginnings**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*Rumor has it, a certain Demacian national treasure\u2014one Jarro Lightfeather\u2014was born around here. Perhaps you\u2019ve heard of him?*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes9"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes9",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes9",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "10/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes11"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes11",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes11",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes10"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes10"
+            }
+        ]
+    },
+    "ezrealnotes11": {
+        "slug": "ezrealnotes11",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**Shhhh.**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*If the Avarosans ask\u2026 just say you haven\u2019t seen me. Got it? GOT IT?*\n\n*This has absolutely nothing to do with that silver totem I procured from the top of a freezing mountain. That was a different guy. We just have the same name. And hair.*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes10"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes10",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes10",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "11/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes12"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes12",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes12",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes11"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes11"
+            }
+        ]
+    },
+    "ezrealnotes12": {
+        "slug": "ezrealnotes12",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**Captain's Log**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*Nothing more awe-inspiring than seeing Mount Targon at night, from the sea\u2026 especially when you\u2019re quelling a mutiny.\n(Note to self: lime-grog is rationed FOR A REASON)*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes11"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes11",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes11",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "12/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes13"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes13",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes13",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes12"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes12"
+            }
+        ]
+    },
+    "ezrealnotes13": {
+        "slug": "ezrealnotes13",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**The Blue Flame Isles**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*Little-known fact\u2014these are actually named the Serpent Isles. It\u2019s important to know the local culture.*\n\n*I joined in their ceremonies a few times. There\u2019s a lot more going on than meets the eye. One priestess carries around a massive idol that I desperately want to go back and examine. I got some real \u201ccosmic\u201d vibes from that fetish\u2026*\n\n*Anyway, the Buhru are one of the more secretive religious groups, claiming to predate pretty much everything else on Valoran or Shurima. I suspect their influence is much larger than anyone guesses.*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes12"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes12",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes12",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "13/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes14"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes14",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes14",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes13"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes13"
+            }
+        ]
+    },
+    "ezrealnotes14": {
+        "slug": "ezrealnotes14",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**The 'Sand Mother'**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*This desert is filled with life\u2026 and a lot of that life is Xer\u2019Sai. Sure, they\u2019re easy enough to blast to bits with some bullseye shots, but they just keep coming and coming.*\n\n*I took shelter in this circular cavern that I quickly realized was a gargantuan Xer\u2019Sai burrow. My local guide, poor old Kasdjar, swore it was the lair of the Sand Mother\u2014a Xer\u2019Sai large enough to swallow a dormun whole.*\n\n*That was a big NOPE for me. We hightailed it out of there pretty darn quick.*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes13"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes13",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes13",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "14/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes15"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes15",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes15",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes14"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes14"
+            }
+        ]
+    },
+    "ezrealnotes15": {
+        "slug": "ezrealnotes15",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**A Glimpse Beyond**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*All eight tribes of the Southern Dune Wanderers somehow got it into their heads that I\u2019d absconded with their sacred medallion. They chased me through the mountain passes for a week before giving up, and I finally had a chance to rest.*\n\n*(Joke\u2019s on them\u2014my antiquities dealer confirmed the medallion was a fake!)*\n\n*That\u2019s when I saw it. A shimmering gap in the bare rock, opening up to some other realm beyond it. I decided to check it out first thing in the morning.*\n\n*Big mistake. The whole thing had vanished. I camped out for a week, but never saw it again. Was it just a hallucination\u2026 or did I find a portal to the mythical Bandle City?*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes14"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes14",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes14",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "15/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes16"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes16",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes16",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes15"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes15"
+            }
+        ]
+    },
+    "ezrealnotes16": {
+        "slug": "ezrealnotes16",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**The Lost Tomb of Ne'Zuk**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*This one was a bit of a twofer. There was an emperor\u2019s burial chamber, sealed and intact, right here\u2014but it\u2019s definitely not there anymore, because underneath that tomb was where old Ne\u2019Zuk was laid to rest\u2026 and Ne\u2019Zuk\u2019s tomb was destroyed.*\n\n*By me.*\n\n*That\u2019s where I found my gauntlet. Pretty cool, huh?*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes15"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes15",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes15",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "16/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes17"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes17",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes17",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes16"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes16"
+            }
+        ]
+    },
+    "ezrealnotes17": {
+        "slug": "ezrealnotes17",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**South of Mudtown**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*Got into a high-stakes game of Krakenhand with a gang of high-seas marauders, here.*\n\n*Well, I mean, technically they were my captors. But after I proved my worth at the card table, we all became fast friends. They made the mistake of upping the ante on a triple-tentacle dice roll, you see\u2014I was holding a whole hand of nothing, but they didn\u2019t know that. Apparently, my nothing was better than their nothing, once the dice were in play.*\n\n*(Note to self: learn how to play Krakenhand)*\n\n*Won back my gauntlet, along with a nice antique flintlock. Actually, I wonder how the survivors are doing? I should look them up. Great guys. What\u2019s left of them, at least.*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes16"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes16",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes16",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "17/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes18"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes18",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes18",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes17"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes17"
+            }
+        ]
+    },
+    "ezrealnotes18": {
+        "slug": "ezrealnotes18",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**The Deep Jungle**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*Locals call the area around Paretha the \u201cVale of Silver Mist\u201d, and I can see why. It\u2019s a magical place\u2026 all alluring and mysterious.*\n\n*I personally had an out of body experience while hunting for the Elixir of Uloa. I saw myself in the jungle, peering back at me with curious eyes from behind a tree. I looked pretty good. Then the tree talked to me. I swear it followed me for a while.*\n\n*If this doesn\u2019t seem like something you\u2019d enjoy, then you should definitely avoid drinking the taffa-flower water.*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes17"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes17",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes17",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "18/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes19"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes19",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes19",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes18"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes18"
+            }
+        ]
+    },
+    "ezrealnotes19": {
+        "slug": "ezrealnotes19",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**Paretha**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*Ah, Paretha! Such a charming village. Try the taffa-flower water, it\u2019s got a real kick. A tribal shaman here once told me my soul was \u201centwined with\u201d the Aspect of the Wanderer. Didn\u2019t peg her for a Targonian\u2026 but I suppose looks can be deceiving.*\n\n*Anyway, I stole the Elixir of Uloa from a nearby temple. The temple didn\u2019t survive. Probably shouldn\u2019t show my face in Paretha for a while. Let the heat die down, if you know what I mean.*\n\n -Ez",
+        "link": {
+            "url": "https://universe.leagueoflegends.com/en_US/story/ezreal-color-story/",
+            "label": "The Elixir of Uloa"
+        },
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes18"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes18",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes18",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "19/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes20"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes20",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes20",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes19"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes19"
+            }
+        ]
+    },
+    "ezrealnotes20": {
+        "slug": "ezrealnotes20",
+        "disabled": false,
+        "toastBackground": "ezreal_card2.jpg",
+        "flyoutBackground": "ezreal_card2.jpg",
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**Here be Sand-Trolls**",
+        "subtitle": "**Ezreal\u2019s Field Notes**",
+        "description": "*Did you know sand-trolls are a thing? I, for one, did not know sand-trolls were a thing.*\n\n*Turns out\u2014sand-trolls, totally a thing.*\n\n -Ez",
+        "championSlugs": [
+            "ezreal"
+        ],
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "ezrealnotes19"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes19",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes19",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "20/20",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "piltover-town"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "ezrealnotes_featured",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "ezrealnotes_featured",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ezrealnotes20"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes20"
+            }
+        ]
+    },
+    "junglestory_featured": {
+        "slug": "junglestory_featured",
+        "disabled": false,
+        "cardSlugs": [
+            "jungle_daySTART"
+        ],
+        "toastBackground": "Jungle_story_01_BG.jpg",
+        "flyoutBackground": "Jungle_story_01_BG.jpg",
+        "backgroundImage": "Jungle_story_01_BG.jpg",
+        "title": "Conquer! For the Glory of Noxus!",
+        "subtitle": "At the Edge of the World",
+        "description": "The jungles of Shurima are a frontier that the most ambitious generals would dearly love to claim for Noxus. Follow the expedition of Commander Ysard Tomyri aboard the frigate *Ardentius*, as she attempts to carve out her place in the annals of history.",
+        "link": {
+            "url": "http://universe.leagueoflegends.com/{LOCALE}/story/at-the-edge-of-the-world",
+            "label": "Read story"
+        },
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "label": "The Jungles of Shurima",
+                "position": "left",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "piltover-zaun",
+                        "zoomLevel": 1000
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "featured",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "featured",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "jungle_day1"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "jungle_day1",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "jungle_day1",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "junglestory_featured",
+                "zoomLevel": 350
+            },
+            {
+                "type": "contentPanel",
+                "slug": "junglestory_featured"
+            },
+            {
+                "type": "toggleLockedPins",
+                "slugs": [
+                    "jungle_day1",
+                    "jungle_day2",
+                    "jungle_day3",
+                    "jungle_day4"
+                ],
+                "value": false
+            }
+        ]
+    },
+    "jungle_day1": {
+        "slug": "jungle_day1",
+        "disabled": false,
+        "cardSlugs": [
+            "jungle_day1"
+        ],
+        "toastBackground": "edge_of_the_world_01_card.png",
+        "flyoutBackground": "edge_of_the_world_01_card.png",
+        "backgroundImage": "Jungle_story_01_BG.jpg",
+        "title": "Chains of Command",
+        "subtitle": "At the Edge of the World",
+        "description": "Having petitioned Noxian high command no fewer than seven times, fleet officer Tomyri is finally summoned to the capital to receive a commission of her own.",
+        "link": {
+            "url": "http://universe.leagueoflegends.com/{LOCALE}/story/at-the-edge-of-the-world",
+            "label": "Conquer! For the Glory of Noxus!"
+        },
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "junglestory_featured",
+                        "zoomLevel": 350
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "junglestory_featured",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "junglestory_featured",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "01/04",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "jungle_day2"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "jungle_day2",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "jungle_day2",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "jungle_day1"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "jungle_day1"
+            }
+        ]
+    },
+    "jungle_day2": {
+        "slug": "jungle_day2",
+        "disabled": false,
+        "cardSlugs": [
+            "jungle_day2"
+        ],
+        "toastBackground": "edge_of_the_world_02_card.png",
+        "flyoutBackground": "edge_of_the_world_02_card.png",
+        "backgroundImage": "Jungle_story_01_BG.jpg",
+        "title": "Leaving the Capital",
+        "subtitle": "At the Edge of the World",
+        "description": "Tomyri oversees her vessel\u2019s final preparations, before learning that the expedition is to be joined by the renowned Reckoning beast hunter, Niander Ordylon.",
+        "link": {
+            "url": "http://universe.leagueoflegends.com/{LOCALE}/story/at-the-edge-of-the-world",
+            "label": "Conquer! For the Glory of Noxus!"
+        },
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "jungle_day1"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "jungle_day1",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "jungle_day1",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "02/04",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "jungle_day3"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "jungle_day3",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "jungle_day3",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "jungle_day2"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "jungle_day2"
+            }
+        ]
+    },
+    "jungle_day3": {
+        "slug": "jungle_day3",
+        "disabled": false,
+        "cardSlugs": [
+            "jungle_day3"
+        ],
+        "toastBackground": "edge_of_the_world_03_card.png",
+        "flyoutBackground": "edge_of_the_world_03_card.png",
+        "backgroundImage": "Jungle_story_01_BG.jpg",
+        "title": "The Great River",
+        "subtitle": "At the Edge of the World",
+        "description": "After many days at sea, the *Ardentius* enters the Serpentine Delta. This is Tomyri\u2019s first real glimpse of the wilderness that awaits her, and her crew.",
+        "link": {
+            "url": "http://universe.leagueoflegends.com/{LOCALE}/story/at-the-edge-of-the-world",
+            "label": "Conquer! For the Glory of Noxus!"
+        },
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "jungle_day2"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "jungle_day2",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "jungle_day2",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "03/04",
+                "position": "right"
+            },
+            {
+                "type": "primaryIconButton",
+                "iconType": "chevronRight",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "jungle_day4"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "jungle_day4",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "jungle_day4",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "jungle_day3"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "jungle_day3"
+            }
+        ]
+    },
+    "jungle_day4": {
+        "slug": "jungle_day4",
+        "disabled": false,
+        "cardSlugs": [
+            "jungle_day4"
+        ],
+        "toastBackground": "edge_of_the_world_04_card.png",
+        "flyoutBackground": "edge_of_the_world_04_card.png",
+        "backgroundImage": "Jungle_story_01_BG.jpg",
+        "title": "Their Darkest Hour",
+        "subtitle": "At the Edge of the World",
+        "description": "The jungle does not treat foreign invaders kindly. Unable to find their bearings, or any quarry for the beast hunters, the Noxians\u2019 morale and discipline begins to falter.",
+        "link": {
+            "url": "http://universe.leagueoflegends.com/{LOCALE}/story/at-the-edge-of-the-world",
+            "label": "Conquer! For the Glory of Noxus!"
+        },
+        "actionBar": [
+            {
+                "type": "iconButton",
+                "iconType": "chevronLeft",
+                "position": "right",
+                "onClickEvents": [
+                    {
+                        "type": "zoomToPin",
+                        "slug": "jungle_day3"
+                    },
+                    {
+                        "type": "contentPanel",
+                        "slug": "jungle_day3",
+                        "desktopOnly": true,
+                        "delay": 1500
+                    },
+                    {
+                        "type": "teaseContentPanel",
+                        "slug": "jungle_day3",
+                        "mobileOnly": true,
+                        "delay": 1500
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "label": "04/04",
+                "position": "right"
+            }
+        ],
+        "onToastSelectEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "jungle_day4"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "jungle_day4"
+            }
+        ]
+    }
+}
