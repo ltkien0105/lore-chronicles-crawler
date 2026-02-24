@@ -14,11 +14,11 @@ def write_json_from_pydantic_model(
 ) -> None:
     if isinstance(response, Response):
         response = dict(response.json())
-    universer_meeps = model.model_validate(response)
+    validated_model = model.model_validate(response)
 
     with open(path, "w") as f:
         json.dump(
-            universer_meeps.model_dump(exclude_none=True, by_alias=True), f, indent=4
+            validated_model.model_dump(exclude_none=True, by_alias=True), f, indent=4
         )
 
-    return universer_meeps
+    return validated_model
