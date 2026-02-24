@@ -6,7 +6,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from models.universe_meeps import UniverseMeeps
 from models.faction import Faction
-from models.content_panel import ContentPanel
+from models.content_panel import ContentPanel, ContentPanelCard
 
 from utils.file_io import write_json_from_pydantic_model
 from utils.riot_api import UniverseType, build_universe_url
@@ -29,11 +29,12 @@ from utils.riot_api import UniverseType, build_universe_url
 #         response=response,
 #     )
 
-URL = "https://map.leagueoflegends.com/loc/content-panels-en_us.json"
+# URL = "https://map.leagueoflegends.com/loc/content-panels-en_us.json"
+URL = "https://map.leagueoflegends.com/loc/content-panel-cards-en_us.json"
 filename = URL.split("/")[-1]
 response = requests.get(URL)
 write_json_from_pydantic_model(
     path=f"output/{filename}",
-    model=ContentPanel,
+    model=ContentPanelCard,
     response=response,
 )

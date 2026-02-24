@@ -1,0 +1,2868 @@
+{
+    "bilgewater_architecture": {
+        "slug": "bilgewater_architecture",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "bilgewater_architecture"
+            }
+        ],
+        "backgroundImage": "bilgewater_architecture_card.jpg",
+        "title": "Repurposed Materials",
+        "subtitle": "Architecture of Bilgewater"
+    },
+    "bilgewater_critters": {
+        "slug": "bilgewater_critters",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "bilgewater_critters"
+            }
+        ],
+        "backgroundImage": "bilgewater_critters_card.jpg",
+        "title": "Wharf Rats",
+        "subtitle": "Creatures of Bilgewater"
+    },
+    "bilgewater_culture": {
+        "slug": "bilgewater_culture",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "bilgewater_culture"
+            }
+        ],
+        "backgroundImage": "bilgewater_culture_card.jpg",
+        "title": "Life in Bilgewater",
+        "subtitle": "Culture of Bilgewater"
+    },
+    "bilgewater_hunting": {
+        "slug": "bilgewater_hunting",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "bilgewater_hunting"
+            }
+        ],
+        "backgroundImage": "bilgewater_hunting_card.jpg",
+        "title": "Monster Hunting",
+        "subtitle": "Culture of Bilgewater"
+    },
+    "bilgewater_nagakabouros": {
+        "slug": "bilgewater_nagakabouros",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "bilgewater_nagakabouros"
+            }
+        ],
+        "backgroundImage": "bilgewater_nagakabouros_card.jpg",
+        "title": "Nagakabouros",
+        "subtitle": "Great Kraken of Bilgewater"
+    },
+    "bilgewater_people": {
+        "slug": "bilgewater_people",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "bilgewater_people"
+            }
+        ],
+        "backgroundImage": "bilgewater_people_card.jpg",
+        "title": "The Unscrupulous",
+        "subtitle": "People of Bilgewater"
+    },
+    "bilgewater_serpentisles": {
+        "slug": "bilgewater_serpentisles",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "bilgewater_serpentisles"
+            }
+        ],
+        "backgroundImage": "bilgewater_serpentisles_card.jpg",
+        "title": "The Serpent Isles",
+        "subtitle": "Environments of Bilgewater"
+    },
+    "bilgewater_slaughterdocks": {
+        "slug": "bilgewater_slaughterdocks",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "bilgewater_slaughterdocks"
+            }
+        ],
+        "backgroundImage": "bilgewater_slaughterdocks_card.jpg",
+        "title": "Slaughter Docks",
+        "subtitle": "Monster Industry of Bilgewater"
+    },
+    "bilgewater_thecity": {
+        "slug": "bilgewater_thecity",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "bilgewater_thecity"
+            }
+        ],
+        "backgroundImage": "bilgewater_thecity_card.jpg",
+        "title": "Bilgewater Bay",
+        "subtitle": "The City of Bilgewater"
+    },
+    "bilgewater_tools": {
+        "slug": "bilgewater_tools",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "bilgewater_tools"
+            }
+        ],
+        "backgroundImage": "bilgewater_tools_card.jpg",
+        "title": "Tools of the Trade",
+        "subtitle": "Tools of Bilgewater"
+    },
+    "demacia_architecture": {
+        "slug": "demacia_architecture",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "demacia_architecture"
+            }
+        ],
+        "backgroundImage": "demacia_architecture_card.jpg",
+        "title": "City Structures",
+        "subtitle": "Architecture of Demacia"
+    },
+    "demacia_military": {
+        "slug": "demacia_military",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "demacia_military"
+            }
+        ],
+        "backgroundImage": "demacia_military_card.jpg",
+        "title": "Demacian Army",
+        "subtitle": "Military of Demacia"
+    },
+    "demacia_plaza": {
+        "slug": "demacia_plaza",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "demacia_plaza"
+            }
+        ],
+        "backgroundImage": "demacia_plaza_card.jpg",
+        "title": "The Grand Plaza",
+        "subtitle": "Environments of Demacia"
+    },
+    "demacia_raptors": {
+        "slug": "demacia_raptors",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "demacia_raptors"
+            }
+        ],
+        "backgroundImage": "demacia_raptors_card.jpg",
+        "title": "Demacian Raptors",
+        "subtitle": "Military of Demacia"
+    },
+    "demacia_silvermere": {
+        "slug": "demacia_silvermere",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "demacia_silvermere"
+            }
+        ],
+        "backgroundImage": "demacia_silvermere_card.jpg",
+        "title": "High Silvermere",
+        "subtitle": "City of Demacia"
+    },
+    "freljord_architecture": {
+        "slug": "freljord_architecture",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "freljord_architecture"
+            }
+        ],
+        "backgroundImage": "freljord_architecture_card.jpg",
+        "title": "A Tribal Nation",
+        "subtitle": "Architecture of the Freljord"
+    },
+    "freljord_citadel": {
+        "slug": "freljord_citadel",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "freljord_citadel"
+            }
+        ],
+        "backgroundImage": "freljord_citadel_card.jpg",
+        "title": "Howling Abyss",
+        "subtitle": "The Frostguard Citadel"
+    },
+    "freljord_glaseport": {
+        "slug": "freljord_glaseport",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "freljord_glaseport"
+            }
+        ],
+        "backgroundImage": "freljord_glaseport_card.jpg",
+        "title": "Glaserport",
+        "subtitle": "City of the Freljord"
+    },
+    "freljord_people": {
+        "slug": "freljord_people",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "freljord_people"
+            }
+        ],
+        "backgroundImage": "freljord_people_card.jpg",
+        "title": "The Tribes",
+        "subtitle": "People of the Freljord"
+    },
+    "freljord_rakelstake": {
+        "slug": "freljord_rakelstake",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "freljord_rakelstake"
+            }
+        ],
+        "backgroundImage": "freljord_rakelstake_card.jpg",
+        "title": "Rakelstake",
+        "subtitle": "City of the Freljord"
+    },
+    "freljord_tools": {
+        "slug": "freljord_tools",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "freljord_tools"
+            }
+        ],
+        "backgroundImage": "freljord_tools_card.jpg",
+        "title": "True Ice",
+        "subtitle": "Tools of the Freljord"
+    },
+    "ionia_architecture": {
+        "slug": "ionia_architecture",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ionia_architecture"
+            }
+        ],
+        "backgroundImage": "ionia_architecture_card.jpg",
+        "title": "Built Into Nature",
+        "subtitle": "Architecture of Ionia"
+    },
+    "ionia_creatures": {
+        "slug": "ionia_creatures",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ionia_creatures"
+            }
+        ],
+        "backgroundImage": "ionia_creatures_card.jpg",
+        "title": "Wildlife and Fauna",
+        "subtitle": "Creatures of Ionia"
+    },
+    "ionia_culture": {
+        "slug": "ionia_culture",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ionia_culture"
+            }
+        ],
+        "backgroundImage": "ionia_culture_card.jpg",
+        "title": "Life in Ionia",
+        "subtitle": "Culture of Ionia"
+    },
+    "ionia_environment": {
+        "slug": "ionia_environment",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ionia_environment"
+            }
+        ],
+        "backgroundImage": "ionia_environment_card.jpg",
+        "title": "Diverse Landscapes",
+        "subtitle": "Environment of Ionia"
+    },
+    "ionia_flora": {
+        "slug": "ionia_flora",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ionia_flora"
+            }
+        ],
+        "backgroundImage": "ionia_flora_card.jpg",
+        "title": "Unique Flora",
+        "subtitle": "Plants of Ionia"
+    },
+    "ionia_people": {
+        "slug": "ionia_people",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ionia_people"
+            }
+        ],
+        "backgroundImage": "ionia_people_card.jpg",
+        "title": "Rich Diversity",
+        "subtitle": "People of Ionia"
+    },
+    "ionia_placidium": {
+        "slug": "ionia_placidium",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ionia_placidium"
+            }
+        ],
+        "backgroundImage": "ionia_placidium_card.jpg",
+        "title": "The Placidium",
+        "subtitle": "The Placidium of Navori"
+    },
+    "ionia_rocks": {
+        "slug": "ionia_rocks",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ionia_rocks"
+            }
+        ],
+        "backgroundImage": "ionia_rocks_card.jpg",
+        "title": "Swirl Rock",
+        "subtitle": "Environments of Ionia"
+    },
+    "ionia_tools": {
+        "slug": "ionia_tools",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ionia_tools"
+            }
+        ],
+        "backgroundImage": "ionia_tools_card.jpg",
+        "title": "Daily Props",
+        "subtitle": "Tools of Ionia"
+    },
+    "ionia_kinkou": {
+        "slug": "ionia_kinkou",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ionia_kinkou"
+            }
+        ],
+        "backgroundImage": "ionia_kinkou_card.png",
+        "title": "The Kinkou",
+        "subtitle": "Keepers of the Sacred Balance"
+    },
+    "noxus_bastion": {
+        "slug": "noxus_bastion",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "noxus_bastion"
+            }
+        ],
+        "backgroundImage": "noxus_bastion_card.jpg",
+        "title": "Immortal Bastion",
+        "subtitle": "Environments of Noxus"
+    },
+    "noxus_creatures": {
+        "slug": "noxus_creatures",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "noxus_creatures"
+            }
+        ],
+        "backgroundImage": "noxus_creatures_card.jpg",
+        "title": "Noxian Beasts",
+        "subtitle": "Creatures of Noxus"
+    },
+    "noxus_culture": {
+        "slug": "noxus_culture",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "noxus_culture"
+            }
+        ],
+        "backgroundImage": "noxus_culture_card.jpg",
+        "title": "Strength and Power",
+        "subtitle": "Culture of Noxus"
+    },
+    "noxus_expansion": {
+        "slug": "noxus_expansion",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "noxus_expansion"
+            }
+        ],
+        "backgroundImage": "noxus_expansion_card.jpg",
+        "title": "Noxian Expansion",
+        "subtitle": "Culture of Noxus"
+    },
+    "noxus_legion": {
+        "slug": "noxus_legion",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "noxus_legion"
+            }
+        ],
+        "backgroundImage": "noxus_legion_card.jpg",
+        "title": "Militaristic Society",
+        "subtitle": "Military of Noxus"
+    },
+    "noxus_shurima": {
+        "slug": "noxus_shurima",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "noxus_shurima"
+            }
+        ],
+        "backgroundImage": "noxus_shurima_card.jpg",
+        "title": "Noxian Invasion",
+        "subtitle": "Military of Noxus"
+    },
+    "noxus_warbands": {
+        "slug": "noxus_warbands",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "noxus_warbands"
+            }
+        ],
+        "backgroundImage": "noxus_warbands_card.jpg",
+        "title": "Armies and Warbands",
+        "subtitle": "Military of Noxus"
+    },
+    "piltover_architecture": {
+        "slug": "piltover_architecture",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "piltover_architecture"
+            }
+        ],
+        "backgroundImage": "piltover_architecture_card.jpg",
+        "title": "Ornate Constructions",
+        "subtitle": "Architecture of Piltover"
+    },
+    "piltover_culture": {
+        "slug": "piltover_culture",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "piltover_culture"
+            }
+        ],
+        "backgroundImage": "piltover_culture_card.jpg",
+        "title": "City of Trade",
+        "subtitle": "Culture of Piltover"
+    },
+    "piltover_environment": {
+        "slug": "piltover_environment",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "piltover_environment"
+            }
+        ],
+        "backgroundImage": "piltover_environment_card.jpg",
+        "title": "A Growing City",
+        "subtitle": "Environment of Piltover"
+    },
+    "piltover_hextech": {
+        "slug": "piltover_hextech",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "piltover_hextech"
+            }
+        ],
+        "backgroundImage": "piltover_hextech_card.jpg",
+        "title": "Hextech",
+        "subtitle": "Technology of Piltover"
+    },
+    "piltover_people": {
+        "slug": "piltover_people",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "piltover_people"
+            }
+        ],
+        "backgroundImage": "piltover_people_card.jpg",
+        "title": "Piltovans",
+        "subtitle": "People of Piltover"
+    },
+    "piltover_tools": {
+        "slug": "piltover_tools",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "piltover_tools"
+            }
+        ],
+        "backgroundImage": "piltover_props_card.jpg",
+        "title": "Inventions",
+        "subtitle": "Tools of Piltover"
+    },
+    "piltover_zaun": {
+        "slug": "piltover_zaun",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "piltover_zaun"
+            }
+        ],
+        "backgroundImage": "piltover_zaun_card.jpg",
+        "title": "Connected Cities",
+        "subtitle": "Piltover & Zaun"
+    },
+    "shadow_architecture": {
+        "slug": "shadow_architecture",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "shadow_architecture"
+            }
+        ],
+        "backgroundImage": "shadow_architecture_card.jpg",
+        "title": "Shattered Past",
+        "subtitle": "History of the Blessed Isles"
+    },
+    "shadow_entities": {
+        "slug": "shadow_entities",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "shadow_entities"
+            }
+        ],
+        "backgroundImage": "shadow_entities_card.jpg",
+        "title": "The Fallen",
+        "subtitle": "Entities of the Shadow Isles"
+    },
+    "shadow_environment": {
+        "slug": "shadow_environment",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "shadow_environment"
+            }
+        ],
+        "backgroundImage": "shadow_environment_card.jpg",
+        "title": "Perished Lands",
+        "subtitle": "Environment of the Shadow Isles"
+    },
+    "shadow_harrowing": {
+        "slug": "shadow_harrowing",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "shadow_harrowing"
+            }
+        ],
+        "backgroundImage": "shadow_harrowing_card.jpg",
+        "title": "The Harrowing",
+        "subtitle": "Black Mist of the Shadow Isles"
+    },
+    "shadow_runination": {
+        "slug": "shadow_runination",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "shadow_runination"
+            }
+        ],
+        "backgroundImage": "shadow_runination_card.jpg",
+        "title": "The Ruination",
+        "subtitle": "History of the Shadow Isles"
+    },
+    "shurima_cascade": {
+        "slug": "shurima_cascade",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "shurima_cascade"
+            }
+        ],
+        "backgroundImage": "shurima_cascade_card.jpg",
+        "title": "Zoantha Cascade",
+        "subtitle": "Environments in Shurima"
+    },
+    "shurima_dormun": {
+        "slug": "shurima_dormun",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "shurima_dormun"
+            }
+        ],
+        "backgroundImage": "shurima_dormun_card.jpg",
+        "title": "Dormun Riders",
+        "subtitle": "Nomads of Shurima"
+    },
+    "shurima_marrowmark": {
+        "slug": "shurima_marrowmark",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "shurima_marrowmark"
+            }
+        ],
+        "backgroundImage": "shurima_marrowmark_card.jpg",
+        "title": "Marrowmark Market",
+        "subtitle": "City of Shurima"
+    },
+    "shurima_nashramae": {
+        "slug": "shurima_nashramae",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "shurima_nashramae"
+            }
+        ],
+        "backgroundImage": "shurima_nashramae_card.jpg",
+        "title": "Nashramae",
+        "subtitle": "City of Shurima"
+    },
+    "shurima_noxus": {
+        "slug": "shurima_noxus",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "shurima_noxus"
+            }
+        ],
+        "backgroundImage": "shurima_noxus_card.jpg",
+        "title": "Noxus in Shurima",
+        "subtitle": "Relationship with Noxus"
+    },
+    "shurima_people": {
+        "slug": "shurima_people",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "shurima_people"
+            }
+        ],
+        "backgroundImage": "shurima_people_card.jpg",
+        "title": "Life in Shurima",
+        "subtitle": "People of Shurima"
+    },
+    "shurima_sandswimmers": {
+        "slug": "shurima_sandswimmers",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "shurima_sandswimmers"
+            }
+        ],
+        "backgroundImage": "shurima_sandswimmers_card.jpg",
+        "title": "Scavengers",
+        "subtitle": "People of Shurima"
+    },
+    "shurima_sun": {
+        "slug": "shurima_sun",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "shurima_sun"
+            }
+        ],
+        "backgroundImage": "shurima_sun_card.jpg",
+        "title": "Risen from the Sands",
+        "subtitle": "The Sun Disc"
+    },
+    "shurima_valley": {
+        "slug": "shurima_valley",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "shurima_valley"
+            }
+        ],
+        "backgroundImage": "shurima_valley_card.jpg",
+        "title": "Valley of Song",
+        "subtitle": "Environments in Shurima"
+    },
+    "shurima_zuretta": {
+        "slug": "shurima_zuretta",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "shurima_zuretta"
+            }
+        ],
+        "backgroundImage": "shurima_zuretta_card.jpg",
+        "title": "Zuretta",
+        "subtitle": "City of Shurima"
+    },
+    "targon_architecture": {
+        "slug": "targon_architecture",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "targon_architecture"
+            }
+        ],
+        "backgroundImage": "targon_architecture_card.jpg",
+        "title": "Carved Into Rock",
+        "subtitle": "Architecture of Mount Targon"
+    },
+    "targon_ascent": {
+        "slug": "targon_ascent",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "targon_ascent"
+            }
+        ],
+        "backgroundImage": "targon_ascent_card.jpg",
+        "title": "Starting the Climb",
+        "subtitle": "The Initial Ascent"
+    },
+    "targon_creature": {
+        "slug": "targon_creature",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "targon_creature"
+            }
+        ],
+        "backgroundImage": "targon_creature_card.jpg",
+        "title": "Targonian Beasts",
+        "subtitle": "Creatures of Mount Targon"
+    },
+    "targon_impossible": {
+        "slug": "targon_impossible",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "targon_impossible"
+            }
+        ],
+        "backgroundImage": "targon_impossible_card.jpg",
+        "title": "The Test",
+        "subtitle": "The Impossible Climb"
+    },
+    "targon_lunari": {
+        "slug": "targon_lunari",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "targon_lunari"
+            }
+        ],
+        "backgroundImage": "targon_lunari_card.jpg",
+        "title": "The Lunari",
+        "subtitle": "Culture of Mount Targon"
+    },
+    "targon_peak": {
+        "slug": "targon_peak",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "targon_peak"
+            }
+        ],
+        "backgroundImage": "targon_peak_card.jpg",
+        "title": "The Summit",
+        "subtitle": "Mount Targon's Peak"
+    },
+    "targon_rakkor": {
+        "slug": "targon_rakkor",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "targon_rakkor"
+            }
+        ],
+        "backgroundImage": "targon_rakkor_card.jpg",
+        "title": "The Rakkor",
+        "subtitle": "People of Mount Targon"
+    },
+    "targon_ring": {
+        "slug": "targon_ring",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "targon_ring"
+            }
+        ],
+        "backgroundImage": "targon_ring_card.jpg",
+        "title": "Journey Up the Mountain",
+        "subtitle": "Ring of the Mountain"
+    },
+    "targon_solari": {
+        "slug": "targon_solari",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "targon_solari"
+            }
+        ],
+        "backgroundImage": "targon_solari_card.jpg",
+        "title": "The Solari",
+        "subtitle": "Culture of Mount Targon"
+    },
+    "targon_tools": {
+        "slug": "targon_tools",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "targon_tools"
+            }
+        ],
+        "backgroundImage": "targon_tools_card.jpg",
+        "title": "Life on the Mountain",
+        "subtitle": "Tools of Mount Targon"
+    },
+    "void_environment": {
+        "slug": "void_environment",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "void_environment"
+            }
+        ],
+        "backgroundImage": "void_environment_card.jpg",
+        "title": "The Void",
+        "subtitle": "Environments of the Void"
+    },
+    "void_history": {
+        "slug": "void_history",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "void_history"
+            }
+        ],
+        "backgroundImage": "void_history_card.jpg",
+        "title": "Fall of Icathia",
+        "subtitle": "History of Icathia"
+    },
+    "void_voidborn": {
+        "slug": "void_voidborn",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "void_voidborn"
+            }
+        ],
+        "backgroundImage": "void_voidborn_card.jpg",
+        "title": "The Voidborn",
+        "subtitle": "Creatures of the Void"
+    },
+    "yordle_portals": {
+        "slug": "yordle_portals",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "yordle_portals"
+            }
+        ],
+        "backgroundImage": "bandlecity-landmark.jpg",
+        "title": "Portals",
+        "subtitle": "Path to Bandle City"
+    },
+    "zaun_architecture": {
+        "slug": "zaun_architecture",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "zaun_architecture"
+            }
+        ],
+        "backgroundImage": "zaun_architecture_card.jpg",
+        "title": "Zaun's Depths",
+        "subtitle": "Architecture of Zaun"
+    },
+    "zaun_baron": {
+        "slug": "zaun_baron",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "zaun_baron"
+            }
+        ],
+        "backgroundImage": "zaun_baron_card.jpg",
+        "title": "Chem-Barons",
+        "subtitle": "People of Zaun"
+    },
+    "zaun_entersol": {
+        "slug": "zaun_entersol",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "zaun_entersol"
+            }
+        ],
+        "backgroundImage": "zaun_entersol_card.jpg",
+        "title": "Entresol Level",
+        "subtitle": "People of Zaun"
+    },
+    "zaun_environment": {
+        "slug": "zaun_environment",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "zaun_environment"
+            }
+        ],
+        "backgroundImage": "zaun_environment_card.jpg",
+        "title": "Below the Surface",
+        "subtitle": "Environment of Zaun"
+    },
+    "zaun_promenade": {
+        "slug": "zaun_promenade",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "zaun_promenade"
+            }
+        ],
+        "backgroundImage": "zaun_promenade_card.jpg",
+        "title": "Promenade Level",
+        "subtitle": "People of Zaun"
+    },
+    "zaun_punks": {
+        "slug": "zaun_punks",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "zaun_punks"
+            }
+        ],
+        "backgroundImage": "zaun_punks_card.jpg",
+        "title": "Chem Punks",
+        "subtitle": "People of Zaun"
+    },
+    "zaun_sumps": {
+        "slug": "zaun_sumps",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "zaun_sumps"
+            }
+        ],
+        "backgroundImage": "zaun_sumps_card.jpg",
+        "title": "Sump Level",
+        "subtitle": "People of Zaun"
+    },
+    "zaun_tools": {
+        "slug": "zaun_tools",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "zaun_tools"
+            }
+        ],
+        "backgroundImage": "zaun_tools_card.jpg",
+        "title": "Chemtech",
+        "subtitle": "Tools of Zaun"
+    },
+    "vathcaer_warmother": {
+        "slug": "vathcaer_warmother",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "vathcaer_warmother"
+            }
+        ],
+        "backgroundImage": "asheVathcaer_card.jpg",
+        "title": "Vathcaer",
+        "subtitle": "Avarosan Settlement"
+    },
+    "ghulfrost_warmother": {
+        "slug": "ghulfrost_warmother",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ghulfrost_warmother"
+            }
+        ],
+        "backgroundImage": "warmother-comic-contentcard.jpg",
+        "title": "Ghulfrost",
+        "subtitle": "Ancient Ruins"
+    },
+    "ornnkaal_rocks_warmother": {
+        "slug": "ornnkaal_rocks_warmother",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ornnkaalrocks_warmother"
+            }
+        ],
+        "backgroundImage": "Ornnkaal2.jpg",
+        "title": "Ornnkaal Rocks",
+        "subtitle": "Sacred Site"
+    },
+    "quchar_warmother": {
+        "slug": "quchar_warmother",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "quchar_warmother"
+            }
+        ],
+        "backgroundImage": "Quchar_1.jpg",
+        "title": "Quchar",
+        "subtitle": "Hearthbound Village"
+    },
+    "yadulsk_warmother": {
+        "slug": "yadulsk_warmother",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "yadulsk_warmother"
+            }
+        ],
+        "backgroundImage": "Yadulsk_1.jpg",
+        "title": "Yadulsk",
+        "subtitle": "Coastal Settlement"
+    },
+    "ryze_short_pt3": {
+        "slug": "ryze_short_pt3",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ryze_short_pt3"
+            }
+        ],
+        "backgroundImage": "ryze_short_card_03.jpg",
+        "title": "Master and Apprentice",
+        "subtitle": "From the Ashes"
+    },
+    "ryze_short_pt2": {
+        "slug": "ryze_short_pt2",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ryze_short_pt2"
+            }
+        ],
+        "backgroundImage": "ryze_short_card_02.jpg",
+        "title": "Valar's Hollow",
+        "subtitle": "From the Ashes"
+    },
+    "ryze_short_pt1": {
+        "slug": "ryze_short_pt1",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ryze_short_pt1"
+            }
+        ],
+        "backgroundImage": "ryze_short_card_01.jpg",
+        "title": "Rygann's Reach",
+        "subtitle": "From the Ashes"
+    },
+    "ryze_comic_pt1": {
+        "slug": "ryze_comic_pt1",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ryze_comic_pt1"
+            }
+        ],
+        "backgroundImage": "ryze_comic_card_01.jpg",
+        "title": "The City of Gardens",
+        "subtitle": "Ryze: The Burning Lands"
+    },
+    "ryze_comic_pt2": {
+        "slug": "ryze_comic_pt2",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ryze_comic_pt2"
+            }
+        ],
+        "backgroundImage": "ryze_comic_card_02.jpg",
+        "title": "Zoantha Cascade",
+        "subtitle": "Ryze: The Burning Lands"
+    },
+    "ryze_comic_pt3": {
+        "slug": "ryze_comic_pt3",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ryze_comic_pt3"
+            }
+        ],
+        "backgroundImage": "ryze_comic_card_03.jpg",
+        "title": "Atop the Dormun",
+        "subtitle": "Ryze: The Burning Lands"
+    },
+    "ryze_comic_pt4": {
+        "slug": "ryze_comic_pt4",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ryze_comic_pt4"
+            }
+        ],
+        "backgroundImage": "ryze_comic_card_04.jpg",
+        "title": "Skallashi",
+        "subtitle": "Ryze: The Burning Lands"
+    },
+    "ryze_comic_pt5": {
+        "slug": "ryze_comic_pt5",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ryze_comic_pt5"
+            }
+        ],
+        "backgroundImage": "ryze_comic_card_05.jpg",
+        "title": "Endless Plain",
+        "subtitle": "Ryze: The Burning Lands"
+    },
+    "ryzecg_featured": {
+        "slug": "ryzecg_featured",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "piltover-town",
+                "zoomLevel": 1000
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ryzecg_featured"
+            },
+            {
+                "type": "toggleLockedPins"
+            }
+        ],
+        "backgroundImage": "ryze_cg_card_1.jpg",
+        "title": "Call of Power",
+        "subtitle": "Video: Gallery Collection"
+    },
+    "ryze_cg_pt1": {
+        "slug": "ryze_cg_pt1",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_cgi_1"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_cg_pt1",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "ryze_cg_card_1.jpg",
+        "title": "The Demacia Vault",
+        "subtitle": "Ryze: Call of Power"
+    },
+    "ryze_cg_pt3": {
+        "slug": "ryze_cg_pt3",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_cgi_3"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_cg_pt3",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "ryze_cg_card_3.jpg",
+        "title": "Memories of Destruction",
+        "subtitle": "Ryze: Call of Power"
+    },
+    "ryze_cg_pt4": {
+        "slug": "ryze_cg_pt4",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_cgi_4"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_cg_pt4",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "ryze_cg_card_4.jpg",
+        "title": "Shootout on the Bay",
+        "subtitle": "Ryze: Call of Power"
+    },
+    "ryze_cg_pt5": {
+        "slug": "ryze_cg_pt5",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_cgi_5"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_cg_pt5",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "ryze_cg_card_5.jpg",
+        "title": "Guardians of Knowledge",
+        "subtitle": "Ryze: Call of Power"
+    },
+    "ryze_cg_pt6": {
+        "slug": "ryze_cg_pt6",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_cgi_6"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_cg_pt6",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "ryze_cg_card_6.jpg",
+        "title": "Silent Allies",
+        "subtitle": "Ryze: Call of Power"
+    },
+    "ryze_cg_pt7": {
+        "slug": "ryze_cg_pt7",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_cgi_7"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_cg_pt7",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "ryze_cg_card_7.jpg",
+        "title": "Freljordian Diplomacy",
+        "subtitle": "Ryze: Call of Power"
+    },
+    "ryze_cg_pt8": {
+        "slug": "ryze_cg_pt8",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryze_cgi_8"
+            },
+            {
+                "type": "gallery",
+                "slug": "ryze_cg_pt8",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "ryze_cg_card_8.jpg",
+        "title": "Facing the Void",
+        "subtitle": "Ryze: Call of Power"
+    },
+    "ezrealnotes_featured": {
+        "slug": "ezrealnotes_featured",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "piltover-town",
+                "zoomLevel": 550
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ezrealnotes_featured"
+            },
+            {
+                "type": "toggleLockedPins"
+            }
+        ],
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "Who Needs A Map?",
+        "subtitle": "Ezreal\u2019s Field Notes"
+    },
+    "junglestory_featured": {
+        "slug": "junglestory_featured",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "junglestory_featured",
+                "zoomLevel": 350
+            },
+            {
+                "type": "contentPanel",
+                "slug": "junglestory_featured"
+            },
+            {
+                "type": "toggleLockedPins"
+            }
+        ],
+        "backgroundImage": "Jungle_story_01_BG.jpg",
+        "title": "Conquer! For the Glory of Noxus!",
+        "subtitle": "At the Edge of the World"
+    },
+    "jungle_daySTART": {
+        "slug": "jungle_daySTART",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "jungle_day1"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "jungle_day1"
+            }
+        ],
+        "backgroundImage": "Jungle_story_01_BG.jpg",
+        "title": "Chains of Command",
+        "subtitle": "At the Edge of the World"
+    },
+    "jungle_day1": {
+        "slug": "jungle_day1",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "jungle_day1"
+            }
+        ],
+        "backgroundImage": "edge_of_the_world_01_card.png",
+        "title": "Chains of Command",
+        "subtitle": "At the Edge of the World"
+    },
+    "jungle_day2": {
+        "slug": "jungle_day2",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "jungle_day2"
+            }
+        ],
+        "backgroundImage": "edge_of_the_world_02_card.png",
+        "title": "Leaving the Capital",
+        "subtitle": "At the Edge of the World"
+    },
+    "jungle_day3": {
+        "slug": "jungle_day3",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "jungle_day3"
+            }
+        ],
+        "backgroundImage": "edge_of_the_world_03_card.png",
+        "title": "The Great River",
+        "subtitle": "At the Edge of the World"
+    },
+    "jungle_day4": {
+        "slug": "jungle_day4",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "jungle_day4"
+            }
+        ],
+        "backgroundImage": "edge_of_the_world_04_card.png",
+        "title": "Their Darkest Hour",
+        "subtitle": "At the Edge of the World"
+    },
+    "ezreal_peretha": {
+        "slug": "ezreal_peretha",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ezreal_peretha"
+            }
+        ],
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**Paretha**",
+        "subtitle": "**EZREAL\u2019S FIELD NOTES**"
+    },
+    "ezreal_oshra": {
+        "slug": "ezreal_oshra",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ezreal_oshra"
+            }
+        ],
+        "backgroundImage": "ezreal_card2.jpg",
+        "title": "**Oshra Va'zaun**",
+        "subtitle": "**EZREAL\u2019S FIELD NOTES**"
+    },
+    "jungle_neekoGallery": {
+        "slug": "jungle_neekoGallery",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "jungle_neeko"
+            }
+        ],
+        "backgroundImage": "neeko_color_card.png",
+        "title": "Neeko",
+        "subtitle": "the Curious Chameleon"
+    },
+    "jungle_nidaleeGallery": {
+        "slug": "jungle_nidaleeGallery",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "jungle_nidalee"
+            }
+        ],
+        "backgroundImage": "Jungle_story_02_BG.jpg",
+        "title": "Nidalee",
+        "subtitle": "the Bestial Huntress"
+    },
+    "antathir": {
+        "slug": "antathir",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "antathir"
+            }
+        ],
+        "backgroundImage": "shurima.jpg",
+        "title": "Antathir",
+        "subtitle": "City of Shurima"
+    },
+    "aurma": {
+        "slug": "aurma",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "aurma"
+            }
+        ],
+        "backgroundImage": "shurima.jpg",
+        "title": "Aurma",
+        "subtitle": "City of Shurima"
+    },
+    "basilich": {
+        "slug": "basilich",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "basilich"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "basilich",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Basilich",
+        "subtitle": "Port city"
+    },
+    "belzhun": {
+        "slug": "belzhun",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "belzhun"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "belzhun",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "shurima_noxus_card.jpg",
+        "title": "Bel\u2019zhun",
+        "subtitle": "Coastal outpost"
+    },
+    "bilgewater-bay": {
+        "slug": "bilgewater-bay",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "bilgewater-bay"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "bilgewater-bay",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "bilgewater-landmark.jpg",
+        "title": "Bilgewater Bay",
+        "subtitle": "Natural harbor, crammed with settlements"
+    },
+    "bloodcliffs": {
+        "slug": "bloodcliffs",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "bloodcliffs"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Bloodcliffs",
+        "subtitle": "Settlement"
+    },
+    "boleham": {
+        "slug": "boleham",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "boleham"
+            }
+        ],
+        "backgroundImage": "---",
+        "title": "Boleham",
+        "subtitle": "Settlement"
+    },
+    "delverhold": {
+        "slug": "delverhold",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "delverhold"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "delverhold",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "The Delverhold",
+        "subtitle": "Mountain fortress"
+    },
+    "drekan": {
+        "slug": "drekan",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "drekan"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Drekan",
+        "subtitle": "Settlement"
+    },
+    "drugne": {
+        "slug": "drugne",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "drugne"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Drugne",
+        "subtitle": "Settlement"
+    },
+    "edessa": {
+        "slug": "edessa",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "edessa"
+            }
+        ],
+        "backgroundImage": "demacia.jpg",
+        "title": "Edessa",
+        "subtitle": "City of Demacia"
+    },
+    "evenmoor": {
+        "slug": "evenmoor",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "evenmoor"
+            }
+        ],
+        "backgroundImage": "demacia.jpg",
+        "title": "Evenmoor",
+        "subtitle": "City of Demacia"
+    },
+    "faelor": {
+        "slug": "faelor",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "faelor"
+            }
+        ],
+        "backgroundImage": "ionia.jpg",
+        "title": "Fae\u2019lor",
+        "subtitle": "Ionian Village"
+    },
+    "fallgren": {
+        "slug": "fallgren",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "fallgren"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Fallgren",
+        "subtitle": "Settlement"
+    },
+    "fossbarrow": {
+        "slug": "fossbarrow",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "fossbarrow"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "fossbarrow",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "demacia.jpg",
+        "title": "Fossbarrow",
+        "subtitle": "Haunted town"
+    },
+    "frostheld": {
+        "slug": "frostheld",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "frostheld"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "frostheld",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "freljord.jpg",
+        "title": "Frostheld",
+        "subtitle": "Glacial harbor city"
+    },
+    "gates-of-mourning": {
+        "slug": "gates-of-mourning",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "gates-of-mourning"
+            }
+        ],
+        "backgroundImage": "demacia.jpg",
+        "title": "Gates of Mourning",
+        "subtitle": "City of Demacia"
+    },
+    "ghulfrost": {
+        "slug": "ghulfrost",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ghulfrost"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ghulfrost",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "warmother-comic-bg.jpg",
+        "title": "Ghulfrost",
+        "subtitle": "Ancient Ruins"
+    },
+    "glaserport": {
+        "slug": "glaserport",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "glaserport"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "glaserport",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "freljord_glaserport_card.jpg",
+        "title": "Glaserport",
+        "subtitle": "Harbor settlement"
+    },
+    "glorft": {
+        "slug": "glorft",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "glorft"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Glorft",
+        "subtitle": "Settlement"
+    },
+    "high-silvermere": {
+        "slug": "high-silvermere",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "high-silvermere"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "high-silvermere",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "demacia_silvermere_card.jpg",
+        "title": "High Silvermere",
+        "subtitle": "Highland city"
+    },
+    "hirana-monastery": {
+        "slug": "hirana-monastery",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "hirana-monastery"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "hirana-monastery",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "ionia.jpg",
+        "title": "Hirana Monastery",
+        "subtitle": "Sacred site"
+    },
+    "holdrum": {
+        "slug": "holdrum",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "holdrum"
+            }
+        ],
+        "backgroundImage": "----",
+        "title": "Holdrum",
+        "subtitle": "Settlement"
+    },
+    "ironwater": {
+        "slug": "ironwater",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ironwater"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Ironwater",
+        "subtitle": "Settlement"
+    },
+    "jandelle": {
+        "slug": "jandelle",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "jandelle"
+            }
+        ],
+        "backgroundImage": "demacia.jpg",
+        "title": "Jandelle",
+        "subtitle": "City of Demacia"
+    },
+    "kalamanda": {
+        "slug": "kalamanda",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "kalamanda"
+            }
+        ],
+        "backgroundImage": "shurima.jpg",
+        "title": "Kalamanda",
+        "subtitle": "City of Shurima"
+    },
+    "kashuri": {
+        "slug": "kashuri",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "kashuri"
+            }
+        ],
+        "backgroundImage": "ionia.jpg",
+        "title": "Kashuri",
+        "subtitle": "Ionian Village"
+    },
+    "kenethet": {
+        "slug": "kenethet",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "kenethet"
+            }
+        ],
+        "backgroundImage": "shurima.jpg",
+        "title": "Kenethet",
+        "subtitle": "City of Shurima"
+    },
+    "khworez": {
+        "slug": "khworez",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "khworez"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Khworez",
+        "subtitle": "Settlement"
+    },
+    "kilgrove": {
+        "slug": "kilgrove",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "kilgrove"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Kilgrove",
+        "subtitle": "Settlement"
+    },
+    "kinkou-monastery": {
+        "slug": "kinkou-monastery",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "kinkou-monastery"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "kinkou-monastery",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "ionia.jpg",
+        "title": "Kinkou Monastery",
+        "subtitle": "Sacred site"
+    },
+    "krexor": {
+        "slug": "krexor",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "krexor"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Krexor",
+        "subtitle": "Settlement"
+    },
+    "kumangra": {
+        "slug": "kumangra",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "kumangra"
+            }
+        ],
+        "backgroundImage": "shurima.jpg",
+        "title": "Kumangra",
+        "subtitle": "City of Shurima"
+    },
+    "lissus": {
+        "slug": "lissus",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "lissus"
+            }
+        ],
+        "backgroundImage": "demacia.jpg",
+        "title": "Lissus",
+        "subtitle": "City of Demacia"
+    },
+    "master-yi-village": {
+        "slug": "master-yi-village",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "master-yi-village"
+            }
+        ],
+        "backgroundImage": "ionia.jpg",
+        "title": "Wuju",
+        "subtitle": "Ionian Village"
+    },
+    "mudtown": {
+        "slug": "mudtown",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "mudtown"
+            }
+        ],
+        "backgroundImage": "shurima.jpg",
+        "title": "Mudtown",
+        "subtitle": "City of Shurima"
+    },
+    "nashramae": {
+        "slug": "nashramae",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "nashramae"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "nashramae",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "shurima_nashramae_card.jpg",
+        "title": "Nashramae",
+        "subtitle": "Port city"
+    },
+    "needlebrook": {
+        "slug": "needlebrook",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "needlebrook"
+            }
+        ],
+        "backgroundImage": "demacia.jpg",
+        "title": "Needlebrook",
+        "subtitle": "City of Demacia"
+    },
+    "nerimazeth": {
+        "slug": "nerimazeth",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "nerimazeth"
+            }
+        ],
+        "backgroundImage": "shurima.jpg",
+        "title": "Nerimazeth",
+        "subtitle": "City of Shurima"
+    },
+    "old-bargate": {
+        "slug": "old-bargate",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "old-bargate"
+            }
+        ],
+        "backgroundImage": "----",
+        "title": "Old Bargate",
+        "subtitle": "Settlement"
+    },
+    "palclyff": {
+        "slug": "palclyff",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "palclyff"
+            }
+        ],
+        "backgroundImage": "demacia.jpg",
+        "title": "Palclyff",
+        "subtitle": "City of Demacia"
+    },
+    "piltover-town": {
+        "slug": "piltover-town",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "piltover-town"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "piltover-town",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "piltover-capital.jpg",
+        "title": "Piltover",
+        "subtitle": "Thriving coastal city"
+    },
+    "pinara": {
+        "slug": "pinara",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "pinara"
+            }
+        ],
+        "backgroundImage": "demacia.jpg",
+        "title": "Pinara",
+        "subtitle": "City of Demacia"
+    },
+    "puboe": {
+        "slug": "puboe",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "puboe"
+            }
+        ],
+        "backgroundImage": "ionia.jpg",
+        "title": "Puboe",
+        "subtitle": "Ionian Village"
+    },
+    "qualthala": {
+        "slug": "qualthala",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "qualthala"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Qualthala",
+        "subtitle": "Settlement"
+    },
+    "raikkon": {
+        "slug": "raikkon",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "raikkon"
+            }
+        ],
+        "backgroundImage": "ionia.jpg",
+        "title": "Raikkon",
+        "subtitle": "Ionian Village"
+    },
+    "rakelstake": {
+        "slug": "rakelstake",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "rakelstake"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "rakelstake",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "freljord_rakelstake_car.jpg",
+        "title": "Rakelstake",
+        "subtitle": "Sacred site"
+    },
+    "rokrund": {
+        "slug": "rokrund",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "rokrund"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Rokrund",
+        "subtitle": "Settlement"
+    },
+    "ruug": {
+        "slug": "ruug",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ruug"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Ruug",
+        "subtitle": "Settlement"
+    },
+    "stonewall": {
+        "slug": "stonewall",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "stonewall"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Stonewall",
+        "subtitle": "Settlement"
+    },
+    "temple-jagged-knife": {
+        "slug": "temple-jagged-knife",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "temple-jagged-knife"
+            }
+        ],
+        "backgroundImage": "ionia.jpg",
+        "title": "Temple of the Jagged Knife",
+        "subtitle": "Ionian Village"
+    },
+    "temple-pallas": {
+        "slug": "temple-pallas",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "temple-pallas"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "temple-pallas",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "noxus_shurima_card.jpg",
+        "title": "Temple of Pallas",
+        "subtitle": "Sacred site"
+    },
+    "terbisia": {
+        "slug": "terbisia",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "terbisia"
+            }
+        ],
+        "backgroundImage": "demacia.jpg",
+        "title": "Terbisia",
+        "subtitle": "City of Demacia"
+    },
+    "tereshni": {
+        "slug": "tereshni",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "tereshni"
+            }
+        ],
+        "backgroundImage": "shurima_noxus_card.jpg",
+        "title": "Tereshni",
+        "subtitle": "Noxian Expansion"
+    },
+    "tevasa": {
+        "slug": "tevasa",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "tevasa"
+            }
+        ],
+        "backgroundImage": "ionia.jpg",
+        "title": "Tevasa",
+        "subtitle": "Ionian Village"
+    },
+    "the-dawnhold": {
+        "slug": "the-dawnhold",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "the-dawnhold"
+            }
+        ],
+        "backgroundImage": "demacia.jpg",
+        "title": "Dawnhold",
+        "subtitle": "City of Demacia"
+    },
+    "the-drakkengate": {
+        "slug": "the-drakkengate",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "the-drakkengate"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "The Drakkengate",
+        "subtitle": "Settlement"
+    },
+    "the-iron-pinnacle": {
+        "slug": "the-iron-pinnacle",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "the-iron-pinnacle"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "The Iron Pinnacle",
+        "subtitle": "Settlement"
+    },
+    "trannit": {
+        "slug": "trannit",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "trannit"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Trannit",
+        "subtitle": "Settlement"
+    },
+    "trevale": {
+        "slug": "trevale",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "trevale"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "trevale",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Trevale",
+        "subtitle": "Farming community"
+    },
+    "tuula": {
+        "slug": "tuula",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "tuula"
+            }
+        ],
+        "backgroundImage": "ionia.jpg",
+        "title": "Tuula",
+        "subtitle": "Ionian Village"
+    },
+    "urzeris": {
+        "slug": "urzeris",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "urzeris"
+            }
+        ],
+        "backgroundImage": "shurima_noxus_card.jpg",
+        "title": "Urzeris",
+        "subtitle": "Noxian Expansion"
+    },
+    "uwendale": {
+        "slug": "uwendale",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "uwendale"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "uwendale",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "demacia.jpg",
+        "title": "Uwendale",
+        "subtitle": "Farming town"
+    },
+    "vaskasia": {
+        "slug": "vaskasia",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "vaskasia"
+            }
+        ],
+        "backgroundImage": "demacia.jpg",
+        "title": "Vaskasia",
+        "subtitle": "City of Demacia"
+    },
+    "vathcaer": {
+        "slug": "vathcaer",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "vathcaer"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "vathcaer"
+            }
+        ],
+        "backgroundImage": "asheVathcaer_BG.jpg",
+        "title": "Vathcaer",
+        "subtitle": "Avarosan Settlement"
+    },
+    "vekaura": {
+        "slug": "vekaura",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "vekaura"
+            }
+        ],
+        "backgroundImage": "shurima.jpg",
+        "title": "Vekaura",
+        "subtitle": "City of Shurima"
+    },
+    "velorus": {
+        "slug": "velorus",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "velorus"
+            }
+        ],
+        "backgroundImage": "demacia.jpg",
+        "title": "Velorus",
+        "subtitle": "City of Demacia"
+    },
+    "village-of-the-ice-children": {
+        "slug": "village-of-the-ice-children",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "village-of-the-ice-children"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "village-of-the-ice-children",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "villageoftheicechildren_BG.jpg",
+        "title": "Village of the Ice Children",
+        "subtitle": "Farming Village"
+    },
+    "vindor": {
+        "slug": "vindor",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "vindor"
+            }
+        ],
+        "backgroundImage": "noxus.jpg",
+        "title": "Vindor",
+        "subtitle": "Settlement"
+    },
+    "vlonquo": {
+        "slug": "vlonquo",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "vlonquo"
+            }
+        ],
+        "backgroundImage": "ionia.jpg",
+        "title": "Vlonqo",
+        "subtitle": "Ionian Village"
+    },
+    "wrenwall": {
+        "slug": "wrenwall",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "wrenwall"
+            }
+        ],
+        "backgroundImage": "demacia.jpg",
+        "title": "Wrenwall",
+        "subtitle": "City of Demacia"
+    },
+    "zaun-town": {
+        "slug": "zaun-town",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "zaun-town"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "zaun-town",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "zaun-capital.jpg",
+        "title": "Zaun",
+        "subtitle": "Polluted undercity"
+    },
+    "zhyunia": {
+        "slug": "zhyunia",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "zhyunia"
+            }
+        ],
+        "backgroundImage": "ionia.jpg",
+        "title": "Zhyunia",
+        "subtitle": "Ionian Village"
+    },
+    "zirima": {
+        "slug": "zirima",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "zirima"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "zirima",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "shurima.jpg",
+        "title": "Zirima",
+        "subtitle": "Merchant camp"
+    },
+    "zuretta": {
+        "slug": "zuretta",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "zuretta"
+            }
+        ],
+        "backgroundImage": "shurima.jpg",
+        "title": "Zuretta",
+        "subtitle": "City of Shurima"
+    },
+    "ryganns-reach": {
+        "slug": "ryganns-reach",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ryganns-reach"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ryganns-reach",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "ryze_short_card_01.jpg",
+        "title": "Rygann's Reach",
+        "subtitle": "Cursed Ruins"
+    },
+    "valars-hollow": {
+        "slug": "valars-hollow",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "valars-hollow"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "valars-hollow",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "ryze_short_card_02.jpg",
+        "title": "Valar's Hollow",
+        "subtitle": "Trader Settlement"
+    },
+    "marrowmark-market": {
+        "slug": "marrowmark-market",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "marrowmark-market"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "marrowmark-market",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "shurima_marrowmark_card.jpg",
+        "title": "Marrowmark",
+        "subtitle": "Trader Settlement"
+    },
+    "the-city-of-gardens": {
+        "slug": "the-city-of-gardens",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "the-city-of-gardens"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "the-city-of-gardens",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "shurima.jpg",
+        "title": "The City of Gardens",
+        "subtitle": "Scorched Ruins"
+    },
+    "yetis-vigil": {
+        "slug": "yetis-vigil",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "yetis-vigil"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "yetis-vigil",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "freljord.jpg",
+        "title": "Yeti's Vigil",
+        "subtitle": "Ancient Ruins"
+    },
+    "foundling-village": {
+        "slug": "foundling-village",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "foundling-village"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "foundling-village",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "freljord.jpg",
+        "title": "Foundling Village",
+        "subtitle": "Frostguard Settlement"
+    },
+    "naljaag": {
+        "slug": "naljaag",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "naljaag"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "naljaag",
+                "delay": 1500
+            }
+        ],
+        "backgroundImage": "freljord.jpg",
+        "title": "Nalja\u00e4g",
+        "subtitle": "Cursed Village"
+    },
+    "wehle": {
+        "slug": "wehle",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "wehle"
+            }
+        ],
+        "backgroundImage": "ionia.jpg",
+        "title": "Weh'le",
+        "subtitle": "Ionian Village"
+    },
+    "harelport": {
+        "slug": "harelport",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "harelport"
+            }
+        ],
+        "backgroundImage": "shurima.jpg",
+        "title": "Harelport",
+        "subtitle": "City of Shurima"
+    },
+    "paretha": {
+        "slug": "paretha",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "paretha"
+            }
+        ],
+        "backgroundImage": "shurima.jpg",
+        "title": "Paretha",
+        "subtitle": "City of Shurima"
+    },
+    "ornnkaal-rocks": {
+        "slug": "ornnkaal-rocks",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "ornnkaal-rocks"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "ornkaal-rocks"
+            }
+        ],
+        "backgroundImage": "Ornnkaal1.jpg",
+        "title": "Ornnkaal Rocks",
+        "subtitle": "Sacred Site"
+    },
+    "yadulsk": {
+        "slug": "yadulsk",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "yadulsk"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "yadulsk"
+            }
+        ],
+        "backgroundImage": "Yadulsk_2.jpg",
+        "title": "Yadulsk",
+        "subtitle": "Coastal Settlement"
+    },
+    "quchar": {
+        "slug": "quchar",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "zoomToPin",
+                "slug": "quchar"
+            },
+            {
+                "type": "contentPanel",
+                "slug": "quchar"
+            }
+        ],
+        "backgroundImage": "Quchar_1.jpg",
+        "title": "Quchar",
+        "subtitle": "Hearthbound Village"
+    },
+    "ixtal_region": {
+        "slug": "ixtal_region",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ixtal_region"
+            }
+        ],
+        "backgroundImage": "ixtal-region.jpg",
+        "title": "Ixtal",
+        "subtitle": "Perilous Eastern Jungles"
+    },
+    "ixaocan_region": {
+        "slug": "ixaocan_region",
+        "disabled": false,
+        "onClickEvents": [
+            {
+                "type": "gallery",
+                "slug": "ixaocan_region"
+            }
+        ],
+        "backgroundImage": "ixtal-region.jpg",
+        "title": "Ixaocan",
+        "subtitle": "The Last Sanctuary"
+    }
+}
