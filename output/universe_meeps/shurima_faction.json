@@ -10,11 +10,7 @@
             "description": "",
             "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/3f24f923ba9871dd870c0d3565075ff8140f44b8-1920x1080.jpg?accountingTag=LoL",
             "encoding": "image/jpeg",
-            "width": null,
-            "height": null,
-            "x": null,
-            "y": null,
-            "featured_champions": []
+            "featured-champions": []
         },
         "video": {
             "title": "shurima-splashvideo.webm",
@@ -22,29 +18,25 @@
             "description": "",
             "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/903a0dc3286518114b68113d0778e5299a26a729.webm?accountingTag=LoL",
             "encoding": "video/webm",
-            "width": null,
-            "height": null,
-            "x": null,
-            "y": null,
-            "featured_champions": []
+            "featured-champions": []
         },
         "name": "Shurima",
         "overview": {
             "short": "<p>The empire of Shurima was once a thriving civilization that spanned an entire continent. Forged in a bygone age by the mighty god-warriors of the Ascended Host, it united all the disparate peoples of the south, and enforced a lasting peace between them.</p><p>Few dared to rebel. Those that did, like the accursed nation of Icathia, were crushed without mercy.</p><p>However, after several thousand years of growth and prosperity, the failed Ascension of Shurima\u2019s last emperor left the capital in ruins, and tales of the empire\u2019s former glory became little more than myth. Now, most of the nomadic inhabitants of Shurima\u2019s deserts eke out a meager existence from the unforgiving land. Some have built small outposts to defend the few oases, while others delve into long lost catacombs in search of the untold riches that must surely lay buried there. There are also those who live as mercenaries, taking coin for their service before disappearing back into the lawless wastelands.</p><p>Still, a handful dare to dream of a return to the old ways. Indeed, more recently the tribes have been stirred by whispers from the heart of the desert\u2014that their emperor Azir has returned, to lead them into a new, wondrous age.</p>"
         },
-        "header_image": ""
+        "headerImage": ""
     },
-    "champion_list_order": 0,
-    "associated_champions": [
+    "champion-list-order": 0,
+    "associated-champions": [
         {
             "type": "champion",
-            "release_date": "2021-07-08T19:43:26.000Z",
+            "release-date": "2021-07-08T19:43:26.000Z",
             "name": "Akshan",
             "title": "Akshan",
-            "section_title": "Akshan",
+            "section-title": "Akshan",
             "slug": "akshan",
-            "associated_faction": "",
-            "associated_faction_slug": "shurima",
+            "associated-faction": "",
+            "associated-faction-slug": "shurima",
             "image": {
                 "title": "akshan-splash.jpg",
                 "subtitle": "",
@@ -55,7 +47,7 @@
                 "height": 1080,
                 "x": 1300,
                 "y": 550,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "akshan-splash.jpg",
@@ -67,10 +59,9 @@
                 "height": 1080,
                 "x": 1300,
                 "y": 550,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/akshan",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -92,26 +83,24 @@
                     "slug": "assassin"
                 }
             ],
-            "game_info_url": null,
             "biography": {
                 "full": "<p>Dashing through the shadows of eastern Shurima, a righteous avenger stalks those who have harmed others. His punishment is swift, certain, and exacted by a curious weapon that rights the wrongs of his foes.</p><p>Raised on the streets of the city of Marwi, Akshan was introduced to injustice at birth. In a place where local warlords took what they wanted, most people survived by keeping their heads down and minding their own affairs. Try as he might, young Akshan could never manage to let bad deeds go unnoticed and was often quick to intervene when he saw someone being mistreated. This approach made the boy many powerful enemies, and on one fateful occasion, left him beaten within an inch of his life.</p><p>But luck was on his side. An old woman named Shadya found the boy unconscious in the street outside her dwelling. Though Marwian custom said she should not get involved, she took young Akshan inside and, against all odds, he pulled through.</p><p>As Akshan regained his faculties, he realized his savior was no ordinary woman. Shadya was a member of the Sentinels of Light, an ancient order committed to fighting Harrowings and eradicating agents of the Black Mist. She saw Akshan as a troubled youth, stubborn and defiant, but vulnerable. After butting heads with the boy over her numerous sentinel house rules, Shadya quickly discovered there was much to like about him. He had guts <i>and</i> a conscience\u2014a combination seldom found in Marwi. Seeing the immense potential in the young man, Shadya made a deal with him: she would allow him to stay, free from the grasp of his countless enemies, and, in return, he would dedicate himself to the sentinel order.</p><p>Shadya and Akshan formed a fast bond as she taught him everything she knew about surviving as a solo sentinel. Akshan the scrappy street urchin grew into Akshan the full-grown bane of scoundrels. But even as Akshan\u2019s skills grew by the day, he could see his mentor growing more distant, and more troubled.</p><p>At last, Shadya told her pupil the reason for her concern: A Harrowing was coming, bigger than any the world had ever seen, bearing an army of wraiths and ghouls from the Shadow Isles. Their only hope of stopping the cataclysm rested with the ancient sentinel weapons that lay buried within Shurima's crypts and tombs. If the world was to be saved from ruination, they needed to collect these weapons, and <i>quickly</i>.</p><p>To Shadya\u2019s dismay, she found that the ancient weapons had already been plundered by local warlords. She pleaded with them to relinquish the artifacts for the fight against the inevitable Harrowing, but the warlords refused, determined to unlock the weapons\u2019 mysterious power for themselves.</p><p>With time running out, Akshan and Shadya were forced to make do with what they had. As they took stock of their arsenal, Akshan discovered a particularly striking gun hidden away in the base\u2019s vault. Alarmed, his mentor snatched it away and forbade Akshan from ever using it. The weapon, known as the Absolver, was imbued with an ancient enchantment that granted it a strange, unspeakable power\u2014it could take the life of a killer and, by doing so, restore their most recent victims to life.</p><p>\u201cIt must not be wielded by anyone,\u201d said Shadya. \u201cSuch matters of life and death are best left in the hands of fate.\u201d</p><p>But Akshan still bristled at sentinel rules, and he had even stronger opinions on fate. He had spent his whole life seeing good people horribly mistreated while bad people did as they pleased without consequence. If fate was real, it definitely needed help\u2014help that the Absolver could provide.</p><p>As his interest in the weapon deepened, Akshan continued to pry its history from Shadya and came to a shocking discovery: She had used the gun to save Akshan when she found him unconscious in the street all those years ago. With it, she\u2019d slain the criminal who had nearly killed him, and, in doing so, restored young Akshan to life. He wondered: Why did he alone deserve to be revived by the gun? Surely there were others who were more worthy.</p><p>While Akshan questioned the antiquated rules of his order, his mentor continued to press the warlords to turn over their stolen weapons. Tensions between the two parties built until one tragic day Akshan returned home to find Shadya murdered in the street, almost exactly where he had fallen all those years ago.</p><p>Akshan knew what he had to do. He made some key alterations to the Absolver and set out into the scorching desert with the forbidden weapon, hungry for vengeance. Though he could not determine which of the warlords had killed his mentor, he knew one way to be certain: he would pick them off one by one until Shadya was returned to Runeterra.</p>",
                 "short": "Raising an eyebrow in the face of danger, Akshan fights evil with dashing charisma, righteous vengeance, and a conspicuous lack of shirts. He is highly skilled in the art of stealth combat, able to evade the eyes of his enemies and reappear when they least expect him. With a keen sense of justice and a legendary death-reversing weapon, he rights the wrongs of Runeterra\u2019s many scoundrels while living by his own moral code: \u201cDon\u2019t be an ass.\u201d",
                 "quote": "\u201cNot everything happens for a reason. Some things need to be sorted out.\u201d",
-                "quote_author": "Akshan"
+                "quote-author": "Akshan"
             },
-            "header_image": null,
             "subtitle": "the Rogue Sentinel",
             "echelon": 0
         },
         {
             "type": "champion",
-            "release_date": "2009-06-26T00:00:00.000Z",
+            "release-date": "2009-06-26T00:00:00.000Z",
             "name": "Amumu",
             "title": "Amumu",
-            "section_title": "Amumu",
+            "section-title": "Amumu",
             "slug": "amumu",
-            "associated_faction": "",
-            "associated_faction_slug": "shurima",
+            "associated-faction": "",
+            "associated-faction-slug": "shurima",
             "image": {
                 "title": "Amumu_0.jpg",
                 "subtitle": "",
@@ -122,7 +111,7 @@
                 "height": 717,
                 "x": 946,
                 "y": 75,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Amumu_0.jpg",
@@ -134,10 +123,9 @@
                 "height": 717,
                 "x": 946,
                 "y": 75,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/amumu",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -159,26 +147,25 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/amumu",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/amumu",
             "biography": {
                 "full": "<p>A lonely and melancholy soul from ancient Shurima, Amumu roams the world in search of a friend. Cursed by an ancient spell, he is doomed to remain alone forever, as his touch is death and his affection ruin. Those who claim to have seen him describe Amumu as a living cadaver, small in stature and covered in bandages the color of lichen. Amumu has inspired myths, folklore, and legends told and retold for generations \u2013 such that it is impossible to separate truth from fiction.</p><p>The hardy folk of Shurima agree upon certain things: the wind always blows from the west in the morning; a full belly on a new moon is an ill omen; buried treasure hides under the heaviest of rocks. They do not agree, however, about the tale of Amumu.</p><p>One oft-told story links Amumu to the first great ruling family of Shurima who succumbed to a disease that corrupted flesh with hideous speed. The youngest child, Amumu, was quarantined in his chambers and befriended a servant girl who heard his cries through the walls. She regaled the lonely heir with courtly news and stories of her grandmother\u2019s mystic powers.</p><p>One morning, the girl brought word that Amumu\u2019s last remaining brother had passed away, making him Emperor of Shurima. Saddened that he had to bear this news alone, she unlocked his door and ran inside to comfort him face to face. Amumu threw his arms around her, but as they touched, he fell back, realizing he had condemned her to the same terrible fate as his family.</p><p>Upon the girl\u2019s death, her grandmother placed a twisted blight on the young emperor. In her mind, Amumu had as good as murdered her kin. As the curse took effect, Amumu was trapped in his moment of suffering like a locust ensnared in honeyed amber.</p><p>A second tale whispers of another crown prince, one given to bouts of petulance, cruelty, and murderous vanity. In this telling, Amumu was crowned Emperor of Shurima at a young age, and convinced he was blessed by the sun, he forced his subjects to worship him as a god.</p><p>Amumu sought the fabled Eye of Angor, an ancient relic entombed in a gilded crypt, said to grant eternal life to whoever looked upon it with an unflinching heart. He hunted the treasure for years with a host of slaves who carried him through labyrinthine catacombs, sacrificing themselves to traps so the emperor could continue without hindrance. Amumu finally reached the cyclopean golden archway, where upon dozens of his stonemasons labored to breach the sealed door.</p><p>As the young emperor rushed within, determined to look into the Eye of Angor, his slaves seized their chance and sealed the stone doorway behind him. Some say the child emperor endured in the darkness for years, his loneliness driving him to insanity and causing him to claw at his own skin, which he was forced to wrap in bandages. His life was extended by the power of the Eye as he meditated on his past transgressions, but the gift was a double edged sword, for he was cursed to remain forever alone.</p><p>When a series of devastating earthquakes shattered the foundations of his tomb, the emperor escaped with no knowledge of how much time had passed, seeking to undo the suffering he had caused in life.</p><p>Yet another story of Amumu tells of the first and last Yordle ruler of Shurima, who believed in the innate goodness of the human heart. To prove his detractors wrong, he swore an oath to live as a beggar until he made one true friend, convinced his people would rally to help their fellow Shuriman.</p><p>Though thousands walked by the disheveled Yordle, not one stopped to offer a helping hand. Amumu\u2019s sadness grew until he eventually died of a broken heart. But his death was not the end, for some swear the Yordle still wanders the desert, forever searching for someone who might restore his faith in humanity.</p><p>These stories, despite their differences, are woven with parallels. Whatever the circumstances, Amumu is doomed to exist in a broken state of emptiness, eternally alone and friendless. Fated to forever search for a companion, his presence is cursed and his touch is death. On long winter nights when the fire is never allowed to burn low, the sad mummy can sometimes be heard weeping in the desert, despairing that he\u2019ll never know the solace of friendship.</p><p>Whatever Amumu searches for \u2013 atonement, kinship, or a single act of kindness \u2013 one thing is as certain as the western wind at dawn: he has yet to find it.</p>",
                 "short": "Legend claims that Amumu is a lonely and melancholy soul from ancient Shurima, roaming the world in search of a friend. Doomed by an ancient curse to remain alone forever, his touch is death, his affection ruin. Those who claim to have seen him describe a living cadaver, small in stature and wrapped in creeping bandages. Amumu has inspired myths, songs, and folklore told and retold for generations\u2014such that it is impossible to separate truth from fiction.",
                 "quote": "\u201cSolitude can be lonelier than death.\u201d",
-                "quote_author": "Amumu"
+                "quote-author": "Amumu"
             },
-            "header_image": null,
             "subtitle": "the Sad Mummy",
             "echelon": 1
         },
         {
             "type": "champion",
-            "release_date": "2014-09-16T00:00:00.000Z",
+            "release-date": "2014-09-16T00:00:00.000Z",
             "name": "Azir",
             "title": "Azir",
-            "section_title": "Azir",
+            "section-title": "Azir",
             "slug": "azir",
-            "associated_faction": "",
-            "associated_faction_slug": "shurima",
+            "associated-faction": "",
+            "associated-faction-slug": "shurima",
             "image": {
                 "title": "Azir_0.jpg",
                 "subtitle": "",
@@ -189,7 +176,7 @@
                 "height": 717,
                 "x": 1026,
                 "y": 96,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Azir_0.jpg",
@@ -201,7 +188,7 @@
                 "height": 717,
                 "x": 1026,
                 "y": 96,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/azir",
             "video": {
@@ -214,7 +201,7 @@
                 "height": 720,
                 "x": 1026,
                 "y": 96,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -237,26 +224,25 @@
                     "slug": "marksman"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/azir",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/azir",
             "biography": {
                 "full": "<p>Azir was a mortal emperor of Shurima in a far distant age, a proud man who stood at the cusp of immortality. His hubris saw him betrayed and murdered at the moment of his greatest triumph, but now, millennia later, he has been reborn as an Ascended being of immense power. With his buried city risen from the sand, Azir seeks to restore Shurima to its former glory.</p><p>Thousands of years ago, the Shuriman empire was a sprawling realm of vassal states conquered by powerful armies led by all but invincible warriors known as the Ascended. Ruled by an ambitious and power hungry emperor, Shurima was the greatest realm of its day; a fertile land blessed by the power of the sun that shone from a great golden disc floating atop the temple at the heart of its capital.</p><p>The youngest and least-favored son of the emperor, Azir was never destined for greatness. With so many siblings ahead of him, he would never be emperor. Most likely he would take up a position in the priesthood or as governor of some backwater province. He was a slender, studious boy who spent more time perusing the texts collected in the Great Library of Nasus than training to fight under the stern tutelage of the Ascended hero, Renekton.</p><p>Amid the twisting shelves of scrolls, books and tablets, Azir met a young slave boy who visited the library almost every day in search of texts desired by his master. Slaves in Shurima were forbidden to take names, but as the two boys became friends, Azir broke that law and called his new friend Xerath, which means \u2018one who shares.\u2019 He appointed Xerath - though he was careful never to endanger him by naming him publicly - as his personal slave and the two boys shared their love of history by learning all they could of Shurima\u2019s past and its long legacy of Ascended heroes.</p><p>While traveling with his father, brothers and Renekton on the yearly tour of the empire, the royal caravan stopped at a well-known oasis for the night. Azir and Xerath stole away in the middle of the night to draw the stars and add their own celestial maps to those they had studied in the Great Library. While they drew the patterns of constellations, the royal caravan was attacked by a cabal of assassins sent by the emperor\u2019s enemies. One of the assassins found the two boys out in the desert and was poised to cut Azir\u2019s throat when Xerath intervened, throwing himself upon the assassin\u2019s back. In the ensuing melee, Azir freed his dagger and plunged it into his attacker\u2019s throat.</p><p>Azir took up the dead man\u2019s sword and rushed back to the oasis, but by the time he returned, the assassins were already defeated. Renekton had protected the emperor and slain the attackers, but Azir\u2019s brothers were all dead. Azir told his father of Xerath\u2019s courage and asked him to reward the slave boy, but his words fell on deaf ears. In the emperor\u2019s eyes, the boy was a slave and beneath his notice, but Azir swore that one day he and Xerath would be brothers.</p><p>The emperor returned to his capital, with the fifteen year old Azir now his heir, and unleashed a merciless campaign of bloodshed against those he believed had sent the assassins. Shurima descended into years of paranoia and murder as the emperor took revenge on any he suspected of treason. Though he was now heir to the throne, Azir\u2019s life yet hung by a thread. His father hated him - wishing he had died instead of his brothers - and the queen was still young enough to bear sons.</p><p>Azir trained in combat, for the attack at the oasis had revealed how little he knew of the deadly arts. Renekton took up the task of teaching the growing prince, and under his aegis, Azir learned to wield sword and spear, to command warriors, and to read the ebb and flow of battle. The young heir elevated Xerath, his only trusted confidant, and made him his right hand man. To better counsel him, Azir tasked Xerath with seeking out knowledge wherever he could find it.</p><p>Years passed, but the queen was never able to carry a child to term, every conceived infant perishing before it could be born. So long as the queen remained barren, Azir\u2019s life was relatively safe. Some around the court believed a curse was at work and a few even whispered the young heir\u2019s name in connection with this \u2013 though Azir claimed innocence and even executed some who dared voice such accusations openly.</p><p>Eventually, the queen bore a healthy son, but on the night of his birth a terrible storm engulfed Shurima. The queen\u2019s chambers were struck again and again by powerful bolts of lightning, and in the subsequent blaze, both the queen and her newborn son were killed. It was said the emperor went mad with grief and took his own life upon hearing the news, but tales soon spread of how he and his guards had been found lying in pieces on the palace floor, their bodies little more than charred skeletons.</p><p>Azir was shocked by their deaths, but the empire needed a leader, and with Xerath at his side he took control of Shurima as its emperor. Over the next decade, he expanded Shurima\u2019s borders and ruled with a harsh, but just hand. He instituted reforms to better the lives of slaves and privately developed a plan to overturn millennia of tradition and eventually free them all. He kept his plans secret, even from Xerath, and the issue of slavery would prove to be a continual bone of contention between them. The empire had been built on the back of slavery, and many of the great noble houses depended on enforced labor for their vast wealth and power. Such monolithic institutions could not be overturned overnight, and Azir\u2019s plans would be undone were they to become common knowledge. Despite Azir\u2019s desire to name Xerath his brother, he could not do so until all Shurima\u2019s slaves were free.</p><p>Through these years, Xerath protected Azir from his political rivals and guided the expansion of the empire. Azir married and fathered numerous children, some by wedlock, others by ill-advised liaisons with slaves and harem girls. Xerath stoked the emperor\u2019s grand vision of an empire greater than any the world had ever known. But to stand as ruler over the entire world, Xerath convinced Azir that he would need to be all but invincible, a god amongst men \u2013 an Ascended being.</p><p>As the kingdom reached the zenith of its power, Azir announced he would undertake the Ascension ritual, that the time was right for him to take his place alongside Nasus and Renekton and their glorious forebears. Many questioned this decision; the Ascension ritual was highly dangerous and intended only for those near the end of their lives, those who had devoted their lives to Shurima and whose service was to be honored with Ascension. It was for the Sun Priests to decree who would be blessed with Ascension, not the hubris of an emperor to bestow it upon himself. Azir would not be dissuaded from his rash course of action, for his arrogance had grown along with his empire, and he ordered them to comply on pain of death.</p><p>The day of the ritual finally came and Azir marched toward the Dais of Ascension, flanked by thousands of his warriors and tens of thousands of his subjects. The brothers Renekton and Nasus were absent, having been dispatched by Xerath to deal with an emergent threat, but still Azir would not turn from what he saw as his great destiny. He climbed to the great golden disc atop the temple at the heart of the city and in the moments before the sun priests began the ritual, he turned to Xerath and finally freed him. And not just him, but all slaves\u2026</p><p>Xerath was stunned into speechlessness, but Azir was not yet done. He embraced Xerath and named him his eternal brother, as he had promised he would all those years ago. Azir turned as the priests began the ritual to bring down the awesome power of the sun. Azir was unaware that Xerath had studied more than just history and philosophy in his quest for knowledge. He had learned the dark arts of sorcery, all the while nursing a desire for freedom that had grown like a cancer into a burning hatred.</p><p>At the height of the ritual, the former slave unleashed his powers and Azir was blasted from his place on the dais. Without the protection of the runic circle, Azir was consumed by the sun\u2019s fire as Xerath took his place. The light filled Xerath with power, and he roared as his mortal body began to transform.</p><p>But the magic of the ritual was not intended for Xerath, and such awesomely powerful celestial energies could not be diverted without dire consequence. The power of the Ascension ritual exploded outward, devastating Shurima and laying waste to the city. Its people burned to ash and its towering palaces fell to ruin as the desert sands rose up to swallow the city. The sun disc sank from the sky and what had taken centuries to build was brought to ruin in an instant by one man\u2019s ambition and another\u2019s misplaced hate. All that remained of Azir\u2019s city were sunken ruins and echoes of its people\u2019s screams on the night winds.</p><p>Azir saw none of this. For him, all was nothingness. His last memories were of pain and fire; he knew nothing of what befell him atop the temple, nor what became of his empire. He remained lost in timeless oblivion until, thousands of years after Shurima\u2019s doom, the blood of his last descendant spilled onto the temple ruins and resurrected him. Azir was reborn, but was yet incomplete; his body little more than animate dust given form, held together by the last vestiges of his indomitable will.</p><p>Gradually resuming his corporeal form, Azir stumbled through the ruins and came across the corpse of a woman with a treacherous knife wound in her back. He did not know her, but saw in her features the distant echo of his bloodline. All thoughts of empires and power were forgotten as he lifted this daughter of Shurima and bore her to what had once been the Oasis of the Dawn. The oasis was empty and dry, but with every step Azir took, clear water began filling the rocky basin. Azir immersed the woman\u2019s body in the restorative waters of the oasis and as the blood washed away, only a faint scar remained where the blade had pierced her.</p><p>And with that act of selflessness, Azir was lifted up in a column of fire as the magic of Shurima renewed him, remaking him as the Ascended being he was meant to become. The sun\u2019s immortal radiance poured into him, crafting his magnificent, hawk-armored form and granting him the power to command the very sand itself. Azir lifted his arms and his ruined city shrugged off the dust of centuries spent beneath the desert to rise anew. The sun disc lifted into the sky once more, and healing waters flowed between temples heaving themselves back into the light at the emperor\u2019s command.</p><p>Azir climbed the steps of the newly-risen sun temple, weaving the desert winds to recreate the city\u2019s last moments. Ghosts formed of sand relived his city\u2019s last moments from long ago, and Azir watched in horror as Xerath\u2019s treachery unfolded. He wept as he saw his family murdered, his empire fall and his power stolen. Only now, millennia too late, did he finally understand the depths of hatred harbored by his former friend and ally. With the power and prescience of an Ascended being, Azir sensed Xerath somewhere abroad in the world and summoned an army of sand warriors to march alongside their reborn emperor. As the sun blazed from the golden disc above him, Azir swore a mighty oath.</p><p>I will reclaim my lands and take back what was mine!</p>",
                 "short": "Azir was a mortal emperor of Shurima in a far distant age, a proud man who stood at the cusp of immortality. His hubris saw him betrayed and murdered at the moment of his greatest triumph, but now, millennia later, he has been reborn as an Ascended being of immense power. With his buried city risen from the sand, Azir seeks to restore Shurima to its former glory.",
                 "quote": "\u201cShurima was once the glory of Runeterra. I will make it so again.\u201d",
-                "quote_author": "Azir"
+                "quote-author": "Azir"
             },
-            "header_image": null,
             "subtitle": "the Emperor of the Sands",
             "echelon": 2
         },
         {
             "type": "champion",
-            "release_date": "2022-10-18T15:00:00.000Z",
+            "release-date": "2022-10-18T15:00:00.000Z",
             "name": "K\u2019Sante",
             "title": "K\u2019Sante",
-            "section_title": "K\u2019Sante",
+            "section-title": "K\u2019Sante",
             "slug": "ksante",
-            "associated_faction": "",
-            "associated_faction_slug": "shurima",
+            "associated-faction": "",
+            "associated-faction-slug": "shurima",
             "image": {
                 "title": "ksante-splash.jpg",
                 "subtitle": "",
@@ -267,7 +253,7 @@
                 "height": 1080,
                 "x": 650,
                 "y": 200,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "ksante-splash.jpg",
@@ -279,10 +265,9 @@
                 "height": 1080,
                 "x": 650,
                 "y": 200,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/ksante",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -296,26 +281,24 @@
                     "slug": "tank"
                 }
             ],
-            "game_info_url": null,
             "biography": {
                 "full": "<p>K\u2019Sante grew up immersed in his homeland\u2019s history. At dinner, his father told tales of their ancestors who used bravery and strength to resist the tyranny of the Ascended. His mother recounted the fearsome beasts these Nazuman founders slayed as they traversed south through Shurima, eventually discovering an area rich in the rarest of desert treasures\u2014roaring waterfalls, forested cliffs, and plentiful fauna. Far from the reach of the prideful Ascended, this was where the free republic of Nazumah laid its roots. K\u2019Sante absorbed every word, vowing to become Nazumah\u2019s greatest warrior-hunter\u2014one who could live up to the heroes from these stories and lead his people for generations to come.</p>\n<p>For two decades, K\u2019Sante trained under various martial teachers. However, it was his parents who taught him to respect Nazumah\u2019s enemies\u2014ruthless predators and imperialist warlords who coveted the city-state\u2019s resources. Remaining a free republic would require more than brute strength, they reminded him. During his training, K\u2019Sante studied with Nazuman scholars, learning how the materials reaped from formidable marks were used to craft advanced weaponry and infrastructure that enabled their homeland to thrive for five centuries. </p>\n<p>On his early hunts, K\u2019Sante forged many friendships, but his closest was with a young man from Marrowmark named Tope. Where K\u2019Sante was a blazing force in close combat, Tope specialized in ranged assault. Their chemistry was unmatched as they bested rockbear herds, shakkal raiding parties, and even Xer\u2019Sai stampedes. And as their teamwork grew stronger, so too did their bond.</p>\n<p>One starlit evening, K\u2019Sante confessed to Tope, admitting his feelings went beyond camaraderie. When he learned that Tope felt the same way, the two lovingly embraced and shared their first kiss. Together, in that moment under the stars, all seemed right.</p>\n<p>But all was not.</p>\n<p>Two Ascended, Emperor Azir and Magus Xerath, ravaged the continent in a war for dominance over Shurima, both deploying monstrous abominations among their forces. Nazuman scouts soon sighted one such creature\u2014a colossal predator shaped like a lion and a cobra that had wandered astray and was now terrorizing the nearby savanna. When the city-state\u2019s leaders asked who could quell the beast, K\u2019Sante and Tope pledged their might.</p>\n<p>On their first attempt, the beast deflected their every attack with powers neither man had seen before. They discovered that its armor, stretching from head to tail, regenerated from nonlethal blows. The men failed to draw blood and were forced to flee from the cobra-lion\u2019s lair with empty hands, leaving it to run wild.</p>\n<p>And so they tried again and again.</p>\n<p>K\u2019Sante\u2019s frustration burned. To become Nazumah\u2019s greatest, he <em>had </em>to slay this beast. Nothing else mattered. He trained dawn to dusk, convinced Tope would understand.</p>\n<p>Tope, meanwhile, studied the beast. He presented K\u2019Sante with strategies, watching his partner nod along in between assaults on their countless practice dummies. Quietly, Tope questioned if the two of them were strong enough.</p>\n<p>Their biggest success was an encounter where they managed to claim a piece of the cobra-lion\u2019s armor. Tope hailed this as progress and thought that if they sought more help, they could make even more headway.</p>\n<p>But K\u2019Sante seethed. He\u2019d begun to see the cobra-lion as his undertaking alone, and anything short of slaying the beast was a failure. The heroes he idolized when growing up never failed in battle. So K\u2019Sante couldn\u2019t either, especially not by accepting more support in what had become <em>his </em>battle to prove himself. He\u2019d tried Tope\u2019s ideas\u2014which weren\u2019t working\u2014and, now, Tope believed they weren\u2019t strong enough? K\u2019Sante wouldn\u2019t accept it. He began to wonder if Tope was holding him back and soon dismissed Tope\u2019s strategies as futile.</p>\n<p>Hurt, Tope insisted that tactless training was no better\u2014K'Sante's once admirable determination had turned into a self-serving, single-minded drive.</p>\n<p>As their pain and anger flared, further encounters with the cobra-lion resulted in further infighting, and the words they exchanged became fewer and fewer until there were none at all. Finally, it seemed the only thing they could agree on was to go their separate ways.</p>\n<p>Over the next year, K\u2019Sante kept training, stubborn and alone. His progress was measurable, but progress wasn\u2019t victory. He eventually had the crushing realization that strength alone could not fell the creature. He needed help.</p>\n<p>K\u2019Sante gathered the courage to visit Tope\u2019s home, only to learn his former partner had returned to Marrowmark. He was instead greeted by Tope\u2019s aunt. On K\u2019Sante\u2019s way out, she handed him Tope\u2019s journal, explaining that her nephew had left it to assist K\u2019Sante in his fight against his greatest monster.</p>\n<p>K\u2019Sante poured over Tope\u2019s journal. Gradually, he noticed the patterns in their mistakes, and when he arrived at the cobra-lion notes, K\u2019Sante was stunned. Tope claimed that the beast was a Baccai\u2014a failed Ascended being. He theorized that Xerath, known for his vile misuse of magic, had forced Shuriman fauna to fuse via the Ascension ritual. Engrossed, K\u2019Sante read the journal from front to back, discovering Tope\u2019s theories about how to slay the Baccai\u2014so many ideas K\u2019Sante had never considered himself. And by that evening, he\u2019d formulated a plan to practice Tope\u2019s methods on lesser monsters.</p>\n<p>As his skills grew, K\u2019Sante recalled his parents\u2019 teachings, realizing pride had led him astray. He\u2019d never respected Tope\u2019s ideas enough to try them in earnest. Truthfully, K\u2019Sante had respected his foe more than his partner. In time, he accepted his shortcomings and steadily moved on, thankful for what they had shared, but also grateful to walk his own path with a newfound perspective.</p>\n<p>Beneath a scarlet sky, K\u2019Sante approached the cobra-lion once more. He calculated every maneuver, dodging when the beast struck, and striking when the beast slipped. Sunrise became sundown. His weapons were shattered, and his body bloodied, but his spirit was unyielding. When the creature tired at long last, K\u2019Sante found his opportunity\u2014inspired by Tope\u2019s theories\u2014and cornered his foe against a Nazuman waterfall where the natural waters weakened the cobra-lion\u2019s armor, allowing K\u2019Sante to finally land a fatal blow.</p>\n<p>Exhausted, K\u2019Sante stood tall\u2014proud not of what he had accomplished, but of the journey he had taken.</p>\n<p>K\u2019Sante was celebrated by Nazumah upon his return. Following tradition, he donated the creature\u2019s body to the scholars for study, keeping only a couple slabs of its armor to refine the design of his signature ntofo weapons. They were now engineered to retain the armor\u2019s regenerative properties so that when their heavy outer layer shattered, K\u2019Sante could still wield them as sharp blades until they reformed. For a finishing detail, he carved onto each ntofo something Tope had drawn within his journal\u2014a symbol representing the cobra-lion. Though their time together had ended, K\u2019Sante knew his success was not achieved alone.</p>\n<p>Today, K\u2019Sante is hailed as the Pride of Nazumah. But if he is ever to become its greatest leader, he\u2019s learned he must never again let ego cloud his judgment. His home\u2019s future\u2014with the Ascended threat looming\u2014is uncertain. But K\u2019Sante knows that should Azir or Xerath dare march southward, he stands ready to fight.</p><br>",
                 "short": "<p>Defiant and courageous, K\u2019Sante battles colossal beasts and ruthless Ascended to protect his home of Nazumah, a coveted oasis amid the sands of Shurima. But after a falling-out with his former partner, K'Sante realizes that in order to become a warrior worthy of leading his city, he must temper his single-minded drive for success. Only then can he avoid falling prey to his own pride and find the wisdom he needs to defeat the vicious monsters threatening his people.</p>",
                 "quote": "\u201cNo monster greater than pride.\u201d",
-                "quote_author": ""
+                "quote-author": ""
             },
-            "header_image": null,
             "subtitle": "the Pride of Nazumah",
             "echelon": 3
         },
         {
             "type": "champion",
-            "release_date": "2023-06-23T18:00:00.000Z",
+            "release-date": "2023-06-23T18:00:00.000Z",
             "name": "Naafiri",
             "title": "Naafiri",
-            "section_title": "Naafiri",
+            "section-title": "Naafiri",
             "slug": "naafiri",
-            "associated_faction": "",
-            "associated_faction_slug": "shurima",
+            "associated-faction": "",
+            "associated-faction-slug": "shurima",
             "image": {
                 "title": "naafiri-splash.jpg",
                 "subtitle": "",
@@ -326,7 +309,7 @@
                 "height": 1080,
                 "x": 465,
                 "y": 550,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "naafiri-splash.jpg",
@@ -338,10 +321,9 @@
                 "height": 1080,
                 "x": 465,
                 "y": 550,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/naafiri",
-            "video": null,
             "races": [
                 {
                     "name": "Darkin",
@@ -360,26 +342,24 @@
                     "slug": "assassin"
                 }
             ],
-            "game_info_url": null,
             "biography": {
                 "full": "<p>In the pitch black Shuriman night, few sounds are as terrifying as the howls of the dune hound. Those who hear their piercing call on the arid wind know to keep a hand on their sword hilt, and their horse well rested, for the ravenous packs that rove these sands will chase whatever game they can find in their desert.</p>\n\n<p>One pack, in particular, is driven by a hunger that is deeper\u2014and more ancient\u2014than that of any mere beast. It is the hunger of a creature who spent ages eating nothing at all.</p>\n\n<p>For centuries, Naafiri remained in a crypt, her spirit bound to an ancient throwing dagger. Unable to move or speak, the weapon lay inert as her soul pondered the past: Naafiri was powerful, having almost led the Darkin. How easily she could have bested any of them in combat to become their rightful ruler... yet how easily she\u2019d been tricked by that awful Aspect, Myisha, and cursed to embody these inanimate steel blades.</p>\n\n<p>Shame and regret consumed her thoughts. If she could get another chance... If she could only find another host. A new vessel.</p>\n\n<p>All she needed was a hand to grip her blade. <em>Just a touch.</em></p>\n\n<p>At last, the day came when the doors of her tomb burst open. She sensed the sweet relief of a fresh desert wind\u2014her first in ages\u2014and something else... A human presence.</p>\n\n<p><em>He has come. My host. My sweet, unwitting vessel</em>, thought the Darkin soul.</p>\n\n<p>But the visitor was aware of her magic. He carefully picked up her dagger with metal tongs and placed it onto a thick, lead-lined cloth. Wrapping the blade tightly, he took great care not to touch it and set off across the desert under the late afternoon sun.</p>\n\n<p>Despair overcame Naafiri as she felt the plodding movements of the man\u2019s horse across the sands. Was she doomed to this form, this waking nightmare of impotence, <em>for eternity</em>?</p>\n\n<p>She felt the steps of the horse quickening as sunset approached and sensed the distant howls of the dune hounds carried by the wind.</p>\n\n<p>This was her opportunity.</p>\n\n<p>Without sound or words, the Darkin called out to the beasts, hoping to bring them to this prey\u2014that he might somehow slip. Just a glancing touch of his hand, and the host would be hers. Then she could use him to fulfill the ambitions she had held for so long, and vanquish her regrets.</p>\n\n<p>The hounds appeared, salivating with teeth bared. Naafiri\u2019s captor clung to the wrapped dagger with one arm, keenly aware of what would happen if it came loose. With his other arm, he drew his sword and attempted to defend himself from the pack.</p>\n\n<p>Jaws snapped at the man and his horse from all sides, tearing at them, devouring them piece by piece until nothing remained.<br></p>\n\n\n\n<p>Naafiri felt the world crash into focus as she became overwhelmed by senses. For the first time in ages, she smelled the dry air, which parched her nostrils. The metallic taste of hot blood still coated her mouth. She could see each of the dogs as if from the eyes of a separate packmate.</p>\n\n\n<p>Confusion set in as she felt her sense of self crumble away. She had become the dune hounds\u2014not one of them, but the entire pack\u2014her shattered consciousness resonating throughout the body of each dog.</p>\n\n\n<p>It seemed a cruel irony. She had found not one vessel, but dozens, and none of them were useful in her grand ambitions. She resented the hounds\u2014hated their smell, their fleas, and, most of all, their need for companionship.</p>\n\n<p>But, in time, the Darkin\u2019s bitterness subsided as she began to grasp the true nature of her hosts. Though feral, their collective thoughts formed a wisdom all its own. Separately, the dogs would starve. Together, they were an apex predator, feasting on whatever game they fancied. There were no individuals\u2014the pack was the entity that dominated all.</p>\n\n<p>Naafiri realized this concept was not limited to dune hounds. It applied to fish, ants, and humans. <em>It even applied to Darkin.</em></p>\n\n<p>She thought again of her past: personal grudges and petty agendas tearing the Darkin asunder, which in turn toppled them from their rightful place as the regnant killers of Runeterra.</p>\n\n<p>She knew how to restore them. Now she just needed to find her siblings and share with them the wisdom of the pack.</p>\n\n",
                 "short": "<p>Across the sands of Shurima, a chorus of howls rings out. It is the call of the dune hounds, voracious predators who form packs and compete for the right to hunt in these barren lands. Among them, one pack stands above all, for they are driven not only by canine instincts, but by the ancient power of the Darkin.</p>",
                 "quote": "\u201cWe track for a thousand years. None can flee for that long.\u201d",
-                "quote_author": ""
+                "quote-author": ""
             },
-            "header_image": null,
             "subtitle": "the Hound of a Hundred Bites",
             "echelon": 4
         },
         {
             "type": "champion",
-            "release_date": "2009-10-01T00:00:00.000Z",
+            "release-date": "2009-10-01T00:00:00.000Z",
             "name": "Nasus",
             "title": "Nasus",
-            "section_title": "Nasus",
+            "section-title": "Nasus",
             "slug": "nasus",
-            "associated_faction": "",
-            "associated_faction_slug": "shurima",
+            "associated-faction": "",
+            "associated-faction-slug": "shurima",
             "image": {
                 "title": "Nasus_0.jpg",
                 "subtitle": "",
@@ -390,7 +370,7 @@
                 "height": 717,
                 "x": 889,
                 "y": 40,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Nasus_0.jpg",
@@ -402,10 +382,9 @@
                 "height": 717,
                 "x": 889,
                 "y": 40,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/nasus",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -427,26 +406,25 @@
                     "slug": "tank"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/nasus",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/nasus",
             "biography": {
                 "full": "<p>Nasus\u2019 brilliance was recognized long before he was chosen to join the ranks of the Ascended. A voracious student, he memorized and critiqued the greatest works of Shuriman history and philosophy before he was ten.</p><p>However, his passion was not shared by his younger brother Renekton, who tended to bore quickly, and fight with other local children instead. Nonetheless, the brothers were close, and Nasus kept an eye on Renekton, ensuring he didn\u2019t get into <i>too</i> much trouble.</p><p>When he came of age, Nasus was welcomed into the prestigious and exclusive Collegium of the Sun. He had the best teachers in the empire, and developed a keen understanding of military strategy and logistics, eventually becoming the youngest general in history. While a competent soldier, his genius lay not in fighting battles, but in planning them.</p><p>A deeply empathetic man, Nasus took his responsibilities seriously, always ensuring his soldiers were well provisioned, paid on time, and treated fairly. He guided the emperor\u2019s mortal armies to countless victories, and was respected by all who served beneath him. Sure enough, his brother Renekton also entered military service, and rose through the ranks as a trusted and capable warrior under Nasus\u2019 command.</p><p>But despite his triumphs and accolades, Nasus did not enjoy war. He understood its importance\u2014for now, at least\u2014in the empire\u2019s rapid expansion, yet firmly believed his greatest contribution to Shurima was the knowledge they could gather and preserve in the wake of each conquest. At his urging, all the books, scrolls, and teachings of the cultures they defeated were added to libraries and repositories throughout the empire, to bring wisdom and enlightenment to generations still to come.</p><p>After decades of dutiful service, Nasus was cruelly struck by a terrible wasting sickness, and his physician solemnly declared that the general would be dead within a week.</p><p>The people of Shurima were bereft, for Nasus was their brightest star and beloved by all. The emperor himself pleaded with Setaka of the Ascended Host for the great man\u2019s deeds to be weighed before the Sun Disc.</p><p>After a day and night, Setaka\u2019s emissaries confirmed that Nasus would be blessed with Ascension. He would have to undergo the rituals at once, despite his infirmity.</p><p>Renekton, now a warleader in his own right, raced home to be with his brother. He was shocked to find Nasus\u2019 flesh wasted away, his bones fragile as glass. So weak was he that, as Sun Disc\u2019s golden radiance streamed over the dais, Nasus was unable to climb the final steps into its light.</p><p>Renekton\u2019s love for his brother was stronger than any sense of self-preservation. He carried the weakly protesting Nasus onto the dais, and would willingly accept oblivion.</p><p>However, Renekton was not destroyed as expected. When the light faded, not one but <i>two</i> god-warriors emerged\u2014both brothers had not only survived, but flourished. Nasus stood as a towering, jackal-headed avatar of wisdom and strength, while Renekton was a muscled behemoth in the likeness of a crocodile.</p><p>Nasus had been gifted powers far beyond mortal understanding. The greatest boon of his Ascension was the countless lifetimes he could now spend in study and contemplation... though this would also eventually come to be his greatest curse.</p><p>But he was more immediately concerned by the increased savagery he saw within Renekton. At the siege of Nashramae, finally bringing the city under Shuriman rule, Nasus learned that his brother had razed the grand library and massacred all who stood against him. This was the closest the brothers ever came to bloodshed, facing one another in the rubble, weapons drawn. Only under Nasus\u2019 stern, disappointed gaze did Renekton\u2019s bloodlust dwindle, and he turned away in shame.</p><p>War with the rebel state of Icathia changed many of the Ascended. The horrors they witnessed left them hollow, and quicker to anger. Nasus undertook centuries of solitary study as he tried to comprehend what had happened to his immortal brethren, and what it could mean for the future.</p><p>When the Ascension of Emperor Azir went terribly wrong, Nasus and Renekton were both far from the capital, and returned with all haste... but they were too late. Over the bodies of countless Shuriman dead, they fought Xerath\u2014that twisted, malevolent being of pure energy who had betrayed Azir\u2014yet were unable to slay him. Filled with rage, and perhaps seeking to atone for Nashramae, Renekton wrestled Xerath into the Tomb of the Emperors beneath the city, bidding Nasus seal them in.</p><p>Nasus refused, desperate to find any other way, but there was none. With a heavy heart, he committed Xerath and his brother to the fathomless darkness for all eternity.</p><p>Drained of its power by Xerath\u2019s sorcery, the Sun Disc fell, and every remaining god-warrior felt its loss in their immortal heart. The divine waters flowing from the city\u2019s oasis ran dry, bringing death and famine to all Shurima. For a time, the other Ascended tried to hold the fractured empire together, before their countless rivalries led them to fight among themselves. Withdrawing entirely, Nasus bore a heavy burden of guilt, stalking the empty ruins that were slowly being swallowed by the desert, and lamenting everything that had been lost.</p><p>Centuries passed, and Nasus all but forgot his former life and purpose... until the moment when the Tomb of the Emperors was rediscovered by mortals, and its seal broken. He did not know how, but he knew Xerath was free.</p><p>Ancient vigor reawakened in Nasus, and yet even he was stunned to see Azir reborn, and the Sun Disc raised once more from the sands. Though Xerath was still a grave threat, Nasus knew the new god-emperor would have great need of guidance and counsel in the years ahead.</p><p>And hope stirred within him for the first time in millennia. Did he dare believe he might also be reunited with his beloved brother, Renekton?</p>",
                 "short": "Nasus is an imposing, jackal-headed Ascended\u2014those heroic and god-like figures once revered by the people of Shurima. Fiercely intelligent, he was a guardian of knowledge and peerless strategist whose wisdom guided the empire to greatness for many centuries. After the failed Ascension of Azir, Nasus went into self-imposed exile, becoming little more than a legend. Now that the Sun Disc has risen once more, he has returned, determined to ensure it never falls again.",
                 "quote": "\u201cFor centuries, I have watched. We approach a time of reckoning.\u201d",
-                "quote_author": "Nasus"
+                "quote-author": "Nasus"
             },
-            "header_image": null,
             "subtitle": "the Curator of the Sands",
             "echelon": 5
         },
         {
             "type": "champion",
-            "release_date": "2009-07-10T00:00:00.000Z",
+            "release-date": "2009-07-10T00:00:00.000Z",
             "name": "Rammus",
             "title": "Rammus",
-            "section_title": "Rammus",
+            "section-title": "Rammus",
             "slug": "rammus",
-            "associated_faction": "",
-            "associated_faction_slug": "shurima",
+            "associated-faction": "",
+            "associated-faction-slug": "shurima",
             "image": {
                 "title": "Rammus_0.jpg",
                 "subtitle": "",
@@ -457,7 +435,7 @@
                 "height": 717,
                 "x": 779,
                 "y": 209,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Rammus_0.jpg",
@@ -469,10 +447,9 @@
                 "height": 717,
                 "x": 779,
                 "y": 209,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/rammus",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -494,26 +471,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/rammus",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/rammus",
             "biography": {
                 "full": "<p>Idolized by many, dismissed by some, mystifying to all, the curious being, Rammus, is an enigma. Protected by a spiked shell, Rammus inspires increasingly disparate theories on his origin wherever he goes - from demigod, to sacred oracle, to a mere beast transformed by magic. Whatever the truth may be, Rammus keeps his own counsel and stops for no one as he roams the desert.</p><p>Some believe Rammus is an Ascended being, an ancient god amongst men who rolls to Shurima\u2019s aid as an armored guardian in its times of need. Superstitious folk swear he is a harbinger of change, appearing when the land is on the verge of a great shift in power. Others speculate he is the last of a dying species that roamed the land before the Rune Wars sundered the desert with uncontrolled magic.</p><p>With so many rumors of great power, magic, and mystery surrounding him, Rammus compels many Shurimans to seek his wisdom. Soothsayers, priests, and deranged lunatics alike claim to know where Rammus dwells, but the Armordillo has proved elusive. Despite this, proof of his presence predates living memory, with crumbling mosaics depicting his image on the most ancient walls of Shuriman ruins. His likeness adorns colossal stone monuments made in the early days of Ascension, leading some to believe he is no less than an immortal demigod. Skeptics often point to a simpler explanation: that Rammus is just one of many such creatures.</p><p>It is said that he appears only to worthy pilgrims in great need of his aid, and those blessed by his presence experience great turning points. After the Armordillo rescued the heir to a vast kingdom from a terrible fire, the man renounced his position to become a goat farmer. An elderly mason was inspired by a profound, yet brief conversation with Rammus, and constructed an enormous marketplace which became the bustling heart of Nashramae.</p><p>Knowing Rammus\u2019s guidance can pave an enlightened path, devout believers perform elaborate rituals designed to attract the favor of their deity. Disciples of the cult devoted to Rammus demonstrate their unwavering faith in a yearly ceremony by imitating his famous roll and somersaulting through the city in droves. Every year, thousands of Shurimans trek through the most treacherous and remote corners of the desert on a quest to find Rammus, for many teachings indicate he will answer a single question of those he finds deserving, if they are able to find him. Knowing his enthusiasm for desert treats, the pilgrims arm themselves with offerings thought to attract his blessing, packing their mules with flasks of sweet goat\u2019s milk, chests filled with colonies of ants sealed in wax, and jars of honeycombs. Many never return from the deep desert, and fewer still with stories of the demigod, though travelers describe waking to find their packs mysteriously emptied of all edible provisions. </p><p>Whether he is truly a wise oracle, Ascended deity, or a mighty beast, Rammus is known for his miraculous feats of endurance. He entered the impenetrable Fortress of Siram, an imposing bastion designed by a crazed sorcerer. The structure was said to contain untold magical horrors - fearsome beasts mutated beyond recognition, corridors wreathed in flames, impenetrable tunnels guarded by shadow demons. Not an hour had passed when the enormous fortress collapsed in a plume of dust, and Rammus was seen rolling away. None knew why Rammus entered the darkened gate, nor what secrets he learned within the basalt walls of the fortress. In the year of the great flood he crossed the vast lake of Imalli in just two days, and dug many miles deep to destroy a giant anthill and kill its queen, whose daughters had devastated the nearby farmland. </p><p>Sometimes he appears as a benevolent hero. When invading Noxian warbands attacked a Northern Shuriman settlement, disparate tribes banded together to defend the territory beneath the Temple of the Ascended. They were no match for the invaders in size or skill, and the battle was all but lost when Rammus entered the fray. Each side was so shocked to see the elusive creature that fighting halted completely as they watched him roll between them. As Rammus passed the towering temple, the foundations of the building shook, and enormous stone blocks toppled onto the invading army, crushing many of its warriors. Now outnumbered, the army retreated to elated cheers from the Shurimans. While many swear Rammus saved the town out of love for Shurima, others argue he was merely defending the territory in which his favorite cactus flowers grew. At least one tribesman claims Rammus was simply sleeprolling and had no intention of taking down a temple.</p><p>Whatever the truth, stories of Rammus are treasured by the people of Shurima. Any Shuriman child can list a dozen theories on the question of his origin, half of which they likely invented on the spot. Tales of the Armordillo have only increased with the rise of Ancient Shurima, as they did just before its fall, giving way to a belief that his presence heralds darker times to come. </p><p>But how can such a benevolent, epicurean soul herald an age of destruction? </p>",
                 "short": "Idolized by many, dismissed by some, mystifying to all, the curious being Rammus is an enigma. Protected by a spiked shell, he inspires increasingly disparate theories on his origin wherever he goes\u2014from demigod, to sacred oracle, to a mere beast transformed by magic. Whatever the truth may be, Rammus keeps his own counsel and stops for no one as he roams the Shuriman desert.",
                 "quote": "\u201cOK.\u201d",
-                "quote_author": "Rammus"
+                "quote-author": "Rammus"
             },
-            "header_image": null,
             "subtitle": "the Armordillo",
             "echelon": 6
         },
         {
             "type": "champion",
-            "release_date": "2011-01-18T00:00:00.000Z",
+            "release-date": "2011-01-18T00:00:00.000Z",
             "name": "Renekton",
             "title": "Renekton",
-            "section_title": "Renekton",
+            "section-title": "Renekton",
             "slug": "renekton",
-            "associated_faction": "",
-            "associated_faction_slug": "shurima",
+            "associated-faction": "",
+            "associated-faction-slug": "shurima",
             "image": {
                 "title": "Renekton_0.jpg",
                 "subtitle": "",
@@ -524,7 +500,7 @@
                 "height": 717,
                 "x": 775,
                 "y": 6,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Renekton_0.jpg",
@@ -536,10 +512,9 @@
                 "height": 717,
                 "x": 775,
                 "y": 6,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/renekton",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -561,26 +536,25 @@
                     "slug": "tank"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/renekton",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/renekton",
             "biography": {
                 "full": "<p>Renekton was born to fight. From a young age, it was obvious he had no fear, regularly brawling with much older children. It was usually his pride that led to these confrontations\u2014Renekton was unable to back down, or let any insult pass. While his older brother, Nasus, disapproved of his street-fighting, Renekton relished it.</p><p>Nasus eventually left to join the prestigious Collegium of the Sun, and Renekton\u2019s skirmishes became more serious. Fearing his brother\u2019s violent nature would see him imprisoned or in an early grave, Nasus helped him enlist in the Shuriman army. Officially, Renekton was too young, but Nasus made sure this was conveniently overlooked.</p><p>The discipline of military life was a blessing. Renekton fought in numerous wars of conquest to expand the empire\u2014his ferocity and toughness were still evident, but his honor and bravery became renowned. Nasus, now a celebrated general and tactician, would often say that he planned many great battles, but it was Renekton who <i>won</i> them.</p><p>Indeed, after saving the isolated city of Zuretta, Renekton was made a captain by the emperor himself, and named Gatekeeper of Shurima. Outnumbered ten to one, he and a small contingent had faced the enemy in the remote, rocky passes to the south, to buy time for the city to be evacuated. It was a battle none had expected Renekton to survive, let alone win... yet he held out long enough for a relief force led by Nasus to arrive, and the invading forces were routed.</p><p>Through decades of service, Renekton\u2019s reputation came to rival even the god-warriors of the Ascended Host, his presence on the battlefield an inspiration to those fighting alongside him, and terrifying to his foes. Still, he was a grizzled and battle-scarred veteran of middling years when word reached him that his brother was close to death.</p><p>He raced back to the capital to find Nasus a pale shadow of his former self, having been struck down by a debilitating wasting malady. The sickness was incurable.</p><p>Nevertheless, the general\u2019s greatness was recognized by one and all. Beyond his military acumen, Nasus had curated the empire\u2019s great libraries, and compiled or translated many of the finest literary works of antiquity. Such a man could not be allowed to pass, and it was decreed that he was worthy of Ascension.</p><p>The whole city gathered in witness, but Nasus no longer had the strength to climb onto the dais before the Sun Disc. Without thought for his own safety, Renekton lifted his brother in his arms, and climbed the final steps, fully expecting to be obliterated in the process. He was just a warrior, after all, and he knew Shurima would need Nasus in the years to come.</p><p>However, Renekton was not destroyed. Beneath the blinding radiance of the Sun Disc, both brothers were raised up and remade, and when the light faded, <i>two</i> mighty god-warriors stood before the crowds\u2014Nasus in his lean, jackal-headed body, and Renekton as an immense reptile. The jackal was often regarded as the most clever and cunning of beasts, and the fearless aggression of the crocodile fit Renekton perfectly.</p><p>Renekton had been a mighty hero before, but now he possessed power beyond mortal understanding. He led Shurima\u2019s armies to many bloody victories, neither giving nor expecting any mercy. His legend spread far beyond the borders of the empire, and it was his enemies that knew him as \u201cthe Butcher of the Sands\u201d, a title he embraced.</p><p>But there were some\u2014Nasus among them\u2014who came to believe that a portion of Renekton\u2019s humanity had been lost in his transformation. He seemed crueler, taking ever greater pleasure in the spilling of blood, and there were whispers of many battlefield atrocities. Nevertheless, he remained a staunch defender of Shurima, faithfully serving a succession of emperors, even through the rebellion of Icathia and the horrifying war that followed.</p><p>Some years later, it was decided that the young emperor Azir would join the ranks of the Ascended Host, and become the immortal ruler his people deserved.</p><p>The results were catastrophic.</p><p>Renekton and Nasus were each more than a day\u2019s journey from the capital when it happened, and they arrived to find the glorious city in ruins. The Sun Disc was failing, drained of all its power. At the center of the carnage, they found the emperor\u2019s treacherous magus, Xerath\u2014now a malevolent being of pure energy.</p><p>The brothers fought hard, but knowing that they could not destroy Xerath, Renekton finally wrestled him into the Tomb of the Emperors beneath the city, and bade his brother seal them inside. Knowing there was no other way, Nasus reluctantly did as his brother ordered.</p><p>Xerath and Renekton continued their battle. For uncounted centuries they stalked one another through the lightless depths, as the once-great civilization of Shurima turned to dust in the world above. Xerath taunted his adversary, whispering poison in Renekton\u2019s ear, and gradually, his viperous words began to take hold. He convinced Renekton that Nasus, jealous of his success, had leapt at the chance to be rid of him, and enjoy immortality alone.</p><p>Piece by piece, Renekton\u2019s sanity cracked. Xerath drove a wedge into these cracks, twisting his perception of what was real and what was imagined. When the Tomb of the Emperors was finally opened by greedy mortal scavengers, Renekton roared his fury and thundered out into the desert, sniffing the air for his brother\u2019s scent.</p><p>But Shurima has changed much in his absence. The Ascended Host is no more, leaving the people scattered and leaderless, for the most part. Though he cares little for such things, Renekton has attracted followers among the most fierce and bloodthirsty of the desert raiders... even if he cannot always tell friend from foe in his frequent, deranged frenzies.</p><p>And while there are moments when he resembles the proud, honorable hero of the past, most often Renekton is little more than a devolved, hate-maddened beast, driven on by the thirst for blood and vengeance.</p>",
                 "short": "Renekton is a terrifying, rage-fueled Ascended warrior from the scorched deserts of Shurima. Once, he was his empire\u2019s most esteemed champion, leading its grand armies to countless victories. However, after the fall of the Sun Disc, Renekton was entombed beneath the sands\u2014and slowly, as the world above changed, he succumbed to insanity. Now free once more, he is utterly consumed with wreaking vengeance upon his brother, Nasus, who he blames for the centuries lost in darkness.",
                 "quote": "\u201cBlood! And vengeance!\u201d",
-                "quote_author": "Renekton"
+                "quote-author": "Renekton"
             },
-            "header_image": null,
             "subtitle": "the Butcher of the Sands",
             "echelon": 7
         },
         {
             "type": "champion",
-            "release_date": "2009-02-21T00:00:00.000Z",
+            "release-date": "2009-02-21T00:00:00.000Z",
             "name": "Sivir",
             "title": "Sivir",
-            "section_title": "Sivir",
+            "section-title": "Sivir",
             "slug": "sivir",
-            "associated_faction": "",
-            "associated_faction_slug": "shurima",
+            "associated-faction": "",
+            "associated-faction-slug": "shurima",
             "image": {
                 "title": "Sivir_0.jpg",
                 "subtitle": "",
@@ -591,7 +565,7 @@
                 "height": 717,
                 "x": 740,
                 "y": 55,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Sivir_0.jpg",
@@ -603,10 +577,9 @@
                 "height": 717,
                 "x": 740,
                 "y": 55,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/sivir",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -620,26 +593,25 @@
                     "slug": "marksman"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/sivir",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/sivir",
             "biography": {
                 "full": "<p>From an early age, Sivir learned firsthand the harsh lessons of Shuriman desert life. With her entire family slain by marauding Kthaons\u2014one of the Great Sai\u2019s most infamous raider tribes\u2014the young girl and other orphans like her could only hope to survive by stealing food from local markets, and delving into half-buried ancient ruins in search of trinkets to sell. They would brave cramped tunnels and forgotten crypts, hunting for anything of value, often scrapping viciously with one another over the best finds.</p>\n<p>Sivir would lead others into the depths, but could rarely hold on to what few treasures she managed to unearth. After being robbed by her supposed friend Mhyra, she swore she would never allow herself to be betrayed again, and in time she joined a group of mercenaries led by the renowned Iha Ziharo, serving as their guide and general lackey.</p>\n<p>Though her flourishing skill at arms eventually led her to become Ziharo\u2019s personal sergeant, Sivir noted that the domineering leader took the greatest share of gold and glory from every raid\u2026 even when it was Sivir\u2019s clever strategies that brought them their wealth. Rallying her fellow sellswords, Sivir decided to strike against Ziharo, and replace her as leader. Unwilling to kill her former mentor, though, Sivir left her alone in the desert with a hollow offer of good luck.</p>\n<p>Over the years, Sivir and her new followers earned a fearsome reputation. They accepted any task for good pay, including a commission from a Nashramae patriarch looking for a lost heirloom\u2014a blade known as \u201cthe Chalicar\u201d. Accompanied by his personal guards, Sivir searched for many months, until she finally pried a cross-shaped blade from the sarcophagus of some hero of the old Shuriman empire.</p>\n<p>This was a treasure indeed, crafted by cunning and magic in a long-forgotten age. Sivir marveled at it\u2014never had a weapon felt so natural in her grip. When the captain of the guard demanded they return it to their master, Sivir threw the blade in a curved arc, decapitating the captain and cutting down the three men behind him in an instant. She fought her way from the tomb, leaving only the dead in her wake.</p>\n<p>Sivir\u2019s reputation soon spread beyond the desert. Indeed, when Noxian expeditions began to move inland from the northern coast, she found herself in the employ of Cassiopeia, the youngest daughter of General Du Couteau, to help plunder Shurima\u2019s lost capital. As they traversed twisting catacombs, many of Sivir\u2019s mercenaries fell to ancient traps, but Cassiopeia refused to turn back.</p>\n<p>When they finally reached a great tomb door, surrounded by statued guardians and bas-reliefs depicting the mighty god-warriors of old, Sivir felt her blood stir. She was mesmerized by these beast-headed heroes, and their wars against the foul creatures of the underworld.</p>\n<p>Taking advantage of Sivir\u2019s inattention, Cassiopeia thrust a dagger into the mercenary\u2019s back.</p>\n<p>Sivir collapsed in agony, her blood soaking the sand. Using the Chalicar itself, Cassiopeia unlocked the tomb door, unknowingly triggering the sorcerous curse that had been placed upon it. On the verge of death, Sivir watched as a stone serpent came to life before her eyes, searing Cassiopeia's skin with venom. The last thing the sellsword heard before her senses dimmed were the roars of maddened gods, unleashed from the tomb to walk the earth once more\u2026</p>\n<p>But fate, it seemed, was not yet done with Sivir.</p>\n<p>Unknown to her, she carried the last trace of an ancient, royal bloodline in her veins. She awoke to find herself tended by none other than Azir\u2014the last ruler of the empire, who had been denied his rite of Ascension and passed into legend. Her spilled blood had reawakened his spirit after almost three thousand years, completing the ritual and imbuing him with all the celestial power of a god-emperor. There, in the Oasis of the Dawn, he used the healing waters of that sacred pool to miraculously <em>undo</em> Sivir\u2019s mortal wound.</p>\n<p>She had heard tales of Azir and his prophesied return, and always thought only fools could believe in such fantasy\u2026 and yet she could not deny what was unfolding before her very eyes.The earth split, and great plumes of dust whirled into the air as the ancient city of Shurima rose from its grave, crowned by an enormous golden disc that shone with the heavenly rays of the sun. Shaken to her very core, Sivir fled with the Chalicar on her back.</p>\n<p>While she would have liked nothing more than to return to her former life, she instead found herself caught up in the struggles of powers greater than most mortals could comprehend. At the city of Vekaura, she crossed paths with another Ascended being\u2014the freed magus Xerath, now seeking to end Azir\u2019s bloodline for good\u2014but with the help of the scholar Nasus and a young stoneweaver named Taliyah, Sivir survived once more.</p>\n<p>The time has now come when she must choose a path, either embracing the destiny she has been given, or forging her own amid the shifting sands of Shurima.</p>",
                 "short": "<p>Sivir is a renowned mercenary captain who plies her trade in the deserts of Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless battles for those who can afford her services, and prides herself on recovering lost treasures from the catacombs beneath the old empire\u2014for a generous share of the profits, of course. With ancient forces stirring the very bones of Shurima, Sivir now finds herself torn between conflicting destinies\u2026</p>",
                 "quote": "\u201cCoin may buy you skill for a day, but never loyalty.\u201d",
-                "quote_author": "Sivir"
+                "quote-author": "Sivir"
             },
-            "header_image": null,
             "subtitle": "the Battle Mistress",
             "echelon": 8
         },
         {
             "type": "champion",
-            "release_date": "2016-05-18T00:00:00.000Z",
+            "release-date": "2016-05-18T00:00:00.000Z",
             "name": "Taliyah",
             "title": "Taliyah",
-            "section_title": "Taliyah",
+            "section-title": "Taliyah",
             "slug": "taliyah",
-            "associated_faction": "",
-            "associated_faction_slug": "shurima",
+            "associated-faction": "",
+            "associated-faction-slug": "shurima",
             "image": {
                 "title": "Taliyah_0.jpg",
                 "subtitle": "",
@@ -650,7 +622,7 @@
                 "height": 717,
                 "x": 1063,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Taliyah_0.jpg",
@@ -662,7 +634,7 @@
                 "height": 717,
                 "x": 1063,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/taliyah",
             "video": {
@@ -675,7 +647,7 @@
                 "height": 720,
                 "x": 1063,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -698,26 +670,25 @@
                     "slug": "support"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/taliyah",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/taliyah",
             "biography": {
                 "full": "<p>Taliyah is a nomadic mage from Shurima who weaves stone with energetic enthusiasm and raw determination. Torn between teenage wonder and adult responsibility, she has crossed nearly all of Valoran on a journey to learn the true nature of her growing powers. Compelled by rumors of the rise of a long-dead emperor, she returns to protect her tribe from dangers uncovered by Shurima\u2019s shifting sands. Some have mistaken her tender heart for weakness and paid the price for their error, for beneath Taliyah\u2019s youthful demeanor is a will strong enough to move mountains, and a spirit fierce enough to make the earth tremble.</p><p>Born in the rocky foothills bordering Icathia\u2019s corrupted shadow, Taliyah spent her childhood herding goats with her tribe of nomadic weavers. Where most outsiders see Shurima as a beige and barren waste, her family raised her to be a true daughter of the desert and to see beauty in the rich hues of the land. Taliyah was always fascinated by the stone beneath the dunes. When she was a toddler, she collected colorful rocks as her people followed the seasonal waters. As she grew older, the earth itself seemed drawn to her, arcing and twisting to follow her tracks through the sand.</p><p>After her sixth high summer, Taliyah wandered from the caravan in search of a lost goatling that had been placed in her charge. Determined not to disappoint her father\u2014the master shepherd and headman of the tribe\u2014she tracked the young animal into the night. She followed the hoofprints through a dry wash to a box canyon. The little beast had managed to get high up the rock wall, but could not get down.</p><p>The sandstone called to her, urging her to pull handholds from the sheer wall. Taliyah laid a tentative palm against the rock, determined to rescue the scared animal. The elemental power she felt was as urgent and overwhelming as a monsoon rain. As soon as she opened herself to the magic, it poured over her, the stone leaping to her fingertips, bringing both the canyon wall and the beast down on top of her.</p><p>The next morning, Taliyah\u2019s panicked father tracked the skittish bleats of the goatling. He fell to his knees when he found his daughter unconscious, covered loosely in a blanket of woven stone. Grief-stricken, he returned to the tribe with Taliyah.</p><p>Two days later, the girl awoke from fevered dreams in the tent of Babajan, the tribe\u2019s grandmother. Taliyah began to tell the wise woman and her concerned parents of her night in the canyon, of the rock that called to her. Babajan consoled the family, telling them that the patterns of rock were evidence the Great Weaver, the desert tribe\u2019s mythical protector, watched over the girl. In that moment, Taliyah saw her parents\u2019 deep worry and decided to conceal what really happened that night: that she\u2014not the Great Weaver\u2014had pulled at the desert stone.</p><p>When children in Taliyah\u2019s tribe were old enough, they performed a dance under the face of the full moon, the manifestation of the Great Weaver herself. The dance celebrated the children\u2019s innate talents and demonstrated the gifts they would bring to the tribe as adults. This was the start of their path to true learning, as those children then became apprenticed to their teachers.</p><p>Taliyah continued to hide her growing power, believing the secret she carried was a danger, not a blessing. She watched as her childhood playmates spun wool to keep the tribe warm on cold desert nights, demonstrated their skill with shears and dye, or wove patterns that told the stories of her people. On those nights, she would lie awake long after the coals had burned to ash, tormented by the power she felt stirring within.</p><p>The time finally came for Taliyah\u2019s dance beneath the full moon. While she had talent enough to be a capable shepherd like her father, or a pattern mistress like her mother, the young girl dreaded what her dance would truly reveal. As Taliyah took her place on the sand, the tools of her people\u2014the shepherd\u2019s crook, the spindle, and the loom\u2014surrounded her. She tried to concentrate on the task at hand, but it was the distant rocks, the layered colors of the land, that called to her. Taliyah closed her eyes and danced. Overwhelmed by the power flowing through her, she began to spin not thread, but the very earth beneath her feet.</p><p>Startled cries from Taliyah\u2019s tribe broke her out of her spell. An imposing braid of sharp rock reached up to the light of the moon. Taliyah looked at the shocked faces of the people who surrounded her. Her will over the stone broken, the earthen tapestry crashed down. Taliyah\u2019s mother ran to her only daughter, to protect her from the falling rock. When the dust finally settled, Taliyah saw the destruction she had woven, the alarm on the faces of her tribe. But it was the small cut across her mother\u2019s face that justified Taliyah\u2019s fear. Though the cut was minor, Taliyah knew in that moment that she was a threat to the people she loved most in this world. She ran into the night, so weighed down by despair that the ground trembled beneath her feet.</p><p>It was her father who found her again in the desert. As they sat in the light of the rising sun, Taliyah confessed her secret in choked sobs. In turn, he did the only thing a parent could do: He hugged his daughter tightly. He told her that she couldn\u2019t run from her power, that she must complete her dance and see where her path would take her. Turning her back on the Great Weaver\u2019s gift was the only danger that could truly break his and her mother\u2019s heart.</p><p>Taliyah returned with her father to the tribe. She entered the dancer\u2019s circle with her eyes open. This time, she wove a new ribbon of stone, each color and texture a memory of the people surrounding her.</p><p>When it was over, the tribe sat in awe. Taliyah waited nervously. It was time for one of her people to stand as her teacher and claim the student. What felt like eons stretched between Taliyah\u2019s hammering heartbeats. She heard gravel shift as her father stood. Next to him, her mother stood. Babajan and the dye mistress and the master spinner stood. In a moment, the whole tribe was on its feet. All of them would stand with the girl who could weave stone.</p><p>Taliyah looked at each of them. She knew that a power like hers had not been seen in generations, perhaps longer. They stood with her now, their love and trust surrounding her, but their worry was palpable. None among them heard the earth call as she did. As much as she loved these people, she did not see the one who could show her how to control the elemental magic that coursed within her. She knew that to stay with her tribe was to risk their lives. Though it pained all of them, Taliyah said farewell to her parents and her people, and set off alone into the world.</p><p>She journeyed west toward the distant peak of Targon, her natural connection to rock drawing her toward the mountain that brushed the stars. However, at the northern edge of Shurima, it was those who marched beneath the banner of Noxus who discovered her power first. In Noxus, magic like hers was celebrated, they told her; revered, even. They promised her a teacher.</p><p>The land had raised Taliyah to be trusting, so she was unprepared for the smooth promises and practiced smiles of Noxian dignitaries. Soon, the desert girl found herself on an unbending path, passing under the many Noxtoraa, the great iron gates that marked the Empire\u2019s claim over a conquered land.</p><p>The crush of people and the layers of politics within the capital city were claustrophobic to a girl from the open desert. Taliyah was paraded through the tiers of Noxian magical society. Many took an interest in her power, its potential, but it was a fallen captain who swore to take her to a wild place across the sea, a place where she could hone her abilities without fear, who made the most convincing case. She accepted the young officer\u2019s offer and crossed the sea to Ionia. However, it was made clear as their ship dropped anchor that she was intended as a glorified weapon for a man desperate to regain his place at the highest ranks of the Noxian navy. At dawn, the captain gave her a choice: Bury a sleeping people in their homes, or be discarded in the surf.</p><p>Taliyah looked across the bay. The cooking smoke had not yet risen from the village\u2019s sleeping hearths. This was not the lesson she had come so far to learn. Taliyah refused, and the captain threw her overboard to drown.</p><p>She escaped the tide and the fighting on the beach and found herself wandering, lost, in the wintry mountains of Ionia. It was there she finally discovered her teacher, a man whose blade harnessed the wind itself, someone who understood the elements and the need for balance. She trained with him for a time and began to find the control she had long sought.</p><p>While resting at an isolated inn, Taliyah heard that the Ascended Emperor of Shurima had returned to his desert kingdom. Rumor had it this emperor turned god sought to gather his people, the disparate tribes, back to him as slaves. Even with her training unfinished, there was no other choice; she knew she must return to her family to protect them. Sadly, she and her mentor parted ways.</p><p>Taliyah returned home to the sand-swept dunes of Shurima. As the punishing rays of the sun beat down on her, Taliyah pushed farther into the desert, determined to find her people. Hers was a will of stone, and she would do whatever was necessary to protect her family and her tribe from the danger that loomed on the horizon.</p>",
                 "short": "Taliyah is a nomadic mage from Shurima, torn between teenage wonder and adult responsibility. She has crossed nearly all of Valoran on a journey to learn the true nature of her growing powers, though more recently she has returned to protect her tribe. Some have mistaken her compassion for weakness and paid the ultimate price\u2014for beneath Taliyah\u2019s youthful demeanor is a will strong enough to move mountains, and a spirit fierce enough to make the earth itself tremble.",
                 "quote": "\u201cThis world is a tapestry of our own making.\u201d",
-                "quote_author": "Taliyah"
+                "quote-author": "Taliyah"
             },
-            "header_image": null,
             "subtitle": "the Stoneweaver",
             "echelon": 9
         },
         {
             "type": "champion",
-            "release_date": "2011-10-05T00:00:00.000Z",
+            "release-date": "2011-10-05T00:00:00.000Z",
             "name": "Xerath",
             "title": "Xerath",
-            "section_title": "Xerath",
+            "section-title": "Xerath",
             "slug": "xerath",
-            "associated_faction": "",
-            "associated_faction_slug": "shurima",
+            "associated-faction": "",
+            "associated-faction-slug": "shurima",
             "image": {
                 "title": "Xerath_0.jpg",
                 "subtitle": "",
@@ -728,7 +699,7 @@
                 "height": 717,
                 "x": 701,
                 "y": 23,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Xerath_0.jpg",
@@ -740,10 +711,9 @@
                 "height": 717,
                 "x": 701,
                 "y": 23,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/xerath",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -765,23 +735,22 @@
                     "slug": "assassin"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/xerath",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/xerath",
             "biography": {
                 "full": "<p>Xerath is an Ascended Magus of ancient Shurima, a being of arcane energy writhing in the broken shards of a magical sarcophagus. For millennia, he was trapped beneath the desert sands, but the rise of Shurima freed him from his ancient prison. Driven insane with power, he now seeks to take what he believes is rightfully his and replace the upstart civilizations of the world with one fashioned in his image.</p><p>The boy who would eventually be called Xerath was born a nameless slave in Shurima thousands of years ago. He was the son of captured scholars, with only the prospect of endless servitude ahead. His mother taught him letters and numbers, while his father told him tales from history in the hopes that such skills might allow him a better life. The boy vowed he would not end up bent-backed and whipped like every other slave.</p><p>When the boy\u2019s father was crippled during the excavations for the foundations of a monument to the Emperor\u2019s favorite horse, he was left to die at the site of the accident. Fearing her son would suffer a similar fate, the boy\u2019s mother begged an esteemed tomb architect to take him on as an apprentice. Though at first reluctant, the architect was impressed with the boy\u2019s eye for detail and innate understanding of mathematics and language, and accepted. The boy never saw his mother again.</p><p>He was a swift learner and his master dispatched him on errands to the Great Library of Nasus to retrieve specific texts and plans on an almost daily basis. On one trip, the boy met Azir, the least-favored son of the emperor. Azir was struggling to read a difficult passage in an ancient text, and, despite knowing that to talk to royalty was to invite death, the boy paused to help the young prince with its complex grammar. In that moment, a tentative friendship was established, and over the coming months that friendship only grew stronger.</p><p>Though slaves were forbidden names, Azir gave one to the boy. He named him Xerath, which means \u2018one who shares,\u2019 though that name was only ever spoken between the two boys. Azir saw to it that Xerath was appointed to his household\u2019s slaves, and made him his personal attendant. Their shared love of knowledge saw them devour texts from the library and become as close as brothers. Xerath was Azir\u2019s constant companion, learning all he could from this new proximity to culture, power and knowledge, finally daring to dream that Azir might one day free him.</p><p>On the annual tour of the emperor\u2019s dominion, assassins struck the royal caravan as it spent the night at a well-known oasis. Xerath saved Azir from an assassin\u2019s blade, but Azir\u2019s brothers were all slain, leaving the young prince a heartbeat away from Shurima\u2019s throne. As a slave, Xerath could expect no reward for his deed, but Azir promised that one day they would be as brothers. </p><p>In the wake of the assassination attempt, Shurima endured years of horror and fear of the emperor\u2019s retribution. Xerath knew enough of history and the workings of the Shuriman court to understand that Azir\u2019s life hung by the slenderest of threads. That he was heir to the throne meant nothing, for the emperor hated Azir for living while his more beloved sons had died. Of more immediate danger, the emperor\u2019s wife was still young enough to bear other children, and thus far she had borne many healthy sons. The odds were good that she would produce another male heir for her husband, and as soon as she did, Azir\u2019s life was forfeit.</p><p>Though Azir was a scholar at heart, Xerath persuaded him that to survive, he must also learn to fight. This Azir did, and in return the young heir elevated Xerath, insisting he continue his education. Both youths excelled, and Xerath proved to be an exceptionally gifted pupil, one who took to the pursuit of knowledge with gusto. Xerath became Azir\u2019s confidant and right hand man, a position unheard of for a mere slave. This position gave him great - and some said, undue - influence over the young prince, who came to rely on Xerath\u2019s judgement more each day.</p><p>Xerath bent his every effort into seeking out knowledge wherever he could find it, no matter the cost, no matter its source. He unlocked long-sealed libraries, delved into forgotten vaults and consulted with mystics entombed deep beneath the sands; all to further his knowledge and ambition, both of which grew with unchecked rapidity. Whenever the whispers around court that spoke of his delving into unsavory places grew too loud to ignore, he would find cunning means to silence them. That Azir never mentioned these whispers was, to Xerath, tacit approval of how he was keeping his emperor safe. </p><p>Years passed, and Xerath took ever darker steps to keep the emperor\u2019s wife from carrying a child to term, using his nascent magical abilities to corrupt every infant in the womb. Without rivals to the throne, Azir would be safe. When rumors of a curse arose, Xerath ensured they were never spoken again, and oft-times those who had voiced such suspicions vanished without trace. By now, Xerath\u2019s desire to escape his roots as a slave had become a burning ambition to achieve power of his own, though he justified every murderous act by telling himself he was doing it to keep his friend alive.</p><p>Despite Xerath\u2019s best efforts to thwart the queen\u2019s midwives, a new prince of Shurima was brought into the world, but on the night of his birth, Xerath used his growing magical powers to summon the elemental spirits of the deep desert and craft a terrible storm. Xerath brought bolt after bolt of lightning down upon the queen\u2019s chambers, reducing it to burning rubble and killing the queen and her newborn son. The emperor rushed to his queen\u2019s chambers, only to be confronted by Xerath, his hands ablaze with arcane power. The emperor\u2019s guards attacked, but Xerath burned them and the emperor to cindered skeletons. Xerath ensured that the mages of a conquered territory were blamed for these deaths, and Azir\u2019s first act upon taking the throne was to lead a brutal campaign of retribution against its people.</p><p>Azir was crowned emperor of Shurima with Xerath at his side, the boy who had once been a nameless slave. Xerath had long dreamed of this moment, and expected Azir to end slavery in Shurima before finally naming him brother. Azir did none of these things, continuing to expand his empire\u2019s borders and deflecting Xerath\u2019s overtures regarding the end of slavery. To Xerath, this was further proof of Shurima\u2019s moral bankruptcy, and he raged at Azir\u2019s breaking of his promise. Azir\u2019s face was thunderous as he reminded Xerath that he was a slave and should remember his place. Something once noble died in Xerath that day, but he bowed in supplication, outwardly accepting Azir\u2019s decision. As Azir continued his campaigns of conquest, Xerath remained at his side, but his every action was carefully designed to increase his influence over a realm he now planned to take for himself. To steal an empire was no small thing, and Xerath knew he needed more power.</p><p>The famous legend of Renekton\u2019s Ascension revealed that a mortal did not have to be chosen by the Sun Priests, that anyone could rise up. So Xerath plotted to steal the power of Ascension. No slave could ever stand upon the sun disc, so Xerath fed the Emperor\u2019s vanity, inflating his ego and filling his head with impossible visions of a world-spanning empire. But such a dream would only be possible if Azir could Ascend as the greatest heroes of Shurima had before. In time Xerath\u2019s perseverance paid off, and Azir announced he would undertake the Ascension ritual, that he had earned the right to stand alongside Nasus and Renekton as an Ascended being. The Sun Priests protested, but such was Azir\u2019s hubris that he ordered them to comply on pain of torture and death.</p><p>The Day of Ascension arrived and Azir marched toward the Dais of Ascension with Xerath at his side. Nasus and Renekton were absent from the day\u2019s events, for Xerath had arranged a distraction for them by weakening the seal on a magical sarcophagus containing a beast of living fire. When that creature finally broke its bindings, Renekton and Nasus were the only warriors capable of defeating it. Thus Xerath had stripped Azir of the only two beings who might save him from what was to come.</p><p>Azir stood beneath the sun disc and in the final moment before the priests began the ritual, events took a turn Xerath had not anticipated. The emperor turned to Xerath and told him that he was now a free man. He and all Shurima\u2019s slaves were now released from their bonds of servitude. He embraced Xerath before naming him his eternal brother. Xerath was stunned. He had been given everything he desired, but the success of his plans hinged upon Azir\u2019s death and nothing was going to dissuade him from acting. Too many pieces were in motion and Xerath had already sacrificed too much to turn back now \u2013 no matter how much that part of him wanted to. The emperor\u2019s words pierced the bitterness enclosing Xerath\u2019s heart, but came decades too late. Unaware of his peril, Azir turned as the priests began the ritual and brought down the awesome power of the sun.</p><p>With a roar of anger and grief combined, Xerath blasted Azir from his place on the dais, watching through tears as his former friend burned to ash. Xerath took Azir\u2019s place and the light of the sun filled him, reshaping his flesh into that of an Ascended being. But the power of the ritual was not his to take, and the consequences of his betrayal of Azir were devastating. The unbound power of the sun all but destroyed Shurima, sundering its temples and bringing ruination upon the city. Azir\u2019s people were consumed in a terrifying conflagration as the desert rose up to claim the city. The sun disc fell and an empire built by generations of emperors was undone in a single day.</p><p>Even as the city burned, Xerath held the sun priests in the grip of his magic, preventing them from ending the ritual. The energies filling him were immense, alloying with his dark sorcery to create a being of incredible power. As he drew ever more of the sun\u2019s power into his body, his mortal flesh was consumed and remade as a glowing vortex of arcane power.</p><p>With Xerath\u2019s treachery revealed, Renekton and Nasus rushed to the epicenter of the magical storm destroying the city. They bore with them the magical sarcophagus that had imprisoned the spirit of eternal fire. The Ascended brothers fought their way to the Dais of Ascension just as Xerath fell from the deadly radiance engulfing the city. Before the newly-Ascended Magus could react, they hurled his crackling body within the sarcophagus and sealed it once more with blessed chains and powerful sigils of binding.</p><p>But it was not enough. Xerath\u2019s power had been great as a mortal, and that power - combined with the gift of Ascension - made him all but invincible. He shattered the sarcophagus, though its shards and chains remained bound to him. Renekton and Nasus hurled themselves at Xerath, but such was his newfound strength that he fought them both to a standstill. The battle raged throughout the collapsing city, destroying what had not already sunk beneath the sands. The brothers were able to drag Xerath toward the Tomb of Emperors, the greatest mausoleum of Shurima, a vault whose locks and wards were impossible to break and which answered only to the blood of emperors. Renekton wrestled Xerath within and called upon Nasus to seal the vault behind them. Nasus did so with heavy heart, knowing it was the only way to prevent Xerath\u2019s escape. Renekton and Xerath fell into eternal darkness, and there they remained, locked in an endless battle as the once-great civilization of Shurima collapsed.</p><p>Uncounted centuries passed and, in time, even Renekton\u2019s mighty strength waned, leaving him vulnerable to Xerath\u2019s influence. With poisoned lies and illusions, Xerath twisted Renekton\u2019s mind, filling him with misplaced bitterness toward Nasus, the faithless brother who had - in Xerath\u2019s fictive narrative - abandoned him so long ago.</p><p>When the Tomb of Emperors was finally discovered beneath the desert and broken open by Sivir and Cassiopeia, both Xerath and Renekton were freed in an explosion of sand and rubble. Sensing his brother still lived, Renekton charged from the ruins, his distorted mind leaving him little better than a savage beast. After an age lost to legend, Shurima was reborn, and as it rose majestically from the desert, Xerath felt another soul return to life beneath the sand, one he had thought long dead. Azir was also newly resurrected as one of the Ascended, and Xerath knew there could be no peace for either of them while the other yet lived.</p><p>Xerath sought the heart of the desert to regain his strength and understand how the world had changed in the millennia since his imprisonment. His stolen power grew with every passing moment, and he beheld a world ripe for conquest, a world brimming with mortals ready to worship at the feet of a new and terrible god. </p><p>Yet for all his newfound power, however far he has come from that nameless slave boy, a part of Xerath knows he is still in chains.</p>",
                 "short": "Xerath is an Ascended Magus of ancient Shurima, a being of arcane energy writhing in the broken shards of a magical sarcophagus. For millennia, he was trapped beneath the desert sands, but the rise of Shurima freed him from his ancient prison. Driven insane with power, he now seeks to take what he believes is rightfully his and replace the upstart civilizations of the world with one fashioned in his image.",
                 "quote": "\u201cA lifetime as a slave has prepared me for eternity as your master.\u201d",
-                "quote_author": "Xerath"
+                "quote-author": "Xerath"
             },
-            "header_image": null,
             "subtitle": "the Magus Ascendant",
             "echelon": 10
         }
     ],
-    "explore_factions": [
+    "explore-factions": [
         {
             "type": "faction",
             "title": "Shadow Isles",
-            "section_title": "Shadow Isles",
+            "section-title": "Shadow Isles",
             "name": "Shadow Isles",
             "slug": "shadow-isles",
             "description": "<p>This cursed land was once home to a noble, enlightened civilization, known to its allies and emissaries as the Blessed Isles. However, more than a thousand years ago, an unprecedented magical cataclysm left the barrier between the material and spirit realms in tatters, effectively merging the two\u2026 and dooming all living things in an instant.</p>",
@@ -795,7 +764,7 @@
                 "height": 828,
                 "x": 552,
                 "y": 372,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "shadow-isles_splash.jpg",
@@ -807,16 +776,16 @@
                 "height": 828,
                 "x": 552,
                 "y": 372,
-                "featured_champions": []
+                "featured-champions": []
             },
             "echelon": "",
-            "associated_champions": [],
+            "associated-champions": [],
             "url": "/en_us/region/shadow-isles"
         },
         {
             "type": "faction",
             "title": "The Void",
-            "section_title": "The Void",
+            "section-title": "The Void",
             "name": "The Void",
             "slug": "void",
             "description": "<p>Screaming into existence with the birth of the universe, the Void is a manifestation of the unknowable nothingness that lies beyond. It is a force of insatiable hunger, waiting through the eons until its masters, the mysterious Watchers, mark the final time of undoing.</p>",
@@ -830,7 +799,7 @@
                 "height": 1064,
                 "x": 0,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "void-an-unknowable-power.jpg",
@@ -842,10 +811,10 @@
                 "height": 1064,
                 "x": 0,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "echelon": "",
-            "associated_champions": [],
+            "associated-champions": [],
             "url": "/en_us/region/void"
         }
     ],
@@ -853,49 +822,31 @@
         {
             "slug": "shurima-environment",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "shurima-concept-art",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "ryze-comic",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "shurima-descent",
             "type": "featured-video",
-            "featured_image": {
+            "featured-image": {
                 "title": "shurima-descent.jpg",
                 "subtitle": "",
                 "description": "",
@@ -905,7 +856,7 @@
                 "height": 1080,
                 "x": 1304,
                 "y": 849,
-                "featured_champions": []
+                "featured-champions": []
             },
             "title": "Shurima: Descent into the Tomb",
             "subtitle": "",
@@ -916,22 +867,21 @@
                 "subtitle": "",
                 "description": [],
                 "uri": "https://www.youtube.com/watch?v=JKnM6Hh5gOg",
-                "encoding": null,
                 "width": "",
                 "height": "",
                 "x": "",
                 "y": "",
-                "featured_champions": []
+                "featured-champions": []
             },
-            "release_date": "2014-09-10T15:00:00.000Z",
-            "video_type": "cinematic",
-            "featured_champions": [],
-            "related_champions": []
+            "release-date": "2014-09-10T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [],
+            "related-champions": []
         },
         {
             "slug": "shurima-rise-ascended",
             "type": "featured-video",
-            "featured_image": {
+            "featured-image": {
                 "title": "shurima-rise-ascended.jpg",
                 "subtitle": "",
                 "description": "",
@@ -941,7 +891,7 @@
                 "height": 1080,
                 "x": 970,
                 "y": 385,
-                "featured_champions": []
+                "featured-champions": []
             },
             "title": "Shurima: Rise of the Ascended",
             "subtitle": "",
@@ -952,22 +902,21 @@
                 "subtitle": "",
                 "description": [],
                 "uri": "https://www.youtube.com/watch?v=CYyuH1Bp2ZI",
-                "encoding": null,
                 "width": "",
                 "height": "",
                 "x": "",
                 "y": "",
-                "featured_champions": []
+                "featured-champions": []
             },
-            "release_date": "2014-09-16T15:00:00.000Z",
-            "video_type": "cinematic",
-            "featured_champions": [],
-            "related_champions": []
+            "release-date": "2014-09-16T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [],
+            "related-champions": []
         },
         {
             "slug": "shurima-song",
             "type": "featured-video",
-            "featured_image": {
+            "featured-image": {
                 "title": "shurima-song.jpg",
                 "subtitle": "",
                 "description": "",
@@ -977,33 +926,31 @@
                 "height": 1080,
                 "x": 960,
                 "y": 494,
-                "featured_champions": []
+                "featured-champions": []
             },
             "title": "Rise Of The Ascended",
             "subtitle": "",
-            "description": null,
             "uri": "https://www.youtube.com/watch?v=B5eHLEQ4rNs",
             "video": {
                 "title": "",
                 "subtitle": "",
                 "description": [],
                 "uri": "https://www.youtube.com/watch?v=B5eHLEQ4rNs",
-                "encoding": null,
                 "width": "",
                 "height": "",
                 "x": "",
                 "y": "",
-                "featured_champions": []
+                "featured-champions": []
             },
-            "release_date": "2015-01-27T16:00:00.000Z",
-            "video_type": "song-visualization",
-            "featured_champions": [],
-            "related_champions": []
+            "release-date": "2015-01-27T16:00:00.000Z",
+            "video-type": "song-visualization",
+            "featured-champions": [],
+            "related-champions": []
         },
         {
             "slug": "shurima-song-login",
             "type": "featured-video",
-            "featured_image": {
+            "featured-image": {
                 "title": "shurima-login-thumbnail.JPG",
                 "subtitle": "",
                 "description": "",
@@ -1013,28 +960,26 @@
                 "height": 1080,
                 "x": 1507,
                 "y": 334,
-                "featured_champions": []
+                "featured-champions": []
             },
             "title": "Shurima: Login Theme",
             "subtitle": "",
-            "description": null,
             "uri": "https://www.youtube.com/watch?v=XHMFp84xo64",
             "video": {
                 "title": "",
                 "subtitle": "",
                 "description": [],
                 "uri": "https://www.youtube.com/watch?v=XHMFp84xo64",
-                "encoding": null,
                 "width": "",
                 "height": "",
                 "x": "",
                 "y": "",
-                "featured_champions": []
+                "featured-champions": []
             },
-            "release_date": "2015-01-27T16:00:00.000Z",
-            "video_type": "champ-login-music",
-            "featured_champions": [],
-            "related_champions": []
+            "release-date": "2015-01-27T16:00:00.000Z",
+            "video-type": "champ-login-music",
+            "featured-champions": [],
+            "related-champions": []
         }
     ]
 }

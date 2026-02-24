@@ -10,11 +10,7 @@
             "description": "",
             "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/9700d7bf76ec15c8c526f7fea2a960e3846e44a6-2825x1080.jpg?accountingTag=LoL",
             "encoding": "image/jpeg",
-            "width": null,
-            "height": null,
-            "x": null,
-            "y": null,
-            "featured_champions": []
+            "featured-champions": []
         },
         "video": {
             "title": "bilgewater-splashvideo.webm",
@@ -22,29 +18,25 @@
             "description": "",
             "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/d9beea1a5d1cfc7ec6bbc100d3fb522175930f38.webm?accountingTag=LoL",
             "encoding": "video/webm",
-            "width": null,
-            "height": null,
-            "x": null,
-            "y": null,
-            "featured_champions": []
+            "featured-champions": []
         },
         "name": "Bilgewater",
         "overview": {
             "short": "<p>Nestled away in the Blue Flame Isles archipelago, Bilgewater is a port city like no other\u2014home to serpent hunters, dock gangs, and smugglers from across the known world. Here, fortunes are made and ambitions shattered in the blink of an eye. For those fleeing justice, debt, or persecution, Bilgewater can be a place of new beginnings, for no one on these twisted streets cares about your past. Even so, with each new dawn, careless travelers can always be found floating in the harbor, their purses empty and their throats slit\u2026</p><p>While incredibly dangerous, Bilgewater is ripe with opportunity, free from the shackles of formal government and trade regulation. If you have the coin, almost anything can be purchased here, from outlawed hextech to the favor of local crime lords.</p><p>With the recent removal of the last \u201creaver king\u201d of Bilgewater, the city has entered a period of transition, while the most prominent captains try to agree on its future. But as long as there are seaworthy ships and crews to sail them, Bilgewater is likely to remain one of the most colorful and well-connected places in Runeterra.</p>"
         },
-        "header_image": ""
+        "headerImage": ""
     },
-    "champion_list_order": 0,
-    "associated_champions": [
+    "champion-list-order": 0,
+    "associated-champions": [
         {
             "type": "champion",
-            "release_date": "2011-11-15T00:00:00.000Z",
+            "release-date": "2011-11-15T00:00:00.000Z",
             "name": "Fizz",
             "title": "Fizz",
-            "section_title": "Fizz",
+            "section-title": "Fizz",
             "slug": "fizz",
-            "associated_faction": "",
-            "associated_faction_slug": "bilgewater",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
             "image": {
                 "title": "Fizz_0.jpg",
                 "subtitle": "",
@@ -55,7 +47,7 @@
                 "height": 717,
                 "x": 1180,
                 "y": 104,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Fizz_0.jpg",
@@ -67,10 +59,9 @@
                 "height": 717,
                 "x": 1180,
                 "y": 104,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/fizz",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -92,26 +83,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/fizz",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/fizz",
             "biography": {
                 "full": "<p>In ages past, the oceans of Runeterra were home to civilizations far older than those of the land. In the depths of what is now the Guardian\u2019s Sea, a great city once stood\u2014it was here that the yordle Fizz made his home. He lived alongside the artisans and warriors of that proud, noble race. Even though he was not one of them, they treated him as an equal, and his playful nature and tall tales of adventures in the open sea made him welcome at any gathering.</p><p>But the world was changing. The oceans were growing warmer, emboldening fierce predators to rise up from the deepest trenches. Other settlements had fallen silent, but the rulers of the great city could still not agree on how to deal with the threat. Fizz pledged to roam the seas in search of survivors, or anyone who knew what had happened.</p><p>Then, one dark day, the gigalodons came.</p><p>These huge dragon-sharks stunned their prey with fell shrieking, and the avenues of the great city were soon clouded red. Thousands died in a matter of hours, the immense bulk of their killers crushing towers and temples in a monstrous feeding frenzy. Scenting blood in the water, Fizz raced back, determined to join the fight and save the city.</p><p>He was too late. There was nothing left of the city to save. When the debris finally settled, not a single living creature remained, nor any stone upon another, and the ravenous shoal had moved on. Alone in the cold depths, Fizz sank into mournful despair. As his yordle magic began to fade, he let himself be carried by the currents, drifting in a catatonic torpor, dreaming away the millennia\u2026</p><p>It was only chance that reawakened him. A handful of copper coins fell from above, scattered to the seabed in the wake of a huge, <i>wooden</i> fish that swam upon the surface. This was no gigalodon, but Fizz was alarmed nonetheless\u2014he knew little of the world overhead, but surely no fish could survive up there? He ventured up and peered into the salty air for the first time.</p><p>There were people, people who lived outside of the water and sailed in wooden fish of all sizes. Fizz found the thought both frightening and exciting, but the curious gifts they cast into the water made it clear that they wanted to be his friends. In time, following their movements to and fro across the oceans, he came to the port city of Bilgewater.</p><p>To the inhabitants of that lawless place, this strange and slippery creature quickly became something of a legend\u2014the Tidal Trickster, a spirit of the ocean itself. It is said that he can summon great beasts to do his bidding, hole a ship\u2019s hull with his stone trident, and breathe air or water as it suits him. Many a misbehaving child has been warned on a moonless night: \u201cGo quickly to sleep, or the Trickster will come and feed you to the fishes\u2026\u201d</p><p>Fizz is good-natured, but mischievous even for a yordle, and delights in confounding the people of Bilgewater. The most seasoned fishermen know, just as the ocean may rise and fall, the Tidal Trickster is as likely to lead them into windless doldrums as to an easy catch that would fill their nets. Even so, Fizz does not take kindly to the greedy or selfish, and more than one haughty sea captain hoping to make a quick pile of silver has found that her mysterious guide has led her crew not to safety, but to shipwreck.</p>",
                 "short": "Fizz is an amphibious yordle, who dwells among the reefs surrounding Bilgewater. He often retrieves and returns the tithes cast into the sea by superstitious captains, but even the saltiest of sailors know better than to cross him\u2014for many are the tales of those who have underestimated this slippery character. Often mistaken for some manner of capricious ocean spirit, he seems able to command the beasts of the deep, and delights in confounding his allies and enemies alike.",
                 "quote": "\u201cYou people can\u2019t even breathe water. You\u2019re boring.\u201d",
-                "quote_author": "Fizz"
+                "quote-author": "Fizz"
             },
-            "header_image": null,
             "subtitle": "the Tidal Trickster",
             "echelon": 0
         },
         {
             "type": "champion",
-            "release_date": "2009-08-19T00:00:00.000Z",
+            "release-date": "2009-08-19T00:00:00.000Z",
             "name": "Gangplank",
             "title": "Gangplank",
-            "section_title": "Gangplank",
+            "section-title": "Gangplank",
             "slug": "gangplank",
-            "associated_faction": "",
-            "associated_faction_slug": "bilgewater",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
             "image": {
                 "title": "Gangplank_0.jpg",
                 "subtitle": "",
@@ -122,7 +112,7 @@
                 "height": 717,
                 "x": 950,
                 "y": 6,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Gangplank_0.jpg",
@@ -134,10 +124,9 @@
                 "height": 717,
                 "x": 950,
                 "y": 6,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/gangplank",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -151,26 +140,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/gangplank",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/gangplank",
             "biography": {
                 "full": "<p>As unpredictable as he is brutal, the dethroned reaver king known as Gangplank is feared far and wide. Where he goes, death and ruin follow, and such is his infamy and reputation that the merest sight of his black sails<em> </em>on the horizon causes panic among even the hardiest crew.</p><p>Having grown rich preying upon the trade routes of the Twelve Seas, Gangplank has made himself many powerful enemies. In Ionia, he incurred the wrath of the deadly Order of Shadow after ransacking the Temple of the Jagged Knife, and it is said that the Grand General of Noxus himself has sworn to see Gangplank torn asunder after the pirate stole the <em>Leviathan, </em>Swain&#x2019;s personal warship and the pride of the Noxian fleet.</p><p>While Gangplank has incurred the wrath of many, none have yet been able to bring him to justice, despite assassins, bounty hunters, and entire armadas being sent after him. He takes grim pleasure in the ever-increasing rewards posted for his head, and makes sure to nail them to the Bounty Board in Bilgewater for all to see whenever he returns to port, his ships heavy with loot.</p><p>In recent times, Gangplank has been brought down by the machinations of the bounty hunter Miss Fortune. His ship was destroyed with all of Bilgewater watching, killing his crew and shattering his aura of invincibility. Now that they have seen he is vulnerable, the gangs of Bilgewater have risen up, fighting amongst themselves to claim dominion over the port city. </p><p>Despite receiving horrific injuries in the explosion, Gangplank survived. Sporting a multitude of fresh scars, and with a newly crafted metal arm to replace his amputated limb, he is now determined to rebuild his strength, reclaim what he sees as rightfully his &#x2013; and to ruthlessly punish all those who turned against him.</p>",
                 "short": "As unpredictable as he is brutal, the dethroned reaver king Gangplank is feared far and wide. Once, he ruled the port city of Bilgewater, and while his reign is over, there are those who believe this has only made him more dangerous. Gangplank would see Bilgewater bathed in blood once more before letting someone else take it\u2014and now with pistol, cutlass, and barrels of gunpowder, he is determined to reclaim what he has lost.",
                 "quote": "\u201cI was cutting throats and sinking Noxian war galleys when you were still pissing your britches, boy. You don\u2019t want to take me on.\u201d",
-                "quote_author": "Gangplank"
+                "quote-author": "Gangplank"
             },
-            "header_image": null,
             "subtitle": "the Saltwater Scourge",
             "echelon": 1
         },
         {
             "type": "champion",
-            "release_date": "2011-10-19T00:00:00.000Z",
+            "release-date": "2011-10-19T00:00:00.000Z",
             "name": "Graves",
             "title": "Graves",
-            "section_title": "Graves",
+            "section-title": "Graves",
             "slug": "graves",
-            "associated_faction": "",
-            "associated_faction_slug": "bilgewater",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
             "image": {
                 "title": "Graves_0.jpg",
                 "subtitle": "",
@@ -181,7 +169,7 @@
                 "height": 717,
                 "x": 1021,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Graves_0.jpg",
@@ -193,10 +181,9 @@
                 "height": 717,
                 "x": 1021,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/graves",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -210,26 +197,25 @@
                     "slug": "marksman"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/graves",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/graves",
             "biography": {
                 "full": "<p>Raised in the wharf alleys of Bilgewater, Malcolm Graves quickly learned how to fight and how to steal, skills that would serve him very well in all the years ahead. He could always find work hauling contraband up from the smugglers\u2019 skiffs that came into the bay each night\u2014with a tidy side-gig as hired muscle for various other unsavory local characters, as they went about their business in the port.</p>\n<p>But the alleys were small-time, and he craved more excitement than they could offer. Still little more than a youth, Graves stole a blunderbuss and smuggled himself aboard a ship headed out of Bilgewater to the Shuriman mainland, where he stole, lied, and gambled his way from place to place along the coast.</p>\n<p>Across the table of a high-stakes\u2014and highly illegal\u2014card game in Mudtown, Graves met a man who would change the course of his life, and his career: the trickster now known to many as Twisted Fate.</p>\n<p>Each immediately saw in the other the same reckless passion for danger and adventure, and together they formed a most lucrative partnership. Between Graves\u2019 raw brawn and Twisted Fate\u2019s ability to talk his way out of (and <em>occasionally</em> back into) almost any situation, they were an unusually effective team from the outset. Their mutual sense of roguish honor grew into genuine trust, and together they stole from the rich, swindled the foolish, handpicked skilled crews for specific jobs, and sold out their rivals whenever they could.</p>\n<p>Though at times Twisted Fate would blow all their shares and leave them with nothing to show for it, Graves knew that the thrill of some new escapade was always just around the corner\u2026</p>\n<p>On the southern borderlands of Valoran, they set two renowned noble houses of Noxus at each other\u2019s throats as cover for the rescue of a kidnapped heir. That they pocketed the reward money, only to ransom the vile young man to the highest bidder, should really have come as no surprise to their original employer. In Piltover, they still hold the distinction of being the only thieves ever to crack the supposedly impenetrable Clockwork Vault. Not only did the pair empty the vault of all its treasures, they also tricked the guards into loading the loot onto their hijacked schooner, for a quick getaway through the Sun Gates.</p>\n<p>In almost every case, only once they and their accomplices were safely over the horizon were their crimes even discovered\u2014usually along with one of Twisted Fate\u2019s trademark calling cards left where it would be easily found.</p>\n<p>But, eventually, their luck ran out.</p>\n<p>During a heist that rapidly turned from complex to completely botched, Graves was taken by the local enforcers, while Twisted Fate merely turned tail and abandoned him.</p>\n<p>Thrown into the infamous prison known as the Locker, Graves endured years of torture and solitary confinement, during which time he nursed his bitter anger toward his old partner. A lesser man would surely have been broken by all this, but not Malcolm Graves. He was determined to have his revenge.</p>\n<p>When he finally clawed his way to freedom, with the prison warden\u2019s brand new shotgun slung over his shoulder, Graves began his long-overdue pursuit of Twisted Fate.</p>\n<p>The search led him back home to Bilgewater, where he found that the wily old cardsharp had acquired a few new bounties on his head\u2014and Graves would be only too happy to claim them. However, just as he got Twisted Fate in his sights, they were forced to put aside their differences in order to escape almost certain death in the ongoing conflict between the reaver king Gangplank and his rival ship captains.</p>\n<p>Once again, Graves found himself escaping his hometown\u2026 only this time, he had his old friend in tow. While both of them might have liked to pick up their partnership where they left off all those years ago, such resentment couldn't simply be forgotten overnight, and it would be a while before Graves could bring himself to trust Twisted Fate again.</p>\n<p>Still, he feels Bilgewater calling to him once more. Maybe <em>this</em> time around, the pair of them will find their stride and be able to pull off the ultimate heist\u2026</p>",
                 "short": "Malcolm Graves is a renowned mercenary, gambler, and thief\u2014a wanted man in every city and empire he has visited. Even though he has an explosive temper, he possesses a sense of criminal honor, often enforced at the business end of his double-barreled shotgun Destiny. In recent years, he has reconciled a troubled partnership with Twisted Fate, and together they have prospered once more in the turmoil of Bilgewater\u2019s criminal underbelly.",
                 "quote": "\u201cWe\u2019re here for your gold, not your heads\u2026 so don\u2019t nobody decide to be a hero.\u201d",
-                "quote_author": "Graves"
+                "quote-author": "Graves"
             },
-            "header_image": null,
             "subtitle": "the Outlaw",
             "echelon": 2
         },
         {
             "type": "champion",
-            "release_date": "2015-11-24T00:00:00.000Z",
+            "release-date": "2015-11-24T00:00:00.000Z",
             "name": "Illaoi",
             "title": "Illaoi",
-            "section_title": "Illaoi",
+            "section-title": "Illaoi",
             "slug": "illaoi",
-            "associated_faction": "",
-            "associated_faction_slug": "bilgewater",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
             "image": {
                 "title": "Illaoi_0.jpg",
                 "subtitle": "",
@@ -240,7 +226,7 @@
                 "height": 717,
                 "x": 781,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Illaoi_0.jpg",
@@ -252,7 +238,7 @@
                 "height": 717,
                 "x": 781,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/illaoi",
             "video": {
@@ -265,7 +251,7 @@
                 "height": 720,
                 "x": 781,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -288,26 +274,25 @@
                     "slug": "tank"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/illaoi",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/illaoi",
             "biography": {
                 "full": "<p>Illaoi&#x2019;s powerful physique is dwarfed only by her indomitable faith. As the prophet of the Great Kraken, she uses a huge, golden idol to rip her foes&#x2019; spirits from their bodies and shatter their perception of reality. All who challenge the \u201cTruth Bearer of Nagakabouros\u201d soon discover&#xA0;Illaoi&#xA0;never battles alone - the god of the Serpent Isles fights by her side.</p><p>All who encounter Illaoi are struck by her presence. An intense woman, the priestess is fully committed to the experience of living. She takes what she wants, destroys what she hates, and revels in everything she loves.</p><p>However, to truly know Illaoi you must understand the religion she has devoted her life to. Nagakabouros, the deity of her faith, is usually depicted as an enormous serpent head with tentacles spiraling around it in endless motion, with no beginning and no end. Also called The Mother Serpent, The Great Kraken, or even The Bearded Lady, Nagakabouros is the Serpent Isles&#x2019; god of life, ocean storms, and motion. (The literal translation of its name is \u201cthe unending monster that drives the sea and sky.\u201d) Central to the religion&#x2019;s theology are three tenets: every spirit was born to serve the universe; desire was built into every living being by the universe; the universe only moves toward its destiny when living creatures chase their desires.</p><p>Lesser priestesses are tasked with maintaining temples, calling holy serpents, and teaching people the ways of Nagakabouros. As the religion&#x2019;s Truth Bearer, Illaoi&#x2019;s role is to serve the god directly by unblocking the flow of the universe. To this end, she has two sacred responsibilities.</p><p>The first duty of a Truth Bearer is to be the spearhead in the war against undeath. Having fallen outside of the normal flow of the universe, the undead are considered an abomination against Nagakabouros. While it is the responsibility of every priestess of the Kraken to protect the indigenous population from the Harrowing, a Truth Bearer directly engages its most powerful spirits and drives the Black Mist back.</p><p>Second, Illaoi is tasked with seeking out individuals of great potential and challenging them with the Test of Nagakabouros. This task is the burden Illaoi&#x2019;s title reflects. With her massive, holy relic, The Eye of God, the Truth Bearer strips the subject&#x2019;s spirit from their body then forces them to stand against her to prove their worth. She does this knowing those who fail will be completely annihilated, for the great Kraken has no tolerance for cowardice, doubt, or restraint. But destruction is never the goal. Survivors of the ordeal are forever changed and often find the will to pursue their true destiny.</p><p>Though Illaoi is the most powerful and respected Truth Bearer in a hundred generations, it is where she has broken the traditions of her faith that speaks the most about her. Having completed her training as a Truth Bearer, and at the height of her power, Illaoi left the golden temples of Buhru for the squalor of nearby Bilgewater.</p><p>The pirate city is the only place foreigners are permitted on the Serpent Isles, viewed as a fetid gutter by Illaoi&#x2019;s people. Previous Truth Bearers ignored the city and viewed the arriving foreigners as little better than untouchables. Illaoi broke with tradition when she chose to protect residents of Bilgewater from the Harrowing, or even more controversially when she decided that some of its residents had souls worthy of the great test. Despite this, only a handful of temples have been opened in the city, and very few <em>paylangi </em>(islander slang for residents of mainlander descent) have ever been permitted inside. Regardless, it is Illaoi who has brought the widespread awareness of the Mother Serpent to Bilgewater, and it is her indomitable spirit that has brought her religion into favor there.</p><p>Rumors persist that Bilgewater&#x2019;s most bloodthirsty and infamous pirate had his heart broken by the towering priestess. To anyone who has ever met her, this is no surprise. Illaoi&#x2019;s rough manner belies subtle intelligence, strength, and a magnetic confidence.</p><p>Many seek Illaoi&#x2019;s favor and welcome her to Bilgewater... yet everyone fears being tested by the Kraken&#x2019;s Prophet.</p><p><em>\u201cThere can be no rest. We are the motion.\u201d</em></p><p>&#x2014;From <em>The Twenty Wisdoms of Nagakabouros</em></p>",
                 "short": "Illaoi\u2019s powerful physique is dwarfed only by her indomitable faith. As the prophet of the Great Kraken, she uses a huge, golden idol to rip her foes\u2019 spirits from their bodies and shatter their perception of reality. All who challenge the \u201cTruth Bearer of Nagakabouros\u201d soon discover Illaoi never battles alone\u2014the god of the Serpent Isles fights by her side.",
                 "quote": "\u201cWisdom is frequently a kick in the head.\u201d",
-                "quote_author": "Illaoi"
+                "quote-author": "Illaoi"
             },
-            "header_image": null,
             "subtitle": "the Kraken Priestess",
             "echelon": 3
         },
         {
             "type": "champion",
-            "release_date": "2010-09-08T00:00:00.000Z",
+            "release-date": "2010-09-08T00:00:00.000Z",
             "name": "Miss Fortune",
             "title": "Miss Fortune",
-            "section_title": "Miss Fortune",
+            "section-title": "Miss Fortune",
             "slug": "missfortune",
-            "associated_faction": "",
-            "associated_faction_slug": "bilgewater",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
             "image": {
                 "title": "MissFortune_0.jpg",
                 "subtitle": "",
@@ -318,7 +303,7 @@
                 "height": 717,
                 "x": 983,
                 "y": 231,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "MissFortune_0.jpg",
@@ -330,10 +315,9 @@
                 "height": 717,
                 "x": 983,
                 "y": 231,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/missfortune",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -347,26 +331,25 @@
                     "slug": "marksman"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/missfortune",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/missfortune",
             "biography": {
                 "full": "<p>Like most who rise to notoriety in the twisting, salt-crusted labyrinth of Bilgewater, Sarah Fortune has no shortage of blood on her hands\u2026</p><p>Beloved daughter of the renowned gun-dame Abigale Fortune, Sarah spent much of her happy childhood in the forge of their island settlement just off the coast\u2014learning to file wheel locks, set trigger pulls, and even cast batches of custom pistol shot. Her mother\u2019s skill in crafting firearms was legendary, and her bespoke handguns were to be found in the collections of many a wealthy merchant captain.</p><p>But oft-times, they were coveted by those with more meager means, and darker hearts.</p><p>One such individual was an up-and-coming Bilgewater reaver, known to his crew as Gangplank. Cocksure and certain of his power, he demanded a pair of Fortune pistols the like of which no other man could hope to possess. A reluctant deal was struck, and a year later to the day, Gangplank returned. With no intention of paying for the work, he had masked his face with a grimy scarf. He was there to take the guns by force.</p><p>Abigale had crafted two masterpieces, twin hand cannons of exquisite workmanship and pinpoint lethality\u2014indeed, she declared, too fine for the likes of him. She could see the brutish thug that Gangplank had become. Enraged, he seized the pistols and gunned her down with her own creations before turning them on her husband, and young Sarah too. Then, out of nothing but spite, he set the workshop ablaze and smashed both pistols on the cobblestones, to wipe the Fortune legacy from the face of Runeterra completely.</p><p>Sarah awoke to agony. Her wounds were grave, but she managed to crawl from the burning ruins with the remains of the two pistols clutched to her chest. In time, her body healed, but waking nightmares and night terrors would torment her for many years to come.</p><p>Even so, she endured. She was determined to have vengeance. She rebuilt her mother\u2019s pistols, and learned all she could of the masked murderer who had since declared himself the new reaver king of Bilgewater, and forced even the most influential ship captains to honor his claim.</p><p>No matter. When Sarah faced him again, she would be ready.</p><p>Taking a ship to Bilgewater Bay, she killed her first man within minutes of setting foot on the crooked timbers of the quayside\u2014a drunken pirate with a gallon of Myron\u2019s Dark in his belly, and a price on his head. Sarah dragged his corpse to the bounty board officials, before tearing off a dozen more warrants and heading off into the city.</p><p>Within a week, every one of them was settled, and those with the misfortune to be hunted by Sarah were either dead or in chains. She quickly earned a reputation in the taverns and gambling dens, becoming known only as \u201cMiss Fortune\u201d. Gangplank would never see her coming. What was one more bounty hunter on the streets of his city?</p><p>In the years that followed, tales of Miss Fortune\u2019s exploits spread far and wide, each more fanciful than the last. She drowned the leader of the Silk-Knife Corsairs in a barrel of her own stolen rum. She took the <i>Syren</i> from a captain who learned the hard way what it meant to slip a hand where it wasn\u2019t wanted. She tracked the insane Doxy-Ripper to his lair in the belly of a half-dismembered leviathan down on the slaughter docks, and shot him in the back as he fled.</p><p>In spite of all this, Gangplank was far too powerful to confront openly, with the fierce Jagged Hooks crew always at his side\u2014but Miss Fortune knew just killing him would never be enough. Only his abject humiliation, and the burning to ash of all he had stolen, would satisfy the girl who had died on the floor of her mother\u2019s workshop.</p><p>And so, little by little, she began to surround herself with a small but loyal cadre of allies that would eventually help her lay her demons to rest.</p><p>Miss Fortune risked everything to make her move against Gangplank. Plots within plots saw his ship, the <i>Dead Pool</i>, blown to flaming wreckage in the harbor, and the tyrannical reaver king overthrown. Best of all, everyone in Bilgewater saw him fall. It was everything Sarah could have hoped for, exactly as she\u2019d planned.</p><p>And it was over in moments.</p><p>With Gangplank gone, the other rival captains quickly descended into fighting amongst themselves for control of the city. What little semblance of law there had been was gone in an instant, with countless innocent civilians caught between the warring crews. Reluctantly, Miss Fortune stepped up\u2014as captain of the <i>Syren</i>, and backed by her own people, she brokered an uneasy truce that has somehow held to this day.</p><p>But little is ever really permanent in the port city, and Captain Fortune still finds herself having to impose her own brand of order on every reaver, ganglord, and distant threat that comes her way.</p><p>The real battle for Bilgewater has only just begun.</p>",
                 "short": "A Bilgewater captain famed for her looks but feared for her ruthlessness, Sarah Fortune paints a stark figure among the hardened criminals of the port city. As a child, she witnessed the reaver king Gangplank murder her family\u2014an act she brutally avenged years later, blowing up his flagship while he was still aboard. Those who underestimate her will face a beguiling and unpredictable opponent\u2026 and, likely, a bullet or two in their guts.",
                 "quote": "\u201cThe bigger the risk, the bigger the bounty.\u201d",
-                "quote_author": "Miss Fortune"
+                "quote-author": "Miss Fortune"
             },
-            "header_image": null,
             "subtitle": "the Bounty Hunter",
             "echelon": 4
         },
         {
             "type": "champion",
-            "release_date": "2012-02-14T00:00:00.000Z",
+            "release-date": "2012-02-14T00:00:00.000Z",
             "name": "Nautilus",
             "title": "Nautilus",
-            "section_title": "Nautilus",
+            "section-title": "Nautilus",
             "slug": "nautilus",
-            "associated_faction": "",
-            "associated_faction_slug": "bilgewater",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
             "image": {
                 "title": "Nautilus_0.jpg",
                 "subtitle": "",
@@ -377,7 +360,7 @@
                 "height": 717,
                 "x": 1075,
                 "y": 4,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Nautilus_0.jpg",
@@ -389,10 +372,9 @@
                 "height": 717,
                 "x": 1075,
                 "y": 4,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/nautilus",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -414,26 +396,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/nautilus",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/nautilus",
             "biography": {
                 "full": "<p>To understand the legend of Nautilus, one must first know the man\u2014for even the tallest of tavern tales agree, he was indeed a man.</p><p>Though the waves have washed away the name he was born with, most remember Nautilus as no mere sailor, but as a salvage diver. Just beyond the southernmost reach of the Blue Flame Isles lies a graveyard of ships, rumored lost while searching for a blessed land, looking to trade wealth for immortality. On a fair day, their glittering holds beckon from beneath the surface. Many crews sought divers to collect the lost fortune, and none could match the skill of the quick-sinking hulk of solid muscle that was Nautilus.</p><p>With lungs that could steal the air from a galleon\u2019s sails, Nautilus preferred to freedive. Always bringing up plenty of gold or jewels for the crew, the man demanded no special wages\u2014he asked only that the captain toss a coin overboard as they set out, honoring and appeasing the vast ocean. A sailor\u2019s superstition to be sure, but many a sea-fearing crew made such offerings to ensure a safe return. </p><p>Years of salvage depleted the easy treasure, each haul becoming less and less, until one day Nautilus\u2019s crew learned that their ship and working papers had been bought out from under them.</p><p>The dawn was scarlet the morning the new captain came aboard. Hailing from a foreign port, he brought with him a giant suit of brass and iron. He zeroed in on Nautilus; indeed, he had purchased the command because of Nautilus. It was clear the captain was obsessed with a specific wreck, one shrouded in darkness even on a fair day. The diving armor could withstand the pressures of the ocean floor far longer than any man, long enough to collect what was hidden in the abnormal murk.</p><p>The crew agreed working was better than starving, and Nautilus found himself being bolted into the suit, the wooden deck groaning under the load. Panic rose in his throat when he realized that they had nothing to pay the tithe. The foreign captain laughed as Nautilus was lowered into the water. He assured the crew that whatever the Bearded Lady was protecting would make them all rich beyond their wildest dreams. When Nautilus returned to the surface, they would make their silly sacrifice.</p><p>As Nautilus sank, the light above dimmed, and all grew quiet, the man\u2019s own breath the only sound echoing in the iron suit. Then something reached out from the depths. He was being pulled down, and for the first time Nautilus felt liquid fear wrap itself around his heart. It was not treasure his captain sought, but some slumbering, eldritch power.</p><p>Nautilus grabbed the anchor chain, his last connection to the world above, and hauled himself up even as the thing below sought to drag him down. But the weight was too much. Just as his giant metal fingers were about to breach the surface, the chain snapped. Nautilus screamed within the suit, but none could hear him. He tumbled back into the inky maelstrom, clutching the sinking anchor in desperation. Dark tendrils enveloped him, and he could only watch as the dimming outline of his ship faded away. Then everything went black.</p><p>When Nautilus awoke on the ocean floor, he was something\u2026 different. The darkness could no longer hurt him. The great metal suit had become a seamless shell around him, concealing the bond that the primordial power had made with his spirit. Trapped in the sunless depths, he could remember only one thing\u2014the new captain\u2019s broken promise.</p><p>Nautilus vowed, there and then, that all would pay the ocean\u2019s tithe. He would see to it himself.</p><p>Driven ever forward by this thought, he trudged toward the shore. But by the time he reached Bilgewater, years had passed, and he could find no traces of his captain or crew. There was no life to which he could return, no revenge he could take. Instead he returned to the sea, allowing his anger to surface on the greedy, gutting their ships with his mighty anchor. </p><p>Sometimes, in the tumble of waves, distant memories of who he was push up above the waterline\u2026 but always the man who is Nautilus stays drowned just below the surface.</p>",
                 "short": "A lonely legend as old as the first piers sunk in Bilgewater, the armored goliath known as Nautilus roams the dark waters off the coast of the Blue Flame Isles. Driven by a forgotten betrayal, he strikes without warning, swinging his enormous anchor to save the wretched, and drag the greedy to their doom. It is said he comes for those who forget to pay the \u201cBilgewater tithe\u201d, pulling them down beneath the waves with him\u2014an iron-clad reminder that none can escape the depths.",
                 "quote": "''When consumed by utter darkness, there is nothing left but forward.''",
-                "quote_author": "Nautilus"
+                "quote-author": "Nautilus"
             },
-            "header_image": null,
             "subtitle": "the Titan of the Depths",
             "echelon": 5
         },
         {
             "type": "champion",
-            "release_date": "2018-05-31T00:00:00.000Z",
+            "release-date": "2018-05-31T00:00:00.000Z",
             "name": "Pyke",
             "title": "Pyke",
-            "section_title": "Pyke",
+            "section-title": "Pyke",
             "slug": "pyke",
-            "associated_faction": "",
-            "associated_faction_slug": "bilgewater",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
             "image": {
                 "title": "champion-pyke-splash.jpg",
                 "subtitle": "",
@@ -444,7 +425,7 @@
                 "height": 1080,
                 "x": 949,
                 "y": 240,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "champion-pyke-splash.jpg",
@@ -456,7 +437,7 @@
                 "height": 1080,
                 "x": 949,
                 "y": 240,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/pyke",
             "video": {
@@ -469,7 +450,7 @@
                 "height": 1071,
                 "x": 964,
                 "y": 124,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -484,26 +465,24 @@
                     "slug": "support"
                 }
             ],
-            "game_info_url": null,
             "biography": {
                 "full": "<p>As a youth, Pyke started out like many in Bilgewater: on the slaughter docks. All day, every day, monstrous creatures of the deep were hauled in for rendering in the butcheries that lined the waterfront. He found employment in a district known as Bloodharbor, as even the tide itself was not strong enough to wash away the red slick that ran constantly down its wooden slips.</p><p>He became well acquainted with the trade\u2014both the gruesome work and meager paychecks. Over and over, Pyke watched heavy purses of gold being handed to captains and crews in exchange for the daunting carcasses that he and his fellows would hack into salable chunks. He became hungry for more than a few copper sprats in his pocket, and managed to talk his way onto a ship\u2019s crew. Few individuals dared to hunt in the traditional Serpent Isles manner: launching themselves at their targets to secure tow-hooks with their bare hands, and beginning to butcher the creatures while they yet lived. Fearless and highly skilled in this regard, Pyke soon cut a name for himself as the best harpooner a golden kraken could buy. He knew meat was worth pennies compared to certain organs from the larger, more dangerous beasts\u2026 organs that needed to be harvested fresh.<br /> <br />Depending on the difficulty of the hunt, each sea monster commanded its own price, and the most desired by Bilgewater traders was the jaull-fish. From its razor-toothed maw, priceless sacs of sapphilite were coveted across Runeterra for various sorcerous distillations, and a small flask of the glowing blue oil could pay for a ship and its crew ten times over. But it was while hunting with an untested captain that Pyke learned where a life of blood and guts would land him.</p><p>Days into their journey, a huge jaull-fish breached, opening its maw wide to reveal rows of sapphilite sacs. Several harpoon lines secured the beast, and though it was far bigger and older than any he had encountered before, Pyke leapt into its mouth without hesitation.</p><p>As he set about his work, a deep vibration began to stir in the creature\u2019s cavernous gullet. Roiling bubbles broke the ocean\u2019s surface, and an entire pod of jaulls began to push against the tethered ship\u2019s hull. The captain lost his nerve, and cut Pyke\u2019s lifeline. The last thing the doomed harpooner saw before the beast\u2019s jaws snapped shut was the look of horror on his crewmates\u2019 faces, as they watched him being swallowed alive.<br /> <br />But this was not the end for Pyke.</p><p>In the deepest fathoms of the unknowable ocean, crushed by the titanic pressure, and still firmly trapped within the jaull\u2019s mouth, he opened his eyes once more. There were blue lights everywhere, thousands of them, seemingly watching him. Tremulous echoes of something ancient and mysterious filled his brain, crushing his mind, showing him visions of all he had lost whilst others grew fat.</p><p>A new hunger overtook Pyke, one for vengeance and retribution. He would fill the depths with the corpses of those who had wronged him.<br /> <br />Back in Bilgewater, no one thought much of the killings at first\u2014for so dangerous a place, the occasional red tide was nothing new. But weeks became months, and a pattern began to emerge. Captains from many ships were found carved up and left out for the dawn. Bar-room patrons whispered it was a supernatural killer, wronged at sea, gutting his way through the crew manifest of some damned ship called the <i>Terror</i>. Once a mark of respect and celebrity, the question \u201cYou a captain?\u201d became a cause for alarm.</p><p>Soon it was the caulkers, too, and the first mates, merchant officers, bankers\u2026 indeed, anyone associated with the bloody business of the slaughter docks. A new name went up on the bounty boards: a thousand krakens for the infamous Bloodharbor Ripper.<br /> <br />Driven by memories twisted by the deep, Pyke has succeeded where many have failed\u2014striking fear into the hearts of unscrupulous businessmen, killers, and seafaring scoundrels alike, even though no one can find any mention of a ship named the <i>Terror</i> ever docking in Bilgewater.</p><p>A city that prides itself on hunting monsters now finds a monster hunting them, and Pyke has no intention of stopping.</p>",
                 "short": "A renowned harpooner from the slaughter docks of Bilgewater, Pyke should have met his death in the belly of a gigantic jaull-fish\u2026 and yet, he returned. Now, stalking the dank alleys and backways of his former hometown, he uses his new supernatural gifts to bring a swift and gruesome end to those who make their fortune by exploiting others\u2014and a city that prides itself on hunting monsters now finds a monster hunting them.",
                 "quote": "\u201cThere\u2019s plenty of room for everyone at the bottom of the sea...\u201d",
-                "quote_author": "Pyke"
+                "quote-author": "Pyke"
             },
-            "header_image": null,
             "subtitle": "the Bloodharbor Ripper",
             "echelon": 6
         },
         {
             "type": "champion",
-            "release_date": "2015-07-09T00:00:00.000Z",
+            "release-date": "2015-07-09T00:00:00.000Z",
             "name": "Tahm Kench",
             "title": "Tahm Kench",
-            "section_title": "Tahm Kench",
+            "section-title": "Tahm Kench",
             "slug": "tahmkench",
-            "associated_faction": "",
-            "associated_faction_slug": "bilgewater",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
             "image": {
                 "title": "TahmKench_0.jpg",
                 "subtitle": "",
@@ -514,7 +493,7 @@
                 "height": 717,
                 "x": 1025,
                 "y": 338,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "TahmKench_0.jpg",
@@ -526,7 +505,7 @@
                 "height": 717,
                 "x": 1025,
                 "y": 338,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/tahmkench",
             "video": {
@@ -539,7 +518,7 @@
                 "height": 720,
                 "x": 1025,
                 "y": 338,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -562,26 +541,25 @@
                     "slug": "tank"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/tahmkench",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/tahmkench",
             "biography": {
                 "full": "<p>The waterways of Valoran are old, but far older still is the demon Tahm Kench. From muddy gambling tents along the Serpentine River, through the salt-crusted dice halls of Bilgewater, to the gilded wagering tables of Piltover and Zaun\u2014all those who have given a covetous glance to another\u2019s wealth know the unending hunger that comes from an encounter with the River King.</p><p>The first tales of the creature were told by a traveling people who plied the Serpentine. They warned of a giant fish with a cavernous mouth, who would lure in the dissatisfied with the promise of more. One such story was that of a young man renowned for his honesty. Though born to the ways of a raftsman, he desired a life beyond the poor banks he knew so well, and the River King promised him an unforgettable experience if only he would tell one little lie. It seemed harmless enough, so the raftsman bent the truth in conversation with his own brother. That night the demon appeared, revealing a fork in the river the raftsman had never noticed before. He followed it to a camp of foreign folk who offered him food and drink, and fresh companionship. As dawn neared, and the raftsman was full and ready to return to his people, the demon appeared again, promising an even greater experience for another lie. His interested piqued, the man accepted the bargain, telling falsehoods to his hosts. The river parted again and he followed it to an evening of even greater luxury. This continued, night after night, until the once-honest raftsman\u2019s deceits came as easily as breathing.</p><p>When the river finally emptied into the sea, he found himself alone and lost\u2014there was no one left to lie to. So many dark choices, all of them his own, had left the raftsman with no way back home.</p><p>The brackish rivers of the mainland carried the tales of the River King to the Blue Flame Isles, where the creature gained a name as his legend grew\u2014Tahm Kench. In Bilgewater, fortunes are boom or bust, with as much wealth going out with the tide as comes in. Many a tavern yarn tells of ol\u2019 Tahm, a demon of the water with an unending appetite for games of chance, such that the loquacious beast became a symbol for many of the city\u2019s gambling dens and houses of sin.</p><p>Once the Sun Gates opened easy trade from Bilgewater to Piltover, tales of Tahm Kench became more common in the City of Progress and its underbelly, Zaun. There, children know Tahm as \u201cTwo-Coats,\u201d a fish so monstrously large that he wears two fine jackets stitched together. With a jaunty top hat and a smile wider than the Pilt itself, he drives the jealousies of young artificers. It is said he came one Progress Day to a struggling Piltovan inventor, and offered her an idea certain to make a wealthy clan take notice. All he asked in return was a single lock of her hair. The ambitious woman made the trade and, true enough, her work landed her a lucrative contract. But one invention would not satisfy, and Two-Coats wandered by, this time asking for all of her lovely braids. Not wishing to disappoint her new patrons, the inventor agreed\u2014and Two-Coats ate them up on the spot. Still the woman was unable to find the one great innovation that would make her name. The demon came again, offering a deal that would take the tip of one finger. The following week it was an ear. A year passed, and by then there was little left of the woman to give. Finally she called Two-Coats herself, begging him to make it all stop.</p><p>He laughed as he opened his jaws wide, telling her he would protect her from herself, and promptly swallowed her whole.</p><p>The River King. The Great Waddler. Old Yawn-Belly. Two-Coats. The demon Tahm Kench is known by many names, but all who speak them have learned a singular truth: no matter how alluring his words may be, in his mouth you will be lost.</p>",
                 "short": "Known by many names throughout history, the demon Tahm Kench travels the waterways of Runeterra, feeding his insatiable appetite with the misery of others. Though he may appear singularly charming and proud, he swaggers through the physical realm like a vagabond in search of unsuspecting prey. His lashing tongue can stun even a heavily armored warrior from a dozen paces, and to fall into his rumbling belly is to tumble into an abyss from which there is little hope of return.",
                 "quote": "''The whole world's a river, and I'm its king.''",
-                "quote_author": "Tahm Kench"
+                "quote-author": "Tahm Kench"
             },
-            "header_image": null,
             "subtitle": "the River King",
             "echelon": 7
         },
         {
             "type": "champion",
-            "release_date": "2009-02-21T00:00:00.000Z",
+            "release-date": "2009-02-21T00:00:00.000Z",
             "name": "Twisted Fate",
             "title": "Twisted Fate",
-            "section_title": "Twisted Fate",
+            "section-title": "Twisted Fate",
             "slug": "twistedfate",
-            "associated_faction": "",
-            "associated_faction_slug": "bilgewater",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
             "image": {
                 "title": "TwistedFate_0.jpg",
                 "subtitle": "",
@@ -592,7 +570,7 @@
                 "height": 717,
                 "x": 1006,
                 "y": 37,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "TwistedFate_0.jpg",
@@ -604,10 +582,9 @@
                 "height": 717,
                 "x": 1006,
                 "y": 37,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/twistedfate",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -621,23 +598,22 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/twistedfate",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/twistedfate",
             "biography": {
                 "full": "<p>Born to the nomadic river folk of the Serpentine Delta, the boy Tobias Felix quickly learned what it was to be an outsider. Tolerated for the exotic goods they peddled, but shunned for their strange traditions, his people found only short welcomes wherever they berthed their colorful river barques. His elders would shrug, and say this was just the way of the world\u2026 but the obvious prejudice always stuck in Tobias\u2019 craw.</p>\n<p>He found his true calling in the gambling tents, between games of chance and skill like Mortwheel and Stabberscotch, when he first picked up a deck of playing cards. Many years earlier, his superstitious grandfather had shown him how to read omens in the shuffle and cut, while his aunt had later taught him how to read all an opponent\u2019s tells. Between the two, Tobias took to the high-stakes game of Krakenhand like an old master. He could almost <em>feel</em> each card\u2019s place in the deck, and follow their movements through each successive hand. He was often accused of cheating, but it was difficult for anyone to explain exactly how.</p>\n<p>Finally, one night, a group of men who\u2019d lost their fortunes to young Tobias returned in the dead of night to settle the score. They came bearing cudgels and, emboldened by cheap rotgut, went from tent to tent in their search for him, beating down any of the river folk who got in their way. Fearing for his life, Tobias turned and fled into the darkness.</p>\n<p>When dawn came, the lad sheepishly crept back to find his people breaking down the camp. No one would look him in the eye. He had thought only of himself, and left others to face the consequences of his actions.</p>\n<p>Though he begged and pleaded with them all, Tobias was exiled for what he had done. With his whole world falling apart around him, he watched helplessly as the barques left, leaving him alone on the riverbank with nothing but his grandfather\u2019s worn deck of cards clutched in his hands.</p>\n<p>He grew to manhood as a drifter, trawling the gambling halls of every settlement he came to, using his preternatural skill to earn enough coin to survive. That Tobias was able to relieve the boastful, the arrogant, and the cruel of their cash was just an added bonus\u2014though he was always careful to let his marks win at least a few hands, here and there.</p>\n<p>Across one table, he met a deplorable fellow named Malcolm Graves.</p>\n<p>Each recognizing a kindred soul, Tobias and Graves quickly joined forces, and the two of them spent years running various\u2026 <em>dubious endeavors</em> across the northeastern coastal towns, and beyond. With every con, swindle, and heist, Tobias felt the pull of the cards growing stronger, and he knew it was more than mere gambler\u2019s luck that guided him. His people had always waved away concerns over primitive magic and \u201ccartomancy\u201d, but now Tobias began to seek out ever more dangerous means to bend the cards to his will.</p>\n<p>That search ended badly when a particularly daring heist went wrong. The exact details of that night remain shrouded in mystery, for neither of them likes to speak of it\u2014but Graves was taken alive, while Tobias and their other accomplices ran free.</p>\n<p>Though he tried to break Graves out, he failed. Instead, seeking to begin again, he returned his birth name to the river\u2019s waters, and took another: Twisted Fate.</p>\n<p>After that, Twisted Fate continued to ply his criminal trade in the high parlors and low dens of every city he visited, though without his partner to help him, he tended to find himself cornered far more often. Indeed, he was imprisoned with great fanfare too many times to count, yet no cell ever seemed able to hold him for long; Twisted Fate was always gone with morning\u2019s light, leaving only a mocking calling card to confirm he had ever been there at all.</p>\n<p>In the port of Bilgewater, Twisted Fate and Graves finally had their day of reckoning. They were forced to put aside their differences after being caught up in a power struggle between the ship captains who ran the place\u2014but following the death of the reaver king Gangplank, the pair managed a swift reconciliation before shoving off and making for distant Piltover.</p>\n<p>All in all, Twisted Fate is glad to have his old friend back, even if it might take another job or two\u2014<em>or ten</em>\u2014to restore their once easy partnership.</p>",
                 "short": "Twisted Fate is an infamous cardsharp and swindler who has gambled and charmed his way across much of the known world, earning the enmity and admiration of the rich and foolish alike. He rarely takes things seriously, greeting each day with a mocking smile and an insouciant swagger. In every possible way, Twisted Fate always has an ace up his sleeve.",
                 "quote": "\u201cIt's not gambling if you can't lose...\u201d",
-                "quote_author": "Twisted Fate"
+                "quote-author": "Twisted Fate"
             },
-            "header_image": null,
             "subtitle": "the Card Master",
             "echelon": 8
         }
     ],
-    "explore_factions": [
+    "explore-factions": [
         {
             "type": "faction",
             "title": "Bandle City",
-            "section_title": "Bandle City",
+            "section-title": "Bandle City",
             "name": "Bandle City",
             "slug": "bandle-city",
             "description": "Opinions differ as to where exactly the home of the yordles is to be found, though a handful of mortals claim to have traveled unseen pathways to a land of curious enchantment beyond the material realm. They tell of a place of unfettered magic, where the foolhardy can be led astray by myriad wonders, and end up lost in a dream...</p>",
@@ -651,7 +627,7 @@
                 "height": 1076,
                 "x": 800,
                 "y": 550,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "bandle-city_splash.jpg",
@@ -663,16 +639,16 @@
                 "height": 1076,
                 "x": 800,
                 "y": 550,
-                "featured_champions": []
+                "featured-champions": []
             },
             "echelon": "",
-            "associated_champions": [],
+            "associated-champions": [],
             "url": "/en_us/region/bandle-city"
         },
         {
             "type": "faction",
             "title": "Demacia",
-            "section_title": "Demacia",
+            "section-title": "Demacia",
             "name": "Demacia",
             "slug": "demacia",
             "description": "<p>A strong, lawful kingdom with a prestigious military history, Demacia\u2019s people have always valued the ideals of justice, honor, and duty most highly, and are fiercely proud of their cultural heritage. But in spite of these lofty principles, this largely self-sufficient nation has grown more insular and isolationist in recent centuries.</p>",
@@ -686,7 +662,7 @@
                 "height": 1258,
                 "x": 1337,
                 "y": 1039,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "demacia-hallvalor.jpg",
@@ -698,10 +674,10 @@
                 "height": 1258,
                 "x": 1337,
                 "y": 1039,
-                "featured_champions": []
+                "featured-champions": []
             },
             "echelon": "",
-            "associated_champions": [],
+            "associated-champions": [],
             "url": "/en_us/region/demacia"
         }
     ],
@@ -709,7 +685,7 @@
         {
             "slug": "tor-bilgewater",
             "type": "featured-video",
-            "featured_image": {
+            "featured-image": {
                 "title": "bilgewater_splash.jpg",
                 "subtitle": "",
                 "description": "",
@@ -719,7 +695,7 @@
                 "height": 1080,
                 "x": 1559,
                 "y": 411,
-                "featured_champions": []
+                "featured-champions": []
             },
             "title": "Tales of Runeterra: Bilgewater",
             "subtitle": "",
@@ -730,22 +706,21 @@
                 "subtitle": "",
                 "description": [],
                 "uri": "https://www.youtube.com/watch?v=lbJhZW-iN0s?t=15",
-                "encoding": null,
                 "width": "",
                 "height": "",
                 "x": "",
                 "y": "",
-                "featured_champions": []
+                "featured-champions": []
             },
-            "release_date": "2020-04-21T15:00:00.000Z",
-            "video_type": "cinematic",
-            "featured_champions": [],
-            "related_champions": []
+            "release-date": "2020-04-21T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [],
+            "related-champions": []
         },
         {
             "slug": "audio-drama-intro",
             "type": "featured-video",
-            "featured_image": {
+            "featured-image": {
                 "title": "audio-drama-bg.jpg",
                 "subtitle": "",
                 "description": "",
@@ -755,7 +730,7 @@
                 "height": 1080,
                 "x": 0,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "title": "Legends of Bilgewater: Tall Tales of the Deep Sea",
             "subtitle": "",
@@ -766,73 +741,46 @@
                 "subtitle": "",
                 "description": [],
                 "uri": "https://youtu.be/1wj21zLtgAA",
-                "encoding": null,
                 "width": "",
                 "height": "",
                 "x": "",
                 "y": "",
-                "featured_champions": []
+                "featured-champions": []
             },
-            "release_date": "2018-05-31T15:00:00.000Z",
-            "video_type": "video",
-            "featured_champions": [],
-            "related_champions": []
+            "release-date": "2018-05-31T15:00:00.000Z",
+            "video-type": "video",
+            "featured-champions": [],
+            "related-champions": []
         },
         {
             "slug": "bilgewater-environment",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "bilgewater-people",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "bilgewater-concept-art",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "missfortune-fortune-smiles",
             "type": "link-out",
-            "featured_image": null,
             "title": "Miss Fortune: Fortune Smiles",
-            "subtitle": null,
-            "description": "<p>Bilgewater. A haven for Runeterra\u2019s most notorious monster hunters, mercenaries, and scoundrels.</p> <p>For decades, a ruthless pirate named Gangplank kept the city in check. Under his merciless rule, Bilgewater was an orderly place to make a dishonest living. </p> <p>But now Gangplank is dead. Murdered, by a crimson-haired bounty hunter seeking vengeance for her parents\u2019 deaths. </p> <p>Bilgewater has descended into chaos. Only the woman who killed Gangplank can save it. </p> <p>Her name is Sarah. </p> <p>They call her Miss Fortune. </p>",
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": null,
-            "related_champions": null
+            "description": "<p>Bilgewater. A haven for Runeterra\u2019s most notorious monster hunters, mercenaries, and scoundrels.</p> <p>For decades, a ruthless pirate named Gangplank kept the city in check. Under his merciless rule, Bilgewater was an orderly place to make a dishonest living. </p> <p>But now Gangplank is dead. Murdered, by a crimson-haired bounty hunter seeking vengeance for her parents\u2019 deaths. </p> <p>Bilgewater has descended into chaos. Only the woman who killed Gangplank can save it. </p> <p>Her name is Sarah. </p> <p>They call her Miss Fortune. </p>"
         }
     ]
 }

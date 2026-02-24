@@ -10,11 +10,7 @@
             "description": "",
             "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6c77423961def6e3a82d9a36545782f1a06386e0-4681x2114.jpg?accountingTag=LoL",
             "encoding": "image/jpeg",
-            "width": null,
-            "height": null,
-            "x": null,
-            "y": null,
-            "featured_champions": []
+            "featured-champions": []
         },
         "video": {
             "title": "piltover-splashvideo.webm",
@@ -22,29 +18,25 @@
             "description": "",
             "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/2b8b859578a41fc8a9272dacc0bdd6405a248c10.webm?accountingTag=LoL",
             "encoding": "video/webm",
-            "width": null,
-            "height": null,
-            "x": null,
-            "y": null,
-            "featured_champions": []
+            "featured-champions": []
         },
         "name": "Piltover",
         "overview": {
             "short": "Piltover is a thriving, progressive city whose power and influence is on the rise. It is Valoran\u2019s cultural center, where art, craftsmanship, trade and innovation walk hand in hand. Its power comes not through military might, but the engines of commerce and forward thinking. Situated on the cliffs above the district of Zaun and overlooking the ocean, fleets of ships pass through its titanic sea-gates, bringing goods from all over the world. The wealth this generates has given rise to an unprecedented boom in the city\u2019s growth. Piltover has - and still is - reinventing itself as a city where fortunes can be made and dreams can be lived. Burgeoning merchant clans fund development in the most incredible endeavors: grand artistic follies, esoteric hextech research, and architectural monuments to their power. With ever more inventors delving into the emergent lore of hextech, Piltover has become a lodestone for the most skilled craftsmen the world over."
         },
-        "header_image": ""
+        "headerImage": ""
     },
-    "champion_list_order": 0,
-    "associated_champions": [
+    "champion-list-order": 0,
+    "associated-champions": [
         {
             "type": "champion",
-            "release_date": "2011-01-04T00:00:00.000Z",
+            "release-date": "2011-01-04T00:00:00.000Z",
             "name": "Caitlyn",
             "title": "Caitlyn",
-            "section_title": "Caitlyn",
+            "section-title": "Caitlyn",
             "slug": "caitlyn",
-            "associated_faction": "",
-            "associated_faction_slug": "piltover",
+            "associated-faction": "",
+            "associated-faction-slug": "piltover",
             "image": {
                 "title": "Caitlyn_Base_Final_Adjustment.jpg",
                 "subtitle": "",
@@ -55,7 +47,7 @@
                 "height": 717,
                 "x": 1024,
                 "y": 7,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Caitlyn_Base_Final_Adjustment.jpg",
@@ -67,10 +59,9 @@
                 "height": 717,
                 "x": 1024,
                 "y": 7,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/caitlyn",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -84,26 +75,25 @@
                     "slug": "marksman"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/caitlyn",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/caitlyn",
             "biography": {
                 "full": "<p>Born into a wealthy and influential merchant clan, Caitlyn Kiramman swiftly learned the social graces of life in Piltover, but preferred to spend her time in the wilder lands outside it. Equally adept at mingling with the moneyed elite of the City of Progress or stalking a deer through the mud of the forest, she could confidently track a bird on the wing over the merchant districts, or put a shot through the eye of a hare at a hundred paces with her father\u2019s repeater musket.</p> <p>Caitlyn\u2019s greatest assets, however, were her intelligence and willingness to learn from her parents, who reinforced her understanding of right and wrong, even within a life of comfort and privilege. Her mother was one of the highest comptrollers in Clan Kiramman, and would always warn Caitlyn of Piltover\u2019s seductions, and its gilded promises that could harden the kindest heart. At first, Caitlyn paid little heed\u2014to her, Piltover was a place of beauty and order that she cherished after each trip into the wild.</p> <p>All that was to change one Progress Day, some years later.</p> <p>Caitlyn returned to find her home ransacked and empty. The family retainers were all dead, and there was no trace of her parents. Caitlyn secured the house, and immediately set out to find them.</p> <p>Tracking within the confines of a city was very different from hunting in the wild but, one by one, Caitlyn located the thugs who had invaded her family home. The trail eventually led her to a hidden safehouse, where her mother and father were being tortured for information. She rescued them under cover of darkness, and alerted the Piltover Wardens\u2026 though not one of the kidnappers they arrested knew the identity of the individual who had hired them\u2014only a proxy with the initial <em>C</em>.</p> <p>Caitlyn and her parents began to rebuild their lives\u2026 but something fundamental had changed. Her mother in particular could no longer face the politics and duplicity of clan life, and gave up her prestigious role, leaving something of a vacuum in the Kiramman leadership. And, though she loved her parents dearly, Caitlyn had no desire to take her mother\u2019s place, nor to learn her father\u2019s trade as an artificer.</p> <p>Instead, her focus turned toward breaking through the web of intrigue surrounding the mysterious \"C\". Utilizing her hunting skills, she established herself as a private investigator, and quickly made a name for herself as someone who could find anything or anyone. In recognition of her self-made success, Caitlyn\u2019s parents crafted her a hextech rifle of exquisite artifice, with greater accuracy than any musket. The weapon could take a variety of specialized shells, and be easily modified in the field.</p> <p>After a particularly traumatic case involving a missing hextech device and a series of child abductions, Caitlyn was summoned by the Wardens.</p> <p>She had been recommended by one of their number who had also developed something of an affinity for stranger cases\u2014and their battle with a host of rogue chimerics in the employ of a lunatic chem-researcher driven mad by his own concoctions led to her being offered a formal position as a sheriff. At first, Caitlyn refused, but eventually came to realize that the Wardens\u2019 resources could potentially get her closer to discovering the true identity of \u201cC\".</p> <p>Caitlyn has since become a highly respected officer within the ranks of the Wardens, always striving to make the City of Progress a better and safer place. She recently partnered with a new recruit from Zaun, the brash and reckless Vi. How such an unlikely pairing came about\u2014and been proven so effective\u2014is the subject of wild rumor and tavern speculation among their fellow Wardens, as well as those they haul away to jail.</p> <p>What Caitlyn doesn't know, however, is that \"C\" is also keeping tabs on her... especially as her investigations bring her ever closer to the truth.</p>",
                 "short": "Renowned as its finest peacekeeper, Caitlyn Kiramman is also Piltover\u2019s best shot at ridding the city of its elusive criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner\u2019s more impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn\u2019s most powerful weapon is her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in the City of Progress.",
                 "quote": "\u201cTo be the best hunter, you have to be able to think like your prey.\u201d",
-                "quote_author": "Caitlyn"
+                "quote-author": "Caitlyn"
             },
-            "header_image": null,
             "subtitle": "the Sheriff of Piltover",
             "echelon": 0
         },
         {
             "type": "champion",
-            "release_date": "2016-11-28T00:00:00.000Z",
+            "release-date": "2016-11-28T00:00:00.000Z",
             "name": "Camille",
             "title": "Camille",
-            "section_title": "Camille",
+            "section-title": "Camille",
             "slug": "camille",
-            "associated_faction": "",
-            "associated_faction_slug": "piltover",
+            "associated-faction": "",
+            "associated-faction-slug": "piltover",
             "image": {
                 "title": "camille_splash.jpg",
                 "subtitle": "",
@@ -114,7 +104,7 @@
                 "height": 616,
                 "x": 969,
                 "y": 6,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "camille_splash.jpg",
@@ -126,7 +116,7 @@
                 "height": 616,
                 "x": 969,
                 "y": 6,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/camille",
             "video": {
@@ -139,7 +129,7 @@
                 "height": 720,
                 "x": 969,
                 "y": 6,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -154,26 +144,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://na.leagueoflegends.com/en/featured/champion-reveal-camille-steel-shadow",
+            "game-info-url": "http://na.leagueoflegends.com/en/featured/champion-reveal-camille-steel-shadow",
             "biography": {
                 "full": "<p>Clan Ferros understands sacrifice.</p><p>Most of the family\u2019s wealth came through harvesting a rare crystal from the brackern, a creature native to Shurima. These hex-crystals\u2014or \u201cfirst crystals\u201d\u2014contained power normally only wielded by those born with innate magical ability. After Camille\u2019s great-great aunt lost an arm during an early expedition, her sacrifice inspired the Ferros family motto: <i>\u201cFor family, will I give.\u201d</i></p><p>The brackern were a limited resource, and Camille's family had to augment the crystals they\u2019d accumulated. Utilizing shadow investments in chemtech and runic alchemy, they developed less powerful, but easier to make, synthetic hex-crystals.</p><p>Yet there were consequences\u2014synthetic crystal manufacturing has long been rumored to heavily contribute to the Zaun Gray. Furthermore, it was only through espionage, intimidation, and murder that Clan Ferros held its monopoly on this priceless commodity, and ensured its uninterrupted production in Zaun, maintaining the family\u2019s place in Piltover\u2019s illustrious Bluewind Court.</p><p>As the eldest surviving child of Clan Ferros\u2019 masters, Camille received every educational advantage. She had exceptional tutors, learning to speak several foreign languages and play the cellovinna at a concert-master level. Camille also learned to read and write Ancient Shuriman while assisting her father on digs in the Odyn Valley.</p><p>Traditionally, one of the younger children would become their family's principal intelligencer, working with the clan master to secure their family\u2019s success by any means necessary. However, Camille's younger brother, Stevan, had a weak constitution, and so Camille took his place. He jealously watched her embrace her additional training, and she became quite adept in combat, reconnaissance, and interrogation.</p><p>When Camille was twenty-five, augmented Zaunite thugs attacked her and her father, intent on stealing lucrative trade secrets. Camille\u2019s father succumbed to his wounds, and in anguish, her mother died soon after. Stevan became clan master, and he doubled the clan\u2019s research in human hextech augmentation, eager to prove himself as a strong leader.</p><p>After a year of mourning, Stevan oversaw the induction of Hakim Naderi\u2014a promising young crystallographer from the Shuriman coastal city of Bel'zhun\u2014as the family\u2019s lead artificer.</p><p>Camille requested hextech augmentation from Hakim to push her beyond her human limitations. Hakim was instantly enamored with her, and they bonded over the preparations and late night stories of Shurima\u2026 and eventually, Camille returned Hakim's feelings. Their affair grew reckless, as they knew the surgery would conclude their time together. Hakim would move onto other projects, and Camille would once again be fully committed to the principal intelligencer\u2019s duties. More than that, Hakim worried that in carving away Camille's heart, he might remove her humanity.</p><p>Days before Camille's operation, Hakim proposed marriage and begged her to run away with him. For the first time in her life, Camille was torn.</p><p>Stevan had no such conflict, as he needed Camille to execute his vision. When he learned of the secret proposal, he devised a plan\u2014the next time Camille and Hakim were together, Stevan set himself up to be attacked. When she saw her brother bruised and bloodied, Camille recognized what could happen when her attention was divided.</p><p>Hakim pleaded with Camille, but she wouldn\u2019t listen. For family, she would give. She ended her relationship with Hakim, insisting her surgery go forward.</p><p>He was the only one who could safely perform the operation, and so he excised Camille\u2019s heart and replaced it with hextech\u2014then resigned. When she awoke, the lab she and Hakim had shared was abandoned.</p><p>Camille focused on her work. She took on further refinements, including bladed legs, grapple-spindled hips, and other, minor hex-augmentations, leading some to wonder how much of the woman was left. And as Clan Ferros amassed more power and wealth, Camille\u2019s missions became darker and more deadly.</p><p>Thanks to her hextech heart, she did not age\u2014but the years were not so kind to her brother. Yet even as Stevan's body grew more frail, his iron grip on the clan remained.</p><p>Eventually, Camille uncovered the depth of Stevan's betrayal, and realized his machinations were no longer in the family\u2019s best interests. In that moment, she discarded the last sentiment she felt toward her brother.</p><p>After installing her favorite grand-niece as clan master, Camille now runs the family's public affairs as well as its more shady operations. As a solver of\u2026 <i>difficult problems</i>, she embraces her more-than-human transformation and the cutting judgment it affords her\u2014but a strange, mournful keening in her hextech heart may yet prove a troubling portent.</p><p>Regardless, Camille refuses to sit idle, and gains invigoration from well-executed industrial espionage, a fresh-brewed cup of tea, and long walks in the Gray.</p>",
                 "short": "Weaponized to operate outside the boundaries of the law, Camille is the Principal Intelligencer of Clan Ferros\u2014an elegant and elite agent who ensures the Piltover machine and its Zaunite underbelly run smoothly. Adaptable and precise, she views sloppy technique as an embarrassment that must be put to order. With a mind as sharp as the blades she bears, Camille's pursuit of superiority through hextech body augmentation has left many to wonder if she is now more machine than human.",
                 "quote": "\u201cPrecision is the difference between a butcher and a surgeon.\u201d",
-                "quote_author": "Camille"
+                "quote-author": "Camille"
             },
-            "header_image": null,
             "subtitle": "the Steel Shadow",
             "echelon": 1
         },
         {
             "type": "champion",
-            "release_date": "2010-03-16T00:00:00.000Z",
+            "release-date": "2010-03-16T00:00:00.000Z",
             "name": "Ezreal",
             "title": "Ezreal",
-            "section_title": "Ezreal",
+            "section-title": "Ezreal",
             "slug": "ezreal",
-            "associated_faction": "",
-            "associated_faction_slug": "piltover",
+            "associated-faction": "",
+            "associated-faction-slug": "piltover",
             "image": {
                 "title": "Ezreal_splash.jpg",
                 "subtitle": "",
@@ -184,7 +173,7 @@
                 "height": 717,
                 "x": 815,
                 "y": 141,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Ezreal_splash.jpg",
@@ -196,10 +185,9 @@
                 "height": 717,
                 "x": 815,
                 "y": 141,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/ezreal",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -221,26 +209,25 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/ezreal",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/ezreal",
             "biography": {
                 "full": "<p>Born and raised in a wealthy neighborhood of Piltover, Ezreal was always a curious child. His parents were renowned archaeologists, so he became used to their long absences from the family home, often fantasizing about joining them on their travels. He loved hearing tales of high adventure, and shared their desire to fill in the blank spaces on every map.</p><p>He was often left in the care of his uncle, the esteemed Professor Lymere. The professor did not enjoy having to wrangle such a rash and unruly child, and assigned the strictest tutors to teach him subjects including advanced cartography, hextech mechanics, and the ancient histories of Runeterra. But the boy had a knack for simply <i>absorbing</i> information, and found studying a waste of time. He passed assessments easily, with little or no preparation, infuriating his uncle and giving himself more time to roam the university grounds. Ezreal took great pleasure in evading the campus wardens, navigating the tunnels beneath the lecture halls as easily as the library rooftops. He even practiced lockpicking, sneaking into his teachers\u2019 offices and rearranging their belongings for his own amusement.</p><p>Whenever Ezreal\u2019s parents returned to Piltover, his father in particular would tell him all they had seen, and their plans for future expeditions\u2014none more ambitious and secretive than the search for the lost tomb of Ne\u2019Zuk, a Shuriman tyrant who was said to be able to jump instantly from one place to another. If Ezreal\u2019s father could learn whatever sorcery Ne\u2019Zuk had possessed, he joked that wherever he was traveling, he would simply drop into Piltover for dinner with his son each night.</p><p>As the boy grew older, the time between his parents\u2019 visits grew longer until, one year, they did not return at all. Professor Lymere tearfully admitted that they had most likely perished, somewhere out in the desert.</p><p>But Ezreal could not accept that. They had been too careful in their preparations. They must still be out there, <i>somewhere</i>\u2026</p><p>Abandoning his reluctant studies, the budding explorer would strike out on his own. He knew, if he was ever to find his mother and father, he had to start with the final resting place of Ne\u2019Zuk. He spent weeks secretly gathering supplies from the university\u2014celestial diagrams, translations of runic sigils, guides on the burial rites of Shurima, and a pair of protective goggles. Leaving a note of farewell for his uncle, he snuck onto a supply ship bound for Nashramae.</p><p>Following his mother\u2019s meticulous field notes, he crossed the Great Sai with merchant caravans heading south. For many months, he delved into cavernous ruins beneath the shifting sands, relishing the freedom of the unknown, facing unspeakable horrors that guarded hidden chambers. With each step, Ezreal imagined himself following his parents\u2019 path, drawing ever closer to solving the mystery of their disappearance.</p><p>Finally, he managed what they evidently had not. Beneath the newer mausoleum of some unnamed emperor, he uncovered the tomb of Ne\u2019Zuk.</p><p>The great sarcophagus lay empty, save for a gleaming bronze gauntlet, with a bright, crystalline matrix at its center. As soon as Ezreal laid his hands upon it, the tomb itself seemed to turn upon him, with cunningly wrought traps and wards laid down thousands of years ago. With scarcely a thought, he donned the gauntlet and blasted his way through, even teleporting the last hundred yards back to the hidden entrance before the whole structure collapsed in a plume of sand and masonry dust.</p><p>Breathing hard, Ezreal looked down at the gauntlet as it hummed along with his heartbeat. He could feel it siphoning and amplifying his own essence. This, he realized, was a fearsome weapon of a previous age. A weapon fit for a god-warrior of Shurima, and the perfect tool for an explorer.</p><p>Soon after returning to Piltover, Ezreal found himself bounding from adventure to adventure. From lost cities to mystical temples, his nose for treasure-seeking led him to places most university professors could only read about on maps, and his reputation began to grow. Naturally, to Ezreal\u2019s mind, these tales rarely conveyed the true scope and scale of his exploits\u2026 but they did give him an idea. If he could make a name for himself as the greatest adventurer in the world, then his parents would surely return, and seek him out in person. </p><p>From the untamed borders of Noxus and Demacia, to the seedy depths of Zaun, and the frozen wilderness of the Freljord\u2014Ezreal chases fame and glory, uncovering long-lost artifacts and solving the riddles of history. While some may dispute the details of his anecdotes, or call his methods into question, he never answers his critics.</p><p>After all, they\u2019re clearly just jealous.<br></p>",
                 "short": "<p>A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing is for sure\u2014whenever Ezreal is around, trouble isn\u2019t too far behind. Or ahead. Probably everywhere.</p>",
                 "quote": "\u201cIf I don\u2019t know the rules, then how can I be breaking them?\u201d",
-                "quote_author": "Ezreal"
+                "quote-author": "Ezreal"
             },
-            "header_image": null,
             "subtitle": "the Prodigal Explorer",
             "echelon": 2
         },
         {
             "type": "champion",
-            "release_date": "2009-10-10T00:00:00.000Z",
+            "release-date": "2009-10-10T00:00:00.000Z",
             "name": "Heimerdinger",
             "title": "Heimerdinger",
-            "section_title": "Heimerdinger",
+            "section-title": "Heimerdinger",
             "slug": "heimerdinger",
-            "associated_faction": "",
-            "associated_faction_slug": "piltover",
+            "associated-faction": "",
+            "associated-faction-slug": "piltover",
             "image": {
                 "title": "Heimerdinger_0.jpg",
                 "subtitle": "",
@@ -251,7 +238,7 @@
                 "height": 717,
                 "x": 973,
                 "y": 248,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Heimerdinger_0.jpg",
@@ -263,10 +250,9 @@
                 "height": 717,
                 "x": 973,
                 "y": 248,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/heimerdinger",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -288,26 +274,25 @@
                     "slug": "support"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/heimerdinger",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/heimerdinger",
             "biography": {
                 "full": "<p>A brilliant yet eccentric yordle scientist, Professor Cecil B. Heimerdinger is lauded as one of the most innovative minds and esteemed inventors Piltover has ever seen. Relentless in his work to the point of neurotic obsession, he is fascinated by mysteries that have confounded his contemporaries for decades, and thrives on answering the universe&#x2019;s most impenetrable questions. Though his theories often appear opaque and esoteric, Heimerdinger believes knowledge should be shared, and is devoted to teaching all who desire it. </p>",
                 "short": "The eccentric Professor Cecil B. Heimerdinger is one of the most innovative and esteemed inventors the world has ever known. As the longest serving member of the Council of Piltover, he saw the best and the worst of the city's unending desire for progress. Nonetheless, this brilliant scientist and teacher will always remain dedicated to using his unconventional devices to improve the lives of others.",
                 "quote": "\u201cImpossible, you say? Nonsense. Just wait till you see my calculations!\u201d",
-                "quote_author": "Heimerdinger"
+                "quote-author": "Heimerdinger"
             },
-            "header_image": null,
             "subtitle": "the Revered Inventor",
             "echelon": 3
         },
         {
             "type": "champion",
-            "release_date": "2012-07-07T00:00:00.000Z",
+            "release-date": "2012-07-07T00:00:00.000Z",
             "name": "Jayce",
             "title": "Jayce",
-            "section_title": "Jayce",
+            "section-title": "Jayce",
             "slug": "jayce",
-            "associated_faction": "",
-            "associated_faction_slug": "piltover",
+            "associated-faction": "",
+            "associated-faction-slug": "piltover",
             "image": {
                 "title": "Jayce_0.jpg",
                 "subtitle": "",
@@ -318,7 +303,7 @@
                 "height": 717,
                 "x": 1007,
                 "y": 182,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Jayce_0.jpg",
@@ -330,7 +315,7 @@
                 "height": 717,
                 "x": 1007,
                 "y": 182,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/jayce",
             "video": {
@@ -343,7 +328,7 @@
                 "height": 720,
                 "x": 1007,
                 "y": 182,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -366,26 +351,25 @@
                     "slug": "marksman"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/jayce",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/jayce",
             "biography": {
                 "full": "<p>Jayce is a brilliant inventor who has pledged his life to the defense of Piltover and its unyielding pursuit of progress. With his transforming hextech hammer in hand, Jayce uses his strength, courage, and considerable intelligence to protect his hometown. While revered throughout the city as a hero, he hasn\u2019t taken well to the attention it brings. Still, Jayce\u2019s heart is in the right place, and even those who envy his natural skills are grateful for his protection in the City of Progress.</p><p>A native son of Piltover, Jayce was raised to believe in the principles that made the city great: Invention. Discovery. Not going to Zaun if you could help it. With a knack for understanding machinery, Jayce earned the honor of being the youngest apprenta to ever be offered patronage by Clan Giopara, one of Piltover\u2019s most respected ruling clans. Utterly unsurprised, Jayce took the offer, and spent most of his early years constructing potential hextech devices and designing transformable multi-tools for Piltover\u2019s working class: a wrench that transformed into a prybar, a pickaxe that could morph into a shovel, a hammer that could turn into a demolition beam, if only it had a sufficiently powerful battery. Everything Jayce touched put his contemporaries to shame.</p><p>Most things came easy to Jayce, and he could never understand why his peers had so much trouble with what, to him, were simple concepts. As a result, nearly everyone who worked alongside Jayce found him arrogant, dismissive, and unwilling to slow his pace to help his colleagues catch up. As time went on, his patience became shorter, while at the same time, a chasm grew between decorum, charm, and Jayce\u2019s natural demeanor.</p><p>Only one person ever managed to match Jayce\u2019s intelligence while also maintaining a healthy indifference to his superior attitude.</p><p>His name was Viktor.</p><p>The two met at a mandatory Progress Day party, and immediately bonded over how little either of them wanted to be there. They started working together shortly after. Viktor expanded Jayce\u2019s intellectual horizons and challenged many of his assumptions. While Jayce sought to improve humanity via versatile technology, Viktor sought to solve problems inherent to humanity itself, such as physical decay or illogical prejudices. They constantly argued with one another, but their conflicts never got personal \u2013 though their methods were different, the two colleagues knew their ultimate goals were very much the same. More than that, they both knew what it was like to be ostracized by their colleagues: Viktor because of his unconventional thinking, Jayce because of his rudeness.</p><p>Together, Jayce and Viktor invented a mechanized construction suit for Piltover\u2019s dockworkers \u2013 something hearty enough to enhance the wearer\u2019s strength, but light enough that its wearer wouldn\u2019t immediately drown upon falling overboard. However, the two reached an impasse when Viktor\u2019s design for the next version of the suit included a chemtech implant that would increase the wearer\u2019s strength output by tenfold, while also preventing them from getting tired, panicking, or disobeying instructions from their superiors. While Viktor considered this feature a brilliant means of reducing the frequency of construction accidents, Jayce found its indifference toward free will immoral. The two nearly came to blows over the design and ultimately, after Jayce warned the academy of Viktor\u2019s invention, Viktor was stripped of his honors and ostracized from Piltover\u2019s scientific community. </p><p>Viktor was the closest thing Jayce had ever really had to a friend, and distraught over their falling-out, went back to working on his own. He grew more insular. His patience toward others grew even thinner.</p><p>As Jayce studied in solitude, Clan Giopara\u2019s explorers discovered a raw, blue crystal deep within the Shuriman desert. Though Jayce volunteered to experiment on it (specifically by suggesting the clan\u2019s other scholars wouldn\u2019t be smart enough to get anything out of it), his lack of tact in doing so prompted Clan Giopara to give it to their better-mannered scholars as a form of punishment. Yet, after many months, the scholars reached a unanimous conclusion: the crystal was worthless. A power-drained hunk of rock. The disappointed clan leaders finally handed the crystal over to Jayce, assuming that even he, with his remarkable intelligence, wouldn\u2019t be able to learn anything from it.</p><p>Something inside the crystal called to Jayce. No, more than that \u2013 it sang to him. He couldn\u2019t explain why, but he knew the Shuriman gem still held mysteries yet to be discovered.</p><p>He spent many months running every variety of test on the crystal. He braced it into a cogwheel centrifuge; he superheated it and deep-froze it; he tinkered, and observed, and hypothesized, and beat his head against his copper pantograph. Quite simply, Jayce wasn\u2019t used to working hard: this damned crystal was the first thing that had ever resisted his considerable mental aptitude. For the first time, he realized how his peers must have felt, trying so hard to solve a problem, only to bump against your own limitations. It felt frustrating. It felt unfair. </p><p>And it probably felt much, much worse if you were working alongside an arrogant inventor who dismissed your every effort. </p><p>Jayce realized that despite how dismissive he\u2019d been toward his fellow scholars, none of them ever gave up. None of them ever stopped seeking the very things that defined Piltover: Progress. Discovery. If they wouldn\u2019t give up, Jayce decided, he wouldn\u2019t either. </p><p>And maybe he\u2019d try to be nicer. </p><p>Maybe.</p><p>Jayce approached the problem from a completely different angle. Rather than trying to experiment on the crystal as a whole, he wondered, why not run more invasive experiments on a smaller shard? Jayce chiseled off a piece of the crystal and suspended it in a liquid alloy. As he sent a voltaic current through the liquid metal, Jayce\u2019s eardrums nearly shattered from the booming baritone note that blasted from the shard. Heat radiated from the crystal and, with a flash, it glowed bright enough to nearly blind him. This was unexpected. This was potentially dangerous. But this was progress. Jayce couldn\u2019t erase the smile from his face as he worked well through the night, into the dawn. </p><p>The next day, Jayce was surprised to find his old friend Viktor on his doorstep. Alerted by the massive power spike from the crystal shard, Viktor had a simple proposition.</p><p>Since his expulsion from the Piltovan scientific community, Viktor had commenced work on a secret project in Zaun. He\u2019d finally learned how to achieve his dream \u2013 how to eradicate disease, hunger, hatred. If Jayce joined him, the two would accomplish more than anyone from Piltover or Zaun could have dreamed of: they\u2019d save humanity from itself. </p><p>Jayce had heard a monologue like this before from Viktor. He never liked where it led.</p><p>Viktor told Jayce that he only needed one thing for his Glorious Evolution \u2013 a power source like Jayce\u2019s crystal. Jayce disagreed, informing Viktor that what he truly needed was a moral compass. Viktor, who had long grown tired of Jayce\u2019s rudeness, leapt upon him, grabbed the crystal and knocked Jayce unconscious with it. When Jayce awoke hours later, he noticed that though the Shuriman crystal was gone Viktor hadn\u2019t seemed to notice or care about the smaller shard.</p><p>Jayce knew whatever Viktor was planning, he would only resort to these measures if he were close to completion. Even though he didn\u2019t know what Viktor\u2019s Glorious Evolution consisted of, it probably didn\u2019t have a lot of respect for the free will of others. Without wasting a second, Jayce retrieved the suspended shard and installed it into a massive, transforming hammer \u2013 a demolitions invention he\u2019d abandoned years ago for lack of a strong enough battery to power it. Though he had no idea where Viktor might have taken the crystal, he could feel the hextech hammer vibrate, pulling him not north, south, east or west, but down, toward the undercity of Zaun.</p><p>The shard, eager to be reunited with the crystal from which it was chiseled, eventually led Jayce to a warehouse in the depths of the sump. Within the cavernous building, Jayce found something horrifying. Dozens of corpses, their skulls sawed open and hollowed out, their brains transplanted into an army of immobile metal soldiers, hooked up to the now-pulsing crystal. </p><p>This was the first step in Viktor\u2019s Glorious Evolution.</p><p>Jayce\u2019s stride grew less confident as he approached Viktor. He and Viktor had not always seen eye to eye, but this was something else entirely. For the first time, it occurred to Jayce that he might have to kill his old friend.</p><p>He called out to Viktor, flinching as the army of robots stood to attention. Jayce asked him to look around \u2013 to see what he was doing. Whatever this was \u2013 this Evolution \u2013 wasn\u2019t the progress they fought for in their youths. He even, to Viktor\u2019s surprise, apologized for acting like such a jerk. </p><p>Viktor sighed. He had only two words in response: \u201cKill him.\u201d</p><p>The automatons sprinted toward Jayce, breaking free of the wires connecting them to the crystal and introducing Jayce to another new emotion: panic. He gripped the hammer tight, realizing he\u2019d never actually used it before. When the first golem was within reach, he swung as hard as he could, feeling the shard\u2019s energy surge through his muscles, accelerating the hammer\u2019s movement until Jayce was worried it might fly out of his hands.</p><p>It slammed into the automaton, all but exploding it into a hail of metal. Despite the obliteration of their comrade, the other machines didn\u2019t even pause as they rushed at Jayce, trying to pummel him into unconsciousness.</p><p>Jayce analyzed the formation of the mechanical wave coming at him and attempted to quickly calculate how to take out the largest number of them with the fewest amount of swings. It was pointless; they were on him before he could swing even once. As he fell to the ground under a storm of their blows, Jayce saw Viktor looking on, not with triumph, but with sadness. He\u2019d outsmarted Jayce and ensured humanity\u2019s future, but he knew that future came at a cost: he couldn\u2019t let his old friend live. Jayce vanished under a sea of swinging metal limbs.</p><p>That\u2019s when Jayce, for the first time in his life, decided to stop thinking and just break stuff.</p><p>No longer caring for his own safety, Jayce used every last bit of strength he had to break free from Viktor\u2019s automatons. He sprinted to the glowing crystal, and struck it with all of the hextech-enhanced force his hammer could muster, crushing the mystical object.</p><p>Viktor cried out in horror as the crystal shattered to fragments, the shockwave blasting them all backward as the army of automatons collapsed lifelessly to the floor. The very foundations of the warehouse shook, and Jayce barely managed to escape before the entire building toppled. </p><p>Viktor\u2019s body was never found.</p><p>Upon his return to Piltover, Jayce informed his clan masters of Viktor\u2019s nefarious plans. Soon, Jayce found himself a topic of discussion in both Zaun and Piltover alike. Hailed for his quick thinking in a time of crisis, Jayce became a beloved figure (at least, amongst those who hadn\u2019t met him), earning himself a nickname: the Defender of Tomorrow.</p><p>Jayce cared little for the adoration of his fellow Piltovans, but took the nickname to heart. He knew that Viktor was still out there, plotting his revenge. One day \u2013 maybe someday soon \u2013 an awful lot of trouble was headed for Piltover.</p><p>And Jayce would be waiting. </p>",
                 "short": "Jayce Talis is a brilliant inventor who, along with his friend Viktor, made the first great discoveries in the field of hextech. Celebrated across Piltover, he tries to live up to his reputation as \"the Man of Progress,\" but often struggles with the expectations placed upon him. Because of this, Jayce has begun to see the ways in which his invention has furthered the division between Piltover and Zaun\u2014and armed with his hextech hammer, he stands ready to defend tomorrow.",
                 "quote": "\u201cPicking a fight with me is the dumbest thing you\u2019ve done today \u2013 and that\u2019s saying a lot.\u201d",
-                "quote_author": "Jayce"
+                "quote-author": "Jayce"
             },
-            "header_image": null,
             "subtitle": "the Defender of Tomorrow",
             "echelon": 4
         },
         {
             "type": "champion",
-            "release_date": "2011-06-01T00:00:00.000Z",
+            "release-date": "2011-06-01T00:00:00.000Z",
             "name": "Orianna",
             "title": "Orianna",
-            "section_title": "Orianna",
+            "section-title": "Orianna",
             "slug": "orianna",
-            "associated_faction": "",
-            "associated_faction_slug": "piltover",
+            "associated-faction": "",
+            "associated-faction-slug": "piltover",
             "image": {
                 "title": "Orianna_0.jpg",
                 "subtitle": "",
@@ -396,7 +380,7 @@
                 "height": 717,
                 "x": 1080,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Orianna_0.jpg",
@@ -408,10 +392,9 @@
                 "height": 717,
                 "x": 1080,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/orianna",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -433,26 +416,25 @@
                     "slug": "support"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/orianna",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/orianna",
             "biography": {
                 "full": "<p>Nestled among the eclectic storefronts of Piltover sat the workshop of the renowned artificer Corin Reveck. Famous for his masterful craft in artificial limbs, Corin\u2019s intricate brass designs made the prosthetics both breathtakingly beautiful and often superior to the originals. His daughter, Orianna, served as his apprentice\u2014friendly and inquisitive, she was a natural fit to run the shop, and blossomed into a capable artisan in her own right.</p><p>Orianna had an adventurous spirit, but her father, fearing for her safety, never allowed her to venture beyond their neighborhood. Instead, he took her to the theater, where dancers, through leaps and pirouettes, told stories of distant lands. Orianna dreamed of visiting these strange and marvelous places, and would scurry home to build clockwork dancers of her own.</p><p>News of disaster in the undercity of Zaun made its way to their shop. An explosion had ruptured a chemical line, venting clouds of poisonous gas. Orianna insisted they help the victims, but Corin forbade it. Zaun was far too dangerous.</p><p>So, with as many supplies as she could carry, Orianna snuck away in the night and rode the hexdraulic descender into the depths.</p><p>The devastation was overwhelming. Debris still filled the streets, and Zaunites walked through the toxic haze, faces covered with little more than oily rags. Night after night, Orianna repaired respirators and installed esophilters. She even gave her own mask to a child who could scarcely breathe.</p><p>Her father was furious, but soon after her return, Orianna fell gravely ill. Her lungs were ravaged past all hope of recovery. Refusing to accept this, Corin threw himself into his most ambitious project yet: a fully functional set of artificial lungs.</p><p>After weeks of sleepless nights, he completed his desperate task and carried out the surgery himself. To keep her from ever venturing too far again, the lungs were wound with a special key Corin kept in his safe.</p><p>Orianna returned to work, and yet the poison continued to spread throughout her body. Father and daughter worked feverishly to develop new implants and prosthetics, replacing each of her organs as they failed. Piece by piece, Orianna's body was transformed from mortal to mechanical until only her healthy heart remained. This long\u2014and expensive\u2014process cost Corin his fortune, forcing him to relocate their business to Zaun\u2026 but he saved his daughter's life. And, for a time, they were happy.</p><p>Gradually, Orianna began to feel disconnected from who she had been before. Old memories felt like stories. Even her creativity began to fade, and her beloved clockwork dancers became more like masterfully tuned mechanisms than works of art.</p><p>But, even as time seemed to stand still for Orianna, it marched onward for her father.</p><p>Long, lean years brought Corin agonizing chest spasms that meant he could no longer work, and Orianna was forced to provide for him. She'd become profoundly adept at crafting her figurines, even if she took only distant pleasure in recalling what once inspired their creation. The miniature dancers brought in good coin and barter, but never enough to afford the one thing she believed could save her father. For that, she turned to a local chem-baron.</p><p>Orianna never asked <i>how</i> the man came by a hextech crystal. She simply paid what he asked. Even so, before she could use it, the chem-baron returned demanding a second payment. Then a third. When the money ran out, Orianna knew his next visit would end in violence. She looked to the crystal device, still incomplete, too unrefined and powerful for a human body. She saw the logical solution\u2014she didn't need her human heart anymore, and Corin needed a heart no one could ever take from him.</p><p>She spent weeks in preparation, building a clockwork orb\u2014integrating it into her own mechanisms, readying it to house the crystal so she could defend herself in the journey ahead. Slipping her father a sleeping draught, she commenced the surgery.</p><p>Corin became one with the last remnant of the daughter he had known and loved. She listened to his steady heartbeat through the night, the quiet hum of hextech in the beautifully intricate ball by her side. Only then did she realize she had shed the last of her humanity\u2014but she felt no fear or remorse, merely acceptance. She had become something entirely new, a lady of clockwork, and she needed to find where in the world's vast machine she might fit.</p><p>At dawn, she collected the key that wound her lungs, a single pulse from her ball welding it firmly to her back. Then she left for good.</p>Corin woke to find his workshop filled with hundreds of figurines. But among them was one he vowed never to sell: pirouetting to an endless ballet, a golden dancer that needed no key.</p>",
                 "short": "Once a curious girl of flesh and blood, Orianna is now a technological marvel composed entirely of clockwork. She became gravely ill after an accident in the lower districts of Zaun, and her failing body had to be replaced with exquisite artifice, piece by piece. Accompanied by the extraordinary brass orb that houses her hextech arsenal, Orianna is now free to explore the wonders of Piltover, and beyond.",
                 "quote": "\u201cWhen a moth emerges from its chrysalis, does it remember its life as a caterpillar?\u201d",
-                "quote_author": "Orianna"
+                "quote-author": "Orianna"
             },
-            "header_image": null,
             "subtitle": "the Lady of Clockwork",
             "echelon": 5
         },
         {
             "type": "champion",
-            "release_date": "2020-10-12T00:00:00.000Z",
+            "release-date": "2020-10-12T00:00:00.000Z",
             "name": "Seraphine",
             "title": "Seraphine",
-            "section_title": "Seraphine",
+            "section-title": "Seraphine",
             "slug": "seraphine",
-            "associated_faction": "",
-            "associated_faction_slug": "piltover",
+            "associated-faction": "",
+            "associated-faction-slug": "piltover",
             "image": {
                 "title": "seraphine-splash.jpg",
                 "subtitle": "",
@@ -463,7 +445,7 @@
                 "height": 1080,
                 "x": 812,
                 "y": 202,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "seraphine-splash.jpg",
@@ -475,10 +457,9 @@
                 "height": 1080,
                 "x": 812,
                 "y": 202,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/seraphine",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -492,26 +473,24 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": null,
             "biography": {
                 "full": "<p>In Piltover, where anyone\u2019s dream can become everyone\u2019s progress, a star is born.</p><p>As a child, Seraphine always loved music, especially her father\u2019s lullabies. The songs were beautiful, but sad. He\u2019d brought them up to Piltover as he and Seraphine\u2019s mother\u2014two lifelong Zaunites\u2014sought a better life in the City of Progress.</p><p>Leaning out the window of their hexcoustics workshop, where broken sound tech was made to play again, Seraphine sang along with the streets. The shanties of the Sun Gates, the whistling of apprentices, even the melody of conversation\u2014in a bustling city like Piltover, she was never alone.</p><p>Over time, Seraphine realized she could sense songs too private, too personal, for any ordinary person to hear. And as she grew, so did the intensity of her gifts. She heard every person\u2019s soul, loving or cruel\u2014turning the streets she\u2019d once loved into an overwhelming cacophony of conflicting desires. How could she make sense of the voices if none of them harmonized? Some days, she hid shivering in a corner, hands over her ears, unable to hear herself above the chaos.</p><p>Seraphine\u2019s parents had left everything behind so she could be born in Piltover; they couldn\u2019t bear seeing her struggle. Scraping together their savings to purchase a shard of a rare hextech crystal, they crafted a device that dampened her magical hearing. For the first time in years, there was silence.</p><p>Within that quiet, though, Seraphine heard something\u2014some<i>one</i>. The crystal had a consciousness, born of brackern blood. Though hard to hear, and harder to comprehend, the voice was kind. In a hymn of distant deserts and ancient conflicts of ancestors, a thousand years of history sang in unison.</p><p>Seraphine, awed, asked for guidance. Overwhelmed by the yearnings around her, she worried she may have no song of her own. What if she was merely the voices of others?</p><p><i>\u201cWe are all forged through others\u2019 voices,\u201d</i> the presence sang back.</p><p>And slowly, she learned to manage the noise. The voice rarely spoke clearly, but Seraphine felt its influence as it helped her understand how to resonate with a crowd, to sing <i>with</i> them, using her dampener less each day. The first time she performed in front of an audience, testing her skills, she was nervous beyond words. But she kept singing, and the crowds swelled. Soon, the biggest venues in Piltover had Seraphine\u2019s fans spilling into the streets. Still, something was missing\u2014in the crowds, and in herself. She resolved to seek perspective in the city her parents had worked so hard to leave: Zaun.</p><p>The first time she rode the clanging lift down, Seraphine felt somehow at home but still a stranger. In Zaun, she heard refrains of resilience and ambition much like above, yet with a thrum of freedom that was all their own. But as she spent more time below, she also sensed pain. Fear of the chem-barons who controlled every opportunity. Hatred of the spoiled, arrogant Pilties above. There was so much discord. She began to perform, and listened to these new crowds, their hearts singing their struggles. The two cities were divided by more than simple misunderstanding. She wanted to mend, to unite. But she kept hearing the same refrain: \u201cIt\u2019s not that simple in Zaun.\u201d</p><p>Eventually, Piltover started to feel less like home.</p><p>Her hextech crystal had sung an elegy of what hatred left unchecked could accomplish. Seraphine couldn\u2019t let that happen to the cities she loved. Persuading her parents to help, she dismantled her dampener, and together, they gave the crystal a new home in its opposite\u2014a platform that would amplify her gifts, not repress them, allowing her to hear others in all their complexity. Seraphine hoped the crystal\u2019s voice would be among them. She rode this platform down as a stage of sorts, stepping out onto the Entresol between Piltover and Zaun. As the crowds gathered and the lights dazzled, she heard citizens from both worlds, mingled together to hear her.</p><p>This was a new song. Not just understanding\u2014<i>unity</i>.</p><p>It wasn\u2019t perfect. It might never be. But her voice mattered. And so, Seraphine realized, maybe she could help others find their voice, too.</p><p>Seraphine has become the premier star in both Piltover and Zaun. Empowered by her gifts and her hextech, she amplifies the voices of all with a fresh force of optimism, because to her, everyone deserves to be heard\u2014especially those who are struggling. They inspire her, and she will do her best to inspire them in return.</p>",
                 "short": "Born in Piltover to Zaunite parents, Seraphine can hear the souls of others\u2014the world sings to her, and she sings back. Though these sounds overwhelmed her in her youth, she now draws on them for inspiration, turning the chaos into a symphony. She performs for the sister cities to remind their citizens that they\u2019re not alone, that they\u2019re stronger together, and that, in her eyes, their potential is limitless.",
                 "quote": "\u201cThis one\u2019s for you!\u201d",
-                "quote_author": "Seraphine"
+                "quote-author": "Seraphine"
             },
-            "header_image": null,
             "subtitle": "the Starry-Eyed Songstress",
             "echelon": 6
         },
         {
             "type": "champion",
-            "release_date": "2012-12-19T00:00:00.000Z",
+            "release-date": "2012-12-19T00:00:00.000Z",
             "name": "Vi",
             "title": "Vi",
-            "section_title": "Vi",
+            "section-title": "Vi",
             "slug": "vi",
-            "associated_faction": "",
-            "associated_faction_slug": "piltover",
+            "associated-faction": "",
+            "associated-faction-slug": "piltover",
             "image": {
                 "title": "Vi_0.jpg",
                 "subtitle": "",
@@ -522,7 +501,7 @@
                 "height": 717,
                 "x": 926,
                 "y": 135,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Vi_0.jpg",
@@ -534,7 +513,7 @@
                 "height": 717,
                 "x": 926,
                 "y": 135,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/vi",
             "video": {
@@ -547,7 +526,7 @@
                 "height": 720,
                 "x": 926,
                 "y": 135,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -570,23 +549,22 @@
                     "slug": "assassin"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/vi",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/vi",
             "biography": {
                 "full": "<p>Vi remembers little of her childhood in Zaun, and what she does remember, she wishes she didn\u2019t. Running with the sump-snipe gangs, she quickly learned to use her wits, as well as her fists, to survive. Everyone who encountered Vi knew she could talk\u2014or punch\u2014her way out of trouble. More often than not, she chose the latter.</p><p>None of the old-timers from her youth could tell her anything of her parents. Most assumed they had died in one of the industrial accidents that were, sadly, all too common in the undercity. Though she had ended up in the crumbling Hope House orphanage, a notoriously mad sump-scrapper claimed to have found her adrift in a bassinet large enough for two in the ruins of a collapsed chem-lab. In the end, Vi figured some things were best left unknown.</p><p>With her wild pink hair, she became a distinctive sight on the streets of Zaun\u2014hightailing from angry shopkeepers in the boundary markets, swaggering through the colorful bazaars of the Black Lanes, or hitching rides up into Piltover aboard the hexdraulic conveyors. Wherever there was a scrape to be gotten into or a scam to be run, Vi was in the thick of it, though she never stole from those that couldn\u2019t cover the loss\u2026 and never hurt those that didn\u2019t deserve it.</p><p>As she got older, the capers of childhood became more audacious and daring, and Vi formed a gang of her own. Brash and quick to anger, she still relied on her fists a little too much, and was rarely without a black eye or split lip.</p><p>She found a mentor in the owner of a bar on the edge of the Lanes, who tempered some of her more self-destructive tendencies. He tried to reinforce her moral code, and showed her how to fight with discipline, as well as teaching her ways to better direct her simmering anger.</p><p>In time, Vi earned a reputation as someone who got things done, no questions asked.</p><p>Listening to the chatter of the Zaunite miners who frequented the bar, she came to learn when big deals were being made, and how payments were to be delivered. To a chem-baron, this was chump change\u2014but to her and her friends, it would be a fortune. She planned a heist, but knew it would require extra bodies to pull off, so Vi reluctantly brought a rival gang, the Factorywood Fiends, in on her score.</p><p>Everything was going fine, until the leader of the Fiends killed the mine owner with a pair of oversized pulverizer gauntlets, and trapped the rest of the workers in the tunnels. Even as both gangs fled with the loot, Vi knew she could not leave these innocent people to die. She snatched up the gauntlets, the wrist mechanisms clamping down painfully on her arms, but she endured the agony long enough to smash open a path to free the miners.</p><p>The following day, Vi paid a visit to the Factorywood Fiends. Still wearing the powered gauntlets, she took on the entire gang, administering a beating so legendary that it is still spoken of in the Lanes to this day.</p><p>Vi eventually disappeared from Zaun during a time of great upheaval, when tensions with Piltover were running high. Rumors circulated between the gangs that she had been killed in a huge explosion in the heart of the undercity, or that she had turned her back on her friends and struck out for distant lands. The truth, however, finally came to light when Old Hungry\u2019s Scars\u2014a vicious gang whose murder sprees had spread topside\u2014were brought down by a respected sheriff of Piltover and her new ally\u2026 Vi.</p><p>The former gang leader was now in the employ of the Wardens, and she had replaced the chem-powered pulverizer gauntlets with a pair of brand new hextech Atlas prototypes.</p><p>No one yet knows the exact reason why or <i>how</i> Vi came to be working alongside Caitlyn\u2014but given the anarchic nature of the crime wave now sweeping Piltover, speculation runs rife that it might involve a certain blue-haired hellion from Zaun\u2026</p>",
                 "short": "Raised on the mean streets of Zaun, Vi is a hotheaded, impulsive, and fearsome woman with very little respect for authority. She has always been a shrewd survivor, both from her youthful troublemaking topside and an unfairly long stint in Stillwater Hold. Now working with the Piltover Enforcers to keep the peace instead of breaking it, she wields mighty hextech gauntlets that can punch through walls\u2014and criminals\u2014with equal ease.",
                 "quote": "\u201cWe can either do this the hard way or\u2026 Oh wait, no. There's just the hard way.\u201d",
-                "quote_author": "Vi"
+                "quote-author": "Vi"
             },
-            "header_image": null,
             "subtitle": "the Piltover Enforcer",
             "echelon": 7
         }
     ],
-    "explore_factions": [
+    "explore-factions": [
         {
             "type": "faction",
             "title": "Noxus",
-            "section_title": "Noxus",
+            "section-title": "Noxus",
             "name": "Noxus",
             "slug": "noxus",
             "description": "<p>Noxus is a powerful empire with a fearsome reputation. To those beyond its borders, it is brutal, expansionist, and threatening, yet those who look past its warlike exterior see an unusually inclusive society, where the strengths and talents of its people are respected and cultivated.</p>",
@@ -600,7 +578,7 @@
                 "height": 1080,
                 "x": 1054,
                 "y": 443,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "noxus_splash.jpg",
@@ -612,16 +590,16 @@
                 "height": 1080,
                 "x": 1054,
                 "y": 443,
-                "featured_champions": []
+                "featured-champions": []
             },
             "echelon": "",
-            "associated_champions": [],
+            "associated-champions": [],
             "url": "/en_us/region/noxus"
         },
         {
             "type": "faction",
             "title": "Shadow Isles",
-            "section_title": "Shadow Isles",
+            "section-title": "Shadow Isles",
             "name": "Shadow Isles",
             "slug": "shadow-isles",
             "description": "<p>This cursed land was once home to a noble, enlightened civilization, known to its allies and emissaries as the Blessed Isles. However, more than a thousand years ago, an unprecedented magical cataclysm left the barrier between the material and spirit realms in tatters, effectively merging the two\u2026 and dooming all living things in an instant.</p>",
@@ -635,7 +613,7 @@
                 "height": 828,
                 "x": 552,
                 "y": 372,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "shadow-isles_splash.jpg",
@@ -647,10 +625,10 @@
                 "height": 828,
                 "x": 552,
                 "y": 372,
-                "featured_champions": []
+                "featured-champions": []
             },
             "echelon": "",
-            "associated_champions": [],
+            "associated-champions": [],
             "url": "/en_us/region/shadow-isles"
         }
     ],
@@ -658,7 +636,7 @@
         {
             "slug": "tor-pnz",
             "type": "featured-video",
-            "featured_image": {
+            "featured-image": {
                 "title": "piltover_splash.jpg",
                 "subtitle": "",
                 "description": "",
@@ -668,7 +646,7 @@
                 "height": 1080,
                 "x": 1559,
                 "y": 411,
-                "featured_champions": []
+                "featured-champions": []
             },
             "title": "Tales of Runeterra: Piltover and Zaun",
             "subtitle": "",
@@ -679,87 +657,52 @@
                 "subtitle": "",
                 "description": [],
                 "uri": "https://www.youtube.com/watch?v=qCVLRh1y96M",
-                "encoding": null,
                 "width": "",
                 "height": "",
                 "x": "",
                 "y": "",
-                "featured_champions": []
+                "featured-champions": []
             },
-            "release_date": "2020-04-18T15:00:00.000Z",
-            "video_type": "cinematic",
-            "featured_champions": [],
-            "related_champions": []
+            "release-date": "2020-04-18T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [],
+            "related-champions": []
         },
         {
             "slug": "piltover-environment",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "piltover-hextech",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "piltover-people",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "jinx-ziggs-paint-the-town",
             "type": "link-out",
-            "featured_image": null,
             "title": "Ziggs & Jinx: Paint the Town",
-            "subtitle": null,
-            "description": "<p>Yordles live among us. </p> <p>Oh, they say I\u2019m crazy -- they say that Yordles would be easy to spot in a city such as ours, what with their fuzzy countenances and diminutive stature. But I\u2019ve heard rumors that they have invented some sort of magical charms that make these abominations appear no different from you or I. </p> <p>But don\u2019t be fooled! No matter how adorable they may seem, these mischievous creatures will bring our city of Piltover to ruin! If I were so moved, I\u2019d say they\u2019re an even bigger threat than those lunatic terrorists from Zaun! </p> <p>But I\u2019m getting ahead of myself. </p> <p>Our story starts in a small pyrotechnics shop in Piltover, run by two unnervingly fuzzy gentlemen...</p>",
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": null,
-            "related_champions": null
+            "description": "<p>Yordles live among us. </p> <p>Oh, they say I\u2019m crazy -- they say that Yordles would be easy to spot in a city such as ours, what with their fuzzy countenances and diminutive stature. But I\u2019ve heard rumors that they have invented some sort of magical charms that make these abominations appear no different from you or I. </p> <p>But don\u2019t be fooled! No matter how adorable they may seem, these mischievous creatures will bring our city of Piltover to ruin! If I were so moved, I\u2019d say they\u2019re an even bigger threat than those lunatic terrorists from Zaun! </p> <p>But I\u2019m getting ahead of myself. </p> <p>Our story starts in a small pyrotechnics shop in Piltover, run by two unnervingly fuzzy gentlemen...</p>"
         },
         {
             "slug": "piltover-trade-route-map",
             "type": "link-out",
-            "featured_image": null,
             "title": "The Medarda Heirloom",
-            "subtitle": null,
-            "description": "To the wealthy clans of Piltover, sea-borne trade is key to their continued wealth. Detailed knowledge of the ocean&rsquo;s many trade routes and city ports (as well the people who control them) is jealously guarded and passed down only to worthy heirs. Over the many years of his life, Jago Medarda has sailed far and wide to secure Clan Medarda&rsquo;s fortune, and his well-traveled - and oft-amended - map offers many clues to those seeking their fortune upon the high seas.",
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": null,
-            "related_champions": null
+            "description": "To the wealthy clans of Piltover, sea-borne trade is key to their continued wealth. Detailed knowledge of the ocean&rsquo;s many trade routes and city ports (as well the people who control them) is jealously guarded and passed down only to worthy heirs. Over the many years of his life, Jago Medarda has sailed far and wide to secure Clan Medarda&rsquo;s fortune, and his well-traveled - and oft-amended - map offers many clues to those seeking their fortune upon the high seas."
         }
     ]
 }

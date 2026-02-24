@@ -10,11 +10,7 @@
             "description": "",
             "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/6310fe5db818f80b84ee784a746cc28ee1273e6b-1920x1080.jpg?accountingTag=LoL",
             "encoding": "image/jpeg",
-            "width": null,
-            "height": null,
-            "x": null,
-            "y": null,
-            "featured_champions": []
+            "featured-champions": []
         },
         "video": {
             "title": "noxus-splashvideo.webm",
@@ -22,29 +18,25 @@
             "description": "",
             "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/329c91313054076a869a6ceb95c995107320e334.webm?accountingTag=LoL",
             "encoding": "video/webm",
-            "width": null,
-            "height": null,
-            "x": null,
-            "y": null,
-            "featured_champions": []
+            "featured-champions": []
         },
         "name": "Noxus",
         "overview": {
             "short": "<p>Noxus is a powerful empire with a fearsome reputation. To those beyond its borders, it is brutal, expansionist, and threatening, yet those who look past its warlike exterior see an unusually inclusive society, where the strengths and talents of its people are respected and cultivated.</p><p>The Noxii were once fierce barbarian tribes, until they stormed the ancient city that now lies at the heart of their domain. Under threat from all sides, they aggressively took the fight to their enemies, pushing their borders outward with each passing year. This struggle for survival has made modern Noxians a deeply proud people who value strength above all\u2014though that strength can manifest in many different forms.</p><p>Anyone can rise to a position of power and respect within Noxus if they display the necessary aptitude, regardless of social standing, background, homeland, or wealth. Those who are able to wield magic are held in particularly high esteem, and are actively sought out in order that their special talents may be honed and best harnessed for the benefit of the empire.</p><p>But in spite of this meritocratic ideal, the old noble houses still wield considerable power\u2026 and some fear that the greatest threat to Noxus comes not from its enemies, but from within.</p>"
         },
-        "header_image": ""
+        "headerImage": ""
     },
-    "champion_list_order": 0,
-    "associated_champions": [
+    "champion-list-order": 0,
+    "associated-champions": [
         {
             "type": "champion",
-            "release_date": "2024-10-28T18:00:00.000Z",
+            "release-date": "2024-10-28T18:00:00.000Z",
             "name": "Ambessa",
             "title": "Ambessa",
-            "section_title": "Ambessa",
+            "section-title": "Ambessa",
             "slug": "ambessa",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "Ambessa_0.jpg",
                 "subtitle": "",
@@ -55,7 +47,7 @@
                 "height": 1133,
                 "x": 960,
                 "y": 55,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Ambessa_0.jpg",
@@ -67,10 +59,9 @@
                 "height": 1133,
                 "x": 960,
                 "y": 55,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/ambessa",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -84,26 +75,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "https://www.leagueoflegends.com/en-us/champions/ambessa/",
+            "game-info-url": "https://www.leagueoflegends.com/en-us/champions/ambessa/",
             "biography": {
                 "full": "<p>Born into one of the most powerful families in modern Noxus, Ambessa Medarda was perhaps always destined for greatness. Her family was not counted among the old noble houses, yet they had gained immense respect and influence across the empire since its founding\u2014and young Ambessa\u2019s first exposure to bloodshed came early, watching Reckoners risk their lives for a chance at glory in the arenas. Though she was too young to know the thrill of battle herself, she studied every match and internalized every move.</p><p>In the aftermath of the Battle of Hildenard, her father sent her to collect the blades of fallen soldiers. Though still a child, Ambessa never once averted her eyes from the death and carnage around her\u2026 and by the end of the day, she knew death was not something to be feared, but respected.</p><p>Sacrifice was a noble thing. Greatness demanded it.</p><p>The Medarda family code, passed down through generations since their earliest days as traders on the Shuriman coast, espoused the virtues of both the desert fox, and the fearsome wolf of legend. So it was no surprise that Ambessa would choose a soldier\u2019s life, carrying the memories of her childhood lessons with her always, holding others to the ideals of familial honor and decisive action.</p><p>She was a proud daughter of the Medardas\u2014a born warrior, soon enough a general in command of several warbands\u2014and clearly one of her grandfather Menelik\u2019s favorites, as patriarch. And yet, she was so much more\u2014a woman, a lover, <i>and</i> a mother. In her appetite for life, Ambessa experienced it all. But the moment she held her son Kino for the first time, she finally understood what it meant to devote herself to someone unconditionally.</p><p>And with that came the potential for profound disappointment. While she loved him dearly, it was clear that Kino would never have the strength of a warrior in his heart.</p><p>Not long after, Ambessa almost met her end in battle defending her ancestral home of Rokrund, while pregnant with her daughter Mel. As she lay among the bodies of her allies and foes alike, she drifted near death and experienced visions that she would speak of to few others in her lifetime. Whatever it was Ambessa had seen, it alloyed her resolve and ambition. She would bend the world to her will, so that any weakness in her children would not be something her enemies could exploit.</p><p>From that moment, Ambessa's rise became almost meteoric. She led from the front in every battle, fearlessly staring death in the eye. And with every victory, she grew more resourceful, more daring, and more uncompromising.</p><p>When old Menelik Medarda finally passed, he named no heir from his deathbed, sending several branches of the family into a conflict of succession. But Ambessa knew they clawed at air, for this was <i>her</i> destiny. She defeated her rivals and vowed to forge a legacy worthy of the Medarda name. Worthy of her own childrens' inheritance.</p><p>As the new matriarch, Ambessa began to speak more often of her own personal mantra.</p><p>In all things, be the Wolf.</p><p>She would tolerate no weakness or dissent in those around her, lest that weakness spill over into her. She even sent her daughter Mel away to the distant city of Piltover.</p><p>Years passed before Ambessa began to hear murmurs of a new and powerful invention called \"hextech\"\u2014from the soft-spined idealists of Piltover, no less. Intrigued by the potential of such a discovery, Ambessa traveled to the gilded city to visit her daughter, determined to find out if this technology could be used to leverage even more power for the Medarda family\u2026</p>",
                 "short": "<p>All who know the name Medarda respect and fear the family\u2019s leader, Ambessa. As a Noxian general, she embodies a deadly combination of ruthless strength and fearless resolve in battle. Her role as matriarch is no different, requiring great cunning to empower the Medardas while leaving no room for failure or compassion. Embracing the merciless ways of the Wolf, Ambessa will do whatever it takes to protect her family's legacy, even at the cost of her own children's love.</p>",
                 "quote": "\"Any enemy of mine is an enemy of my family.\"",
-                "quote_author": ""
+                "quote-author": ""
             },
-            "header_image": null,
             "subtitle": "the Matriarch of War",
             "echelon": 0
         },
         {
             "type": "champion",
-            "release_date": "2023-08-28T17:00:00.000Z",
+            "release-date": "2023-08-28T17:00:00.000Z",
             "name": "Briar",
             "title": "Briar",
-            "section_title": "Briar",
+            "section-title": "Briar",
             "slug": "briar",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "briar_splash.jpg",
                 "subtitle": "",
@@ -114,7 +104,7 @@
                 "height": 1080,
                 "x": 1075,
                 "y": 300,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "briar_splash.jpg",
@@ -126,10 +116,9 @@
                 "height": 1080,
                 "x": 1075,
                 "y": 300,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/briar",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -143,26 +132,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "https://www.leagueoflegends.com/en-us/champions/briar/",
+            "game-info-url": "https://www.leagueoflegends.com/en-us/champions/briar/",
             "biography": {
                 "full": "<p>Near the end of his reign, Grand General Boram Darkwill entrusted the Black Rose and its many hemomancers with creating a new kind of living weapon. Unlike their previous experiments on the deceased, this would be a being born from and fueled by blood\u2014one driven to hunt down targets without requiring the sustenance of food and water.</p>\n<p>And so Briar was born.</p>\n<p>Her creators wanted an assassin, but all she wanted was to eat, <em>eat</em>, EAT! When her first mission ended in a frenzied, gory failure, the Black Rose decided that Briar was too dangerous to use, but too powerful to be destroyed. In order to control her, they devised a special pillory\u2014locked by a hemolith gemstone\u2014to restrain her and focus her mind. Once shackled with the pillory, Briar, along with the rest of the Black Rose\u2019s living weapons, was quickly deployed during Jericho Swain\u2019s coup against Darkwill.</p>\n<p>She was given a handler to help direct her, but when released from her pillory, Briar immediately devoured him and everyone near her\u2014everyone <em>but</em> her target, Swain, who escaped while the living weapon fed upon friend and foe.</p>\n<p>After an arduous capture, Swain\u2019s guards managed to trigger Briar\u2019s pillory and restore her restraint, enabling them to transfer her to their holding facility.</p>\n<p>Alone in her cell, Briar could focus on nothing <em>except</em> her hunger. Though she couldn't die from starvation, the absence of fresh blood weakened her day by day.</p>\n<p>At first, she thought the chorus of crazed wails echoing around her room were her own starving thoughts... until she realized the sounds were drifting in from unseen neighbors. Did Swain\u2019s forces manage to capture other living weapons during the coup? Was she locked up with them now, each having failed their mission? Their <em>purpose</em>?</p>\n<p>The voices cried out for blood\u2014a sentiment Briar could relate to. But what she couldn\u2019t stand wasn\u2019t how often they did it, nor how loud they were, but that it was ALL they talked about. Their unrelenting hemomania was the most boring thing she had ever experienced.</p>\n<p>As hungry as Briar was\u2014and she was <em>hungry</em>\u2014her thoughts stayed focused on the pitiful sounds of the others. What if she managed to break out of the pillory? Would her frenzy make her even more unhinged than her neighbors? <em>Would she become as single-minded and boring as them?</em> The idea was too horrifying to dwell on, so she instead resigned herself to listless solitude.</p>\n<p>Years passed, and the time alone allowed Briar to reflect on herself and consider the possibilities of the world outside her cell. Entertainment consisted of eavesdropping on the guards\u2019 conversations, devising new ways to pester them for raw meat, and agonizing over whether she should race her pet spiders or eat them.</p>\n<p>By chance while she was toying with her pillory one day, she inadvertently loosened the hemolith, which settled into a position just short of unlocking the restraint. Briar froze as thoughts of her hemomaniacal neighbors filled her head\u2014is that what she\u2019d become? But then she realized something: Being <em>under </em>control was just as dangerous as being <em>out of </em>control. She wanted to strike the balance.</p>\n<p>Having discovered the hemolith\u2019s mechanism, Briar devised a plan.</p>\n<p>By this point, the guards were so used to her calls for attention that when she lured one close to her cell, nobody noticed he was missing until it was too late. The guard\u2019s blood surged within her, lighting a fire that had been waiting to spread.</p>\n<p>Briar was finally free.</p>Now the living weapon gleefully roams the streets of Noxus, pillory locked back in place\u2014until <em>she</em> wants to unlock it. As she acclimates to the world outside, with the Black Rose monitoring the unexpected development, Briar eagerly learns all she can, making new friends and discoveries in a world she is starving to experience.",
                 "short": "<p>A failed experiment by the Black Rose, Briar\u2019s uncontrollable bloodlust required a special pillory to focus her frenzied mind. After years of confinement, this living weapon broke free from her restraints and unleashed herself into the world. Now she\u2019s controlled by no one\u2014following only her hunger for knowledge and blood\u2014and relishes the opportunities to let loose, even if reining back the frenzy isn\u2019t easy.</p>",
                 "quote": "\u201cI don\u2019t lose control, I free myself from control.\u201d",
-                "quote_author": ""
+                "quote-author": ""
             },
-            "header_image": null,
             "subtitle": "the Restrained Hunger",
             "echelon": 1
         },
         {
             "type": "champion",
-            "release_date": "2010-12-14T00:00:00.000Z",
+            "release-date": "2010-12-14T00:00:00.000Z",
             "name": "Cassiopeia",
             "title": "Cassiopeia",
-            "section_title": "Cassiopeia",
+            "section-title": "Cassiopeia",
             "slug": "cassiopeia",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "Cassiopeia_0.jpg",
                 "subtitle": "",
@@ -173,7 +161,7 @@
                 "height": 717,
                 "x": 847,
                 "y": 55,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Cassiopeia_0.jpg",
@@ -185,10 +173,9 @@
                 "height": 717,
                 "x": 847,
                 "y": 55,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/cassiopeia",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -202,26 +189,25 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/cassiopeia",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/cassiopeia",
             "biography": {
                 "full": "<p>The youngest child of General Du Couteau, Cassiopeia was born to a life of possibility and privilege among the Noxian noble houses. From an early age, she displayed a keen mind and sharp wit, and while her sister Katarina flourished under their father\u2019s tutelage, it was their mother Soreana in whose footsteps Cassiopeia would follow.</p><p>A hero of Noxus\u2019 expansion into Shurima, General Du Couteau eventually sent for his family, installing them close to the governor of the coastal city of Urzeris. Surrounded by strangers in an unfamiliar land, Cassiopeia remained close to her mother, learning much of politics, diplomacy, and subtle influence. As she grew, Cassiopeia could not help but glimpse other, hidden concerns within Soreana, beyond those of the empire\u2026</p><p>One day, quite unexpectedly, Soreana collapsed in the family residence\u2014her hairbrush had been laced with caustic venoms by an unknown hand, leaving her close to death. General du Couteau was well versed in the ways of an assassin, and so he had all the household staff removed, leaving his wife and daughters alone in an empty house.</p><p>Still little more than a child, Cassiopeia never left her mother\u2019s bedside. While Soreana\u2019s recovery took many months, the bond between them became stronger than ever before.</p><p>When the general was recalled to Noxus to prepare for the long-awaited invasion of Ionia, he took Katarina with him, but Cassiopeia remained in Urzeris. Seemingly relieved, Soreana confided in her daughter that she belonged to a clandestine and secretive cabal, known by some as \u201cthe Black Rose\u201d. Having guided the empire for centuries, they had finally managed to spread their influence into Shurima.</p><p>Now free of her husband\u2019s watchful eye, Soreana\u2019s real work could begin.</p><p>In time, and under her mother\u2019s tutelage, Cassiopeia blossomed into a young woman of tremendous beauty, cunning and intelligence, if somewhat lacking in empathy. She saw those around her as tools to be used to achieve her goals, and then cast aside just as quickly.</p><p>Though she had barely reached the cusp of womanhood, she was initiated into the Black Rose by hunting down and eliminating those who had sought the death of her mother. She surprised even Soreana with her speed and efficiency, and left no trace of her activities\u2014or her proxies\u2014behind. Only then was Cassiopeia made privy to the cabal\u2019s broader plan for Shurima. Using her family\u2019s tremendous resources, she undertook a number of expeditions into the deep desert, raiding ancient ruins with the help of a local mercenary named Sivir.</p><p>Her efforts were made all the more urgent when word reached Urzeris from the capital. Grand General Boram Darkwill had been deposed by Jericho Swain, and a number of noble houses had chosen to honor this coup\u2026 including Du Couteau.</p><p>Outraged and disgusted by her husband\u2019s betrayal, and fearing that all members of the Black Rose were now in jeopardy, Soreana became desperate. She dispatched Cassiopeia to seek out the godlike power that had been the key to Shurima\u2019s supremacy in ages past. Cassiopeia swore she would return with a weapon ready for the looming secret war, or not at all.</p><p>Fulfilling this oath would leave her changed forever. Upon unearthing a long lost tomb of the mythical Ascended, she knew this was the threshold to the power she sought, and intended to dispatch all witnesses from her expedition before claiming it. The guide Sivir was the first to fall to Cassiopeia\u2019s blade, but then an ancient stone tomb guardian reared up, and buried its fangs into her flesh.</p><p>Overcome by its arcane toxins, she was carried back through the desert by her hired soldiers, screaming as her body twisted into something new and unspeakable\u2026</p><p>Cassiopeia locked herself in the disused crypt of the Urzeris residence, and endured the untold agonies of this transformation. Gone was the brilliant and beautiful daughter of Soreana Du Couteau, replaced by a monstrous, slithering creature that skulked in the shadows, spitting poison, and crushing stone as easily as glass.</p><p>For weeks she wept and howled, grieving her lost life\u2026 until the day she could weep no more. She dragged herself up from the depths of despair, determined to accept\u2014maybe even someday <i>embrace?</i>\u2014her fate. It was not the Ascension she had hoped for, but Cassiopeia had unearthed the magic of dead Shuriman gods. She would turn it to the schemes of the Black Rose just as she and her mother had planned, and she could feel this power growing within her, day by day.</p><p>Though into what, even she cannot guess.</p>",
                 "short": "Cassiopeia is a deadly creature bent on manipulating others to her will. Youngest and most beautiful daughter of the noble Du Couteau family of Noxus, she ventured deep into the crypts beneath Shurima in search of ancient power. There, she was bitten by a gruesome tomb guardian, whose venom transformed her into a viper-like predator. Cunning and agile, Cassiopeia now slithers under the veil of night, petrifying her enemies with her baleful gaze.",
                 "quote": "\u201cSecrets are sharper than blades\u2026\u201d",
-                "quote_author": "Cassiopeia"
+                "quote-author": "Cassiopeia"
             },
-            "header_image": null,
             "subtitle": "the Serpent's Embrace",
             "echelon": 2
         },
         {
             "type": "champion",
-            "release_date": "2012-05-23T00:00:00.000Z",
+            "release-date": "2012-05-23T00:00:00.000Z",
             "name": "Darius",
             "title": "Darius",
-            "section_title": "Darius",
+            "section-title": "Darius",
             "slug": "darius",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "Darius_0.jpg",
                 "subtitle": "",
@@ -232,7 +218,7 @@
                 "height": 717,
                 "x": 745,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Darius_0.jpg",
@@ -244,10 +230,9 @@
                 "height": 717,
                 "x": 745,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/darius",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -269,26 +254,25 @@
                     "slug": "tank"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/darius",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/darius",
             "biography": {
                 "full": "<p>Darius and his brother Draven grew up as orphans in the port city of Basilich. Darius struggled to provide for them both, constantly fighting with gangs of older urchins and anyone else who threatened his little brother\u2014even the city guard. Every day on the streets was a battle for survival, and Darius earned more scars by his twelfth summer than some soldiers do in a lifetime.</p><p>After Basilich was seized by the expanding Noxian empire, the victorious commander Cyrus saw the strength in these defiant brothers, and they found a home within the ranks of his warhost. Over the years, they fought in many grueling campaigns of conquest from one end of the known world to the other, as well as crushing a number of rebellions against the throne.</p><p>Within the empire, anyone could rise to power, no matter their birth, culture, or background, and none embraced this ideal more fervently than Darius. From humble beginnings, he rose steadily through the ranks, always putting duty before all else, and garnering great respect for his aggression, discipline, and refusal to ever take a backward step. On the bloodsoaked fields of Dalamor Plain, he even beheaded a Noxian general after the coward ordered a retreat. Roaring in defiance and hefting his bloodied axe overhead, Darius rallied the scattered warbands and won a great and unexpected victory against a far more numerous foe.</p><p>He was rewarded with a senior command of his own, attracting many thousands of eager recruits from across the empire. Darius turned the majority away, accepting only the strongest, the most disciplined and iron-willed. Such was his fearsome notoriety, even in the lands beyond Noxus, that it was not uncommon for entire cities to surrender at the first sight of his banners.</p><p>After a grinding victory against the cloud-fortresses of the Varju, a proud warrior people who had resisted decades of Noxian aggression, Darius was named the Hand of Noxus by Emperor Boram Darkwill himself. Those who knew Darius best knew he craved neither power nor adulation\u2014he wished merely to see Noxus triumph over all\u2014so Darkwill ordered him and his warhosts far north into the Freljord, to finally bring the barbarian tribes to heel.</p><p>The campaign dragged on for years, ending in a bitter, icy stalemate. Darius narrowly survived assassination attempts, ambushes, and even capture by the vicious Winter\u2019s Claw. He was growing weary of endless wars of attrition, and returned to Noxus to demand a reconsolidation of the military.</p><p>He marched his veterans into the capital, only to find that the emperor was dead, killed in a coup led by Jericho Swain. The act had been supported by many allies, including Darius\u2019s own brother, Draven.</p><p>This was a difficult position. As Hand, many of the noble houses would expect Darius to avenge Darkwill, but he had known and greatly respected the disgraced general Swain, and had spoken against his discharge after the botched offensive in Ionia some years earlier. The oaths of the Hand were to Noxus, not any particular ruler, and Swain was a man who spoke honestly of his new vision for the empire. Darius realized this was a leader he was prepared to follow... but Swain had other ideas.</p><p>With the establishment of the Trifarix, three individuals would rule Noxus together, each embodying one principle of strength: Vision, Might, and Guile. Darius gladly accepted his place on this council, and pledged to raise a new, elite force\u2014the Trifarian Legion, the most loyal and prestigious warriors the empire could produce\u2014and lead the armies of Noxus into a glorious new age of conquest.</p>",
                 "short": "There is no greater symbol of Noxian might than Darius, the nation\u2019s most feared and battle-hardened leader. Rising from humble origins to become the Hand of Noxus, he cleaves through the empire\u2019s enemies\u2014many of them Noxians themselves. Knowing that he never doubts his cause is just, and never hesitates once his axe is raised, those who stand against the commander of the Trifarian Legion can expect no mercy.",
                 "quote": "\u201cHistory only remembers the victors. Stand with Noxus, and be remembered forever.\u201d",
-                "quote_author": "Darius"
+                "quote-author": "Darius"
             },
-            "header_image": null,
             "subtitle": "the Hand of Noxus",
             "echelon": 3
         },
         {
             "type": "champion",
-            "release_date": "2012-06-06T00:00:00.000Z",
+            "release-date": "2012-06-06T00:00:00.000Z",
             "name": "Draven",
             "title": "Draven",
-            "section_title": "Draven",
+            "section-title": "Draven",
             "slug": "draven",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "Draven_0.jpg",
                 "subtitle": "",
@@ -299,7 +283,7 @@
                 "height": 717,
                 "x": 1025,
                 "y": 100,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Draven_0.jpg",
@@ -311,7 +295,7 @@
                 "height": 717,
                 "x": 1025,
                 "y": 100,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/draven",
             "video": {
@@ -324,7 +308,7 @@
                 "height": 720,
                 "x": 1050,
                 "y": 100,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -339,26 +323,25 @@
                     "slug": "marksman"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/draven",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/draven",
             "biography": {
                 "full": "<p>Even as an orphan on the streets of Basilich, Draven was headstrong and full of bravado, frequently getting into vicious brawls with older street children and shady underworld thugs. While supremely confident in his own ability\u2014some would say <i>overconfident</i>\u2014it is unlikely he would have survived childhood had it not been for his older brother, Darius, who invariably finished the fights Draven started.</p><p>When Basilich fell to the warhosts of Noxus, the brothers came to the attention of a captain named Cyrus, after Draven made an ill-considered attempt on his life. Impressed with their fighting spirit, Cyrus allowed them to join the Noxian ranks.</p><p>For years, the brothers fought as part of Cyrus\u2019 warhost\u2014yet while Darius took to this life easily, Draven grew steadily more bored. His martial skill was beyond question, but the daily drudgery of soldiering felt like too much effort for too little reward\u2026 and not enough personal glory.</p><p>Darius inevitably rose to command his own warband, and Draven joined him. However, if he thought that would be easier, or a way to achieve greater individual recognition, he was sorely disappointed.</p><p>Some say Draven chose to leave Darius\u2019 command. Some say he was forced out. Either way, his skills were highly sought after as a champion and duelist, and he was enticed to join a succession of warbands during the occupation of Ionia, before ending up with a fairly respectable contract in the Reckoning pits.</p><p>For centuries, the gladiatorial Reckoners had performed a vital role in Noxus\u2014punishing criminals and settling disputes between the noble houses\u2014and Draven was determined to receive the riches, adoration, and renown he felt he deserved. However, with long, protracted wars on many fronts, the spectacle was beginning to lose its appeal for the common citizen. As the attention of the crowds drifted, Draven fell into a slump, spending more and more time in the seedier drinking halls and gambling dens of the capital.</p><p>He was washed-up and broke when the former general Jericho Swain found him.</p><p>Swain had a plan to reclaim Noxus\u2019 lost glory, and needed Draven\u2019s help to achieve it. Perhaps Swain only enlisted him as a way to ensure his brother Darius\u2019 support after the fact. Regardless, Draven proved integral to Swain\u2019s plan\u2014to depose the Grand General himself, Boram Darkwill.</p><p>Standing triumphant with Swain, Draven smiled for the first time in months as the cheers of the Noxian people washed over him.</p><p>But duty called. In the days and weeks following this unprecedented coup, many among the noble elite refused to honor Swain\u2019s succession, so they were sentenced to death in the arena.</p><p>One condemned man escaped his handlers ahead of his execution. Operating on pure instinct\u2014as was ever his wont\u2014Draven leapt from the high balcony and hurled a pair of axes at the fleeing man, cutting him down in a heartbeat. After a moment of stunned silence, the crowd roared their approval. Draven retrieved his axes, spinning them high in the air, playing to his new fans, and savoring their rapturous applause.</p><p>Thus Draven became the Glorious Executioner, turning routine bouts into grand spectacles that drew ever larger crowds.</p><p>Soon enough, an enterprising (and diminutive) promoter, tired of paying to house, feed, and train Reckoners only for them to die in front of dwindling audiences, approached Draven with an idea. What if the drama of the classic pit fights could be combined with Draven\u2019s natural showmanship?</p><p>The Reckoners quickly became entertainers as much as combatants, each with their own carefully constructed backstory, fighting style, and flamboyant personality. The fights were often bloody\u2014this was still <i>Noxus</i> after all\u2014but far less often ended in death. The rivalries, trash-talking, and intrigue between the best-known Reckoners became the stuff of legend throughout the empire, but none were talked about more than Draven.</p><p>For a time he lived the high life, receiving invitations to a never-ending stream of parties and banquets, mixing with the wealthy and influential of Swain\u2019s new Noxus. He even reconciled with Darius, and would occasionally still march out with the warhosts, defeating enemy champions and generals in single combat.</p><p>Nevertheless, Draven has started to grow restless once again. He has all that he could have ever imagined, and more, but now dreams of the day when the whole <i>world</i> knows his name.</p>",
                 "short": "In Noxus, warriors known as reckoners face one another in arenas where blood is spilled and strength tested\u2014but none has ever been as celebrated as Draven. A former soldier, he found that the crowds uniquely appreciated his flair for the dramatic, not to mention the spray of blood from each of his spinning axes. Addicted to the spectacle of his own brash perfection, Draven has sworn to defeat whomever he must to ensure that his name is chanted throughout the empire forever more.",
                 "quote": "'' 'The best' is wherever I decide to set the bar each day.''",
-                "quote_author": "Draven"
+                "quote-author": "Draven"
             },
-            "header_image": null,
             "subtitle": "the Glorious Executioner",
             "echelon": 4
         },
         {
             "type": "champion",
-            "release_date": "2009-09-19T00:00:00.000Z",
+            "release-date": "2009-09-19T00:00:00.000Z",
             "name": "Katarina",
             "title": "Katarina",
-            "section_title": "Katarina",
+            "section-title": "Katarina",
             "slug": "katarina",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "Katarina_0.jpg",
                 "subtitle": "",
@@ -369,7 +352,7 @@
                 "height": 717,
                 "x": 822,
                 "y": 356,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Katarina_0.jpg",
@@ -381,10 +364,9 @@
                 "height": 717,
                 "x": 822,
                 "y": 356,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/katarina",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -406,26 +388,25 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/katarina",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/katarina",
             "biography": {
                 "full": "<p>Born to one of the most respected noble families of Noxus, Katarina Du Couteau found herself elevated above others from an early age. While her younger sister Cassiopeia took after their politically brilliant mother, Katarina was very much her father\u2019s daughter, and the wily General Du Couteau pushed her to learn the way of the blade; to cut away the empire\u2019s enemies not with reckless brutality, but deadly precision. He was a harsh teacher with many pupils, and notoriously difficult to impress.</p><p>So it was that Katarina\u2019s childhood\u2014if it can be called such\u2014had little room for kindness or rest. She spent every waking moment honing herself into the ultimate weapon, testing her endurance, her dexterity, her tolerance for pain. She stole poisons from the city\u2019s least reputable apothecaries, testing their efficacy in tiny increments upon herself, gradually building her resistance even as she catalogued their effects. She scaled the tallest towers in the dead of night, unseen by anyone.</p><p>She yearned to do her part for Noxus. She yearned for the opportunity to demonstrate her hidden strengths in service of the empire, and the throne.</p><p>Her first mark came straight from her father, camped with his warbands on the eve of one of the military\u2019s innumerable westward invasions\u2026 She was to assassinate a line officer of the opposing army, a low-born wretch by the name of Demetrius.</p><p>Katarina was livid. She hadn\u2019t trained her entire life to have her talents wasted on some dungheel barely skilled enough to swing a sword! He simply wouldn\u2019t do. Instead of her assigned target, Katarina stole into the enemy camp and slit the enemy commander\u2019s throat as he slept. It was a flawless execution. It would bring a swift victory, and glory to Noxus. It would make her father proud.</p><p>At dawn, his face daubed with ashes, the vengeful hero Demetrius led a berzerk charge into her father\u2019s encampment. Dozens of Noxian soldiers were slaughtered, along with the general\u2019s personal retinue. Katarina\u2019s father himself barely escaped with his life.</p><p>He was furious beyond words, refusing even to look his daughter in the eye. She had shamed him, and their family name. The greatest assassins do not seek recognition or glory, he reminded her. They do not expect to occupy a place of honor at their master\u2019s right hand.</p><p>Overwhelmed, Katarina struck out into the wilderness, alone. She would complete her original mission. Demetrius would pay with his life. Even so, her mind swam. Could she ever forgive herself? How had she been so foolish?</p><p>She was so distracted, she didn\u2019t see her attacker until he had nearly taken her eye out.</p><p>For Katarina\u2019s failure, General Du Couteau had sent another of his prot\u00e9g\u00e9s after her; a nameless whelp dragged up from one of the lesser assassins\u2019 guilds. But even with blood streaming down her face, the years of rigorous training kicked in, and her blades were in her hands in an instant.</p><p>Six hours later, she tossed Demetrius\u2019s severed head at her father\u2019s feet.</p><p>She told the general she had considered taking <i>his</i> head instead, but eventually decided\u2014as much as she hated to admit it\u2014that he had done the right thing in ordering her death. She had failed. Not just as an assassin, or as a daughter, but as a <i>Noxian</i>. </p><p>And failure must have its consequences. She ran her fingers along the raw, deep gash over her left eye, and thought of the price others had paid for her arrogance.</p><p>She knew she had lost her father\u2019s favor, and could never regain it. He would raise others in her place, simply to spite her. Still, she vowed to redeem herself, no matter the cost\u2014to rededicate her talents to the empire, and to become the sinister weapon she always intended to be.</p>",
                 "short": "Decisive in judgment and lethal in combat, Katarina is a Noxian assassin of the highest caliber. Eldest daughter to the legendary General Du Couteau, she made her talents known with swift kills against unsuspecting enemies. Her fiery ambition has driven her to pursue heavily-guarded targets, even at the risk of endangering her allies\u2014but no matter the mission, Katarina will not hesitate to execute her duty amid a whirlwind of serrated daggers.",
                 "quote": "''Never question my loyalty. You will never know what I endure for it.''",
-                "quote_author": "Katarina"
+                "quote-author": "Katarina"
             },
-            "header_image": null,
             "subtitle": "the Sinister Blade",
             "echelon": 5
         },
         {
             "type": "champion",
-            "release_date": "2016-08-10T00:00:00.000Z",
+            "release-date": "2016-08-10T00:00:00.000Z",
             "name": "Kled",
             "title": "Kled",
-            "section_title": "Kled",
+            "section-title": "Kled",
             "slug": "kled",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "Kled_0.jpg",
                 "subtitle": "",
@@ -436,7 +417,7 @@
                 "height": 717,
                 "x": 1102,
                 "y": 4,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Kled_0.jpg",
@@ -448,7 +429,7 @@
                 "height": 717,
                 "x": 1102,
                 "y": 4,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/kled",
             "video": {
@@ -461,7 +442,7 @@
                 "height": 720,
                 "x": 1102,
                 "y": 4,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -484,26 +465,25 @@
                     "slug": "tank"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/kled",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/kled",
             "biography": {
                 "full": "<p>Legends of the popular folk hero Kled can be traced back to the founding of Noxus, and perhaps even further still. He is an icon revered by the common soldiery, which is increasingly a cause of concern to their commanders\u2014for there are some among the warhosts who claim to have <i>literally</i> served beside him.</p><p>Tall tales such as \u201cThe Great Hussar\u2019s Victory\u201d, \u201cThe Return of the High General Marshal-Sergeant\u201d, and \u201cThe Mountain Admiral\u201d abound, which strongly imply Kled has fought in every campaign ever waged, acquired every military title, and never once backed down from a fight. Though the details are often outlandish and contradictory, the essence of the tale remains: charging into battle on his un-trusty steed, Skaarl, Kled fights to protect what\u2019s his\u2026 and takes whatever else he can get.</p><p>In truth, the Cantankerous Cavalier hails from another land entirely\u2014Bandle City. As a yordle, he made his home among the proud Noxii tribes in the wake of the Rune Wars, and has never looked back.</p><p>The earliest mention of Kled in historical records was at the First Battle of Drugne. In the dusty hills of those badlands, the warhost of General Zaavan was on the run from barbarian foes. Having lost the previous two engagements, morale was low. The supply train had been abandoned in the rout, and they were a week\u2019s march from the nearest outpost. Zaavan, in his spotless armor, seemed more concerned with how this would appear back home than the welfare of his soldiers, and ordered a defensive circle formation to buy himself time to think.</p><p>Then, as the morning sun rose, the lone figure of Kled appeared on the hilltop, mounted upon a desert drakalops. This warrior\u2019s weapon was rusted, his armor worn, his clothes tattered\u2014but contempt and anger burned in his one good eye.</p><p>He bellowed an ultimatum to the barbarian horde, demanding that they leave his lands or be destroyed. However, he did not wait for any response, spurring his steed and screaming the charge. Desperate, starving, and furious with their general, the Noxian warhost\u2019s anger ignited at the sight of this act of bravado. They rushed after Kled as he tore into the enemy.</p><p>What followed was one of the bloodiest melees ever fought on the northern steppes. The initial momentum of the counterattack was crushed beneath a hail of barbarian arrows from higher ground, but Kled fought on even after he was thrown from his saddle and his drakalops fled. He always seemed to be at the heart of the battle, chopping down foes, kicking out teeth, and biting faces. The bodies piled up around him, and his clothes were soaked with blood. He screamed louder challenges and cruder insults. Clearly, this great warrior was willing to die before ever backing down.</p><p>Cowardice can be infectious, but so too can courage. Where the Noxians might have given up and fled for their lives, instead they were inspired to make one last stand.</p><p>Even Kled\u2019s drakalops returned, and crashed into the barbarians\u2019 rearguard, snarling and clawing as it dived in to free its master. With his mount again beneath him, Kled became a veritable whirlwind of death, and it was the barbarians who broke and ran.</p><p>Though too few of the Noxian soldiers survived that day for it to be considered a victory, Drugne was contested long enough that word reached the Immortal Bastion, and reinforcements were sent. The war ground on for at least another decade, until the barbarian leaders sued for peace\u2014their strength was added to Noxus, and Drugne became a foothold for continued campaigns across Dalamor and the north for many centuries to come.</p><p>The body of General Zaavan\u2014and his fine armor\u2014was never found.</p><p>In time, countless other warhosts of the empire acquired similar stories of Kled. It has long been said that he rides wherever Noxians march, claiming the spoils of war for himself. Indeed, in their wake, good-humored signs can often be found proclaiming each new territory <i>\u201cProperty of Kled\u201d</i>.</p>",
                 "short": "A warrior as fearless as he is ornery, the yordle Kled embodies the furious bravado of Noxus. Many claim Kled has fought in every campaign the warhosts have waged, acquired every military title, and never once backed down from a fight. Though the truth of the matter is often questionable, one part of his legend is always the same: charging into battle on his un-trusty steed, Skaarl, Kled fights to protect what\u2019s his\u2026 and takes whatever else he can get.",
                 "quote": "\u201cA sane man would run\u2026 but I ain\u2019t the runnin\u2019 kind!\u201d",
-                "quote_author": "Kled"
+                "quote-author": "Kled"
             },
-            "header_image": null,
             "subtitle": "the Cantankerous Cavalier",
             "echelon": 6
         },
         {
             "type": "champion",
-            "release_date": "2010-11-02T00:00:00.000Z",
+            "release-date": "2010-11-02T00:00:00.000Z",
             "name": "LeBlanc",
             "title": "LeBlanc",
-            "section_title": "LeBlanc",
+            "section-title": "LeBlanc",
             "slug": "leblanc",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "Leblanc_0_v2.jpg",
                 "subtitle": "",
@@ -514,7 +494,7 @@
                 "height": 717,
                 "x": 634,
                 "y": 3,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Leblanc_0_v2.jpg",
@@ -526,10 +506,9 @@
                 "height": 717,
                 "x": 634,
                 "y": 3,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/leblanc",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -551,26 +530,25 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/leblanc",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/leblanc",
             "biography": {
                 "full": "<p>Matron of the Black Rose, LeBlanc\u2019s identity is as intangible as the whispers that describe her, as ephemeral as the illusions that give her shape. Perhaps it is unknown even to herself, after so many centuries of mimicry and deception\u2026<br> <br>Remnants of an order that has existed far longer than Noxus itself, initiates of the Black Rose have schemed from the shadows for centuries, drawing the rich and powerful to their ranks. Though they do not often learn the origins of their matron, many have uncovered legends of a pale sorceress who aided the broken barbarian tribes, in their struggle against the infamous Iron Revenant subjugating lands already ravaged by the darkin. Even today, his name is whispered in fear: <i>Mordekaiser</i>.<br> <br>Uniquely skilled among the revenant\u2019s inner circle before she betrayed him, the sorceress pledged to neutralize the source of his power, the Immortal Bastion, cutting him off from the well of death that fueled his nightmarish empire. Yet, even as the barbarians built an empire of their own in the bastion\u2019s shadow, they failed to realize that the arcane secrets it held had not completely been locked away. The pale sorceress had always been gifted at illusion, and her greatest trick was to make Noxus forget the dark power roiling in its own heart, before she was burned from the pages of history around the time of the Rune Wars.<br> <br>The Black Rose exists now to further the clandestine interests of those who can wield such magic\u2014with its rank-and-file composed of mundane nobles, drawn to rumors of miracles, kept in thrall and ruthlessly exploited. Even the most powerful military commander could only ever serve the cult\u2019s true masters, as they fight one another for influence in games of intrigue and conquest, both in the Noxian capital and beyond its borders.</p><p>For centuries, LeBlanc has served in secret as an advisor to foreign dignitaries, appearing in many nations at once, her illusions driving order into chaos. Rumors of a new matron rising with each generation only raise further questions\u2014which is the \u201ctrue\u201d version of herself? When she speaks, is it with her own voice? And what will the price be, for the favor she offers?</p><p>Boram Darkwill was but the latest to learn this last answer for himself. Though the Black Rose had aided his bid for the throne, he refused the counsel of their hand-picked advisors, requiring LeBlanc to take drastic measures. Manipulating a young nobleman named Jericho Swain into revealing the cult\u2019s involvement, LeBlanc allowed herself to be executed along with the most prominent conspirators\u2026 or at least, so it appeared. In time, she reached out to Darkwill herself, and found an increasingly paranoid ruler, fearful of his own mortality.<br> <br>After promising him the secrets to extend his life, LeBlanc slowly poisoned Darkwill\u2019s mind, even as she empowered him. Under his rule, the Noxian reverence of strength became something far more sinister, and together they ensured Swain\u2019s legend would end in disgrace on the battlefields of Ionia.<br> <br>But Swain, emboldened by forbidden lore from within the Immortal Bastion, did something wholly unexpected, managing to drag Darkwill from the throne and seize Noxus for himself. This new Grand General was not interested in his own legacy, but the glory of the empire\u2014and such a man could not so easily be corrupted. After countless centuries, LeBlanc wondered, had she finally found a worthy nemesis?<br> <br>Her actions have pushed Runeterra to the brink of all-out war many times. In the wake of desperate campaigns across the Freljord, on Targon\u2019s peaks, and deep in Shurima\u2019s deserts, the darkest magic has begun to spread once more, circling closer and closer to Noxus. Whether LeBlanc is still the same pale sorceress who betrayed the Iron Revenant, or merely one of countless hollow reflections, her influence clearly stems from ancient roots.<br> <br>The Black Rose has yet to truly bloom.</p>",
                 "short": "Mysterious even to other members of the Black Rose cabal, LeBlanc is but one of many names for a pale woman who has manipulated people and events since the earliest days of Noxus. Using her magic to mirror herself, the sorceress can appear to anyone, anywhere, and even be in many places at once. Always plotting just out of sight, LeBlanc\u2019s true motives are as inscrutable as her shifting identity.",
                 "quote": "\u201cI am not looking for counsel. If I wanted a second opinion, I would simply ask myself.\u201d",
-                "quote_author": "LeBlanc"
+                "quote-author": "LeBlanc"
             },
-            "header_image": null,
             "subtitle": "the Deceiver",
             "echelon": 7
         },
         {
             "type": "champion",
-            "release_date": "2025-01-23T20:00:00.000Z",
+            "release-date": "2025-01-23T20:00:00.000Z",
             "name": "Mel",
             "title": "Mel",
-            "section_title": "Mel",
+            "section-title": "Mel",
             "slug": "mel",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "Mel_0.jpg",
                 "subtitle": "",
@@ -581,7 +559,7 @@
                 "height": 1080,
                 "x": 710,
                 "y": 132,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Mel_0.jpg",
@@ -593,10 +571,9 @@
                 "height": 1080,
                 "x": 710,
                 "y": 132,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/mel",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -610,26 +587,25 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": "https://www.leagueoflegends.com/en-us/champions/mel/",
+            "game-info-url": "https://www.leagueoflegends.com/en-us/champions/mel/",
             "biography": {
                 "full": "<p>Mother,</p><p>A soldier gave me the gift of your mask today.</p> <p>Mindlessly, I traced the cracks, taking in every dent, every scar from the countless battles where you emerged victorious\u2014and the one battle you did not.</p><p>Only now, as our ship crosses the waters to Noxus, has reality begun to set in. You are gone, again. But this time, I can no longer hope for your return.</p><p>I know you wouldn't want me to dwell on this. You'd tell me to be proud\u2014I finally became \u201cthe Wolf\u201d you so desperately desired. Still, I wonder, did I become what you hoped for? Or just what you needed me to be?</p><p>So much has changed, and yet part of me is as lost as I was over ten years ago. When I think back on it, the air of cousin Jago's greeting when I first arrived in Piltover\u2014it reeked of pity. You'd made it clear that I was being delivered, handed off, and that you wouldn't be coming back for me. Even so, for years, I would fall asleep longing for you as any daughter longs for her mother\u2014despite everything you'd done. Every morning, I awoke to the emptiness you left behind. I've spent my life trying to fill that emptiness, to prove myself worthy of my own mother's love.</p><p>I have lived the only way I know how\u2014as the Fox, swift and cunning. I earned the Council's trust, and nearly had Piltover in the palm of my hand. If only you had trusted me, Mother. I wouldn't be left with this mess. <strike>I wouldn't have had to</strike></p><p>No. It's not that simple.</p><p>I know now you were trying to protect me, in your own way. I never could have imagined such magic lay dormant within me, but there are many things about my past I hadn't considered before your passing. Truthfully, it is overwhelming\u2014and all the more reason I wish I could have fought at your side. I cannot begin to imagine what you must have felt, being hunted by the Black Rose for all those years. But I do know that if you were ever afraid, it wasn't for yourself. It was for Kino, and for me. And in the end, I was your undoing. Perhaps you knew all along that I was the one to fear.</p><p>I'm sorry, Mother, but I don't regret protecting my city. With strength, comes sacrifice\u2014isn't that what you always said? Your creed, your excuse for everything. Did you ever care what it did to me? To us? Was it worth it? I'm the one left bearing the cost of it all.</p><p>You kept so much hidden from me. The truth about my father. Kino's murderer. And, perhaps most pressing of all, this vendetta the Black Rose had against you\u2014that now entangles me. I imagine these merely scratch the surface of your lies, and those of this \u201cDeceiver.\u201d</p><p>I plan to uncover everything you've kept from me.</p><p>It pains me that these words will never reach you, but I hope you're watching from Volrachnun. I will cast this letter overboard, so it may be drawn into the depths and become one with the waters off Rokrund's shores, where you once defeated death itself.</p><p>I'm soon to arrive as an outsider in the land where I was born. Our own guards do not truly see me as a Medarda, even if the distrust within their hearts dares not escape their lips. A nation that prizes strength, yet thrives on bloodshed, is not one I can proudly call my own\u2014and I will not stand idly by as the chaos continues. You taught me how to survive, Mother. I taught myself how to live. And while you pushed me to embrace the Wolf, I will never abandon the ways of the Fox.</p><p>It may not be in the way you intended\u2026 but I'm coming home, Mother.</p><p>And I will make a difference here.</p><p></p><p>Until my heart no longer beats,</p><p>Your daughter, Mel</p>",
                 "short": "Mel Medarda is the presumed heir of the Medarda family, once one of the most powerful in Noxus. In appearance she is a graceful aristocrat, but beneath the surface lies a skilled politician who makes it her business to know everything about everyone she meets. After an encounter with the mysterious Black Rose, Mel discovered the depths of her mother's deception and, for once, faced a situation potentially beyond her control. With newly awakened magical abilities, she sailed home in search of answers\u2014and though many still seek to temper the light within her, Mel's soul remains forever defiant.",
                 "quote": "\u201cThe wolf, the fox\u2013both necessary, both unrelenting.\u201d",
-                "quote_author": ""
+                "quote-author": ""
             },
-            "header_image": null,
             "subtitle": "the Soul's Reflection",
             "echelon": 8
         },
         {
             "type": "champion",
-            "release_date": "2010-02-24T00:00:00.000Z",
+            "release-date": "2010-02-24T00:00:00.000Z",
             "name": "Mordekaiser",
             "title": "Mordekaiser",
-            "section_title": "Mordekaiser",
+            "section-title": "Mordekaiser",
             "slug": "mordekaiser",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "Classic_Mordekaiser_Splash.jpg",
                 "subtitle": "",
@@ -640,7 +616,7 @@
                 "height": 2780,
                 "x": 2356,
                 "y": 222,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Classic_Mordekaiser_Splash.jpg",
@@ -652,10 +628,9 @@
                 "height": 2780,
                 "x": 2356,
                 "y": 222,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/mordekaiser",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -669,26 +644,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/mordekaiser",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/mordekaiser",
             "biography": {
                 "full": "<p>In a previous epoch, the fierce warlord Sahn-Uzal rampaged across the northern wildlands. Driven by dark faith, he crushed every tribe and settlement in his path, forging an empire in blood and death. As his mortal life neared its end, he took great satisfaction in knowing he had doubtless earned a seat at the gods\u2019 table, in the glorious Hall of Bones, for all eternity.</p><p>Yet, when he died, he found no halls or glory awaiting him. Instead, Sahn-Uzal stood in an empty, gray wasteland, shrouded by ethereal fog and plagued by discordant whispers. Occasionally, other lost souls drifted nearby\u2014little more than ghostly shapes, wandering their own personal oblivion.</p><p>Anger consumed Sahn-Uzal. Had his faith been false? Or was his domination of the world simply not enough to grant him the immortality he craved? Surely this emptiness could not be all there was\u2026 yet there seemed no end to it. He watched as the lesser spirits slowly faded into the fog, unmade and lost to time.</p><p>But Sahn-Uzal refused to fade.</p><p>His will, tempered by rage and torment, held him together. Over time, the unknowable, disembodied whispering in that place crystalized into words he could almost comprehend\u2014this, he learned, was <i>Ochnun</i>, a profane tongue unspoken by any among the living. Slowly, a deceitful plan began to form in what was left of Sahn-Uzal\u2019s mind. He began to whisper temptations across the veil between realms, promising his indomitable strength to any who dared listen.</p><p>And, sure enough, the day came when a coven of sorcerers resolved to bring Sahn-Uzal back from the dead. Lacking any flesh or bone, he spurred them to make him stronger than any mortal, binding his spirit-form in dark metal plates wrought in the likeness of his old armor. So he rose, a hulking revenant of iron and hate.</p><p>These power-hungry sorcerers had hoped to use him as a weapon in their trivial wars. Instead, he slew them where they stood, their weapons and magic useless against him.</p><p>In desperation, they screamed out his name to bind him\u2014but to no avail, for Sahn-Uzal was no more.</p><p>With an ethereal rumble, he spoke his spirit-name in Ochnun: <i>Mordekaiser</i>.</p><p>Thus began his second conquest of the mortal realm. As before, his ambitions were great, only now empowered by necromantic sorceries he could never have previously imagined. From the fearful, dissipating souls of the sorcerers, Mordekaiser forged a weapon fit for an emperor of death\u2014his brutal mace, Nightfall\u2014and seized control of the army they had raised.</p><p>To his foes, it seemed he cared only for massacre and destruction. Entire generations perished under his relentless campaigns.</p><p>However, there was far more to Mordekaiser\u2019s plan. He raised the Immortal Bastion at the center of his empire; while most assumed it was merely a seat of power, some came to know the secrets it held. Mordekaiser hungered for all the forbidden knowledge of spirits and death, and a true understanding of the realm\u2026 or <i>realms</i>\u2026 beyond.</p><p>Such tyranny could only bring him enemies. The Iron Revenant was defeated, surprisingly, by an alliance of the Noxii tribes, and betrayal from within his own inner circle. This hidden cabal managed to sever the anchors of his soul from his armor, and sealed the empty iron shell away in a secret place.</p><p>And so, Mordekaiser was cast out of the material realm. However, unbeknownst to anyone, he had planned for this\u2014indeed, it was a pivotal part of his design. Domination and deceit had carried him far, but he knew that a destiny far grander than the Hall of Bones awaited him.</p><p>There, in the once empty wasteland, all those who had died under his latest reign were waiting. Perverted by dark sorcery, their spirits would never fade. The strongest became his devout, eternal army, bound to his will\u2026 but even the weak were given purpose.</p><p>From the subtle matter of their souls, Mordekaiser would forge a new empire. They would be the building blocks and mortar of his Afterworld.</p><p>Centuries have passed on Runeterra, and another empire has arisen around the Immortal Bastion. Mordekaiser\u2019s name is still whispered in fear and awe by those who study the old histories, and remembered unkindly by the few ancient souls who knew him. For them, the greatest terror would be for Mordekaiser to find his own way to return permanently.</p><p>It is something they pray will not come to pass, for they know of no way to stop him.</p>",
                 "short": "Twice slain and thrice born, Mordekaiser is a brutal warlord from a foregone epoch, who uses his necromantic sorcery to bind souls into an eternity of servitude. Few now remain who remember his earlier conquests, or know the true extent of his powers\u2014but there are some ancient souls that do, and they fear the day when he may return to claim dominion over both the living and the dead.",
                 "quote": "\u201cDestiny. Domination. Deceit.\u201d",
-                "quote_author": "Mordekaiser"
+                "quote-author": "Mordekaiser"
             },
-            "header_image": null,
             "subtitle": "the Iron Revenant",
             "echelon": 9
         },
         {
             "type": "champion",
-            "release_date": "2020-11-23T00:00:00.000Z",
+            "release-date": "2020-11-23T00:00:00.000Z",
             "name": "Rell",
             "title": "Rell",
-            "section_title": "Rell",
+            "section-title": "Rell",
             "slug": "rell",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "rell-splash.jpg",
                 "subtitle": "",
@@ -699,7 +673,7 @@
                 "height": 1038,
                 "x": 930,
                 "y": 132,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "rell-splash.jpg",
@@ -711,10 +685,9 @@
                 "height": 1038,
                 "x": 930,
                 "y": 132,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/rell",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -728,26 +701,24 @@
                     "slug": "support"
                 }
             ],
-            "game_info_url": null,
             "biography": {
                 "full": "<p>Posters across Noxus warn of a dangerous criminal, armed with a massive, blunted spear and borne atop a magical fiend, whose mere existence poses a threat to the safety and security of the entire nation. Even some within the steeled ranks of the Trifarian Legion have begun to worry that they will be sent after her to their almost certain deaths.</p><p>What kind of monster could be behind such heinous, unchecked destruction?</p><p>The simple answer is a sixteen-year-old girl.</p><p>The complicated one is unforgivable.</p><p>Rell was special from the moment of her birth\u2014and fated to suffer for it. Born the daughter of a Noxian footsoldier and the heir to a fallen noble house, she enjoyed neither the trappings of wealth nor the gilded upbringing common to children of the lower aristocracy. Nevertheless, her parents had grand plans to mold her into someone who could shatter through Noxus\u2019 dense political landscape. As Rell\u2019s mother always said, \u201cExcellence is measured in sacrifice.\u201d</p><p>Rell\u2019s unhappiness grew with time, sparking something unique within her\u2014a magic unlike anything seen in centuries: the ability to manipulate metal. To Rell\u2019s parents, this was something to be exploited\u2014for Rell\u2019s own sake, of course!\u2014and they tried unsuccessfully to apprentice her with many powerful mages who might whisk their daughter into the political or military elite.</p><p>But someone else took notice of the young girl\u2019s magic. Seeing in Rell a weapon who could one day face Noxus\u2019 most hated, ancient foe, a certain pale woman visited the family with a dark bargain. Rell soon found herself the star pupil of a very special academy, hidden far from the capital and away from the council\u2019s prying eyes. And though they rarely made appearances in her new boarding school, her mother and father never seemed more proud or more hopeful of their daughter\u2019s future.</p><p>It seemed, at least for a moment, that perhaps Rell would be loved after all.</p><p>Then the true horrors began.</p><p>Rell was first forced into combat with another student when she was eight, and, afterward, a kind of magic sigil was painfully grafted into her arm, amplifying her powers so that she could become even stronger. Yet while this had been framed as a training exercise, Rell never saw the boy again. She never saw any of her opponents again.</p><p>Every day, she grew more powerful, honing her magic for martial combat. Her body became covered with sigils that amplified her magical abilities to impossible heights. In time, she could rip a vein of raw ore from deep out of the ground, twist the walls into deadly weapons, and superheat an opponent\u2019s armor until it collapsed and crushed them. But her instructors desired even more from her\u2014all in the hopes that Rell would be the most powerful soldier the empire had ever known.</p><p>On her sixteenth birthday, after a particularly barbaric duel, she\u2019d finally had enough. Casting her instructors aside, Rell tore past the guards and ripped open the doors of a forbidden wing of the academy, discovering the true nature of her school: Every opponent she\u2019d defeated had been Nullified\u2014their magic forcibly extracted from them and placed into the very sigils covering Rell\u2019s body\u2014and left as emotionless puppets devoid of memories. This was the price of her power, and she could never give it back.</p><p>Worst of all was the headmistress who oversaw the procedures herself: Rell\u2019s own mother. All of this had been for Rell, she said. After all... excellence is measured in sacrifice.</p><p>Rell raged.</p><p>To the small handful of faculty who survived her escape from the academy, it was like the earth had been torn open into a twisting whirlwind of razor-sharp slag. The building ripped itself apart, forming an impenetrable suit of black armor around Rell as she crushed those who stood before her, flattening seasoned soldiers with a lance heavier than a mountain. Bursting through the front gate on a steed made of rippling iron, she led as many of her classmates as she could to freedom\u2014leaving the Rose scrambling to recover the Null and erase any trace of what their organization had done.</p><p>But it was far too late. Soon enough, the surviving faculty members began to die in increasingly public ways, and the Null could no longer be kept secret.</p><p>Rell is now a threat to Noxus, but not in the way the handbills proclaim. She is a self-styled defender of the meek, full of unchecked fury, distrustful of everyone, and merciless toward a government that turned a blind eye to years of suffering and abuse. Not because the empire was personally responsible\u2014but because they stood by and did nothing.</p><p>Riding atop her iron steed, Rell\u2019s eyes are set on nothing less than the complete destruction of Noxus and saving any children who, like her, survived the Black Rose academy.</p><p>And there is nothing in this world that can stop her.</p>",
                 "short": "The product of brutal experimentation at the hands of the Black Rose, Rell is a defiant, living weapon determined to topple Noxus. Her childhood was one of misery and horror, enduring unspeakable procedures to perfect and weaponize her magical control over metal... until she made a violent escape, killing many of her captors in the process. Now branded as a criminal, Rell attacks Noxian soldiers on sight as she searches for survivors of her old \u201cacademy\u201d, defending the meek while delivering merciless death to her former instructors.",
                 "quote": "\u201cForge your heart into something strong. Unbreakable.\u201d",
-                "quote_author": "Rell"
+                "quote-author": "Rell"
             },
-            "header_image": null,
             "subtitle": "the Iron Maiden",
             "echelon": 10
         },
         {
             "type": "champion",
-            "release_date": "2011-09-14T00:00:00.000Z",
+            "release-date": "2011-09-14T00:00:00.000Z",
             "name": "Riven",
             "title": "Riven",
-            "section_title": "Riven",
+            "section-title": "Riven",
             "slug": "riven",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "Riven_0.jpg",
                 "subtitle": "",
@@ -758,7 +729,7 @@
                 "height": 717,
                 "x": 1047,
                 "y": 2,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Riven_0.jpg",
@@ -770,10 +741,9 @@
                 "height": 717,
                 "x": 1047,
                 "y": 2,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/riven",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -795,26 +765,25 @@
                     "slug": "assassin"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/riven",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/riven",
             "biography": {
                 "full": "<p>Built on perpetual conflict, Noxus has never had a shortage of war orphans. Her father lost to an unnamed battle and her mother to the girl\u2019s own stubborn birth, Riven was raised on a farm run by the empire on the rocky hillsides of Trevale.</p><p>Physical strength and ferocious will kept the children alive and working on the hard scrap of land, but Riven hungered for more than simply bread on the table. She watched conscriptors from regional warbands visiting the farms, year after year, and in them, she saw a chance at the life she dreamed of. When she finally pledged the empire her strength, she knew Noxus would embrace her as the daughter she longed to be.</p><p>Riven proved a natural soldier. Young as she was, her years of hard labor allowed her to quickly master the weight of a longsword taller than herself. Her new family was forged in the heat of battle, and Riven saw her bond to her brothers- and sisters-in-arms as unbreakable.</p><p>So exceptional was her dedication to the empire, that Boram Darkwill himself recognized her with a runic blade of dark metal, enchanted by a pale sorceress within his court. The weapon was heavier than a kite shield and nearly as broad\u2014perfectly suited to Riven\u2019s tastes.</p><p>Not long after, the warhosts set sail for Ionia as part of the long-planned Noxian invasion.</p><p>As this new war dragged on, it became clear that Ionia would not kneel. Riven\u2019s unit was assigned to escort another warband making its way through the embattled province of Navori. The warband\u2019s leader, Emystan, had employed a Zaunite alchymist, eager to test a new kind of weapon. Across countless campaigns, Riven would gladly have given her life for Noxus, but now she saw something awry in these other soldiers\u2014something that made her deeply uncomfortable. The fragile amphorae they carried on their wagons had no purpose on any battlefield she could imagine...</p><p>The two warbands met increasingly fierce resistance, as if even the land itself sought to defy them. During a heavy rain storm, with mud pouring down the hillsides, Riven and her warriors were stranded with their deadly cargo\u2014and it was then that the Ionian fighters revealed themselves. Seeing the danger, Riven called to Emystan for support.</p><p>The only answer she received was a flaming arrow, fired out from the ridgeline, and Riven understood this was no longer a war to expand the borders of Noxus. It was to be a complete annihilation of the enemy, no matter the cost.</p><p>The wagon was hit straight on. Instinctively, Riven drew her sword, but it was too late to protect anyone but herself. Chemical fire burst from the ruptured containers, and screams filled the night\u2014both Ionian and Noxian falling victim to an agonizing, gruesome death. Shielded from the scorching, poisonous mists by the magic of her blade, she bore unwilling witness to scenes of horror and betrayal that would haunt her forever.</p><p>For Riven, memories of the hours that followed come only in fragments, and nightmares. She bound her wounds. She mourned the dead. But, most of all, she came to hate the sword that saved her life. The words carved into its surface mocked her, reminding her of all she had lost. She would find a way to break it, severing her last tie to Noxus, before the dawn.</p><p>But when the blade was finally shattered, still she found no peace.</p><p>Stripped of the faith and conviction that had bolstered her entire life, Riven chose to exile herself, wandering Ionia\u2019s battle-scarred landscape. When she finally returned to the village where she had broken the sword, it was revealed that her self-destructive needs had cost the life of their most revered elder... and yet Ionia embraced her with forgiveness.</p><p>Noxus was not nearly so merciful. Although the empire had long since withdrawn from the First Lands, it had not forgotten about Riven, or her runic blade. After fighting fiercely against those sent to bring her to justice, she refused to let any more Ionian blood be shed on her account, and surrendered herself to the charges of desertion leveled against her.</p><p>As she returns to Noxus in chains, Riven remains haunted. Though Darkwill is no more, and the empire is rumored to have evolved, she is uncertain what will become of her, or whether she will ever be made whole again.</p>",
                 "short": "Once a swordmaster in the warhosts of Noxus, Riven rose through the ranks on the strength of her conviction and brutal efficiency, and was rewarded with a legendary runic blade and a warband of her own. However, on the Ionian front, Riven\u2019s faith in her nation was tested and ultimately broken. She severed all ties to the empire, seeking to find her place in a shattered world, even as rumors abounded that Noxus had been reforged. Now forced to return in chains, she faces the judgment of her former homeland...",
                 "quote": "\u201cA warrior\u2019s blade reflects the truth in their heart. Mine is black, and broken.\u201d",
-                "quote_author": "Riven"
+                "quote-author": "Riven"
             },
-            "header_image": null,
             "subtitle": "the Exile",
             "echelon": 11
         },
         {
             "type": "champion",
-            "release_date": "2020-09-21T00:00:00.000Z",
+            "release-date": "2020-09-21T00:00:00.000Z",
             "name": "Samira",
             "title": "Samira",
-            "section_title": "Samira",
+            "section-title": "Samira",
             "slug": "samira",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "samira-splash.jpg",
                 "subtitle": "",
@@ -825,7 +794,7 @@
                 "height": 1100,
                 "x": 1134,
                 "y": 102,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "samira-splash.jpg",
@@ -837,10 +806,9 @@
                 "height": 1100,
                 "x": 1134,
                 "y": 102,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/samira",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -854,26 +822,24 @@
                     "slug": "marksman"
                 }
             ],
-            "game_info_url": null,
             "biography": {
                 "full": "<p>In the city of Amakra, on the eastern edge of the Great Sai, Samira and her parents made a living as street performers. They dazzled, beguiled, and awed onlookers, which thrilled Samira, but worried her parents. Despite the fun their daughter had, they wished she could enjoy a more stable life.</p><p>But wishes are as fickle as the desert rain.</p><p>On the eve of Samira\u2019s fourteenth birthday, armed strangers swarmed Amakra. Hidden among the rafters of her home, Samira watched as the strangers invoked the name of an ancient magus and seized innocent villagers. Many people were slain before her eyes.</p><p>Samira did not cry. She did not scream. Instead, she seethed in anger\u2014not at the killers, but at herself for hiding. She had never felt crippled by fear before, even when she attempted the most daring stunts. In that moment, Samira hated herself, and vowed never to feel so scared and helpless again.</p><p>Though wounded, Samira and her parents escaped to Bel\u2019zhun, a port city under Noxian rule, with a handful of others. To the Amakrans, Noxus provided a safe haven. To Samira, Noxus opened a door.</p><p>While other refugees found comfort in living quietly, Samira was determined to reclaim her courage. She took to the streets alone since her parents, weary and injured, could not. Performing was no longer a job\u2014it was her stage to be fearless. She outdid herself with every stunt, even when no one bothered to look. But it was still not enough to support her family.</p><p>That was when Samira stumbled upon a call to join a Noxian warband. Drawn to the excitement and the financial resources it would provide, she enlisted.</p><p>Her physical prowess amazed her peers. Deft with a blade and sharp with her aim, Samira reveled in her raw athleticism, excelling in combat\u2026 but faltering in discipline. After two years of training, her recklessness frustrated her commanding officers, save for one: Captain Indari. A former saboteur, Indari valued Samira\u2019s fearlessness and offered her a position in her private warband\u2014a specialized unit charged with missions that were deemed too perilous for standard military personnel. Hungry for the dangers it promised, Samira agreed without hesitation.</p><p>She fully embraced Noxian culture, finding her own strength and style amid life-and-death shootouts and breathtaking sword fights. In her free time, Samira regaled her family with stories of her tattoos, each representing only her most unforgettable feats. To her, what mattered most was challenging herself to turn danger into thrill, and thriving off the constant risk that made her feel truly alive.</p><p>On orders from the capital, Indari\u2019s unit found themselves on the Rokrund Plains, sent to crush a secessionist uprising. As the warband located the enemy stronghold and approached the rebel leader, the fortress exploded. Samira dove headfirst into the chaos as the structure collapsed, permanently injuring her right eye. Feeling neither scared nor helpless, she wasted no time in recovering Indari, who had sustained a more serious injury\u2014the captain could no longer move her legs. Indari, frustrated at her failure as their leader, disbanded the unit upon the return of its survivors.</p><p>Discharged, and with no other opportunities rousing her interest, Samira drifted back home to Bel\u2019zhun\u2014but it was no longer a lifestyle she could endure.</p><p>Samira returned to the Noxian capital and located Indari. She believed her former captain understood her craving for challenges in ways nobody else could, and wanted to make use of Indari\u2019s connections in the military and noble houses. She proposed they team up again in a new partnership, where Indari could operate behind the scenes to find Samira high-stakes mercenary work.</p><p>Reluctantly, Indari agreed, but it left her former prot\u00e9g\u00e9 alone with no field support\u2026</p><p>And Samira couldn\u2019t have been happier. She eagerly undertook missions meant for entire warbands\u2014and thrived.</p><p>Her daredevil reputation spread far and wide. From beating a chem-baron in hand-to-hand combat, to being the lone survivor of a Bilgewater raid, Samira completed every job no matter the odds. With Indari\u2019s support, even the Noxian high command accepted her, recognizing there was no one better suited to take on their most perilous missions.</p><p>Now, Samira shows no signs of slowing down. She can be found scaling mountain cliffs one day, and arm-wrestling outlaws in crowded taverns the next. But wherever she may be, one thing is certain: Samira never fails to find her next big thrill.</p>",
                 "short": "Samira stares death in the eye with unyielding confidence, seeking thrill wherever she goes. After her Shuriman home was destroyed as a child, Samira found her true calling in Noxus, where she built a reputation as a stylish daredevil taking on dangerous missions of the highest caliber. Wielding black-powder pistols and a custom-engineered blade, Samira thrives in life-or-death circumstances, eliminating any who stand in her way with flash and flair.",
                 "quote": "\u201cVirtues, I've got a few. Vices, a few more.\u201d",
-                "quote_author": "Samira"
+                "quote-author": "Samira"
             },
-            "header_image": null,
             "subtitle": "the Desert Rose",
             "echelon": 12
         },
         {
             "type": "champion",
-            "release_date": "2009-02-21T00:00:00.000Z",
+            "release-date": "2009-02-21T00:00:00.000Z",
             "name": "Sion",
             "title": "Sion",
-            "section_title": "Sion",
+            "section-title": "Sion",
             "slug": "sion",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "Sion_0.jpg",
                 "subtitle": "",
@@ -884,7 +850,7 @@
                 "height": 717,
                 "x": 944,
                 "y": 4,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Sion_0.jpg",
@@ -896,7 +862,7 @@
                 "height": 717,
                 "x": 944,
                 "y": 4,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/sion",
             "video": {
@@ -909,7 +875,7 @@
                 "height": 720,
                 "x": 944,
                 "y": 4,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -932,26 +898,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/sion",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/sion",
             "biography": {
                 "full": "<p>Over a century past, the brutal warlord Sion rose to prominence, slaughtering all who dared stand in his way. Greatly feared by friend and foe alike, he was the last of a proud warrior culture that had been part of Noxus since its founding. Sion had sworn oaths to his ancestors to never take a backward step in battle, and to die a proud warrior\u2019s death when his time came.</p><p>While not noted for his subtlety or strategic acumen, Sion\u2019s methods were ruthlessly effective, and he won many vicious triumphs for Noxus. The empire\u2019s might was at a peak not seen for hundreds of years, and so it took the generals of high command by surprise when a nation from the west first resisted, then began pushing back their steady advance. These <i>Demacians</i> drove the Noxian warbands eastward, harrying them back behind the walls of Hvardis. Sion, who had been campaigning in the Argent Mountains, now turned south, filled with fury.</p><p>He arrived at the city to find the Demacians on the horizon. They had no intention of besieging Hvardis\u2014having driven the Noxians from the lands neighboring their own, they were preparing to return home. Sion readied his troops, determined to punish these upstarts for their impudence. The Noxian commander at Hvardis, however, had already suffered several defeats to the enemy, and was content to hide behind the city walls and let them leave unscathed. </p><p>It had been Sion and his warriors who had paid the claim to the land now lost in blood; outraged, he hurled the commander from the city walls, and ordered the attack.</p><p>Sion tore straight through the Demacian lines, seeking out their leader\u2014King Jarvan the First. But while his own warband charged with him, fearless of death, those who had been cowering in Hvardis were weak. Their spirit broke, and they retreated back to the city, leaving Sion and his trusted few surrounded. One by one, they fell, but Sion ploughed on.</p><p>Alone, pierced by a dozen swords and a score of crossbow bolts, he finally reached Jarvan. The fight was brutal, and it was the Demacian who delivered the killing blow. Sion dropped his axe and, with a final burst of strength, tore the king\u2019s crown from his head with one hand, clamping the other around his throat. Jarvan\u2019s guards stabbed Sion again and again, but his grip did not loosen.</p><p>Only when the enemy king was slain did Sion allow death to claim him.</p><p>His body was recovered\u2014along with the Demacian king\u2019s crown, still in his grip\u2014and borne back to the Immortal Bastion in honor. Noxus mourned Sion\u2019s passing, and his corpse was interred within a towering monument constructed to honor him for all time.</p><p>Half a century passed before Sion\u2019s tomb was reopened.</p><p>Noxian dominance had waned in the years since Sion\u2019s death, and the ruling Grand General of the empire, Boram Darkwill, was willing to pay almost any price to restore its lost glory. Darkwill\u2019s allies, a mysterious cabal known as the Black Rose, reanimated the long-dead hero using forbidden magics, and presented him to the Grand General.</p><p>He could not refuse this gift, and so Sion returned to life, driven by unnatural bloodlust and utterly inured to pain.</p><p>He hurled himself like a living battering ram against the enemies of Noxus, destroying all he faced. More so than before his death, the victories Sion brought were costly. He was uncontrollable, killing friend and foe without remorse, and those forced to fight alongside him began to desert. Finally, Darkwill ordered Sion reinterred.</p><p>Hundreds of warriors died trying to restrain him before he was finally bound in chains and dragged back to the Immortal Bastion. Without slaughter, the blood magic that sustained him quickly engulfed his mind in an all-consuming rage. His roars finally fell silent as he was sealed in beneath his giant statue.</p><p>There he languished for many years, neither alive nor truly dead. When his tomb opened once more, it was to a very different empire. Darkwill was gone, overthrown by the general Jericho Swain\u2014but Sion cared little, roaring and pulling against his bindings in a frenzy that could only be sated in battle.</p><p>Chained within an iron cage, he returned to Hvardis, which had broken away from Noxian rule under Darkwill\u2019s reign; Sion was the new Grand General\u2019s punishment for their rebellion.</p><p>He butchered the defenders of Hvardis and leveled the city, laughing as he ripped its towers apart with his bare hands. Other regions that had abandoned Noxus soon bent the knee, fearing the undead juggernaut would be unleashed upon them next.</p><p>When harsh daylight floods his opening tomb, Sion now welcomes it\u2026 for with it comes the chance to shed his chains and sate his hunger for bloodshed, to briefly silence the screaming madness drowning out all thought of rest.</p><p>Sion remembers only fragments of his life, and less of the times since, but one truth has remained as stark as on the day of his death\u2014now, as then, the world trembles before him.</p>",
                 "short": "A brutal warlord from a bygone era, Sion was revered in Noxus for choking the life out of a Demacian king with his bare hands\u2014but, denied the peace of death, he was resurrected to serve his empire once more. His indiscriminate slaughter claims all who stand in his way, regardless of allegiance, proving he has retained little of his former humanity. With crude armor bolted onto his rotten flesh, Sion continues to charge into battle with reckless abandon, struggling to remember his true self between the swings of his mighty axe.",
                 "quote": "\u201cWar is eternal... as am I.\u201d",
-                "quote_author": "Sion"
+                "quote-author": "Sion"
             },
-            "header_image": null,
             "subtitle": "the Undead Juggernaut",
             "echelon": 13
         },
         {
             "type": "champion",
-            "release_date": "2010-10-05T00:00:00.000Z",
+            "release-date": "2010-10-05T00:00:00.000Z",
             "name": "Swain",
             "title": "Swain",
-            "section_title": "Swain",
+            "section-title": "Swain",
             "slug": "swain",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "swain-splash.jpg",
                 "subtitle": "",
@@ -962,7 +927,7 @@
                 "height": 1133,
                 "x": 1458,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "swain-splash.jpg",
@@ -974,10 +939,9 @@
                 "height": 1133,
                 "x": 1458,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/swain",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -999,26 +963,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/swain",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/swain",
             "biography": {
                 "full": "<p>Born into a patrician family, one of many to exist since the first walls were raised around Noxus, Jericho Swain seemed destined for a life of privilege. The noble houses had played a key role in Boram Darkwill\u2019s rise to power, stoking rhetoric that their proud heritage was the nation\u2019s greatest strength.</p><p>However, many hungered for greater influence, plotting against Darkwill in a secret cabal united by nothing more than the symbol of a black rose. Uncovering their intrigue, Swain personally executed the most prominent conspirators. Among them were his own parents, whose whispers of a \u201cpale woman\u201d had first alerted him of the danger to Noxus, which he valued more than house or kin. </p><p>They sought a power, a shapeless voice cackling in the darkness of the Immortal Bastion. <i>Something like a raven\u2019s caw</i>\u2026</p><p>For exposing the cabal, Swain was granted a commission in the Noxian army, far from anything he had ever known. There, he learned firsthand that the empire was not strong because of Noxians, as he had believed, but because of the way it could unite <i>all</i> men in spite of their origins. On the front lines, a foreign slave could be the equal of a highborn noble. </p><p>But still, Swain found only darkness in the wake of each battle. <i>Clouds of carrion crows</i>\u2026</p><p>After securing the western borders, Swain\u2019s own reputation was secured in Shurima, where his forces raised countless <i>noxtoraa</i> above the desert sands. Yet, in time, it became clear that greed was the sole purpose driving the empire forward. Fighting wars on too many fronts, lusting over magical relics, the aging Boram Darkwill was clearly growing unhinged.</p><p>When Noxus invaded Ionia, Darkwill began to move even more brazenly, retasking entire warbands to scour the land for anything rumored to extend a mortal lifespan. With Swain\u2019s forces depleted, it became nearly impossible to engage the enemy. Finally, at the Battle of the Placidium, after luring the local militia into what should have been a trap, Swain\u2019s warhost was overrun. His veterans were routed, and Swain was gravely wounded, his knee shattered, Ionian blades cleaving through his left arm.</p><p>As he lay on the verge of death, a raven approached to feed, and Swain felt an old, familiar darkness press upon him again. But he would not let it take him. He <i>could</i> not. Staring into the the bird\u2019s eye, he saw reflections of the evil strangling the heart of Noxus. <i>A black rose. The pale woman... and her puppet emperor.</i> Swain realized that he had not defeated the hidden cabal, and they had betrayed him to what should have been his death, after seducing Darkwill, the man they failed to overthrow.</p><p>All this was glimpsed, not in the mind of a raven, but something <i>more</i>. The power his parents had been seeking, the demonic eyes blazing in the dark\u2026</p><p>Cast out of the military for his \u201cfailure,\u201d considered nothing more than a cripple, Swain set about uncovering what truly lay within the Immortal Bastion\u2014an ancient entity, preying upon the dying and consuming their secrets, as it had attempted to consume his own. Swain stared into that darkness, seeing what even <i>it</i> could not: a way to wield it.</p><p>Though his meticulous preparations took many years, Swain and his remaining allies seized control of Noxus in a single night. Physically restored by the demon, he crushed Darkwill in full view of his followers, leaving the throne shattered and empty. </p><p>Swain\u2019s vision for the future of Noxus is one of strength through unity. He has pulled back the warhosts from Darkwill\u2019s unwinnable campaigns and, with the establishment of the Trifarix, ensured that no individual can rule unopposed. He embraces any who will pledge themselves to the empire\u2014even the Black Rose, though he knows, in secret, they still plot against him.</p><p>Gathering knowledge as the demon did before him, Swain has foreseen far greater dangers lurking just beyond. However, many Noxians secretly wonder if the darkness they face will pale in comparison to the dark things Swain has done\u2026</p><p>The sacrifices are only beginning, for the good of Noxus.</p>",
                 "short": "<p>Jericho Swain is the visionary ruler of Noxus, an expansionist nation that reveres only strength. Though he was cast down and crippled in the Ionian wars, his left arm severed, he seized control of the empire with ruthless determination\u2026 and a new, demonic hand. Now, Swain commands from the front lines, marching against a coming darkness that only he can see\u2014in glimpses gathered by shadowy ravens from the corpses all around him. In a swirl of sacrifice and secrets, the greatest secret of all is that the true enemy lies within.</p>",
                 "quote": "\u201cI have learned enough to detest all men. Only nations may be revered.\u201d",
-                "quote_author": "Swain"
+                "quote-author": "Swain"
             },
-            "header_image": null,
             "subtitle": "the Noxian Grand General",
             "echelon": 14
         },
         {
             "type": "champion",
-            "release_date": "2011-08-24T00:00:00.000Z",
+            "release-date": "2011-08-24T00:00:00.000Z",
             "name": "Talon",
             "title": "Talon",
-            "section_title": "Talon",
+            "section-title": "Talon",
             "slug": "talon",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "Talon_0.jpg",
                 "subtitle": "",
@@ -1029,7 +992,7 @@
                 "height": 717,
                 "x": 893,
                 "y": 121,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Talon_0.jpg",
@@ -1041,10 +1004,9 @@
                 "height": 717,
                 "x": 893,
                 "y": 121,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/talon",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -1066,26 +1028,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/talon",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/talon",
             "biography": {
                 "full": "<p>Talon&apos;s earliest memories are the darkness of Noxus&apos; underground passages and the reassuring steel of a blade. He remembers no family, warmth, or kindness. Instead, the clink of stolen gold and the security of a wall at his back are all the kinship he has ever craved. Kept alive only by his quick wits and deft thievery, Talon scraped out a living in the seedy underbelly of Noxus. His mastery of the blade quickly marked him as a threat, and Noxian guilds sent assassins to him with a demand: join their ranks or be killed. He left the bodies of his pursuers dumped in Noxus&apos; moat as his response.</p><p>The assassination attempts grew increasingly frequent until one assailant met Talon blade-for-blade in a match of strength. To his surprise, Talon was disarmed and facing down his executioner&apos;s sword when the assassin revealed himself to be General Du Couteau. The General offered Talon the choice between death at his hand, or life as an agent of the Noxian High Command. Talon chose life, on the condition that his service was to Du Couteau alone, for the only type of orders he could respect were from one he could not defeat.</p><p>Talon remained in the shadows, carrying out secret missions on Du Couteau&apos;s orders that took him from the frigid lands of the Freljord to the inner sanctums of Demacia itself. When the general vanished, Talon considered claiming his freedom, but he had gained immense respect for Du Couteau after years in his service. He became obsessed with tracking down the general&apos;s whereabouts, and scours the land in search of those responsible for Du Couteau&apos;s disappearance.</p>",
                 "short": "Talon is the knife in the darkness, a merciless killer able to strike without warning and escape before any alarm is raised. He carved out a dangerous reputation on the brutal streets of Noxus, where he was forced to fight, kill, and steal to survive. Adopted by the notorious Du Couteau family, he now plies his deadly trade at the empire\u2019s command, assassinating enemy leaders, captains, and heroes\u2026 as well as any Noxian foolish enough to earn the scorn of their masters.",
                 "quote": "''The three deadliest blademasters in all of Valoran are bound to the house of Du Couteau: my father, myself, and Talon. Challenge us, if you dare.''",
-                "quote_author": "Katarina Du Couteau"
+                "quote-author": "Katarina Du Couteau"
             },
-            "header_image": null,
             "subtitle": "the Blade's Shadow",
             "echelon": 15
         },
         {
             "type": "champion",
-            "release_date": "2010-07-27T00:00:00.000Z",
+            "release-date": "2010-07-27T00:00:00.000Z",
             "name": "Vladimir",
             "title": "Vladimir",
-            "section_title": "Vladimir",
+            "section-title": "Vladimir",
             "slug": "vladimir",
-            "associated_faction": "",
-            "associated_faction_slug": "noxus",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
             "image": {
                 "title": "Vladimir_0.jpg",
                 "subtitle": "",
@@ -1096,7 +1057,7 @@
                 "height": 717,
                 "x": 1023,
                 "y": 21,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Vladimir_0.jpg",
@@ -1108,10 +1069,9 @@
                 "height": 717,
                 "x": 1023,
                 "y": 21,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/vladimir",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -1133,23 +1093,22 @@
                     "slug": "tank"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/vladimir",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/vladimir",
             "biography": {
                 "full": "<p>A master of ancient, forbidden sorcery, Vladimir is among the oldest enigmas of Noxus. He was present at the dawn of the empire, and has since woven his influence deep into its foundations\u2026 but he remembers little of those days. His mind is mortal, and so most of his unnaturally extended life endures not in his memory, but in his chronicles.</p><p>History has lost track of Vladimir on many occasions, though its pages are littered with figures suspected to have been him. Legend once told of a prince in a kingdom threatened by the infamous darkin, as their great war spilled into Valoran. With his father\u2019s crown at stake, and many more heirs ahead of him in the line of succession, the unfortunate youth was traded to the fallen god-warriors as a hostage.</p><p>Mortals were little more than cattle under the tyranny of the darkin, their supremacy apparent in the sorceries they had conceived\u2014the arts of crafting flesh and transmuting blood, granting them mastery over life itself.</p><p>Believing himself above other mortal vassals, and therefore worthy of such power, Vladimir was the first of his kind permitted to study this terrifying magic. His devotion earned him a place of favor in his patron\u2019s warhost, and the right to practice hemomancy and enforce the darkin\u2019s will on lesser beings. Over time, the god-warrior watched with amusement as Vladimir came to govern his subjects with as little mercy as the darkin themselves.</p><p>The fall of these cruel tyrants is, likewise, the stuff of legend. An account of it, written in the dead High Shuriman language, is kept hidden within the Immortal Bastion. It speculates that Vladimir\u2019s master was not imprisoned like so many of his kin, but instead died at the hands of his own warhost. The few surviving mortals fled, taking what knowledge they had of blood magic with them.</p><p>Unknown to all but Vladimir himself, it was he who struck the killing blow. Scarred, blinded, driven mad by the radiance of a darkin\u2019s undoing, he absorbed enough power to renew flesh that was never meant to last beyond a mortal lifespan.</p><p>And he has done this countless times since, through rituals too vile to speak of.</p><p>At the height of Mordekaiser\u2019s dark reign, it was said that a mythic and bloodthirsty fiend haunted the coastal cliffs of eastern Valoran, demanding young lives and savage worship from the local tribes. Few were welcome in his lair, until the day a pale sorceress approached this barbarian god with an offer. The two feasted together as equals, weaving magic so dark that the wine at their table soured, and the roses withered, vibrant red turning to black.</p><p>Thus began the pact between Vladimir and LeBlanc, rife with disputes, and games of politics and war. Over the centuries, others joined them\u2014powerful nobles, exalted masters of magic, and beings darker still. This cabal grew into the hidden power that would guide the throne of Noxus for more than a thousand years, orchestrating many of the empire\u2019s most ambitious campaigns.</p><p>Uniquely among the leaders of the Black Rose, Vladimir has rarely limited himself to scheming from the shadows. In the past, he deigned to join the Noxian noble courts during the most <i>interesting</i> of times, only to fade into seclusion decades later, his extreme age\u2014and the atrocities his sorcery could wreak\u2014a well-kept secret. Even so, under Vladimir\u2019s tutelage, the art of hemomancy has found a place in the military of Noxus, and among scions of the old aristocracy. Among these diverse practitioners is the Crimson Circle, a youthful cult dedicated as much to Vladimir\u2019s personality as to blood magic itself.</p><p>With the death of the previous Grand General and the rise of Jericho Swain, the political landscape of the empire changed dramatically, and Vladimir has been forced to rouse himself once more.</p><p>Wearing the guise of a benevolent socialite, he has returned to the public eye as a vocal opponent of the ruling Trifarix council\u2026 much to the concern of more <i>cautious</i> members of the Black Rose. Indeed, his reappearance may have come too soon, as time has not yet washed away all the stains of his previous lifetime, and it seems likely that Swain himself has begun to grasp Vladimir\u2019s true nature.</p><p>As a new and darker conflict approaches Noxus, Vladimir drinks deeply from the renewed vitality of the empire, reminding himself of his past glories. To him, this life is a mere revelry, a masquerade spanning centuries, and the prologue to greatness\u2014for though the darkin eventually fought amongst themselves and lost their immortal grip on the world, Vladimir knows he is strongest alone.</p>",
                 "short": "<p>A fiend with a thirst for mortal blood, Vladimir has influenced the affairs of Noxus since the empire\u2019s earliest days. In addition to unnaturally extending his life, his mastery of hemomancy allows him to control the minds and bodies of others as easily as his own. In the flamboyant salons of the Noxian aristocracy, this enabled him to build a fanatical cult of personality around himself\u2014while in the lowest back alleys, it allows him to bleed his enemies dry.</p>",
                 "quote": "Time has made me wiser, but no more patient.",
-                "quote_author": "Vladimir"
+                "quote-author": "Vladimir"
             },
-            "header_image": null,
             "subtitle": "the Crimson Reaper",
             "echelon": 16
         }
     ],
-    "explore_factions": [
+    "explore-factions": [
         {
             "type": "faction",
             "title": "Targon",
-            "section_title": "Targon",
+            "section-title": "Targon",
             "name": "Targon",
             "slug": "mount-targon",
             "description": "Mount Targon is the mightiest peak in Runeterra, a towering peak of sun-baked rock amid a range of summits unmatched in scale anywhere else in the world. Located far from civilization, Mount Targon is utterly remote and all but impossible to reach save by the most determined seeker. Many legends cling to Mount Targon, and, like any place of myth, it is a beacon to dreamers, madmen and questors of adventure. Some of these brave souls attempt to scale the impossible mountain, perhaps seeking wisdom or enlightenment, perhaps chasing glory or some soul-deep yearning to witness its summit. The ascent is all but impossible, and those hardy few who somehow survive to reach the top almost never speak of what they have seen. Some return with a haunted, empty look in their eyes, others changed beyond all recognition, imbued by an Aspect of unearthly, inhuman power with a destiny few mortals can comprehend.</p>",
@@ -1163,7 +1122,7 @@
                 "height": 1080,
                 "x": 1559,
                 "y": 411,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "mount-targon_splash.jpg",
@@ -1175,16 +1134,16 @@
                 "height": 1080,
                 "x": 1559,
                 "y": 411,
-                "featured_champions": []
+                "featured-champions": []
             },
             "echelon": "",
-            "associated_champions": [],
+            "associated-champions": [],
             "url": "/en_us/region/mount-targon"
         },
         {
             "type": "faction",
             "title": "Piltover",
-            "section_title": "Piltover",
+            "section-title": "Piltover",
             "name": "Piltover",
             "slug": "piltover",
             "description": "Piltover is a thriving, progressive city whose power and influence is on the rise. It is Valoran\u2019s cultural center, where art, craftsmanship, trade and innovation walk hand in hand. Its power comes not through military might, but the engines of commerce and forward thinking. Situated on the cliffs above the district of Zaun and overlooking the ocean, fleets of ships pass through its titanic sea-gates, bringing goods from all over the world. The wealth this generates has given rise to an unprecedented boom in the city\u2019s growth. Piltover has - and still is - reinventing itself as a city where fortunes can be made and dreams can be lived. Burgeoning merchant clans fund development in the most incredible endeavors: grand artistic follies, esoteric hextech research, and architectural monuments to their power. With ever more inventors delving into the emergent lore of hextech, Piltover has become a lodestone for the most skilled craftsmen the world over.</p>",
@@ -1198,7 +1157,7 @@
                 "height": 867,
                 "x": 711,
                 "y": 849,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "piltover_splash.jpg",
@@ -1210,10 +1169,10 @@
                 "height": 867,
                 "x": 711,
                 "y": 849,
-                "featured_champions": []
+                "featured-champions": []
             },
             "echelon": "",
-            "associated_champions": [],
+            "associated-champions": [],
             "url": "/en_us/region/piltover"
         }
     ],
@@ -1221,7 +1180,7 @@
         {
             "slug": "tor-noxus",
             "type": "featured-video",
-            "featured_image": {
+            "featured-image": {
                 "title": "noxus_splash.jpg",
                 "subtitle": "",
                 "description": "",
@@ -1231,7 +1190,7 @@
                 "height": 1080,
                 "x": 1559,
                 "y": 411,
-                "featured_champions": []
+                "featured-champions": []
             },
             "title": "Tales of Runeterra: Noxus",
             "subtitle": "",
@@ -1242,78 +1201,51 @@
                 "subtitle": "",
                 "description": [],
                 "uri": "https://www.youtube.com/watch?v=FGlhWPwrkDg",
-                "encoding": null,
                 "width": "",
                 "height": "",
                 "x": "",
                 "y": "",
-                "featured_champions": []
+                "featured-champions": []
             },
-            "release_date": "2020-04-15T15:00:00.000Z",
-            "video_type": "cinematic",
-            "featured_champions": [],
-            "related_champions": []
+            "release-date": "2020-04-15T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [],
+            "related-champions": []
         },
         {
             "slug": "noxus-image-gallery-environments",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "noxus-image-gallery-life",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "noxus-image-gallery-military",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "darius-bloodofnoxus",
             "type": "link-out",
-            "featured_image": null,
             "title": "Darius: Blood of Noxus",
-            "subtitle": null,
-            "description": "<p>In all Runeterra, there is no army more feared than that of the Noxian empire.</p> <p>In all Noxus, there is no soldier more respected than Darius.</p> <p>Of all the commandments that have kept Noxus strong, one rule stands above all others:</p> <p>Loyalty is everything.</p>",
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": null,
-            "related_champions": null
+            "description": "<p>In all Runeterra, there is no army more feared than that of the Noxian empire.</p> <p>In all Noxus, there is no soldier more respected than Darius.</p> <p>Of all the commandments that have kept Noxus strong, one rule stands above all others:</p> <p>Loyalty is everything.</p>"
         },
         {
             "slug": "noxus-dev-diary",
             "type": "featured-video",
-            "featured_image": {
+            "featured-image": {
                 "title": "noxus-update-image.jpg",
                 "subtitle": "",
                 "description": "",
@@ -1323,7 +1255,7 @@
                 "height": 1080,
                 "x": 973,
                 "y": 473,
-                "featured_champions": []
+                "featured-champions": []
             },
             "title": "Surviving in Noxus | /dev diary",
             "subtitle": "",
@@ -1334,17 +1266,16 @@
                 "subtitle": "",
                 "description": [],
                 "uri": "https://youtu.be/TD3J57yFuas",
-                "encoding": null,
                 "width": "",
                 "height": "",
                 "x": "",
                 "y": "",
-                "featured_champions": []
+                "featured-champions": []
             },
-            "release_date": "2018-02-05T16:00:00.000Z",
-            "video_type": "dev-diary",
-            "featured_champions": [],
-            "related_champions": []
+            "release-date": "2018-02-05T16:00:00.000Z",
+            "video-type": "dev-diary",
+            "featured-champions": [],
+            "related-champions": []
         }
     ]
 }

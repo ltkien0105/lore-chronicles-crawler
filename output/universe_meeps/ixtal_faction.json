@@ -10,11 +10,7 @@
             "description": "",
             "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/1a75d072fa01ec3d0cda3f87fc1bf18dce736424-5000x2811.jpg?accountingTag=LoL",
             "encoding": "image/jpeg",
-            "width": null,
-            "height": null,
-            "x": null,
-            "y": null,
-            "featured_champions": []
+            "featured-champions": []
         },
         "video": {
             "title": "ixtal_splashvideo.webm",
@@ -22,29 +18,25 @@
             "description": "",
             "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/670a63d489e907098afeafd2ce42a81e8e64bfcb.webm?accountingTag=LoL",
             "encoding": "video/webm",
-            "width": null,
-            "height": null,
-            "x": null,
-            "y": null,
-            "featured_champions": []
+            "featured-champions": []
         },
         "name": "Ixtal",
         "overview": {
             "short": "<p>Renowned for its mastery of elemental magic, Ixtal was one of the first independent nations to join the Shuriman empire. In truth, Ixtali culture is much older\u2014part of the great westward diaspora that gave rise to civilizations including the Buhru, magnificent Helia, and the ascetics of Targon\u2014and it is likely they played a significant role in the creation of the first Ascended.</p><p>But the mages of Ixtal survived the Void, and later the Darkin, by distancing themselves from their neighbors, drawing the wilderness around them like a shield. While much had already been lost, they were committed to the preservation of what little remained\u2026</p><p>Now, secluded deep in the jungle for thousands of years, the sophisticated arcology-city of Ixaocan remains mostly free of outside influence. Having witnessed from afar the ruination of the Blessed Isles and the Rune Wars that followed, the Ixtali view all the other factions of Runeterra as upstarts and pretenders, and use their powerful magic to keep any intruders at bay.</p>"
         },
-        "header_image": ""
+        "headerImage": ""
     },
-    "champion_list_order": 0,
-    "associated_champions": [
+    "champion-list-order": 0,
+    "associated-champions": [
         {
             "type": "champion",
-            "release_date": "2009-09-02T00:00:00.000Z",
+            "release-date": "2009-09-02T00:00:00.000Z",
             "name": "Malphite",
             "title": "Malphite",
-            "section_title": "Malphite",
+            "section-title": "Malphite",
             "slug": "malphite",
-            "associated_faction": "",
-            "associated_faction_slug": "ixtal",
+            "associated-faction": "",
+            "associated-faction-slug": "ixtal",
             "image": {
                 "title": "Malphite_0.jpg",
                 "subtitle": "",
@@ -55,7 +47,7 @@
                 "height": 717,
                 "x": 933,
                 "y": 403,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Malphite_0.jpg",
@@ -67,10 +59,9 @@
                 "height": 717,
                 "x": 933,
                 "y": 403,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/malphite",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -92,26 +83,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/malphite",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/malphite",
             "biography": {
                 "full": "<p>For more than two millennia, Shurima dominated the known world\u2014an empire that reigned over countless peoples without challenge, and without threat.</p><p>Until the day Icathia fell.</p><p>From the moment the Void tore its way into the material realm, the armies of Shurima faced an enemy that could not only lay their grand empire low, but one that seemed to grow stronger the more they fought it. The corruption spread rapidly from Icathia\u2019s ruins, boiling over the land and beneath the oceans, before its hideous tendrils reached the southernmost jungles of Ixtal.</p><p>Ne\u2019Zuk of the Ascended Host was an Ixtali elemental mage of colossal power, and almost unrivaled arrogance. He went before the emperor, pledging to create a weapon powerful enough to take the fight to the Void, and eradicate it at the source of its original eruption.</p><p>After months of inhuman labor, Ne\u2019Zuk revealed the Monolith\u2014a floating fortress of living stone, maintained by the greatest elemental mages, and its ramparts manned by his fellow Ixtali god-warriors. The size of a city itself, the Monolith glided titanically toward the wastelands of Icathia, the lightning crackling from its magical inhibitors fusing the sands to glass beneath it. Ne\u2019Zuk and his superweapon arrived at their destination, to face once more the howling infinite darkness of the abyssal realm, and the hordes of Voidborn monstrosities it had created.</p><p>The battle dragged into weeks. It was violence of a scale and intensity never before witnessed in Runeterra. Sorcery enough to raze entire civilizations, or render whole continents into naught but a memory, was unleashed upon the Void.</p><p>The darkness retaliated in kind. Its hideous energies gouged deep wounds into the living stone of the Monolith, whose surfaces became pocked and seared with unnatural <i>malphite</i>\u2014from the Ixtali for \u201cbad stone\u201d\u2014and leaving mineral-like scars. The fortress was pushed to the very limits of its design, struggling to self-repair and reknit its weakened superstructure\u2026 but even the incredible magics that held it aloft had a breaking point.</p><p>As Ne\u2019Zuk fought to rally his Ascended brethren for one last, desperate charge, the unthinkable happened. Sagging for an instant, the Monolith crashed down to earth, cleaving through the bedrock of Icathia and opening the Void beneath to the skies.</p><p>Much of the fortress was lost within that gaping maw, vanishing into the silent nothingness beyond. The rest rained down as great ruins, littering a landscape already blackened by the terrible conflict that had been cut so abruptly short. Only a single Ascended survived\u2014Ne\u2019Zuk hauled himself from the wreckage, choking on the ashes of what was meant to be his grandest triumph, now his greatest folly, and fled for his life.</p><p>In defiance of all worldly reason, some disparate fragments of the Monolith endured, still imbued with something like magical life. The far-flung shards struggled to heal, to reform the whole to which they had once belonged. But the Void\u2019s endless hunger leached away at them, rendering them as little more than inert shapes clawing feebly in the dust.</p><p>However, against all that had been lost, a single shard remained.</p><p>Buried deep beneath the surface, forgotten even by those that dwelt in the abyss, it slowly gathered in strength. It lived, until at last it awakened after uncounted centuries, and realized it was alone.</p><p>In all the centuries since that dark day, Malphite, the last shard of the Monolith, has become something of a legend in Runeterra. It has reputedly been sighted everywhere, from Targon to Zaun; heard sometimes as a tectonic roar in the deepest caverns, and sometimes as a quiet voice, humming to itself, that it might still remember the sounds of the world it once knew.</p><p>Despite the enormous span of its existence, the overwhelming drive enkindled by Ne\u2019Zuk\u2019s creation of the Monolith has not wavered. Now, Malphite knows it must soon rise to meet the resurgent darkness it once battled, as the Void awakens to threaten all of Runeterra once more.</p>",
                 "short": "A massive creature of living stone, Malphite was born from the heart of the great Ixtali construct known as the Monolith. He has studied the elemental balance of Runeterra for centuries, using his tremendous strength to maintain order in a frequently chaotic world, and crush the dark things that crawl beneath it. Now, roused all too often from his slumbers, Malphite endures the fluid temperaments of mortals, in pursuit of the only cause worthy of the last of his kind.",
                 "quote": "\u201cBeware, minions of chaos! The Shard of the Monolith has come.\u201d",
-                "quote_author": "Malphite"
+                "quote-author": "Malphite"
             },
-            "header_image": null,
             "subtitle": "Shard of the Monolith",
             "echelon": 0
         },
         {
             "type": "champion",
-            "release_date": "2023-03-04T18:00:00.000Z",
+            "release-date": "2023-03-04T18:00:00.000Z",
             "name": "Milio",
             "title": "Milio",
-            "section_title": "Milio",
+            "section-title": "Milio",
             "slug": "milio",
-            "associated_faction": "",
-            "associated_faction_slug": "ixtal",
+            "associated-faction": "",
+            "associated-faction-slug": "ixtal",
             "image": {
                 "title": "milio-splash.jpg",
                 "subtitle": "",
@@ -122,7 +112,7 @@
                 "height": 1080,
                 "x": 970,
                 "y": 350,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "milio-splash.jpg",
@@ -134,10 +124,9 @@
                 "height": 1080,
                 "x": 970,
                 "y": 350,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/milio",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -151,26 +140,24 @@
                     "slug": "support"
                 }
             ],
-            "game_info_url": null,
             "biography": {
                 "full": "<p>Milio's story began generations ago with his grandmother, Lup\u00e9, and her twin sister, Lun\u00e9\u2014two elemental masters who\n    wove their respective earth and fire axioms together to overcome the Vidalion\u2019s trials and join the Yun Tal. But\n    after Lun\u00e9 was caught plotting against the Yun Tal, both sisters were convicted of her crime and punished as twins.\n    Lup\u00e9 was banished to the farthest reaches of Ixtal and Lun\u00e9 all but vanished, taking with her the last of Lup\u00e9's\n    trust.</p>\n<p>By the time Milio was born, his family had done all they could to make the best of their new lives. He knew only love\n    and laughter, and to him, life in the village was paradise\u2014what more could they ever need?</p>\n<p>When Milio was old enough, Lup\u00e9 tried to teach her grandson the axiomata. Where the rest of her family had failed\n    her, Milio showed promise and took to the elements naturally, but struggled to grasp the rules and rigidity of the\n    discipline. Disappointed, Lup\u00e9 gave up hope, abandoning Milio's teachings.</p>\n<p>Milio, however, continued to learn on his own. Away from the guidance of his grandmother, he abandoned the\n    restrictions she had tried to impose on him. Studying nature itself, he intuited his own set of rules and eventually\n    mastered fire\u2014the one axiom his grandmother wouldn't teach him.</p>\n<p>But something bothered Milio about fire. Did it have to be so destructive, especially when he saw the potential for\n    it to do more?</p>\n<p>The answer revealed itself one night while Milio was chasing the glow of summer fireflies. They led him to one of the\n    village\u2019s hunters who was injured and unable to move. Milio tried to keep her stable with his fire axiom, but it\n    wasn't enough. Knowing the village healer was too far, he tried desperately to adapt the axiom into a force that\n    could heal.</p>\n<p>As he placed his hands on the hunter's stomach to support her wound, he felt a flicker of warmth.. It was so familiar\n    and soothing, like he was touching her soul. Her <em>inner flame. </em>Then Milio began to feel that same flame\n    within himself. He could feel it within the trees, within the leaves\u2014as if each part of the jungle was coming to\n    life like a cozy bonfire.</p>\n<p>Focusing all of his energy into that feeling, he used what nature had taught him to manifest that fire. What emerged\n    was a creature\u2014small and timid with wide, friendly eyes. Milio placed it on the hunter's wound and felt the\n    creature\u2014his inner flame\u2014heal her from the inside out.</p>\n<p>That night, he\u2019d discovered an entirely new axiom, which he affectionately named \u201csoothing fire.\u201d</p>\n<p>Milio ran home to show his family what he'd done. Before their eyes, he manifested another soothing flame that danced\n    happily in the palm of his hand\u2014his \"fuemigo\"\u2014and his family celebrated.</p>\n<p>Grandmother Lup\u00e9, however, was unsettled by this achievement.</p>\n<p>Seeing Milio\u2019s mastery of the axiomata at such a young age, Lup\u00e9 knew that her grandson had done what the rest of her\n    family failed to do. With his abilities, he could finally end their exile and restore them to their rightful place\n    among Ixtal's ruling caste. However, she was troubled by his fascination with fire and how his burgeoning skills\n    went against the traditional teachings of the axiomata.</p>\n<p>Despite this, Lup\u00e9 threw everything into her last chance at redemption. Milio became her sole focus as she nurtured\n    and shaped his abilities, preparing him to leave home, travel to Ixaocan, and finally free her from the burden of\n    her sister's failures. Milio felt this weight upon his shoulders, and the thought of leaving home on his own\n    terrified him. But because Milio loved his family more than anything, he would find the courage if it meant ensuring\n    their happiness.</p>\n<p>In preparation for the journey, he and his grandmother fashioned a special backpack that Milio called his\n    \"furnasita,\" inside of which he could keep his ever-burning fuemigo. Then, with a heavy heart and a wide smile,\n    Milio\u2014at only twelve years old\u2014left his village behind, outfitted with only his trusty furnasita and some new\n    clothes made by his family.</p>\n<p>He traveled the entirety of Ixtal, forging his way through the jungle, camping underneath the stars, and making\n    friends along the way, all while sending frequent letters home that detailed his exciting adventures. After a long\n    journey, Milio finally made it to Ixaocan, where he's since begun his training to challenge the Vidalion.</p>\n<p>\"The boy with the soothing flames\" has caught the eye of more than a few\u2014including Lun\u00e9, currently imprisoned beneath\n    the city and biding her time. Even Milio notices the whispering that accompanies him around the city, but his focus\n    is on joining the Yun Tal and making his family proud.</p>",
                 "short": "<p>Milio is a warmhearted boy from Ixtal who has, despite his young age, mastered the fire axiom and discovered something new: soothing fire. With this newfound power, Milio plans to help his family escape their exile by joining the Yun Tal\u2014just like his grandmother once did. Having traveled through the Ixtal jungles to the capital of Ixaocan, Milio now prepares to face the Vidalion and join the Yun Tal, unaware of the trials\u2014and dangers\u2014that await him.</p>",
                 "quote": "\"The light inside us, our inner flame... That's the heart of my fire.\"",
-                "quote_author": ""
+                "quote-author": ""
             },
-            "header_image": null,
             "subtitle": "the Gentle Flame",
             "echelon": 1
         },
         {
             "type": "champion",
-            "release_date": "2018-11-19T08:00:26.000Z",
+            "release-date": "2018-11-19T08:00:26.000Z",
             "name": "Neeko",
             "title": "Neeko",
-            "section_title": "Neeko",
+            "section-title": "Neeko",
             "slug": "neeko",
-            "associated_faction": "",
-            "associated_faction_slug": "ixtal",
+            "associated-faction": "",
+            "associated-faction-slug": "ixtal",
             "image": {
                 "title": "neeko-splash.jpg",
                 "subtitle": "",
@@ -181,7 +168,7 @@
                 "height": 1133,
                 "x": 842,
                 "y": 24,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "neeko-splash.jpg",
@@ -193,10 +180,9 @@
                 "height": 1133,
                 "x": 842,
                 "y": 24,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/neeko",
-            "video": null,
             "races": [
                 {
                     "name": "Vastaya",
@@ -215,26 +201,25 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": "https://na.leagueoflegends.com/en/featured/champion-reveal-neeko",
+            "game-info-url": "https://na.leagueoflegends.com/en/featured/champion-reveal-neeko",
             "biography": {
                 "full": "<p>Neeko was born on a remote and largely unknown island, far to the east, where the last members of an ancient vastayan tribe remained isolated from the rest of the world. They were called the Oovi-Kat, and could trace their lineage generation by generation back to the legendary Vastayashai\u2019rei\u2014the ancestors of all vastaya.</p><p>The Oovi-Kat were peaceful beings, of unrivaled potential. Their harmonious society blended seamlessly with the spirit realm, so that their <i>sho\u2019ma</i>\u2014their spiritual essence\u2014could intermingle with other beings through mere proximity, and even help them mimic other physical forms. No secrets existed between the Oovi-Kat, but few were as curious, resilient, or energetic as young Neeko.</p><p>She developed a fondness for games, hiding trinkets and thoughts to see if others could find them. Her inquisitive nature knew no bounds, and she was pure and innocent in her charmed existence.</p><p>But it was not to last. Cataclysm loomed on the horizon.</p><p>Thanks to the quick thinking and self-sacrifice of the Oovi-Kat elders, Neeko escaped the death of her homeland. She clumsily took the form of a bird, and fled the smoldering destruction, feeling the screams of her people fading into the ethereal gulf between realms.</p><p>Days later, desperate and exhausted, Neeko plummeted into the sea. She clung to driftwood, entirely at the mercy of the currents, until an odd silhouette rose into view. She could hear voices carrying over the waves, and so she swam toward the strange structure.</p><p>With the last of her strength, she crept aboard what turned out to be a mercantile vessel destined for Harelport. Neeko rested where she could, calling out into the spirit realm for her lost tribe. She felt only scattered, sad echoes in response, and images of towering, dead trees that lay somewhere over a fragile horizon\u2026</p><p>When Neeko emerged from the ship into the city, it was a strange and unfamiliar new world. All her senses tingled. Many a creature, even another Oovi-Kat, might be afraid in that situation\u2014but not Neeko. The society bustled with unique personalities, strangers with a vast array of motives and shapes. This was a place of countless stories and experiences, and it entranced her completely.</p><p>Before she could get far, she was spotted by a vastayan sailor named Krete. Neeko could not understand all his words, but he demanded to know which tribe she belonged to. Neeko reached out with her sho\u2019ma, mimicking his face and expression to make her peaceful intentions understood, but Krete did not seem to like this at all. Overwhelmed by his darkening thoughts, Neeko fled into the crowd, altering her shape many times until she escaped.</p><p>Surrounded by lush, tropical greenery in the hinterlands beyond Harelport, Neeko grappled with her recent experiences. She simply could not understand how anyone might rely solely on words as their singular form of communication. It seemed so\u2026 limiting?</p><p>Seeking solace, she took on the shape of the sleek jungle cats she encountered among the trees, and tried to run with them. Neeko loved being fast and agile, and their bright, keen eyes reminded her of home\u2014until, quite unexpectedly, the leader transformed into a beautiful, strong, dark-haired woman. After a tense standoff, she introduced herself as Nidalee, and reluctantly accepted Neeko into the group.</p><p>Neeko hesitated to entrust the truths of the Oovi-Kat to others, but she felt a deep kinship with Nidalee, because she suspected this bestial huntress might share some forgotten connection with the vastayan race. Their friendship blossomed, and for many months they roamed the wilds together.</p><p>But the towns and cities, with all their flaws, still called to Neeko. Her ancestors came to her in dreams, showing her the pale branches of those dead trees, over and over. The trees needed color, to bloom again\u2014of that much, Neeko was certain. She asked her friend to join her on this new journey, but Nidalee could not be persuaded.</p><p>Crestfallen, but determined, Neeko set out alone.</p><p>Her old life among the Oovi-Kat may be lost forever, but Neeko envisions a magical future\u2014a larger tribe of like-hearted vastaya, yordles, humans, and whatever other creatures might share her dream. As far as she is concerned, everyone has the potential to find a place in her new tribe. She has pledged to seek these souls out, to befriend them, and defend their sho\u2019ma with her life.</p><p>To know Neeko is to love Neeko, and to love Neeko is to <i>be</i> Neeko.</p>",
                 "short": "Hailing from a long lost tribe of vastaya, Neeko can blend into any crowd by borrowing the appearances of others, even absorbing something of their emotional state to tell friend from foe in an instant. No one is ever sure where\u2014or <i>who</i>\u2014Neeko might be, but those who intend to do her harm will soon witness her true colors revealed, and feel the full power of her primordial spirit magic unleashed upon them.",
                 "quote": "\u201cThe Oovi-Kat are gone. Neeko must build her own tribe, now.\u201d",
-                "quote_author": "Neeko"
+                "quote-author": "Neeko"
             },
-            "header_image": null,
             "subtitle": "the Curious Chameleon",
             "echelon": 2
         },
         {
             "type": "champion",
-            "release_date": "2009-12-17T00:00:00.000Z",
+            "release-date": "2009-12-17T00:00:00.000Z",
             "name": "Nidalee",
             "title": "Nidalee",
-            "section_title": "Nidalee",
+            "section-title": "Nidalee",
             "slug": "nidalee",
-            "associated_faction": "",
-            "associated_faction_slug": "ixtal",
+            "associated-faction": "",
+            "associated-faction-slug": "ixtal",
             "image": {
                 "title": "Nidalee_0.jpg",
                 "subtitle": "",
@@ -245,7 +230,7 @@
                 "height": 717,
                 "x": 1019,
                 "y": 11,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Nidalee_0.jpg",
@@ -257,10 +242,9 @@
                 "height": 717,
                 "x": 1019,
                 "y": 11,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/nidalee",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -282,26 +266,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/nidalee",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/nidalee",
             "biography": {
                 "full": "<p>Far, far from the harsh deserts of the Great Sai, over savanna plains and mountain steppes, lie the great jungles on the border of Ixtal and Shurima. Swathed in mystery, they are home to wild, fantastical beasts, and dense forests blooming with life. But while there is overwhelming beauty to be found there, danger and death lurk nearby in equal measure.</p>\n<p>No one knows how Nidalee\u2014in the form of a cub\u2014came to be alone in the heart of the jungle, but it was her cries echoing through the trees that captured the attention of the jungle's fiercest cats: the pakaa.</p>\n<p>A mother, roaming with her cubs, approached Nidalee. Perhaps it was her scent, or a mother\u2019s intuition, that led the great cat to accept this strange kit without hesitation, half-leading, half-dragging her back to their den.&nbsp;</p>\n<p>Nidalee was raised in the company of the pakaa, who treated her as one of their own\u2014a creature of the jungle. She grew up playing alongside the other cubs, learning to hunt with tooth and claw and to stalk the jungles for her prey. She grew into her role as a member of the pack and as a capable huntress.</p>\n<p>Even so, at times Nidalee began to lose control of her own body. Without warning, her paws would change to strange hairless hands and feet, her sharp fangs to blunted teeth. Occasionally she would stumble from the den, delirious with fever, her body caught in a state of half-transformation as she followed the hazy silhouettes of two strange figures\u2014they whispered after her, their voices jumbled but sweet. They brought Nidalee a sense of comfort and warmth, even though her feline family had taught her to be wary of outsiders.</p>\n<p>And with good cause.</p>\n<p>It was at the height of the summer rains when she first encountered the Kiilash. These vastayan hunters ranged into the forests every season in search of prestigious kills and trophies to show their prowess. Nidalee's mother tried to chase them away, but fell, wounded by their blades and spears.</p>\n<p>But before the Kiilash could finish the aging wildcat, Nidalee lunged from the undergrowth, howling with grief and rage. As she tore into them with razor sharp claws and fangs, they rounded on her with even stronger weapons.&nbsp;</p>\n<p>But something had changed.</p>\n<p>She felt the spirit of another heritage, long forgotten, rise up within her. Transforming from pakaa to something resembling a human, she grabbed a hunter's lunging weapons with cat-like reflexes and nimble fingers and turned it upon her enemies. The Kiilash growled and hissed at this sight, and to her surprise Nidalee found she understood some of their speech.</p>\n<p>They cursed her, invoking the name of their Vastayashai'rei ancestors as they retreated from the fight, empty-handed.</p>\n<p>Hurling the spear aside, Nidalee held her dying mother close. Her siblings approached, wary of her new form but comforted by her familiar scent. With the passing of their mother they came to accept this shapechanger as their new leader\u2014from that day forth, she vowed to defend her adopted home against any who would seek to plunder it.</p>\n<p>Over time, she learned to better control her powers, eventually shifting between both forms with ease. She also became more adept with her new form, learning to take advantage of her surroundings while building traps and weapons unknown to the pakaa, crafting healing salves from honeyfruit, and utilizing seeds and flowers to protect and illuminate her territory. And in the back of her mind, she wondered whether she was the only one of the pakaa who could change their shape.</p>\n<p>Perhaps it was a yearning to find others of her kind that led her to the chameleon-like wanderer Neeko, and the two became inseparable for a time. Nidalee delighted in mentoring her inquisitive new companion, and they reveled in exploring the jungle's numerous wonders together, before Neeko eventually departed to follow her own destiny beyond Shurima's shores.</p>\n<p>Even now, the dense forests remain the last truly untamed wilderness in the known world, and something of an enigma even to Nidalee. Still, in rare, quiet moments, the huntress finds herself dwelling on her own origins\u2014and her encounter with the Kiilash\u2014and whether she will learn the truth behind any of it\u2026</p>",
                 "short": "<p>Raised in the deepest wilderness, Nidalee is a master tracker who can shapeshift into a ferocious pakaa jungle cat at will. Neither wholly woman nor beast, she viciously defends her territory from any and all trespassers, with carefully placed traps and deft spear throws. She cripples her quarry before pouncing on them in feline form\u2014the lucky few who survive tell tales of a wild woman with razor-sharp instincts, and even sharper claws...</p>",
                 "quote": "\u201cThe untamed know no fear.\u201d",
-                "quote_author": "Nidalee"
+                "quote-author": "Nidalee"
             },
-            "header_image": null,
             "subtitle": "the Bestial Huntress",
             "echelon": 3
         },
         {
             "type": "champion",
-            "release_date": "2019-06-07T00:00:00.000Z",
+            "release-date": "2019-06-07T00:00:00.000Z",
             "name": "Qiyana",
             "title": "Qiyana",
-            "section_title": "Qiyana",
+            "section-title": "Qiyana",
             "slug": "qiyana",
-            "associated_faction": "",
-            "associated_faction_slug": "ixtal",
+            "associated-faction": "",
+            "associated-faction-slug": "ixtal",
             "image": {
                 "title": "qiyana_splash.jpg",
                 "subtitle": "",
@@ -312,7 +295,7 @@
                 "height": 2348,
                 "x": 2024,
                 "y": 551,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "qiyana_splash.jpg",
@@ -324,10 +307,9 @@
                 "height": 2348,
                 "x": 2024,
                 "y": 551,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/qiyana",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -341,26 +323,24 @@
                     "slug": "assassin"
                 }
             ],
-            "game_info_url": null,
             "biography": {
                 "full": "<p>The youngest child in a ruling family, Qiyana grew up believing she would never inherit the high seat of the Yun Tal. As her parents governed Ixaocan, a city-state hidden deep in the jungles of Ixtal, they raised their children to succeed them, schooling them in the proud traditions of their isolated nation. Primed to rule before her, Qiyana\u2019s nine older sisters received most of the attention, and she often longed to find her own meaningful place in the family.</p><p>That place became clear the day young Qiyana began to learn the ancient elemental magic of Ixtal. Soon after she took up lessons, she realized she was blessed with extraordinary talent. Though Qiyana was only seven years old, she mastered advanced techniques within weeks, while some of her older sisters had yet to grasp the basics after years of study.</p><p>One by one, Qiyana surpassed her sisters in the elemental arts, and the more she progressed, the more resentful she became. Why did her parents waste so much effort grooming her inferior siblings? Each time they were chosen to preside over the grand rituals that shrouded Ixtal from the outside world, Qiyana lashed out in frustration, picking fights to prove her worth. It wasn\u2019t long before Inessa, the eldest sister and immediate successor, became the target for Qiyana\u2019s aggression.</p><p>Rather than defusing the conflict, Inessa bristled at the disrespect from her sister, who was twelve years her junior. As both grew older, their words became increasingly heated, culminating in physical threats from Inessa, and a challenge from Qiyana: they should decide who was strongest in ritual combat, for all of Ixaocan to see\u2014and for the right to succeed their parents. Inessa accepted the challenge to teach her sister some much needed humility.</p><p>When the contest was over, Inessa was never to walk again, while Qiyana stood unscathed.</p><p>She was eager to take her place as the rightful heir, but Qiyana\u2019s parents were furious at her actions. They denied her the prize\u2014tradition decreed that Qiyana would always be tenth in line to inherit the high seat of the Yun Tal. Though the news was bitter, Qiyana soon discovered that the duel had made her elemental prowess known across all of Ixaocan. At last, she had found what had long eluded her: respect.</p><p>That respect quickly became an addiction. Qiyana felt a burning need to be recognized for her exceptional skill. In fact, all of Ixaocan should stand proud with her, and put the world in its place with their powerful elemental magic. Instead, they were hiding from foreign explorers, and miners who were uprooting the jungle on their borders. </p><p>In her parents\u2019 court, Qiyana laid out her ambitions\u2014to drive off the miners and restore the lands. Qiyana\u2019s parents rejected the idea. Contact with the \u201coutlanders\u201d would bring hatred, war, and disease, jeopardizing what their dynasty had protected for centuries. Qiyana stewed, impatient to prove her strength to the world, and determined to prove her parents wrong.</p><p>Acting against their will, Qiyana raided the mining site, killing all the miners but one. As the man\u2019s eyes shone brightly with fear, Qiyana knew he would spread her message\u2014he would tell everyone in his Pilt-over about the grand elementalist who destroyed their mine.</p><p>In Ixaocan, Qiyana gladly took credit for the slaughter, infuriating her mother and father. They told her the Piltovan merchants were sending fresh miners and armsmen into the jungle. Qiyana\u2019s parents would not risk their insubordinate daughter drawing even more outlanders toward their borders, and regretfully ordered her imprisoned for her crime.</p><p>Just as she was detained, several elementalists of the court came to Qiyana\u2019s defense. The elemental talent displayed in the jungle was unheard of, and they convinced her parents that Qiyana should aid them in powering and defending the city. Qiyana was released, once she swore renewed fealty to her elders, and vowed to never cross paths with an outlander again.</p><p>As a growing number of admirers throw their support behind Qiyana, she has finally realized her true place in the world. She holds a power stronger than tradition, and she will climb the ladder of succession by any means necessary.</p><p>She is the greatest elementalist the world has ever seen. She is the inevitable ruler of Ixaocan, and the future empress of all Ixtal.</p>",
                 "short": "In the jungle city of Ixaocan, Qiyana plots her own ruthless path to the high seat of the Yun Tal. Last in line to succeed her parents, she faces those who stand in her way with brash confidence and unprecedented mastery over elemental magic. With the land itself obeying her every command, Qiyana sees herself as the greatest elementalist in the history of Ixaocan\u2014and by that right, deserving of not only a city, but an empire.",
                 "quote": "\u201cSome day, all this will be Ixaocan. A glorious empire, with an empress to fit.\u201d",
-                "quote_author": "Qiyana"
+                "quote-author": "Qiyana"
             },
-            "header_image": null,
             "subtitle": "The Empress of Elements",
             "echelon": 4
         },
         {
             "type": "champion",
-            "release_date": "2012-08-21T00:00:00.000Z",
+            "release-date": "2012-08-21T00:00:00.000Z",
             "name": "Rengar",
             "title": "Rengar",
-            "section_title": "Rengar",
+            "section-title": "Rengar",
             "slug": "rengar",
-            "associated_faction": "",
-            "associated_faction_slug": "ixtal",
+            "associated-faction": "",
+            "associated-faction-slug": "ixtal",
             "image": {
                 "title": "Rengar_0.jpg",
                 "subtitle": "",
@@ -371,7 +351,7 @@
                 "height": 717,
                 "x": 900,
                 "y": 141,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Rengar_0.jpg",
@@ -383,7 +363,7 @@
                 "height": 717,
                 "x": 900,
                 "y": 141,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/rengar",
             "video": {
@@ -396,7 +376,7 @@
                 "height": 720,
                 "x": 900,
                 "y": 141,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [
                 {
@@ -424,26 +404,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/rengar",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/rengar",
             "biography": {
                 "full": "<p>Rengar hails from a tribe of Shuriman vastaya known as the Kiilash, whose society venerated the honor and glory of the hunt. Rengar was born the runt of the litter to the tribe's chieftain, Ponjaf. Ponjaf believed Rengar's diminutive size would make him a worthless hunter. He ignored his child, assuming the runt would starve to death.</p><p>Eventually, the young Rengar fled the camp, ashamed that he had disappointed his father. He subsisted on grubs and plants for weeks until, one day, he was nearly killed by a legendary human hunter named Markon. Upon seeing Rengar's state, he took pity on the creature and let it live. Besides, this was no mighty vastayan warrior worthy of Markon's blade.</p><p>Rengar spent months following Markon, feeding off the corpses the hunter left behind. He still hoped to one day rejoin his tribe, and so took great care in observing how Markon took down his quarries.</p><p>After some time, Markon grew sick of the pathetic Kiilash following him around. He put a knife to Rengar's throat and informed him that the only way to be a hunter was to hunt. He tossed Rengar the blade and kicked him down a ravine, where he was forced to make his first kill to survive.</p><p>From then on, Rengar spent years pushing himself almost to breaking point. He scoured Shurima for the most powerful and dangerous prey. Though he would never be as big as other Kiilash, Rengar was determined to be twice as ferocious. Over time, instead of coming back to his camp each time with fresh scars, he began to come back with trophies. He polished a sandhawk's skull to a sheen; he braided the teeth of a shrieker into his hair.</p><p>Then, when he decided the time had come, Rengar returned to his tribe, ready to be accepted as a true hunter.</p><p>Ponjaf scoffed at Rengar and his trophies. He decreed that only by bringing back the head of the elusive and legendary Void-abomination known as Kha'Zix would Rengar be welcomed back into the tribe.</p><p>Blinded by his eagerness, Rengar allowed this cunning beast to get the drop on him. The Void creature ripped out one of Rengar's eyes and escaped. Furious and defeated, Rengar admitted his failure to Ponjaf. As expected, his father chastised him.</p><p>But as Ponjaf spoke, Rengar noticed all the trophies adorning his father's hut were dusty and old. The chieftain had not hunted anything in a long time\u2014he had likely sent Rengar after Kha'Zix because he was too afraid to do it himself.</p><p>Rengar interrupted his father and called him a coward. Many Kiilash were blessed with strong bodies or comfortable homes. Rengar, conversely, was born facing death. He had taught himself how to hunt, and had the trophies and scars to prove it. Even his own bloody eye socket was a trophy: proof that though Rengar was born with disadvantages, he never gave up.</p><p>Rengar leapt onto his father and gutted him from neck to belly. The fiercest hunters of the tribe crowned him with flame-roses, marking him as their new chieftain.</p><p>But Rengar didn't need his village's acceptance. All he needed was adrenaline pumping through his veins as he chased down his prey. He left the village, without even pausing to take a trophy from what was left of Ponjaf\u2014his father was not a kill worthy of remembering. Instead, he set off determined to find and slay the Void creature that had tried to blind him.</p><p>Not to satisfy the Kiilash, but to satisfy himself.</p>",
                 "short": "Rengar is a ferocious vastayan trophy hunter who lives for the thrill of tracking down and killing dangerous creatures. He scours the world for the most fearsome beasts he can find, especially seeking any trace of Kha\u2019Zix, the void creature who scratched out his eye. Rengar stalks his prey neither for food nor glory, but for the sheer beauty of the pursuit.",
                 "quote": "\u201cPrey on the weak and you may survive. Prey on the strong and you will truly live.\u201d",
-                "quote_author": "Rengar"
+                "quote-author": "Rengar"
             },
-            "header_image": null,
             "subtitle": "the Pridestalker",
             "echelon": 5
         },
         {
             "type": "champion",
-            "release_date": "2011-08-09T00:00:00.000Z",
+            "release-date": "2011-08-09T00:00:00.000Z",
             "name": "Skarner",
             "title": "Skarner",
-            "section_title": "Skarner",
+            "section-title": "Skarner",
             "slug": "skarner",
-            "associated_faction": "",
-            "associated_faction_slug": "ixtal",
+            "associated-faction": "",
+            "associated-faction-slug": "ixtal",
             "image": {
                 "title": "skarner-splash-v2.jpg",
                 "subtitle": "",
@@ -454,7 +433,7 @@
                 "height": 717,
                 "x": 600,
                 "y": 600,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "skarner-splash-v2.jpg",
@@ -466,10 +445,9 @@
                 "height": 717,
                 "x": 600,
                 "y": 600,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/skarner",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -483,26 +461,25 @@
                     "slug": "tank"
                 }
             ],
-            "game_info_url": "https://www.leagueoflegends.com/en-us/champions/skarner/",
+            "game-info-url": "https://www.leagueoflegends.com/en-us/champions/skarner/",
             "biography": {
                 "full": "<p>All&nbsp;<zwsp>Ixtali grow up hearing the name Skarner, the ancient protector of Ixtal\u2014the brackern who shaped the earth itself and built the first arcologies. His visage is painted in reliefs and immortalized in the annals of Ixtal's history, a myth still honored and revered.</zwsp></p>\n<p>But deep beneath the cardinal arcology of Ixaocan is the chamber where Skarner dwells. There, he listens to the vibrations of the earth above him. Listens... and waits.</p>\n<p>Skarner's myth began millennia ago. Born to the brackern clan \u00d2\u0323pal-hin, he was a progeny of the legendary broodmother Nixal\u1eb9. While the other bracklings in his brood left the safety of Nixal\u1eb9's back, Skarner chose to linger, his unease and curiosity driving him to study her power and wisdom.</p>\n<p>Observation soon evolved into ingenuity. Unlike his broodmates, Skarner honed the brackern's innate control of earth and perfected the art of reading underground vibrational patterns, allowing him to sense and decipher far-away movements.</p>\n<p>When Skarner was older, it was through these vibrations that he detected a dramatic shift in the continent, marked by the arrival of settlers from the east. Clan \u00d2\u0323pal-hin did not trust these newcomers, but Skarner's curiosity could not be suppressed. He needed to know what made them tick.</p>\n<p>He surveyed these \"Ixtali\" people. They were born, they toiled, they died\u2014there one second, and gone the next. However, through his observations, Skarner saw that they used what limited time they had to build, create, and invent. Their existence fascinated him... until he discovered just how fragile they <em>truly </em>were.</p>\n<p>When a nearby rockslide threatened to destroy the burgeoning Ixtali settlement, Skarner, wanting to preserve the subjects of his observation, intervened. Emerging from the jungle, he towered over the people and used his physical strength and command of the earth to pulverize the rockslide before it could touch the village. As the dust cleared, the Ixtali gazed upon their savior in awestruck reverence and gratitude.</p>\n<p>Within Skarner, a protectiveness began to stir. These fragile beings could not survive without him.</p>\n<p>He no longer observed the Ixtali from afar, and as he became more involved with them, Skarner spent less time with his clan. The humans became his permanent project, and their nation, his new home.</p>\n<p>The relationship he formed with the early Ixtali was one of exchange: the Ixtali shared their culture and history, and Skarner used his earthen prowess to help build the cardinal arcology of Ixaocan where the planet's lines of power connected.</p>\n<p>But Skarner's greatest contribution was as a founding member of the civilization\u2019s ruling caste. Combining Ixtal's scientific mindset with the collectivist culture of the brackern, the Yun Tal\u2019s goal was to lead its people into a bright future.</p>\n<p>And so it was through Skarner's protection that Ixtal flourished.</p>\n<p>Outside of Ixtal, the Shuriman Empire extended its reach, and Skarner watched as Ascended stormed the continent. His belief in the resourcefulness of mortals was shattered as he saw the darker side of humanity: corruption, driven by a lust for power.</p>\n<p>Skarner could sense the building tension in Shurima. He was vocal about his distrust, but when the Shuriman Empire invited Ixtal to form an alliance, the Yun Tal eagerly accepted.</p>\n<p>With the Icathian rebellion, he was vindicated\u2014but at the cost of many lives. By the time the Shuriman Empire collapsed and Ixtal regained its independence, Skarner had nothing but disgust left for the world outside their jungle\u2014a wasteland of pain and suffering.</p>\n<p>A wasteland made even worse by the Rune Wars.</p>\n<p>Witnessing such destruction, Skarner finally convinced the Yun Tal to withdraw from the world, shielding their lands with magic and lies to hide themselves away.</p>\n<p>But his faith in the Yun Tal was shaken. Where they'd failed to keep the Ixtali safe, Skarner would not.</p>\n<p>Now knowing that only he could protect Ixtal, Skarner constructed himself an underground chamber below Ixaocan, designed to amplify the vibrational threads across the continent. Every thrum spoke of another threat to Ixtal's safety, but he could also hear the steady noise of Ixtal above him\u2014proof that, through his sovereignty, the city continued to survive.</p>\n<p>There, he listened... and waited.</p>\n<p>Deep beneath the dark earth, his paranoia festered until, over time, vigilance gave way to seclusion, and he ceased leaving his chamber altogether. To the Ixtali above ground, Skarner slowly faded from memory into myth, his presence known only by the Yun Tal who traveled underground to confer with him about Ixtal's future.</p>\n<p>Now, as new generations of elemental masters join the Yun Tal, discussions have begun about the possibility of rejoining the world once more. Skarner hears these whispers, which spur his paranoia, as he knows that opening the door will invite pain, suffering, and death like it did generations ago.</p>\n<p>The only one Skarner can trust is himself, and he'll do anything it takes to protect Ixtal and its people.</p>\n<p>Even if that means becoming the root of their destruction, himself.</p>",
                 "short": "<p>The ancient, colossal brackern Skarner is revered in Ixtal as one of the founding members of its ruling caste, the Yun Tal. Devoted to keeping his nation safe from the rest of the world, Skarner dwells in a chamber beneath Ixaocan where he can hear the vibrations of the earth and detect potential threats. As more members of the Yun Tal begin questioning Ixtal's self-isolation, Skarner grows increasingly paranoid and will do anything to keep Ixtal and its people safe\u2014no matter the cost.</p>",
                 "quote": "\"I may have faded into legend\u2014but I am no mere story.\"",
-                "quote_author": "Skarner"
+                "quote-author": "Skarner"
             },
-            "header_image": null,
             "subtitle": "the Primordial Sovereign",
             "echelon": 6
         },
         {
             "type": "champion",
-            "release_date": "2012-07-24T00:00:00.000Z",
+            "release-date": "2012-07-24T00:00:00.000Z",
             "name": "Zyra",
             "title": "Zyra",
-            "section_title": "Zyra",
+            "section-title": "Zyra",
             "slug": "zyra",
-            "associated_faction": "",
-            "associated_faction_slug": "ixtal",
+            "associated-faction": "",
+            "associated-faction-slug": "ixtal",
             "image": {
                 "title": "Zyra_0.jpg",
                 "subtitle": "",
@@ -513,7 +490,7 @@
                 "height": 717,
                 "x": 1070,
                 "y": 38,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Zyra_0.jpg",
@@ -525,7 +502,7 @@
                 "height": 717,
                 "x": 1070,
                 "y": 38,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/zyra",
             "video": {
@@ -538,7 +515,7 @@
                 "height": 720,
                 "x": 1070,
                 "y": 38,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -561,23 +538,22 @@
                     "slug": "support"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/zyra",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/zyra",
             "biography": {
                 "full": "<p>Zyra\u2019s memory is long, and runs as deep as the roots of the earth. Her kind was young when the Rune Wars raged, when mortal armies fought one another for the very keys of creation.</p><p>Hidden in the jungles south of Kumungu, somewhere between the great rivers that divide eastern Shurima, lay the fabled Gardens of Zyr. Elemental magics had turned the soil there in strange and unpredictable ways, giving rise to fierce, carnivorous plants that preyed upon any creature that strayed within reach. They infested and they devoured, caring nothing for the squabbles of mortals, content merely to coil their vines through the forests and swamplands. In their own way, they were <i>all</i> Zyra\u2026 and nourishment was plentiful, even in the midst of war.</p><p>A small company of soldiers, their allegiance long since lost to time, advanced through those lands in search of some now-forgotten prize. They were led by an ambitious sorceress\u2014but they were far from home, bound to succumb to the noxious fumes and spores of that accursed place.</p><p>The denizens of the Gardens set upon them, spined tendrils lashing through armor and flesh with sadistic ease. Though they fought valiantly, the warriors knew they could not hold out long, and turned to their sorceress to save them. Gathering her powers, she wrought a mighty blast. The air burned with runic symbols, casting their eerie light even as the thorny overgrowth closed in.</p><p>In that very instant, a rogue spark ignited the gases of the swamp, and the resulting magical explosion obliterated every living thing for miles around. Of the scattered survivors of the Rune Wars, none would ever know what fate had befallen the Gardens of Zyr.</p><p>Centuries passed. The land where the battle had been fought lay empty and lifeless above ground\u2026 but in the depths, <i>something</i> stirred. Long had the energies that were unleashed there settled, and curdled, nourished by the fallout. A seedpod bulged, pulsing with unnatural life, until a creature clawed its way free, gasping and confused.</p><p>It beheld a broken and changed world, brimming with new vitality and new ideas. Its mind was a puzzle of conflicting memories, drawn from the loamy earth and forced into its fledgling consciousness. It could recall the warmth of the sun, the taste of rain, words of power, and the agony of a hundred mortal deaths.</p><p>It\u2014<i>she</i>\u2014called herself Zyra, without quite understanding why.</p><p>As she ventured out into the wildlands beyond her birthplace, Zyra knew she was different from other creatures she encountered. Mortals were fearful and unpleasant things, while more ethereal entities tended to be capricious, or arrogant. None of them seemed to respect the realms they inhabited, despoiling everything with their mere presence, and that filled Zyra with rage and contempt. Almost unbidden, new life sprang up in her footsteps\u2014voracious plant forms that changed and evolved beneath her gaze, hurling poisonous barbs or sprouting fresh tendrils at an alarming rate.</p><p>Unrooted and free to wander, Zyra and her deadly progeny feed, and grow, strangling all other life from the world. She has blighted farmland, overrun entire settlements, and crushed those warriors brave or foolish enough to confront her, always leaving a menagerie of botanical horrors in her wake.</p><p>As the rivers of Shurima begin to run anew, strange flora has been sighted on their banks, spreading slowly westward with each passing season. Whether pulled from the earth or purged by fire, the growth does not seem to be slowing\u2026</p>",
                 "short": "Born in an ancient, sorcerous catastrophe, Zyra is the wrath of nature given form\u2014an alluring hybrid of plant and human, kindling new life with every step. She views the many mortals of Valoran as little more than prey for her seeded progeny, and thinks nothing of slaying them with flurries of deadly spines. Though her true purpose has not been revealed, Zyra wanders the world, indulging her most primal urges to colonize, and strangle all other life from it.",
                 "quote": "\u201cWhere are your friends? Mine are all around\u2026\u201d",
-                "quote_author": "Zyra"
+                "quote-author": "Zyra"
             },
-            "header_image": null,
             "subtitle": "Rise of the Thorns",
             "echelon": 7
         }
     ],
-    "explore_factions": [
+    "explore-factions": [
         {
             "type": "faction",
             "title": "Ixtal",
-            "section_title": "Ixtal",
+            "section-title": "Ixtal",
             "name": "Ixtal",
             "slug": "ixtal",
             "description": "<p>Renowned for its mastery of elemental magic, Ixtal was one of the first independent nations to join the Shuriman empire. In truth, Ixtali culture is much older\u2014part of the great westward diaspora that gave rise to civilizations including the Buhru, magnificent Helia, and the ascetics of Targon\u2014and it is likely they played a significant role in the creation of the first Ascended.</p>",
@@ -591,7 +567,7 @@
                 "height": 2811,
                 "x": 3126,
                 "y": 1339,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "ixtal_splash.jpg",
@@ -603,16 +579,16 @@
                 "height": 2811,
                 "x": 3126,
                 "y": 1339,
-                "featured_champions": []
+                "featured-champions": []
             },
             "echelon": "",
-            "associated_champions": [],
+            "associated-champions": [],
             "url": "/en_us/region/ixtal"
         },
         {
             "type": "faction",
             "title": "Targon",
-            "section_title": "Targon",
+            "section-title": "Targon",
             "name": "Targon",
             "slug": "mount-targon",
             "description": "Mount Targon is the mightiest peak in Runeterra, a towering peak of sun-baked rock amid a range of summits unmatched in scale anywhere else in the world. Located far from civilization, Mount Targon is utterly remote and all but impossible to reach save by the most determined seeker. Many legends cling to Mount Targon, and, like any place of myth, it is a beacon to dreamers, madmen and questors of adventure. Some of these brave souls attempt to scale the impossible mountain, perhaps seeking wisdom or enlightenment, perhaps chasing glory or some soul-deep yearning to witness its summit. The ascent is all but impossible, and those hardy few who somehow survive to reach the top almost never speak of what they have seen. Some return with a haunted, empty look in their eyes, others changed beyond all recognition, imbued by an Aspect of unearthly, inhuman power with a destiny few mortals can comprehend.</p>",
@@ -626,7 +602,7 @@
                 "height": 1080,
                 "x": 1559,
                 "y": 411,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "mount-targon_splash.jpg",
@@ -638,10 +614,10 @@
                 "height": 1080,
                 "x": 1559,
                 "y": 411,
-                "featured_champions": []
+                "featured-champions": []
             },
             "echelon": "",
-            "associated_champions": [],
+            "associated-champions": [],
             "url": "/en_us/region/mount-targon"
         }
     ],
@@ -649,58 +625,34 @@
         {
             "slug": "ixtal-secrets",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "proud-inheritance",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "people-ixaocan",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "yun-tal",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         }
     ]
 }

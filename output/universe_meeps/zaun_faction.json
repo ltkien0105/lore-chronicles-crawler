@@ -10,11 +10,7 @@
             "description": "",
             "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/56d6fa8581379d60cc17951edbe3d686e52bf51b-1730x1080.jpg?accountingTag=LoL",
             "encoding": "image/jpeg",
-            "width": null,
-            "height": null,
-            "x": null,
-            "y": null,
-            "featured_champions": []
+            "featured-champions": []
         },
         "video": {
             "title": "zaun-splashvideo.webm",
@@ -22,29 +18,25 @@
             "description": "",
             "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/7feffff28f5a4df3f58438b83d4553b37ae647e0.webm?accountingTag=LoL",
             "encoding": "video/webm",
-            "width": null,
-            "height": null,
-            "x": null,
-            "y": null,
-            "featured_champions": []
+            "featured-champions": []
         },
         "name": "Zaun",
         "overview": {
             "short": "Zaun is a large, undercity district, lying in the deep canyons and valleys threading Piltover. What light reaches below is filtered through fumes leaking from the tangles of corroded pipework and reflected from the stained glass of its industrial architecture. Zaun and Piltover were once united, but are now separate, yet symbiotic societies. Though it exists in perpetual smogged twilight, Zaun thrives, its people vibrant and its culture rich. Piltover\u2019s wealth has allowed Zaun to develop in tandem; a dark mirror of the city above. Many of the goods coming to Piltover find their way into Zaun\u2019s black markets, and hextech inventors who find the restrictions placed upon them in the city above too restrictive often find their dangerous researches welcomed in Zaun. Unfettered development of volatile technologies and reckless industry has rendered whole swathes of Zaun polluted and dangerous. Streams of toxic runoff stagnate in the city\u2019s lower reaches, but even here people find a way to exist and prosper."
         },
-        "header_image": ""
+        "headerImage": ""
     },
-    "champion_list_order": 0,
-    "associated_champions": [
+    "champion-list-order": 0,
+    "associated-champions": [
         {
             "type": "champion",
-            "release_date": "2009-09-02T00:00:00.000Z",
+            "release-date": "2009-09-02T00:00:00.000Z",
             "name": "Blitzcrank",
             "title": "Blitzcrank",
-            "section_title": "Blitzcrank",
+            "section-title": "Blitzcrank",
             "slug": "blitzcrank",
-            "associated_faction": "",
-            "associated_faction_slug": "zaun",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
             "image": {
                 "title": "Blitzcrank_0.jpg",
                 "subtitle": "",
@@ -55,7 +47,7 @@
                 "height": 717,
                 "x": 953,
                 "y": 113,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Blitzcrank_0.jpg",
@@ -67,10 +59,9 @@
                 "height": 717,
                 "x": 953,
                 "y": 113,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/blitzcrank",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -92,26 +83,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/blitzcrank",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/blitzcrank",
             "biography": {
                 "full": "<p>Zaun is a place of wondrous experimentation and vibrant, colorful life where anything can be achieved\u2014but not without a cost. For all its boundless creativity, there is also waste, destruction, and suffering in the undercity, so pervasive that even the tools created to alleviate it cannot escape its corrosive grasp.</p><p>Designed to remove the toxic waste claiming whole neighborhoods of Zaun, lumbering mechanical golems toiled in violently hazardous locations. One such golem worked alongside its fellows, fulfilling its programming to reclaim Zaun for the people. But the caustic reality of their mission soon wore away at its robust form, and before long it was rendered inoperative and discarded as useless.</p><p>Useless to all but one person. The inventor Viktor discovered the abandoned golem and, seeing the potential still within the inert chassis, inspiration struck. Viktor began a series of experiments, seeking to improve the automaton by introducing a new element that would elevate it far beyond the original scope of its creation.</p><p>Hextech.</p><p>Implanting a priceless hextech crystal sourced from the deserts of Shurima into the chassis of the forsaken golem, Viktor waited with baited breath as the machine rumbled to life.</p><p>Viktor named the golem Blitzcrank after the fizzing arcs of lightning that danced around their frame, an unexpected side effect of the hextech crystal, and sent them down into the most toxic regions of Zaun. Not only did Blitzcrank prove as capable as any of their steam-powered brethren, but they accomplished their tasks with vastly improved speed and efficiency, and as the days turned into weeks, Viktor began to watch something miraculous unfold\u2026</p><p>His creation was <i>learning</i>.</p><p>Blitzcrank innovated, interpreting and extrapolating on their daily directives. As a result, they did far more to serve the people of Zaun, and even began to interact with them on a regular basis. Seeing his golem progress to the cusp of self-awareness, Viktor sought to replicate his achievement, but found only frustration and failure, as the key to Blitzcrank\u2019s blossoming consciousness eluded him.</p><p>Not all of Blitzcrank\u2019s growth was cause for celebration. Concepts like moderation and nuance escaped them, and Blitzcrank would pursue any effort with the entirety of their being, or none at all. They would occasionally overdo or misinterpret the requests of Zaunites, such as smashing down the front of a tenement to admit a single resident who had lost their key.</p><p>Or even tearing an entire factory apart.</p><p>Dispatched by Viktor to clear a neighborhood of toxic chemicals, Blitzcrank traced the caustic runoff to its source. Reasoning that the most efficient means to prevent further pollution was to eliminate the <i>source</i> of said pollution, Blitzcrank proceeded to destroy the factory, their lightning-wreathed fists not stopping until it was reduced to a mound of rubble and twisted iron.</p><p>Enraged, the chem-baron who owned the ruined factory descended upon Viktor, demanding that he destroy the golem or pay a steeper price in blood. Viktor was devastated, having come to view Blitzcrank as a living being rather than simply a tool to do his bidding. He concocted a scheme to smuggle his creation to safety, ready to accept the dangers and consequences of doing so\u2014but as he returned to his laboratory to set his plan in motion, he discovered that Blitzcrank was already gone.</p><p>Blitzcrank\u2019s evolution beyond the constraints of their original programming had yet to cease. Having grown into full self-sufficiency, they resolved to take up their mission independent from their creator. Rumors abound that the golem has even begun to upgrade their own form as they labor tirelessly to assist and protect Zaunites without pausing for instruction.</p><p>They now patrol the undercity, deciding for themselves how best to shepherd Zaun down the path to becoming the greatest city Valoran has ever seen.</p>",
                 "short": "A behemoth of burnished metal, steam, and crackling electricity, Blitzcrank walks the streets of Zaun in a tireless effort to improve the undercity and give aid to those in need. Created to descend into the most caustic and dangerous of environments in Zaun to dispose of harmful waste, they have evolved beyond the bounds of their original programming, thanks to the genius of their inventor, and the mysterious power of hextech.",
                 "quote": "\u201cA SINGLE GEAR TURNING CAN MAKE ALL THE DIFFERENCE.\u201d",
-                "quote_author": "Blitzcrank"
+                "quote-author": "Blitzcrank"
             },
-            "header_image": null,
             "subtitle": "the Great Steam Golem",
             "echelon": 0
         },
         {
             "type": "champion",
-            "release_date": "2009-09-02T00:00:00.000Z",
+            "release-date": "2009-09-02T00:00:00.000Z",
             "name": "Dr. Mundo",
             "title": "Dr. Mundo",
-            "section_title": "Dr. Mundo",
+            "section-title": "Dr. Mundo",
             "slug": "drmundo",
-            "associated_faction": "",
-            "associated_faction_slug": "zaun",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
             "image": {
                 "title": "mundo-splash.jpg",
                 "subtitle": "",
@@ -122,7 +112,7 @@
                 "height": 717,
                 "x": 652,
                 "y": 68,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "mundo-splash.jpg",
@@ -134,10 +124,9 @@
                 "height": 717,
                 "x": 652,
                 "y": 68,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/drmundo",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -159,26 +148,25 @@
                     "slug": "tank"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/drmundo",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/drmundo",
             "biography": {
                 "full": "<p>In the wards of Zaun\u2019s infamous asylum, a single monstrous figure roams the halls. His methods are bold, his bonesaw is sharp, and his patients are terrified. For this man is no doctor at all, except in the fancy of his own mind.</p><p>Though his true name has been lost to both time and memory, Dr. Mundo was once an enforcer for one of Zaun's most powerful chem-barons. Known for his boisterous affability, he was remarkably good-natured for a man who made his living off physical intimidation. He was always quick with a familiar nickname and a friendly clap on the back, and often blissfully unaware of the toes he was stepping on. It wasn\u2019t long before he had stepped firmly on the toes of his boss.</p><p>Determined to make an example of his underling, the chem-baron had him committed to Osweld Asylum\u2014a place well known for its inhumane treatment and questionable cures. The baron watched with satisfaction as his enforcer was placed in restraints and dragged away to the padded confines of the asylum\u2019s most secure cell.</p><p>As months went by, the enforcer suffered unspeakable horrors at the hands of his supposed caregivers. Experimental treatments were rendered without concern for the patient's well-being. Nerves were prodded, lobes were severed, and unproved medicines were administered in large quantities. The enforcer began to change, his large frame gaining more muscle by the day. His brain, however, suffered a far worse fate. As he lost all memory of his past life, the enforcer struggled to make sense of the cruel world around him. He looked down at his old restraining jacket\u2014it almost resembled the white coats of the medical professionals that surrounded him.</p><p>Misreading the words on his own uniform, he began to assume a new name and new profession for himself.</p><p><i>I must be a doctor, too. Why else would I be in this wretched asylum?</i> he reasoned. <i>And all these other people... must be my patients.</i></p><p>At last, the day came when the chem-baron arrived to discharge his enforcer from the asylum. To his surprise, there was no one to greet him in the lobby. The halls were empty and dead silent, save for the faint, incoherent babbling of a deranged patient in a room at the end of the hallway.</p><p>The baron entered the room to a horrifying sight: Scattered across the floor were countless bodies\u2014staff and patients alike, dismembered beyond recognition. Standing above them, a hulking, purple monstrosity blathered unintelligibly as a large blue tongue lolled out the side of its gaping mouth. Muscles bulged grotesquely beneath its undersized garments, and its fist tightened around the handle of a surgical saw. The baron turned pale as his gaze found the face of the monster\u2014and recognized it as his old enforcer.</p><p>The enforcer, who recalled nothing of his old boss, saw only another patient in desperate need of treatment. The purple thing lumbered toward the chem-baron, wagging his bonesaw in anticipation. The baron drew his chem-tech pistol and fired. The shot tore through the looming mass in front of him, staggering the monster...</p><p>But only for a brief moment.</p><p>The hole in the creature's flesh quickly closed as new slabs of muscle rapidly regrew over the wound. The monster paused, eyed the baron quizzically, and uttered, \u201cYou sick. Need help!\u201d</p><p>Mimicking what he had seen performed countless times by the asylum's former practitioners, the enforcer threw the man on a nearby gurney, strapped his arms into the restraints, and prepared his instruments for surgery. The chem-baron turned pale as he realized the grim fate that awaited him.</p><p>The ensuing surgery\u2014like so many before and after it\u2014was <i>not</i> successful. The burgeoning doctor added the remains of his latest patient to the pile on the floor. Though he was saddened he could not save them, he knew he had done all he could. Besides, he would have other chances. Zaun was full of sick people just waiting to be cured. With a smile returning to his face, he left the hospital and set out into the streets to find more patients.</p>",
                 "short": "Utterly mad, tragically homicidal, and horrifyingly purple, Dr. Mundo is what keeps many of Zaun\u2019s citizens indoors on particularly dark nights. Now a self-proclaimed physician, he was once a patient of Zaun\u2019s most infamous asylum. After \u201ccuring\u201d the entire staff, Dr. Mundo established his practice in the empty wards that once treated him and began mimicking the highly unethical procedures he had so often experienced himself. With a full cabinet of medicines and zero medical knowledge, he now makes himself more monstrous with each injection and terrifies the hapless \u201cpatients\u201d who wander near his office.",
                 "quote": "\u201cMe must be good doctor. Patients never come back.\u201d",
-                "quote_author": "Dr. Mundo"
+                "quote-author": "Dr. Mundo"
             },
-            "header_image": null,
             "subtitle": "the Madman of Zaun",
             "echelon": 1
         },
         {
             "type": "champion",
-            "release_date": "2015-05-28T00:00:00.000Z",
+            "release-date": "2015-05-28T00:00:00.000Z",
             "name": "Ekko",
             "title": "Ekko",
-            "section_title": "Ekko",
+            "section-title": "Ekko",
             "slug": "ekko",
-            "associated_faction": "",
-            "associated_faction_slug": "zaun",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
             "image": {
                 "title": "Ekko_0.jpg",
                 "subtitle": "",
@@ -189,7 +177,7 @@
                 "height": 717,
                 "x": 1061,
                 "y": 30,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Ekko_0.jpg",
@@ -201,7 +189,7 @@
                 "height": 717,
                 "x": 1061,
                 "y": 30,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/ekko",
             "video": {
@@ -214,7 +202,7 @@
                 "height": 720,
                 "x": 1061,
                 "y": 30,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -237,26 +225,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/ekko",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/ekko",
             "biography": {
                 "full": "<p>Born with genius-level intellect, Ekko constructed simple machines before he could crawl. His parents, Inna and Wyeth, vowed to provide a good future for their son\u2014Zaun, with all its pollution and crime, would only stifle Ekko, whom they felt deserved the wealth and opportunities of Piltover. Throughout his youth he watched his parents age beyond their years, toiling for too many hours under dangerous conditions in suffocating factories. They earned meager wages while greedy factory owners, and sneering Piltovan buyers, profited immensely from their labor.</p>\n<p>It would all be worth it, they reasoned, if it meant their son could one day rise to the city above.</p>\n<p>Ekko saw things differently. Beyond Zaun\u2019s flaws, he saw a dynamic place overflowing with energy and potential. Zaunites\u2019 industry, resourcefulness, and resilience stirred a hotbed of pure innovation. They had built a thriving culture from catastrophe, and flourished where others would have perished. That spirit captivated Ekko, and spurred him to a youth of wild invention and innovation.</p>\n<p>He wasn\u2019t alone. He befriended scrappy orphans, inquisitive runaways, and eager upstarts. Zaunites tended to eschew formal education in favor of apprenticeships, but these \u201cLost Children of Zaun\u201d looked to the labyrinthine streets to be their mentor. They wasted time in glorious, youthful fashion\u2014foot races through the border markets, or daring climbs from the Sump to the Promenade. They ran wild and free, answering to no one.</p>\n<p>One night, on a solo trek into the rubble of a recently demolished laboratory, Ekko made an astonishing find: a shard of blue-green crystal that glittered with magical energy. Every child of Zaun heard tales of <em>hextech</em>, said to power weapons and heroes alike. Such a thing had the potential to change the world, and now he held a broken one. He scrambled to find more pieces, but the crunching footfalls of teched-up enforcers told him he wasn\u2019t the only one looking. Ekko barely escaped, and returned to his home.</p>\n<p>He experimented madly with the crystal. During one less-than-scientific attempt, the gem exploded into a vortex of shimmering dust, triggering eddies of temporal distortion. Ekko opened his eyes to see several splintered realities\u2014and several \u201cecho\u201d versions of himself\u2014staring back in sheer panic amid the fractured continua.</p>\n<p>He\u2019d really done it this time.</p>\n<p>After some tense coordination between Ekko and his paradoxes, they managed to contain and repair the hole he had torn in the fabric of reality. Eventually, he harnessed the shattered crystal\u2019s temporal powers into a device that would allow him to manipulate small increments of time\u2026 at least in theory.</p>\n<p>On his name day, his friends badgered him into climbing the ancient clocktower known as Old Hungry, so Ekko brought the untested device along with him.</p>\n<p>The Lost Children climbed, stopping occasionally to paint an obscene caricature or two of prominent Pilties. They were near the top when a handhold gave way, sending one of Ekko\u2019s friends tumbling to certain doom. Instinctively\u2014as if he\u2019d done it a thousand times before\u2014Ekko activated his device. The world shattered around him, and he was wrenched backward through swirling particles of time.</p>\n<p>Then Ekko was back, watching his friend reach again for the same rotting plank. The plank broke, the boy fell\u2026 but Ekko was ready this time, diving to the edge and grabbing him by the shirt. Ekko tried to swing him to safety, but his friend became caught in the tower\u2019s clockwork gears, and\u2014</p>\n<p>Stop. Rewind.</p>\n<p>Several attempts later, Ekko finally saved his friend\u2019s life. But to his crew, Ekko\u2019s supernatural reflexes had saved their friend before anyone even realized the danger. He told them about the crystal and made them swear to secrecy. Instead, they dared each other to new heights of foolishness, knowing Ekko had the means to pluck them out of danger.</p>\n<p>With each trial, and <em>so much</em> error, the time-warping device\u2014which Ekko dubbed the Zero Drive\u2014grew more and more stable. The only limit was how many do-overs his body could take before exhaustion set in.</p>\n<p>Ekko\u2019s time-bending antics have made him a person of interest to some of Zaun and Piltover\u2019s most inventive, most powerful, and most dangerous individuals. But his only interest is in his friends, his family, and his city. He dreams of the day when his hometown rises up to dwarf the so-called City of Progress, when Piltover\u2019s golden veneer will be overshadowed by the towering ingenuity and relentless spunk of a Zaun born not from generations of privilege, but from sheer daring. He may not have a plan yet, but he\u2019s got all the time in the world.</p>\n<p>After all, if Ekko\u2019s Z-Drive can change the past, how hard can it be to change the future?</p>",
                 "short": "A prodigy from the rough streets of Zaun, Ekko is able to manipulate time to twist any situation to his advantage. He uses his own invention, the Z-Drive, to explore the branching possibilities of reality, crafting the perfect moment to seemingly achieve the impossible the first time, every time. Though Ekko revels in this freedom, when there\u2019s a threat to those he cares about, he and the Firelights will do anything to defend them.",
                 "quote": "\u201cMy devices work best when they don\u2019t work as intended\u2026 which is most of the time.\u201d",
-                "quote_author": "Ekko"
+                "quote-author": "Ekko"
             },
-            "header_image": null,
             "subtitle": "the Boy Who Shattered Time",
             "echelon": 2
         },
         {
             "type": "champion",
-            "release_date": "2009-09-02T00:00:00.000Z",
+            "release-date": "2009-09-02T00:00:00.000Z",
             "name": "Janna",
             "title": "Janna",
-            "section_title": "Janna",
+            "section-title": "Janna",
             "slug": "janna",
-            "associated_faction": "",
-            "associated_faction_slug": "zaun",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
             "image": {
                 "title": "Janna_0.jpg",
                 "subtitle": "",
@@ -267,7 +254,7 @@
                 "height": 717,
                 "x": 1113,
                 "y": 148,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Janna_0.jpg",
@@ -279,10 +266,9 @@
                 "height": 717,
                 "x": 1113,
                 "y": 148,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/janna",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -304,26 +290,25 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/janna",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/janna",
             "biography": {
                 "full": "<p>Since ancient times, there have been those who prayed to the winds. From sailors seeking good weather to the downtrodden calling on winds of change, mortals have placed their hope in the tempests and gales that sweep across Runeterra.</p><p>Surprisingly, the wind sometimes would seem to answer. Seafarers might spot a bright blue bird just before a healthy tailwind billowed their sails. Others could swear they\u2019d heard a whistling in the air right before a storm, as if to warn them of its approach. As word of these omens spread, sightings of the bird grew more common. Some even swore they had seen the bird transform into a woman. With tapered ears and flowing hair, this mysterious maiden was said to float above the water and direct the wind with a flick of her staff.</p><p>The faithful called this wind spirit <i>Jan\u2019ahrem</i>, an ancient Shuriman word meaning \u201cguardian,\u201d for she always seemed to appear in moments of great need. As time went on, she came to be known more simply as Janna.</p><p>Her name spread across the Shuriman continent\u2019s coasts, and the seafaring people of Oshra Va\u2019Zaun were her most fervent believers. They depended on calm seas for the trade ships that traveled through their city\u2019s port. Statues and shrines were raised in gratitude for Janna\u2019s benevolence. After the Shuriman empire enveloped the city, these displays of devotion continued\u2026 for a time.</p><p>When the emperor issued decrees suppressing \u201cfalse idols,\u201d Janna\u2019s statues were torn down. Yet despite the growing worship of the Ascended god-warriors, many still offered quiet prayers to Janna, for what could god-warriors do to protect ships from storms? These mortals often wore amulets with the image of a bluebird\u2014smaller, more personal tokens in Janna\u2019s honor.</p><p>Through all of this, Janna continued to aid the vulnerable who called upon her. In a region rife with upheaval, she remained constant. Those with an eye toward history might appreciate the irony of \u201cwinds of change\u201d being the only thing that did <i>not</i>.</p><p>After the great empire fell, once verdant lands became a desert as the remaining Ascended brought war and chaos\u2014yet Janna shielded the city, now known as Zaun, from the turmoil.</p><p>Over the centuries, Janna watched as Zaun\u2019s ambitions grew. While the city was still a robust trade port, its denizens aspired for more. They dreamed of cutting a canal through the isthmus on which they lived, opening a path that would unite the seas surrounding Valoran and Shurima. The city poured great effort, wealth, and time into the construction. Prayers to Janna waned as mortal dreams focused on mortal machinations.</p><p>However, the canal\u2019s excavation made great portions of Zaun unstable. On one cataclysmic day, entire districts on the River Pilt collapsed below the western sea level, and thousands suddenly found themselves fighting for their lives against the clashing currents.</p><p>As these unfortunate souls faced their doom, they prayed for salvation. They called out the name of their ancient protector:</p><p>Janna.</p><p>Though these mortals had seemingly forgotten her until now, Janna did not hesitate to help them. An immense gale swept over the city as she took corporeal form. Impossible walls of air held flooding waters at bay as people fled the drowned ruins of their homes. Ferocious gusts of wind cut through the suffocating smoke from fires caused by the destruction. Yet while she saved many, thousands still perished that day\u2014but all who survived witnessed Janna\u2019s benevolence. Never again would the city\u2019s people forget their savior.</p><p>To this day, through the rise of Piltover and the ongoing struggles of modern Zaun, Janna\u2019s faithful wear bluebird medallions and show reverence to the winds. And through it all, Janna stands steadfast by the humble and the meek. Zaunites all know that whether they fight for breath amid the toxic clouds of the Zaun Gray, stand against the brutality of violent chem-barons, or fend off other threats, Janna will not abandon them.</p>",
                 "short": "An ancient and mysterious wind spirit, Janna has come to protect the dispossessed of Zaun. While her presence is most often felt as a soothing breeze or a ferocious tempest, she also can manifest in corporeal form as an ethereal figure, comforting the downtrodden. Over the eons, Janna has witnessed the rise and fall of civilizations. Through it all, she remains steadfast as a beacon of hope to those in need.",
                 "quote": "\u201cDo not fear the winds of change\u2014they will always be at your back.\u201d",
-                "quote_author": "Janna"
+                "quote-author": "Janna"
             },
-            "header_image": null,
             "subtitle": "the Storm's Fury",
             "echelon": 3
         },
         {
             "type": "champion",
-            "release_date": "2013-10-10T00:00:00.000Z",
+            "release-date": "2013-10-10T00:00:00.000Z",
             "name": "Jinx",
             "title": "Jinx",
-            "section_title": "Jinx",
+            "section-title": "Jinx",
             "slug": "jinx",
-            "associated_faction": "",
-            "associated_faction_slug": "zaun",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
             "image": {
                 "title": "Jinx_0.jpg",
                 "subtitle": "",
@@ -334,7 +319,7 @@
                 "height": 717,
                 "x": 901,
                 "y": 82,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Jinx_0.jpg",
@@ -346,7 +331,7 @@
                 "height": 717,
                 "x": 901,
                 "y": 82,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/jinx",
             "video": {
@@ -359,7 +344,7 @@
                 "height": 720,
                 "x": 901,
                 "y": 82,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -374,26 +359,25 @@
                     "slug": "marksman"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/jinx",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/jinx",
             "biography": {
                 "full": "<p>While most look at Jinx and see only a mad woman wielding an array of dangerous weapons, a few remember her as a <em>relatively</em> innocent girl from Zaun\u2014a tinkerer with big ideas who never quite fit in. No one knows for certain what happened to turn that sweet young child into a wildcard, infamous for her wanton acts of destruction. But once Jinx exploded onto the scene in Piltover, her unique talent for sowing anarchy instantly became the stuff of legend.</p>\n<p>Jinx first gained notoriety through her anonymous \u201cpranks\u201d on the citizens of Piltover\u2026 particularly those with connections to the wealthy merchant clans. These pranks ranged from the moderately annoying to the criminally dangerous. She blocked streets on Progress Day, with a stampede of exotic animals freed from Count Mei\u2019s menagerie. She disrupted trade for weeks when she lined the city\u2019s iconic bridges with adorably destructive flame chompers. Once, she even managed to move every street sign in town to new and utterly confusing locations.</p>\n<p>Though this unknown troublemaker\u2019s targets seemed random, and her motivation nothing more than pure chaos, her actions always served to bring the city\u2019s orderly bustle to a screeching halt.</p>\n<p>Naturally, the wardens attributed some of her crimes to chem-punk gangs from the undercity. Having others get credit for her manic schemes didn\u2019t sit well with Jinx, and so she made sure to make her presence known at every future crime scene. Rumors soon circulated of the mysterious, blue-haired Zaunite girl carrying chemtech explosives, a shark-mouthed rocket launcher, and a repeater gun. Still, the authorities dismissed these reports as preposterous. After all, how could a lowly street punk possibly obtain such lethal ordnance?</p>\n<p>Jinx\u2019s bombastic spree seemed endless, with the wardens\u2019 attempts to catch the culprit thwarted at every turn. She began tagging her works of destruction with vivid graffiti, and other taunting messages directed at the city sheriff\u2019s newest ally in the fight against crime, Enforcer Vi.</p>\n<p>Jinx\u2019s reputation grew, leaving the people of Zaun divided as to whether she was a hero for sticking it to the arrogant Pilties, or a dangerous lunatic for escalating existing tensions between their two cities.</p>\n<p>After months of ever-increasing carnage, Jinx unveiled her biggest plan yet. In her trademark electric pink, Jinx daubed the walls of the Ecliptic Vaults\u2014one of Piltover\u2019s most secure treasuries\u2014with a <em>very</em> unflattering caricature of Enforcer Vi, and the details of her own intention to rob the stores within.</p>\n<p>An uneasy sense of anticipation settled on Piltover and Zaun leading up to the promised date of the heist. Many doubted even Jinx would have the guts to show up and risk almost certain capture.</p>\n<p>When the day arrived, Vi, Sheriff Caitlyn, and the wardens prepared a trap for Jinx outside the treasury. But Jinx had already smuggled herself inside by way of an oversized coin crate that had been delivered days before. When Vi heard pandemonium erupt from inside the structure, she knew the wardens had been outclassed once again. She burst into the treasury, and the ensuing confrontation left the Ecliptic Vaults a smoldering ruin, and the merry mischief maker Jinx nowhere to be found.</p>\n<p>Jinx remains at large to this day, and is a constant thorn in Piltover\u2019s side. Her schemes have inspired copycat crimes among the chem-punks, as well as numerous satirical plays lampooning the incompetence of the wardens, and even a smattering of new colloquialisms throughout both cities\u2014though no one has yet had the courage to call Enforcer Vi \u201c<em>Pretty-in-Pink</em>\u201d to her face.</p>\n<p>Jinx\u2019s ultimate endgame, and her obvious obsession with Vi, both remain a mystery, but one thing is certain: her crimes are continuing and growing in sheer audacity.</p>",
                 "short": "An unhinged and impulsive criminal from the undercity, Jinx is haunted by the consequences of her past\u2014but that doesn\u2019t stop her from bringing her own chaotic brand of pandemonium to Piltover and Zaun. She uses her arsenal of DIY weapons to devastating effect, unleashing torrents of colorful explosions and gunfire, inspiring the disenfranchised to rebellion and resistance with the mayhem she leaves in her wake.",
                 "quote": "\u201cVolatile explosives are a girl\u2019s best friend!\u201d",
-                "quote_author": "Jinx"
+                "quote-author": "Jinx"
             },
-            "header_image": null,
             "subtitle": "the Loose Cannon",
             "echelon": 4
         },
         {
             "type": "champion",
-            "release_date": "2022-02-01T09:00:00.000Z",
+            "release-date": "2022-02-01T09:00:00.000Z",
             "name": "Renata Glasc",
             "title": "Renata Glasc",
-            "section_title": "Renata Glasc",
+            "section-title": "Renata Glasc",
             "slug": "renataglasc",
-            "associated_faction": "",
-            "associated_faction_slug": "zaun",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
             "image": {
                 "title": "renata-splash.jpg",
                 "subtitle": "",
@@ -404,7 +388,7 @@
                 "height": 1080,
                 "x": 1035,
                 "y": 150,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "renata-splash.jpg",
@@ -416,10 +400,9 @@
                 "height": 1080,
                 "x": 1035,
                 "y": 150,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/renataglasc",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -433,26 +416,24 @@
                     "slug": "support"
                 }
             ],
-            "game_info_url": null,
             "biography": {
                 "full": "<p>Life had not always been good to Renata Glasc.</p>\n<p>Her parents were brilliant alchemists, focused on innovations for the healing arts. Dedicated to their work and their community in Zaun, they gave their care and their cures to anyone in need... regardless of whether their patients could afford them. Renata grew up accustomed to going to bed hungry, resentful of her parents\u2019 ideology, yet powerless to change her circumstances. She dreamed of the ships that sailed through Piltover\u2019s Sun Gate canal, imagining herself taking the wheel and steering her life in a new direction\u2014toward the riches of the world.</p>\n<p>When she was old enough to join the family business, it was quickly discerned that Renata had no aptitude for alchemy. She did, however, have ideas about turning a profit. In her first sales pitch, Renata convinced her parents that they wouldn\u2019t need to ask anything more than people could give, <em>if</em> they started treating wealthier Zaunites. With loyal patients extolling the Glascs\u2019 talents to their betters, their charity work was soon paid for by the rates Renata set for the rich.</p>\n<p>Instead of living comfortably, however, the Glascs spent that money developing a highly refined chemtech formula to extend the lives of their sickest patients. No matter what they did, the formula always had unwanted side effects\u2014such as making their patients extremely suggestible, or extremely violent\u2014so they continued to try and improve their work. Only Renata, bitter at what her parents chose to do with the money she had earned them, wondered if the formula could be useful as is.</p>\n<p>Up in Piltover, the elite clan leaders who had been making money off of Zaunite medical stopgaps heard whispers of the Glasc family\u2019s research. Not willing to let anything threaten their bottom line, they paid off a handful of enforcers to \u201ctake care of it.\u201d Renata woke to the sound of her parents\u2019 screams as her home burned down around them. She lost her arm trying\u2014and failing\u2014to save them.</p>\n<p>With only her family name and the scraps of research that survived the fire, Renata swore to avoid her parents\u2019 mistake of thankless altruism. Instead, she threw herself into building her meager inheritance into something bigger, something that could give her everything she\u2019d never had, something that would give her money and power and control. An <em>empire</em>.</p>\n<p>As the years passed, she became the brains behind several successful small-time operations while building relationships with unsavory, but influential, individuals throughout the city. She\u2019d give people jobs, lend them money, and give them medicine for their sick children\u2014but never for free. If they couldn\u2019t pay in coin, she demanded their loyalty.</p>\n<p>Renata quickly realized that genius was the rarest and most lucrative commodity in Zaun and devised a plan to invest in destitute youths with a talent for innovation. She offered a space to work and stability for their families in exchange for their work in perpetuity. The poorest among them couldn\u2019t afford to say no. Renata found herself with plentiful access to new and unique product designs, and novel uses for the chemtech formula that was her parents\u2019 legacy. Profits soared. She then established Glasc Industries after purchasing the first of what would eventually be dozens of factories to manufacture her high-end chemtech products.</p>\n<p>Glasc Industries quickly expanded across Zaun\u2014from chemtech mining operations to dance halls to refineries\u2014angering some barons who\u2019d held monopolies over the ventures. But, one by one, Renata persuaded them all to go into business with her. And just like that, Renata quietly managed to become a chem-baron in her own right, and no one could push back for fear of upsetting their own cash flow. While Glasc Industries flourished, Renata herself remained in the shadows, waiting for the right time to make her next move.</p>\n<p>That time came after a chemical accident sent poisonous fumes sweeping through the streets of Zaun, leaving the city in its worst state in decades. Amidst the noxious gray clouds, Glasc Industries offered basic breathers and replacement filters to everyone in the city\u2026 for free. Now everyone in Zaun knew of Renata Glasc and her benevolence. She had earned Zaun\u2019s loyalty.</p>\n<p>Word of her generosity swept through Piltover, as well. For the first time, shopkeepers looked seriously at Renata\u2019s elegant and ultra-refined chemtech designs and soon lined their shelves with her products.</p>\n<p>Now, every fashionable Piltovan owns at least one Glasc Industries product, and the wealthiest among them vie to sit beside Renata at novelty galas and the opera house. But Renata\u2019s plan was never to be a chem-baron in Zaun or the corporate darling of Piltover.</p>\n<p>No, she aims to take Piltover\u2019s source of financial power for herself\u2014the Sun Gate she had dreamed of so often in her youth. For she who controls the Sun Gate, controls the flow of trade; and she who controls the trade, controls the world. With a secret cache of her parents\u2019 chemtech formula embedded in every Glasc product in both Piltover and Zaun, ready to be released at her command\u2014side effects and all\u2014it\u2019s only a matter of time before <em>everyone</em> works for Renata Glasc.</p>",
                 "short": "<p>Renata Glasc rose from the ashes of her childhood home with nothing but her name and her parents\u2019 alchemical research. In the decades since, she has become Zaun\u2019s wealthiest chem-baron, a business magnate who built her power by tying everyone\u2019s interests to her own. Work with her, and be rewarded beyond measure. Work against her, and live to regret it. But everyone comes to her side, eventually.</p>",
                 "quote": "\u201cWe don't have to be enemies. Let me change your mind.\u201d",
-                "quote_author": ""
+                "quote-author": ""
             },
-            "header_image": null,
             "subtitle": "the Chem-Baroness",
             "echelon": 5
         },
         {
             "type": "champion",
-            "release_date": "2009-04-18T00:00:00.000Z",
+            "release-date": "2009-04-18T00:00:00.000Z",
             "name": "Singed",
             "title": "Singed",
-            "section_title": "Singed",
+            "section-title": "Singed",
             "slug": "singed",
-            "associated_faction": "",
-            "associated_faction_slug": "zaun",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
             "image": {
                 "title": "Singed_0.jpg",
                 "subtitle": "",
@@ -463,7 +444,7 @@
                 "height": 717,
                 "x": 945,
                 "y": 4,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Singed_0.jpg",
@@ -475,10 +456,9 @@
                 "height": 717,
                 "x": 945,
                 "y": 4,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/singed",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -500,26 +480,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/singed",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/singed",
             "biography": {
                 "full": "<p>The twisted, unfathomable madman known across Runeterra as Singed began his life as an ordinary man in Piltover. As a child, he displayed a prodigious intellect and a boundless sense of curiosity. The principles and interactions of the natural world fascinated him, eventually leading him to pursue a scholarship at the prestigious University of Piltover.</p><p>It did not take long for his brilliance to be recognized.</p><p>Singed\u2019s research into the natural sciences was impressive\u2014groundbreaking even\u2014but he found that Piltover\u2019s attention had been stolen away ever since the discovery of hextech, and the opportunities the hybrid of magic and technology presented. Singed found himself on the outside looking in, seeing magic as a crutch leaned upon by those who were either incapable of understanding how the world worked, or simply didn\u2019t care enough to find out. He became a vocal critic of what he saw as a new and ignorant fad within the university.</p><p>Singed instead delved into the chemical potential of alchemy, and despite the boon his intellect garnered for the field, his efforts earned him little more than the ridicule of his fellow academics. Before long, his funding had dried up, and he was forced out of the university, and out of Piltover. Singed had no choice but to begin a new life\u2014in Zaun.</p><p>In the undercity, life was cheap, and the demand for innovation high. Singed was quickly able to find work in the emergent chemtech industries, lending his skills and relentless drive for a variety of increasingly unscrupulous clients. His experiments, often of questionable ethicality, cast a wide net: augmenting humans, animals, and even fusions of the two, among countless other endeavours. Nonetheless, he pushed his new field forward at an incredibly rapid pace, but often at the expense of his own health. Understanding better than anyone the chemical needs of a living body, he engineered stimulants that could keep him alert and working for weeks at a time, before he would collapse, shivering and feeble, and sleep for days on end.</p><p>Singed\u2019s obsessive, tireless efforts as an alchymist meant he found no shortage of patrons and clients, eventually including even the warmasons of Noxus. The gossip was rampant across both Piltover and Zaun that the empire and their Grand General were on the verge of bankruptcy from paying Piltover\u2019s extortionate tithes for military passage to the campaigns in northern Shurima, and soon they might be looking elsewhere for new, less expensive conquests. So long as they paid his fees, Singed didn\u2019t care.</p><p>After years of smaller, off-and-on projects, Singed was approached by a Noxian military commander named Emystan, who contracted the alchymist to help her break the bitter stalemate of the war in Ionia. She needed a new kind of weapon from him, the like of which no one had ever seen before\u2026 and she could make him a wealthy man indeed.</p><p>Putting aside all other concerns, Singed poured all of his intellect, knowledge, and experience into the synthesis of this new weapon. The result of his efforts was an alchemical fire that was unstable, volatile, and utterly horrifying. When it was finally unleashed in Ionia against the enemies of Noxus, it burned hot enough to fracture stone, and tainted the earth around it with dense, metallic poisons so completely that almost nothing would grow there. Even Emystan\u2019s own allies were appalled, though not quite enough to name her and Singed as war criminals.</p><p>Now, without any restraint for capital, materials, or even subjects to experiment upon, Singed nonetheless feels the weight of years upon him. His most recent work has taken a decidedly more biological angle, and of a far more dramatic scope. A recent exercise in the melding of animal, man, and machine left his laboratories in ruins, his face held together with filthy bandages, and his subject freely prowling the streets of Zaun, yet Singed remains undeterred.</p><p>He has already mastered the destruction of flesh, and thus now has turned to the preservation and transformation of it\u2026 and perhaps even the possibility that life need not end with an inescapable death.</p>",
                 "short": "Singed is a brilliant alchemist of dubious morality, whose experiments would turn the stomach of even the most cutthroat criminal. Selling his skills to the highest bidder, he cares little for how his noxious concoctions are used, with the ensuing chaos an experiment in itself. His most infamous work is \u201cshimmer\u201d, which enabled the chembarons to turn Zaun into their personal playground\u2014but fueled by madness, Singed is always working on something new, with each endeavor more depraved than the last...",
                 "quote": "\u201cYou mustn\u2019t die yet; I have far too much to learn from your fragile anatomy.\u201d",
-                "quote_author": "Singed"
+                "quote-author": "Singed"
             },
-            "header_image": null,
             "subtitle": "the Mad Chemist",
             "echelon": 6
         },
         {
             "type": "champion",
-            "release_date": "2009-05-01T00:00:00.000Z",
+            "release-date": "2009-05-01T00:00:00.000Z",
             "name": "Twitch",
             "title": "Twitch",
-            "section_title": "Twitch",
+            "section-title": "Twitch",
             "slug": "twitch",
-            "associated_faction": "",
-            "associated_faction_slug": "zaun",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
             "image": {
                 "title": "Twitch_0.jpg",
                 "subtitle": "",
@@ -530,7 +509,7 @@
                 "height": 717,
                 "x": 760,
                 "y": 197,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Twitch_0.jpg",
@@ -542,10 +521,9 @@
                 "height": 717,
                 "x": 760,
                 "y": 197,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/twitch",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -567,26 +545,25 @@
                     "slug": "assassin"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/twitch",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/twitch",
             "biography": {
                 "full": "<p>A plague rat by birth, a connoisseur of filth by passion, Twitch is a paranoid and mutated rat that walks upright and roots through the dregs of Zaun for treasures only he truly values. Armed with a chem-powered crossbow, Twitch is not afraid to get his paws dirty as he builds a throne of refuse in his kingdom of filth, endlessly plotting the downfall of humanity.</p>",
                 "short": "A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the city above just how filthy they really are. Always a sneaky sneak, when he\u2019s not rooting around in the Sump, he\u2019s digging deep into other people\u2019s garbage for discarded treasures\u2026 and perhaps a moldy sandwich.",
                 "quote": "\u201cThey threw this away? But it\u2019s so shiny!\u201d",
-                "quote_author": "Twitch"
+                "quote-author": "Twitch"
             },
-            "header_image": null,
             "subtitle": "the Plague Rat",
             "echelon": 7
         },
         {
             "type": "champion",
-            "release_date": "2010-08-24T00:00:00.000Z",
+            "release-date": "2010-08-24T00:00:00.000Z",
             "name": "Urgot",
             "title": "Urgot",
-            "section_title": "Urgot",
+            "section-title": "Urgot",
             "slug": "urgot",
-            "associated_faction": "",
-            "associated_faction_slug": "zaun",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
             "image": {
                 "title": "urgot-splash-updated.jpg",
                 "subtitle": "",
@@ -597,7 +574,7 @@
                 "height": 717,
                 "x": 686,
                 "y": 40,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "urgot-splash-updated.jpg",
@@ -609,10 +586,9 @@
                 "height": 717,
                 "x": 686,
                 "y": 40,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/urgot",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -634,26 +610,25 @@
                     "slug": "juggernaut"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/urgot",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/urgot",
             "biography": {
                 "full": "<p>Urgot always believed he was worthy.</p><p>As a headsman, an executioner of the weak, he was a living embodiment of the Noxian ideal that strength should rule, making it a reality with every swing of his axe. His pride swelled as the bodies piled ever higher behind him, and his intimidating presence kept countless warbands in line.</p><p>Even so, a single word was all it took to seal his fate. Sent to distant Zaun to eliminate a supposed conspiracy against the ruler of Noxus, Urgot realized too late the mission was a setup, removing him from the capital even as the usurper Swain seized control of it. Surrounded by agents of the chem-barons, and enraged that everything he believed was a lie, Urgot was dragged down into the chemtech mines beneath Zaun. He was defeated. He was <i>enslaved</i>. He was not worthy after all. He endured the mine\u2019s hellish conditions in grim silence, waiting for death.</p><p>In the Dredge, death came in many forms\u2026</p><p>The mine\u2019s warden, Baron Voss, would sometimes offer freedom in return for a prisoner\u2019s tortured confession\u2014granting it with the edge of her blade. From the screams that echoed through the tunnels, Urgot learned about the wonders of Zaun. There was something special about the city, something marvelous and evident even in the secrets that spilled from slit throats. Urgot didn\u2019t know what it was until he was finally brought before Voss, fearing that she would break him.</p><p>But as the baron\u2019s blade cut into his flesh, Urgot realized that his body was already wracked with agony, far beyond anything Voss could inflict. The Dredge had made him stronger than he\u2019d ever been as a headsman.</p><p><i>Pain</i> was Zaun\u2019s secret. His laughter drove Voss back to the surface, and a reign of anarchy began in the depths.</p><p>Seizing control of the prison, Urgot reveled in new trials of survival. He found the parts of his body that were weakest, and replaced them with scavenged machinery, technology created by those who would die without it\u2014necessity being the mother of pain.</p><p>The guards could no longer enter the areas Urgot had carved out of Voss\u2019 grasp. The prisoners themselves were more afraid of their new master than they were of her. Many even grew to hold a fanatical respect for Urgot, as they were forced to hear his feverish sermons on the nature of power, his grip tightening around the necks of those who would not listen.</p><p>Only when a Noxian agent arrived in the Dredge was Urgot finally forced to confront his own past. Though the spy recognized him and sought his aid in escaping, Urgot beat him mercilessly, and hurled his broken body into the darkness.</p><p>It was not strength that ruled Noxus, Urgot now realized, but men\u2026 and men were weak. There should be no rulers, no lies, nothing to interfere with the pure chaos of survival. Starting a riot that ignited a chemtech vein within the mine, Urgot shook the city above, and cracked the prison open in an explosion that rivaled the birth of Zaun itself. Many prisoners died, with thousands fleeing into the Sump\u2014but the worthy, as ever, survived.</p><p>From that day, Urgot\u2019s reign of terror only grew. A hideous fusion of industrial machinery and Noxian brutality, he slaughtered chem-barons and their lackeys one by one, gathering a following among Zaun\u2019s downtrodden masses. He was said to be a new savior, one who would lift the boot of the oppressor from the neck of every common Zaunite.</p><p>However, his actions did not make such distinctions, as Urgot tested the worthiness of the meek and the powerful alike. To any who found themselves spared in his deadly trials, his message was clear: he was not there to lead, but to <i>survive</i>. If others were worthy, they would survive, too.</p><p>When Urgot finally struck at representatives of the Piltovan merchant clans, the Wardens were forced to intervene, hauling him in chains to a fortified prison cell\u2014though this merely seemed to confirm \u201cthe Dreadnought\u201d as a legend among the gangers, the sump-snipes, and the forgotten.</p><p>For Piltover is not the first to shackle Urgot, and one must wonder if any cage can <i>ever</i> hope to hold him for long\u2026</p>",
                 "short": "Once a powerful Noxian headsman, Urgot was betrayed by the empire for which he had killed so many. Bound in iron chains, he was forced to learn the true meaning of strength in the Dredge\u2014a prison mine deep beneath Zaun. Emerging in a disaster that spread chaos throughout the city, he now casts an imposing shadow over its criminal underworld. Raising his victims on the very chains that once enslaved him, he will purge his new home of the unworthy, making it a crucible of pain.",
                 "quote": "\u201cThere is only one way to measure a man. Tear him\u2026 into\u2026 pieces.\u201d",
-                "quote_author": "Urgot"
+                "quote-author": "Urgot"
             },
-            "header_image": null,
             "subtitle": "the Dreadnought",
             "echelon": 8
         },
         {
             "type": "champion",
-            "release_date": "2011-12-29T00:00:00.000Z",
+            "release-date": "2011-12-29T00:00:00.000Z",
             "name": "Viktor",
             "title": "Viktor",
-            "section_title": "Viktor",
+            "section-title": "Viktor",
             "slug": "viktor",
-            "associated_faction": "",
-            "associated_faction_slug": "zaun",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
             "image": {
                 "title": "Viktor_0.jpg",
                 "subtitle": "",
@@ -664,7 +639,7 @@
                 "height": 1080,
                 "x": 868,
                 "y": 23,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Viktor_0.jpg",
@@ -676,10 +651,9 @@
                 "height": 1080,
                 "x": 868,
                 "y": 23,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/viktor",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -693,26 +667,25 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": "https://www.leagueoflegends.com/en-us/champions/viktor/",
+            "game-info-url": "https://www.leagueoflegends.com/en-us/champions/viktor/",
             "biography": {
                 "full": "<p><i>To understand the full impact of hextech, and the legacy it has left behind in our world, one must first understand the minds behind it.</p><p>While much is known and written about Jayce Talis\u2014the vaunted \u201cMan of Progress\u201d\u2014it is considerably harder to verify anything about his counterpart, Viktor. Your humble author has made several requests to the Piltover Council and various faculties within the Academy, but they claim that any records relating to his employment there were lost during the tumultuous events that ultimately led to his death. I will leave it to your judgment as to whether this seems plausible, and simply recount what I have been able to glean from public sources such as the unexpectedly superb back catalogs of The Piltover Gazette, and what little remains of the hexgate construction documentation I was able to source by\u2026 let us say, less</i> official <i>means.</p><p>Born to a poor family in the fissures beneath Zaun, it appears Viktor always knew hardship. The polluted undercity afflicted him with both a limp and a rare, life-limiting illness, which alienated him from the other children. Yet despite all the impediments to his body, Viktor\u2019s mind was allowed to grow without restraint, and flourished.</p><p>He once spoke with a colleague of mine, about a formative moment in his youth. Playing in the effluent streams of the Sump with his toy boat, he made reference to encountering a \u201cdisgraced doctor\u201d who had gone to disturbing and extreme lengths in pursuit of science. Progress needed boundaries, and this early lesson served Viktor well when he caught the eye of the celebrated Professor Cecil B Heimerdinger, years later.</p><p>He was taken up to Piltover Academy for a full education, and to serve as the professor\u2019s assistant. (This is precisely why I find it difficult to believe that no records have survived in their administrative archives\u2014not to mention Heimerdinger himself, who some on the Council claim not even to remember! Such petty revisionism!) But, finally, Viktor had a home where his genius could truly be cultivated.</p><p>When a laboratory accident (see Chapter 6: Enforcement in the Undercity) revealed unauthorized experiments on Academy property, Heimerdinger sent Viktor to remove anything hazardous. But instead of danger, Viktor found intrigue\u2014pages of handwritten notes, speaking of a feverish ambition to master magic through science.</p><p>It was here that he struck a friendship with the wayward inventor Jayce Talis, and their shared vision would change the world forever.</p><p>The fruit of their labors was, of course, hextech, a technology so revolutionary that it propelled Piltover into a wondrous new era. Viktor and Jayce were not just peers in innovation, but brothers in all but blood.</p><p>However, Viktor\u2019s illness worsened. He drove them toward a possible solution\u2014an adaptive runic matrix (outlined and illustrated in full in Chapter 13: The Hexcore). With its power to seemingly evolve its own configuration, he hoped it could augment organic matter and heal him\u2026 but was met only with failure. Self-experimentation is always risky, and Viktor knew it would likely cost him his standing in the academic community, as well as his loved ones. Even so, by all accounts, he truly believed Jayce would be an exception to this.</p><p>But when his friend\u2019s prejudices against the undercity and its people came to light, it seems Viktor felt their bond beginning to weaken. Resolving to hide his plans, he experimented alone, until he ultimately lost control of the hexcore. According to two verified sources within the Academy (see Appendix H for full transcripts) it seems that some loss of life occurred as a result, though details are notably vague.</p><p>Nonetheless, it is apparent that Viktor\u2019s mental health was impacted, though he felt unable to destroy the hexcore on his own. Despite their best efforts, both he and Jayce had each failed to save lives with their inventions, and Viktor was determined to make amends.</p><p>Any plans he may have formulated in that regard were halted by the terrorist attack on the Piltover Council.</p><p>He was critically injured in the blast, and saved only by the quick thinking and rapid intervention of his old friend, Jayce Talis. The hexcore was able to regenerate his wounds to a degree that has astounded and baffled some of the greatest minds in all the world\u2014indeed, such that it sounds almost akin to a vulgar fantasy, or fiction of science! We will cover this more exhaustively in Chapter 21: The Theory of Biomechanics\u2026 but suffice to say, the Viktor that stepped forth was to a man as hextech is to the simple wheel!</p><p>And he had little gratitude for what Jayce had done for him.</p><p>Walking alone among the broken and forgotten denizens of the undercity gifted Viktor a new purpose, for his cold touch could apparently heal suffering and remove emotion. Word spread quickly throughout Zaun of a healer, and soon enough the healer became a savior. The commune that sprung forth around him attracted some of the most hopeless and pitiful cases, until it was attacked by the Noxian garrison (see Chapter 19: Martial Law in Piltover) under General Ambessa Medarda, and Viktor was once again physically incapacitated.</p><p>This time, however, something changed. Devoid of fear, love, bitterness, joy, hatred, or compassion, he rose up as the mechanical herald of a</i> second <i>new era, with his followers reduced to little more than puppets of his will.</p><p>Doubtless, for all his vast and unsympathetic intelligence, Viktor\u2019s purpose was clearer than it had ever been. He would save humanity from themselves by enacting a Glorious Evolution across the entire world\u2014whether they understood its need, or not.</i></p><center><p></p><p>\u2014extract from \u2018The Price of Progress\u2019, a treatise by Prof. Cristobal Lymere</p></center>",
                 "short": "The fully biomechanical evolution of his former self, Viktor has embraced his Glorious Evolution and become something of a messiah to his followers. He sacrificed his own humanity under the logic that eliminating emotion would thereby eliminate suffering\u2014and now seeks to bring the revelation of the hexcore to the rest of the world, even if they\u2019re incapable of understanding the benefit. After all, to this master of the arcane, violence is merely a variable necessary to balance the ultimate equation.",
                 "quote": "\u201cJoin the Glorious Evolution.\u201d",
-                "quote_author": "Viktor"
+                "quote-author": "Viktor"
             },
-            "header_image": null,
             "subtitle": "Herald of the Arcane",
             "echelon": 9
         },
         {
             "type": "champion",
-            "release_date": "2009-02-21T00:00:00.000Z",
+            "release-date": "2009-02-21T00:00:00.000Z",
             "name": "Warwick",
             "title": "Warwick",
-            "section_title": "Warwick",
+            "section-title": "Warwick",
             "slug": "warwick",
-            "associated_faction": "",
-            "associated_faction_slug": "zaun",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
             "image": {
                 "title": "warwick-splash-updated.jpg",
                 "subtitle": "",
@@ -723,7 +696,7 @@
                 "height": 783,
                 "x": 885,
                 "y": 476,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "warwick-splash-updated.jpg",
@@ -735,7 +708,7 @@
                 "height": 783,
                 "x": 885,
                 "y": 476,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/warwick",
             "video": {
@@ -748,7 +721,7 @@
                 "height": 783,
                 "x": 942,
                 "y": 487,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -771,26 +744,25 @@
                     "slug": "tank"
                 }
             ],
-            "game_info_url": "http://na.leagueoflegends.com/en/featured/champion-warwick-uncaged-wrath",
+            "game-info-url": "http://na.leagueoflegends.com/en/featured/champion-warwick-uncaged-wrath",
             "biography": {
                 "full": "<p>Warwick is a monster who hunts the gray alleys of Zaun. Transformed by agonizing experiments, his body is fused with an intricate system of chambers and pumps, machinery filling his veins with alchemical rage. Bursting out of the shadows, he preys upon those criminals who terrorize the city\u2019s depths. Warwick is drawn to blood, and driven mad by its scent. None who spill it can escape him.</p><p>Though many think of Warwick as no more than a beast, buried beneath the fury lies the mind of a man\u2014a gangster who put down his blade and took up a new name to live a better life. But no matter how hard he tried to move on, he could never escape the sins of his past.</p><p>Memories of that time come to Warwick in flashes before they\u2019re inevitably lost, replaced by searing echoes of the days he spent strapped to a table in Singed\u2019s lab, the mad chemist\u2019s face looming above him.</p><p>His world a haze of pain, Warwick could not recall how he fell into Singed\u2019s grasp\u2026 and even struggled to remember a time before the suffering began. The scientist patiently carved into him, installing pumps and hoses to inject chemicals into his veins, seeking what an alchemist always seeks: transmutation. </p><p>Singed would reveal his subject\u2019s true nature\u2014the deadly beast hidden within a \u201cgood man.\u201d</p><p>The chemicals pumped into Warwick\u2019s veins boosted his healing, allowing Singed to gradually and painfully reshape the man. When his hand was severed in the course of the experiment, Singed was able to reattach it, augmenting it with powerful, pneumatic claws, and bringing Warwick ever closer to his true potential. </p><p>A chemical chamber was installed on Warwick\u2019s back and integrated with his nervous system. Whenever he felt rage, or hate, or fear, it would drive liquid fury deeper into his veins, fully awakening the beast within.</p><p>He was forced to endure it all, every cut of the mad chemist\u2019s scalpel. Pain, Singed assured his subject, was necessary; it would prove to be the \u201cgreat catalyst\u201d of his transformation. Though the chemicals enabled Warwick\u2019s body to heal through most of the physical damage, his mind was shattered by the unending agony.</p><p>Warwick struggled to recall a single memory from his past... All he could see was blood. But then he heard a little girl screaming. Screaming something he couldn\u2019t understand. It sounded like a name.</p><p>He\u2019d already forgotten his. He sensed that was for the best.</p><p>Pain soon overwhelmed all other thoughts. Blood was the only thing left.</p><p>Though his body and mind were broken after weeks on the slab, Warwick stubbornly resisted the chemicals transmuting him. Toxins leaked from his eyes in place of tears. He coughed up gobs of caustic phlegm that sizzled against his chest, before burning shallow holes in the floor of the lab. Restrained against the cold steel of the table, Warwick writhed in agony for hours on end, until his body finally gave out.</p><p>With the untimely death of his subject, Singed disposed of the corpse in a charnel pit deep in Zaun\u2019s Sump, before turning his mind to the next experiment. </p><p>But death proved to be the true catalyst needed for Warwick\u2019s transformation. As he lay cooling atop the pile of corpses, the chemicals could finally complete their work. The chamber on his back began to pump.</p><p>His body contorted unnaturally, bones bending and snapping, teeth growing, sinews tearing and then healing with a faint alchemical glow, dead flesh replaced by something new and powerful. By the time his heart started beating once again, the man Warwick had been and the lives he\u2019d lived were gone.</p><p>He awoke to hunger. Everything hurt. Only one thing mattered.</p><p>He needed blood.</p><p>First, it was the blood of a nearby sump-scrapper, rooting through the charnel pile. And then a priestess of the Glorious Evolved, seeking a member of her flock. Then a Piltovan apprenta taking a shortcut, and a philter-faced merchant avoiding a gang, and a dram-dealer, and a tallyman, and a chem punk...</p><p>He set up a den not far from a place that itched at the back of his now-animal mind. There, he continued the slaughter, not caring who fell to his claws. So long as blood dripped from gnashing teeth, he would feel nothing but a smear of red on his conscience, the hunger in his gut overwhelming any concern for his random victims.</p><p>Yet, even as he surrendered to the beast, glimpses of his past began to haunt him. He saw a bearded man reflected in the eyes of a beggar as he tore out his throat. The other man looked somber, somehow familiar; there were scars on his arms. Sometimes, as he fed in dark alleys on stray gangers, the flash of knives would remind him of an old blade covered in blood. Blood passing from the blade to his hands. From his hands, to everything he touched. Sometimes, he remembered the girl again.</p><p>And still there was blood.</p><p>It had always been there, he realized, his entire life, and nothing he did could wash it off. He\u2019d left so many scars that even if he didn\u2019t remember his past, the city would. When he peered into the eyes of Zaun\u2019s criminals\u2014the gang bosses, murderers, and thieves\u2014he saw himself. The chamber on his back would fill his body with hate. His claws tore out of his fingers.</p><p>He hunted.</p><p>No longer content to kill indiscriminately, Warwick now pursues those already covered in the stench of blood. Just as he was the day he was dragged to Singed\u2019s door.</p><p>He still wonders if he\u2019d truly wanted this. He can\u2019t remember details, but he remembers enough. Enough to know Singed had been right all along\u2014the good man had been a lie, before disaster had burned it away, revealing the truth.</p><p>He is Warwick. He is a killer.</p><p>And there are so many killers to hunt.</p>",
                 "short": "Warwick is a monster who hunts the gray alleys of Zaun. Transformed by agonizing experiments, his body is fused with an intricate system of chambers and pumps, machinery filling his veins with alchemical rage. He bursts from the shadows to prey upon those criminals who terrorize the city\u2019s depths. Warwick is drawn to blood, driven mad by its scent\u2026 and none who spill it can escape him.",
                 "quote": "\u201cSpill blood... draw the beast!\u201d",
-                "quote_author": "Warwick"
+                "quote-author": "Warwick"
             },
-            "header_image": null,
             "subtitle": "The Uncaged Wrath of Zaun",
             "echelon": 10
         },
         {
             "type": "champion",
-            "release_date": "2013-03-29T00:00:00.000Z",
+            "release-date": "2013-03-29T00:00:00.000Z",
             "name": "Zac",
             "title": "Zac",
-            "section_title": "Zac",
+            "section-title": "Zac",
             "slug": "zac",
-            "associated_faction": "",
-            "associated_faction_slug": "zaun",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
             "image": {
                 "title": "Zac_0.jpg",
                 "subtitle": "",
@@ -801,7 +773,7 @@
                 "height": 717,
                 "x": 924,
                 "y": 432,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Zac_0.jpg",
@@ -813,7 +785,7 @@
                 "height": 717,
                 "x": 924,
                 "y": 432,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/zac",
             "video": {
@@ -826,7 +798,7 @@
                 "height": 720,
                 "x": 924,
                 "y": 432,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -849,26 +821,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/zac",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/zac",
             "biography": {
                 "full": "<p>Zac is the product of a toxic spill that ran through a chemtech seam and pooled in an isolated cavern deep in Zaun\u2019s Sump. Despite such humble origins, Zac has grown from primordial ooze into a thinking being who dwells in the city\u2019s pipes, occasionally emerging to help those who cannot help themselves or to rebuild the broken infrastructure of Zaun.</p><p>A group of Zaunite children first encountered Zac when they were out skimming rocks over a sump pool and some of the stones were thrown back. The \u201cReturning Pool\u201d became well-known to Zaun\u2019s Sump dwellers, and eventually drew the attention of a shadowy cabal of chemtech alchymists. Over the protests of the local residents, the alchymists pumped the contents of the pool into vats and carried the substance back to their laboratories for experimentation.</p><p>Via a series of experiments designed to test negative and positive reinforcement techniques, the alchymists discovered the coagulate mass within the pool appeared to have psychotropic tendencies. Simply put, it mirrored whatever stimulus was provided to it. If treated well, it responded with childlike glee and playfulness, but when its response to pain and aggression were tested, the alchymists lost numerous augmented sump-scrappers in the ensuing destruction.</p><p>Most of the alchymists attributed this to nothing more than a simple reflex response, but two among their number weren\u2019t so sure. They questioned the morality of experiments that seemed entirely driven to produce a creature of unmatched aggression. When the pair dug further, they discovered the project was being funded by Saito Takeda, a Chem-Baron with a notoriously violent temperament and reputation for bloody gang warfare. The implication was clear; Takeda sought to develop a fighter who could shrug off mortal wounds, squeeze into places humans could not and who would obey any command. They also discovered the project\u2019s true name; the Zaun Amorphous Combatant.</p><p>As they pondered the best course of action, the two dissenting alchymists saw more than just a mirroring of whatever stimulus was applied to the viscous gel. They saw behaviors manifest without any obvious stimulus - behaviors consistent with sentience. They came to know the creature as Zac and concluded that he exhibited the behaviors of a thinking, feeling being. They brought their findings to the spindle-limbed leader of their research team, but their concerns were ignored.</p><p>Unwilling to let the matter drop, they began their own covert efforts to counter the violent teachings of the rest of their team. They sought to show Zac right from wrong, exposing him to acts of altruism and generosity. Their efforts bore fruit, with Zac showing sadness when one of the researchers hurt her hand and reacting badly when another killed a rat in the laboratory. Eventually, they could no longer tolerate the cruel experiments being done to Zac by their fellow alchymists.</p><p>One night, during Zaun\u2019s Progress Day remembrances, when the laboratory was empty, they drained Zac into a wheeled septic tank and dragged him to a far distant part of Zaun. When their act was later discovered, the footsoldiers of Baron Takeda sought them out. But Zaun is a big place, and the researchers were able to hide from their pursuers. They had thought to give Zac his freedom, but Zac did not want to be released, for he now considered the two researchers his family. They alone had shown him kindness, and he wanted to learn more from them. In truth, they were pleased by his reaction, for they had become so fond of Zac that they considered him their adoptive son.</p><p>To stay hidden from Takeda\u2019s men, they changed their identities and appearance, taking up residence in a remote part of the Sump, far from prying eyes. Zac learned to mimic their voices, and quickly adapted to shift his gelatinous mass into the required shapes to form sound. He lived alongside his adoptive parents for many years, hiding when necessary in sump pools or in the cracks in the cliffside rocks. His \u2018parents\u2019 told Zac of the world in which he lived, how it could be beautiful and full of wonder. They showed him the moon rise over the Sun Gates, the play of rainbow light on the stained glass roofs of Zaun\u2019s commercia halls, and the bustling, vibrant beauty of their city\u2019s heart. They also explained how the world could be cruel and harsh, and Zac learned that people were sometimes mean and unkind, hateful and prejudiced. Zac rejected such behaviors and helped his parents where he could as they used their skills to aid the people around them without attracting undue attention.</p><p>They did what they could to treat the sick, mend broken machinery or otherwise put their chem-knowledge to benign use. These were golden years for Zac, and he roamed Zaun through its almost limitless network of pipes and through the many cracks in its bedrock. As much as Zac was a sentient being, too much stimulus from his environment could sometimes overwhelm his senses and cause him to temporarily absorb the dominant emotions around him, for good or ill. Oft-times he couldn\u2019t help getting involved in aiding the oppressed and downtrodden against thuggish bullies; leading to rumors of his presence spreading through Zaun. Though the majority of tales were of him helping, others attributed destructive events to Zac; a factory destroyed or a crevasse ripping open in a Sump neighborhood. </p><p>Eventually, those rumors reached the ears of Saito Takeda, and he sent a band of augmented thugs to retrieve what he saw as his property. His alchymists had been attempting - without success - to replicate the process that had created Zac from droplets left behind in his vat. Takeda wanted the creature returned, and his augmented heavies surrounded Zac\u2019s parents\u2019 home and attacked. They fought back, for they were chemtech researchers and not without esoteric means of defending themselves, but their defiance could not last forever and eventually they were killed, despite Takeda\u2019s order that they be taken alive.</p><p>Zac had been exploring subterranean seams far below Zaun, but sensed his parents\u2019 distress and raced back through the pipes of the city to the rescue. He arrived too late to save them, and the fury that overwhelmed him upon seeing their bodies was unmatched by anything the baron\u2019s men had ever seen. Zac attacked in a ferocious display of stretching, smashing, and crushing. In his grief and anger, he demolished dozens of nearby dwellings, and by the time the battle was over, all the augmented thugs were dead.</p><p>When the heightened emotions of battle drained from Zac\u2019s consciousness, he was overcome with remorse for the homes he had destroyed, and vowed to continue the good work done by his parents. He helped rebuild what he had destroyed, but as soon as the work was done, he vanished into Zaun\u2019s vast network of pipes.</p><p>Now Zac lives alone, dwelling in the tunnels and caverns threading Zaun, and bathing in the emotions of the city\u2019s inhabitants. Sometimes this enriches him, but other times it saddens him as he takes on both the good and bad of the city. He has become something of an urban legend among the people of Zaun, a mysterious creature that sometimes emerges from cracks in the rock or a section of damaged pipework. Most times this is to help those in need, but in times of trouble, when the city\u2019s moods turn grim, his appearance can be cause for trepidation.</p>",
                 "short": "Zac is the product of a toxic spill that ran through a chemtech seam and pooled in an isolated cavern deep in Zaun\u2019s Sump. Despite such humble origins, Zac has grown from primordial ooze into a thinking being who dwells in the city\u2019s pipes, occasionally emerging to help those who cannot help themselves or to rebuild the broken infrastructure of Zaun.",
                 "quote": "\u201cThe angrier you get, the more this is going to hurt...\u201d",
-                "quote_author": "Zac"
+                "quote-author": "Zac"
             },
-            "header_image": null,
             "subtitle": "the Secret Weapon",
             "echelon": 11
         },
         {
             "type": "champion",
-            "release_date": "2012-02-01T00:00:00.000Z",
+            "release-date": "2012-02-01T00:00:00.000Z",
             "name": "Ziggs",
             "title": "Ziggs",
-            "section_title": "Ziggs",
+            "section-title": "Ziggs",
             "slug": "ziggs",
-            "associated_faction": "",
-            "associated_faction_slug": "zaun",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
             "image": {
                 "title": "Ziggs_0.jpg",
                 "subtitle": "",
@@ -879,7 +850,7 @@
                 "height": 717,
                 "x": 1018,
                 "y": 199,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Ziggs_0.jpg",
@@ -891,10 +862,9 @@
                 "height": 717,
                 "x": 1018,
                 "y": 199,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/ziggs",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -908,26 +878,25 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/ziggs",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/ziggs",
             "biography": {
                 "full": "<p>Ziggs was born with a talent for tinkering, but his chaotic, hyperactive nature was unusual among yordle scientists. Aspiring to be a revered inventor like Heimerdinger, he rattled through ambitious projects with manic zeal, emboldened by both his explosive failures and his unprecedented discoveries. Word of Ziggs&apos; volatile experimentation reached the famed Yordle Academy in Piltover and its esteemed professors invited him to demonstrate his craft. His characteristic disregard for safety brought the presentation to an early conclusion, however, when the hextech engine Ziggs was demonstrating overheated and exploded, blowing a huge hole in the wall of the Academy. The professors dusted themselves off and sternly motioned for him to leave. Devastated, Ziggs prepared to return to Bandle City in shame. However, before he could leave, a group of Zaunite agents infiltrated the Academy and kidnapped the professors. The Piltover military tracked the captives to a Zaunite prison, but their weapons were incapable of destroying the fortified walls. Determined to outdo them, Ziggs began experimenting on a new kind of armament, and quickly realized that he could harness his accidental gift for demolition to save the captured yordles.</p><p>Before long, Ziggs had created a line of powerful bombs he lovingly dubbed &apos;&apos;hexplosives.&apos;&apos; With his new creations ready for their first trial, Ziggs traveled to Zaun and sneaked into the prison compound. He launched a gigantic bomb at the prison and watched with glee as the explosion tore through the reinforced wall. Once the smoke had cleared, Ziggs scuttled into the facility, sending guards running with a hail of bombs. He rushed to the cell, blew the door off its hinges, and led the captive yordles to freedom. Upon returning to the Academy, the humbled professors recognized Ziggs with an honorary title - Dean of Demolitions. Vindicated at last, Ziggs accepted the proposal, eager to bring his ever-expanding range of hexplosives to greater Valoran.</p>",
                 "short": "With a love of big bombs and short fuses, the yordle Ziggs is an explosive force of nature. As an inventor\u2019s assistant in Piltover, he was bored by his predictable life and befriended a mad, blue-haired bomber named Jinx. After a wild night on the town, Ziggs took her advice and moved to Zaun, where he now explores his fascinations more freely, terrorizing the chem-barons and regular citizens alike in his never ending quest to blow stuff up.",
                 "quote": "''Ziggs? Unpredictable, dangerous, yes yes. But quite brilliant!''",
-                "quote_author": "Heimerdinger"
+                "quote-author": "Heimerdinger"
             },
-            "header_image": null,
             "subtitle": "the Hexplosives Expert",
             "echelon": 12
         },
         {
             "type": "champion",
-            "release_date": "2022-01-05T18:00:00.000Z",
+            "release-date": "2022-01-05T18:00:00.000Z",
             "name": "Zeri",
             "title": "Zeri",
-            "section_title": "Zeri",
+            "section-title": "Zeri",
             "slug": "zeri",
-            "associated_faction": "",
-            "associated_faction_slug": "zaun",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
             "image": {
                 "title": "zeri-splashv2.jpg",
                 "subtitle": "",
@@ -938,7 +907,7 @@
                 "height": 1080,
                 "x": 1100,
                 "y": 300,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "zeri-splashv2.jpg",
@@ -950,10 +919,9 @@
                 "height": 1080,
                 "x": 1100,
                 "y": 300,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/zeri",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -967,23 +935,21 @@
                     "slug": "marksman"
                 }
             ],
-            "game_info_url": null,
             "biography": {
                 "full": "<p>Raised in a large working-class family, Zeri grew up surrounded by warmth, care, and many strong opinions. They were no strangers to hardship, having lost loved ones to Zaun\u2019s dangers. Even so, their community was their strength.</p>\n<p>From birth, Zeri had a unique relationship with electricity. Each giggle caught a spark\u2014each cry, a shock. Magic wasn\u2019t rare in Zaun, but Zeri\u2019s electric charm was. It charged with her emotions, sometimes grounded, sometimes building to fierce and fiery. By her teenage years, her neighbors knew she was more likely the cause of power outages than a broken circuit. Life in Zaun was beautiful chaos, her grandma would say, and Zeri embodied that all too well.</p>\n<p>Not everyone found her quirks endearing. To family and friends, Zeri was a lovable mess. To others, she was simply... a mess. During occasional outbursts where her stray currents shattered a street lamp or two (or twelve), Zeri thought she'd even see flashes of something\u2014or someone\u2014but there was no time to dwell. She wished she had better control of her volatile powers. Her determination was there, but her patience could have used some work.</p>\n<p>Still, with every spark came an opportunity.</p>\n<p>One night while Zeri strolled through the Entresol markets, the ground rattled from underground excavations that soon swelled into a destructive quake. She wasted no time zooming past fallen buildings to rescue trapped victims. As her world slowly crumbled, Zeri became a furious blur. She knew the chem-barons had mining facilities nearby that were installed after they'd claimed to have discovered resources better than hextech, but what they did not reveal were the risks of their uncontrolled digging.</p>\n<p>The faster Zeri moved, the more charged she became. She thrived under pressure, realizing what her powers could do and how much her neighborhood meant to her\u2014even if it meant nothing to the barons.</p>\n<p>After the dust settled, survivors gathered to thank Zeri. Beneath her relief was anger. Zeri knew she could\u2019ve saved more if she had better command of herself.</p>\n<p>What Zeri <em>did</em> accomplish was sure to catch the attention of the barons. She knew they wouldn\u2019t think twice about who they went through to get to her, and she couldn\u2019t risk others getting hurt. Not again. To guard them from herself, Zeri scoured the mining disaster\u2019s wreckage and constructed a jacket to contain her electricity and avert the barons\u2019 gaze. Now she could restrain her gift to protect those in need.</p>\n<p>Walking the damaged streets, Zeri saw broken faces. Families scrambled to rebuild, and Zeri lent her hand, doing all she could without her powers. But the more she helped, the more she witnessed. Workers struggled to jumpstart generators. Parents toiled to make meals with broken stovetops. These people didn\u2019t have anyone standing up for them, let alone someone with a gift like hers. She knew her district\u2014and those like it\u2014would never truly be safe if things stayed the way they were. The barons saw them as nothing more than objects to be neglected and resources to be bled.</p>\n<p>Zeri knew what had to be done. She couldn\u2019t wait for the next mining \u201caccident.\u201d She had to take the fight to the barons.</p>\n<p>Zeri was a one-woman force, sending shockwaves through Zaun. Word spread of chem-baron supply lines being destroyed, with reports of \u201clightning\u201d striking faster than the eye could see. Enraged at their losses, the local barons formed a rare alliance, and their combined power trounced Zeri wherever she went. She tried to adapt\u2014to strike faster\u2014but against the barons\u2019 endless resources, it wasn\u2019t enough.</p>\n<p>She retreated with her body broken and her powers fizzling. The barons were united. She was alone.</p>\n<p>As she headed home, Zeri expected disappointment from those she let down. But what welcomed her was family, friends, and people she\u2019d never met, all standing up to fight their oppressors. From their rebuilt homes came rediscovered courage. Zeri had never felt so inspired, yet it was she who had inspired them. She was the spark that ignited their fire.</p>\n<p>And she was no longer alone. With the help of their neighbors, Zeri\u2019s mother had fashioned her a rifle made of materials given by those Zeri fought for: The people of the Entresol. The gun\u2019s ammo was Zeri\u2019s emotions, its conductive barrel amplifying her powers directly from her hands. Paired with her jacket, she could better control her voltage, charging up to shoot precise\u2014or, at least, somewhat precise\u2014electric bursts. Zeri gazed warmly at her family and her neighbors. She thought she\u2019d lose them all in her efforts to fight back, but because she stood up for them, they stood up with her.</p>\n<p>Backed by her community, Zeri fights for those who cannot. Zaun is not perfect, and neither is Zeri, but sometimes a spark is all it takes to change the world.</p>",
                 "short": "<p>A headstrong, spirited young woman from Zaun\u2019s working-class, Zeri channels her electric magic to charge herself and her custom-crafted gun. Her volatile power mirrors her emotions, its sparks reflecting her lightning-fast approach to life. Deeply compassionate toward others, Zeri carries the love of her family and her home into every fight. Though her eagerness to help can sometimes backfire, Zeri believes one truth to be certain: stand up for your community, and it will stand up with you.</p>",
                 "quote": "\u201cI belong here. We all belong here.\u201d",
-                "quote_author": ""
+                "quote-author": ""
             },
-            "header_image": null,
             "subtitle": "the Spark of Zaun",
             "echelon": 13
         }
     ],
-    "explore_factions": [
+    "explore-factions": [
         {
             "type": "faction",
             "title": "The Void",
-            "section_title": "The Void",
+            "section-title": "The Void",
             "name": "The Void",
             "slug": "void",
             "description": "<p>Screaming into existence with the birth of the universe, the Void is a manifestation of the unknowable nothingness that lies beyond. It is a force of insatiable hunger, waiting through the eons until its masters, the mysterious Watchers, mark the final time of undoing.</p>",
@@ -997,7 +963,7 @@
                 "height": 1064,
                 "x": 0,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "void-an-unknowable-power.jpg",
@@ -1009,16 +975,16 @@
                 "height": 1064,
                 "x": 0,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "echelon": "",
-            "associated_champions": [],
+            "associated-champions": [],
             "url": "/en_us/region/void"
         },
         {
             "type": "faction",
             "title": "Bandle City",
-            "section_title": "Bandle City",
+            "section-title": "Bandle City",
             "name": "Bandle City",
             "slug": "bandle-city",
             "description": "Opinions differ as to where exactly the home of the yordles is to be found, though a handful of mortals claim to have traveled unseen pathways to a land of curious enchantment beyond the material realm. They tell of a place of unfettered magic, where the foolhardy can be led astray by myriad wonders, and end up lost in a dream...</p>",
@@ -1032,7 +998,7 @@
                 "height": 1076,
                 "x": 800,
                 "y": 550,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "bandle-city_splash.jpg",
@@ -1044,10 +1010,10 @@
                 "height": 1076,
                 "x": 800,
                 "y": 550,
-                "featured_champions": []
+                "featured-champions": []
             },
             "echelon": "",
-            "associated_champions": [],
+            "associated-champions": [],
             "url": "/en_us/region/bandle-city"
         }
     ],
@@ -1055,7 +1021,7 @@
         {
             "slug": "tor-pnz",
             "type": "featured-video",
-            "featured_image": {
+            "featured-image": {
                 "title": "piltover_splash.jpg",
                 "subtitle": "",
                 "description": "",
@@ -1065,7 +1031,7 @@
                 "height": 1080,
                 "x": 1559,
                 "y": 411,
-                "featured_champions": []
+                "featured-champions": []
             },
             "title": "Tales of Runeterra: Piltover and Zaun",
             "subtitle": "",
@@ -1076,87 +1042,56 @@
                 "subtitle": "",
                 "description": [],
                 "uri": "https://www.youtube.com/watch?v=qCVLRh1y96M",
-                "encoding": null,
                 "width": "",
                 "height": "",
                 "x": "",
                 "y": "",
-                "featured_champions": []
+                "featured-champions": []
             },
-            "release_date": "2020-04-18T15:00:00.000Z",
-            "video_type": "cinematic",
-            "featured_champions": [],
-            "related_champions": []
+            "release-date": "2020-04-18T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [],
+            "related-champions": []
         },
         {
             "slug": "zaun-environment",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "zaun-image-gallery-depths",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "zaun-image-gallery-people",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "zaun-image-gallery",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "zaun-image-gallery-tools",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         }
     ]
 }

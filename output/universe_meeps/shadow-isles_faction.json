@@ -10,11 +10,7 @@
             "description": "",
             "uri": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/universe/94e4bf2e1b30ba553b4fc0f93e94983837082210-2503x1080.jpg?accountingTag=LoL",
             "encoding": "image/jpeg",
-            "width": null,
-            "height": null,
-            "x": null,
-            "y": null,
-            "featured_champions": []
+            "featured-champions": []
         },
         "video": {
             "title": "shadow-isles-splashvideo.webm",
@@ -22,29 +18,25 @@
             "description": "",
             "uri": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/universe/9648da1fe76a45096b7095940d7991269d97d351.webm?accountingTag=LoL",
             "encoding": "video/webm",
-            "width": null,
-            "height": null,
-            "x": null,
-            "y": null,
-            "featured_champions": []
+            "featured-champions": []
         },
         "name": "Shadow Isles",
         "overview": {
             "short": "<p>This cursed land was once home to a noble, enlightened civilization, known to its allies and emissaries as the Blessed Isles. However, more than a thousand years ago, an unprecedented magical cataclysm left the barrier between the material and spirit realms in tatters, effectively merging the two\u2026 and dooming all living things in an instant.</p><p>Now, a malevolent Black Mist permanently shrouds the Isles, and the earth itself is tainted by dark sorcery. Mortals who dare to venture to these dismal shores will slowly have their life force stolen away from them, which in turn attracts the insatiable, restless spirits of the dead.</p><p>Those who perish within the Mist are condemned to haunt this nightmarish place for eternity\u2014worse still, the power of the Shadow Isles appears to wax stronger with every passing year, allowing the most powerful specters to roam farther and farther across Runeterra.</p>"
         },
-        "header_image": ""
+        "headerImage": ""
     },
-    "champion_list_order": 0,
-    "associated_champions": [
+    "champion-list-order": 0,
+    "associated-champions": [
         {
             "type": "champion",
-            "release_date": "2012-10-26T00:00:00.000Z",
+            "release-date": "2012-10-26T00:00:00.000Z",
             "name": "Elise",
             "title": "Elise",
-            "section_title": "Elise",
+            "section-title": "Elise",
             "slug": "elise",
-            "associated_faction": "",
-            "associated_faction_slug": "shadow-isles",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
             "image": {
                 "title": "Elise_0.jpg",
                 "subtitle": "",
@@ -55,7 +47,7 @@
                 "height": 717,
                 "x": 1007,
                 "y": 98,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Elise_0.jpg",
@@ -67,10 +59,9 @@
                 "height": 717,
                 "x": 1007,
                 "y": 98,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/elise",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -92,26 +83,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/elise",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/elise",
             "biography": {
                 "full": "<p>The Lady Elise was born centuries ago to House Kythera, one of the oldest bloodlines of Noxus, and swiftly learned the power of beauty to influence the weak.</p><p>When she came of age, she entertained the courtship of Berholdt, heir to House Zaavan. Their union was opposed by many, since it would strengthen Kythera at Zaavan\u2019s expense\u2014but Elise worked hard to beguile her intended husband, and manipulated her detractors to secure a betrothal.</p><p>Unbeknown to her, this political marriage had been planned for many years by shadowy forces working behind the scenes throughout the empire, with Berholdt Zaavan a mere pawn in a much larger game. Even so, it was an unexpected twist that Elise should dominate him so completely, and while he remained the face of his house, it was clear who was in charge. As time passed, his resentment grew.</p><p>One evening, over a typically frosty dinner, Berholdt revealed he had poisoned her wine, and demanded Elise withdraw from society and allow him to take up the reins of power. Knowing he would have the antidote about his person, Elise played the role of a remorseful wife, weeping and begging her husband\u2019s forgiveness. Just as it seemed he might be convinced, she snatched up a knife and plunged it into his heart.</p><p>Even with the antidote, Elise was bedridden for weeks\u2026 and it was then that the Pale Woman approached her.</p><p>The enigmatic mistress of \u201cthe Black Rose\u201d spoke of a secret society where hidden knowledge and sorcery were shared among those who could be trusted, and kept from those who could not. In truth, the Pale Woman did not care who controlled each of the noble houses, as long as they were sworn to her. Since Elise had killed the thrall Berholdt, she would have to prove her own value, or a more suitable replacement would be found.</p><p>Seeing a path to greater power, Elise took to the cabal like few before her. She met often with the most prominent members, trading influence and thwarting her rivals in a complex web of tangled schemes. With the wealth of two houses, there were not many who could oppose her, and she became even more adept at <i>persuading</i> others to do her bidding.</p><p>Eventually, she learned of an object that held great significance for the Black Rose\u2014the skull of an ancient warlord known as Sahn-Uzal, rumored to have been hidden long ago in the Shadow Isles. Keen to gain the Pale Woman\u2019s favor, Elise found a desperate, debt-ridden captain willing to bear her and a handful of devotees to the cursed city of Helia. They came ashore on a beach of ashen sand, and were tormented by spiteful wraiths as they searched in vain for the lost vault.</p><p>But Elise found something she had not anticipated.</p><p>A creature of the long-forgotten past had made its home in the lightless depths beneath the city. This bloated, chitinous monster was the spider-god Vilemaw, and it erupted from the darkness to devour the intruders, before sinking its fangs into Elise\u2019s shoulder. She fell, howling and convulsing as the venom wrought terrible changes upon her body. Her spine rippled with undulant motion, and arachnoid legs pushed out from her flesh.</p><p>Finally, breathless with the agony of transformation, Elise turned to find her new master looming above her. An unspoken understanding passed between them in that moment, and she scuttled back to the beach, untroubled by the Isles\u2019 spirits as she weaved in and out of the twisted treeline.</p><p>Some weeks later, when her ship arrived back at the Noxian capital in the dead of night, Elise had regained her human form\u2026 though she was the only living thing left aboard.</p><p>Though no evidence was ever found of the warlord\u2019s skull, the Pale Woman saw Elise\u2019s dangerous new gift for what it was\u2014a means to come and go safely between Noxus and the Shadow Isles. An accord was struck, wherein the Black Rose would provide Elise with endless unwitting sacrifices to offer up to the spider-god, and in return she would recover any artifacts of power she could from those benighted, forbidding shores.</p><p>Elise once again took up residence in the neglected halls of House Zaavan, carefully cultivating a reputation as a seductive yet unreachable recluse. Few have ever guessed her true nature, yet fanciful rumors abound\u2014wild tales of her ageless beauty, and a terrifying, voracious creature said to lair in the bowels of her dilapidated, dust-wreathed palace.</p><p>Though centuries have passed, whenever Elise feels the summons of her god, she returns to the land of the Black Mist with a hapless suitor in tow, or some other easily swayed soul.</p><p>And none who accompany her ever return.</p>",
                 "short": "Elise is a deadly predator who dwells in a shuttered, lightless palace, deep within the oldest city of Noxus. She was once the mistress of a powerful noble house, until the bite of a vile spider-god transformed her into something utterly inhuman, yet still beautiful\u2014an arachnoid creature, drawing unsuspecting prey into her web. Elise now feeds upon the naive and the faithless, and there are few who can resist her seductions.",
                 "quote": "\u201cBeauty is power too, and can strike swifter than any sword.\u201d",
-                "quote_author": "Elise"
+                "quote-author": "Elise"
             },
-            "header_image": null,
             "subtitle": "the Spider Queen",
             "echelon": 0
         },
         {
             "type": "champion",
-            "release_date": "2021-03-30T00:00:00.000Z",
+            "release-date": "2021-03-30T00:00:00.000Z",
             "name": "Gwen",
             "title": "Gwen",
-            "section_title": "Gwen",
+            "section-title": "Gwen",
             "slug": "gwen",
-            "associated_faction": "",
-            "associated_faction_slug": "shadow-isles",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
             "image": {
                 "title": "gwen-splash.jpg",
                 "subtitle": "",
@@ -122,7 +112,7 @@
                 "height": 1133,
                 "x": 960,
                 "y": 240,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "gwen-splash.jpg",
@@ -134,10 +124,9 @@
                 "height": 1133,
                 "x": 960,
                 "y": 240,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/gwen",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -151,26 +140,24 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": null,
             "biography": {
                 "full": "<p>Within the long-lost kingdom of Camavor, there once lived a village of people far from the throne. It was here, in the rural colonies, where a humble seamstress made her beloved doll, Gwen.</p><p>What Gwen can remember of her past, she remembers with love. The seamstress and the doll spent their days crafting, scissors resting in Gwen\u2019s still hands as her maker stitched nearby with needle and thread. At night, the two could be found crouched under the dinner table, the seamstress challenging Gwen to makeshift duels, the clash of silverware against scissors echoing in their candlelit kitchen.</p><p>In time, the games stopped and the light faded. Gwen could not understand why, but whenever she struggled to recall details, she felt a twinge of pain, tied to a man whose name and face escaped her. As her memories washed away with the ocean tide, Gwen lay still for centuries, quiet and forgotten.</p><p>Then one night, her eyes opened. Gwen awoke for the very first time on a shadowy beach far from her home. By magic unbeknownst to her, she had been transformed into a living girl who could move her hands and feet\u2014all on her own!</p><p>Gwen took to life with joy. She skipped across the sand, amazed by how far her eyes could see, how wondrous every pebble was to her touch, and how incredible the wind felt on her back. Along the coast, scattered debris left abandoned for a millennium caught her attention. Lying beside broken chests were oddly familiar tools.</p><p>Scissors. Needles. Thread.</p><p>Gwen recognized them immediately. These were her maker\u2019s tools. When her fingers touched them, a burst of mist glinting with light flowed from her hands. To her, it felt safe and warm, like the soothing embrace of a hallowed past.</p><p>But Gwen was not the only one drawn to this magic.</p><p>Lurking in the isles, a different mist swarmed. Black in color, it coiled and twisted, forming into fearsome wraiths. Something within Gwen\u2019s newfound presence attracted them\u2014something they hungered for with obsession.</p><p>As the wraiths came for her, Gwen was undeterred. She thrust her scissors at them. To her delight, more of her mist filled the air, enchanting the size and strength of her tools and turning them from mere steel into spectral magic.</p><p>But the wraiths were relentless. They swelled in number, fueled by the ever-growing Black Mist. Gwen began to feel a tragic, strangely familiar pain. Surrounded by wraiths, suppressed memories surfaced. She recalled images of her maker, sick and wounded, lying in anguish. Near her was a man whose face finally returned to Gwen.</p><p><i>Viego</i>.</p><p>Remembering his name brought Gwen to her knees. Wistfully, she reflected on the bygone moments spent with her maker\u2014a happier, simpler time\u2014and stole one final glance at her scissors...<span class='sol-ascii-text'>8<-8<-8<-8<-</span></p><p>It was then Gwen realized something amazing. Her maker, victim to that man\u2019s twisted vanity, was not fully gone. The seamstress\u2019 tools, the very tools that first sewed and stitched Gwen together, were now in her hands. Gwen believed this was no accident. She knew, deep down, her maker was still with her, still fighting.</p><p>This was a gift Gwen would not take for granted.</p><p>Grasping needles and thread, she spun clouds of Hallowed Mist to push back the swarming wraiths. Her scissors slashed hard and fast, reminiscent of those blissful nights when her maker imagined grand battles beneath their kitchen table. Soon, the wraiths were no more.</p><p>Though triumphant, Gwen recognized this was only the beginning. She could sense these wraiths and Viego were linked, both responsible for the spread of immense pain. With no time to lose, she resolved to track the Black Mist and stop it at any cost. Gwen expected this endeavor to be strenuous, yet she reveled in every second of being alive\u2014for who knew how long this blessing would last?</p><p>Having been given a unique chance at life, Gwen chooses to be an indomitable, positive force against all odds. She journeys across Runeterra, determined to restore joy to those who are hurt and suffering. To Gwen, each moment is precious, and each step driven with purpose.</p>",
                 "short": "A former doll transformed and brought to life by magic, Gwen wields the very tools that once created her. She carries the weight of her maker\u2019s love with every step, taking nothing for granted. At her command is the Hallowed Mist, an ancient and protective magic that has blessed Gwen\u2019s scissors, needles, and sewing thread. So much is new to her, but Gwen remains joyfully determined to fight for the good that survives in a broken world.",
                 "quote": "\u201cThe wind at my back feels so good. I can\u2019t lose this. I won\u2019t.\u201d",
-                "quote_author": "Gwen"
+                "quote-author": "Gwen"
             },
-            "header_image": null,
             "subtitle": "the Hallowed Seamstress",
             "echelon": 1
         },
         {
             "type": "champion",
-            "release_date": "2012-04-18T00:00:00.000Z",
+            "release-date": "2012-04-18T00:00:00.000Z",
             "name": "Hecarim",
             "title": "Hecarim",
-            "section_title": "Hecarim",
+            "section-title": "Hecarim",
             "slug": "hecarim",
-            "associated_faction": "",
-            "associated_faction_slug": "shadow-isles",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
             "image": {
                 "title": "Hecarim_0.jpg",
                 "subtitle": "",
@@ -181,7 +168,7 @@
                 "height": 717,
                 "x": 830,
                 "y": 11,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Hecarim_0.jpg",
@@ -193,10 +180,9 @@
                 "height": 717,
                 "x": 830,
                 "y": 11,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/hecarim",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -218,26 +204,25 @@
                     "slug": "tank"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/hecarim",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/hecarim",
             "biography": {
                 "full": "<p>Born into an empire long since gone to dust and forgotten, Hecarim was a lieutenant of the Iron Order\u2014a brotherhood sworn to defend their king\u2019s lands.</p>\n<p>As Hecarim won victory after victory from the back of his mighty warhorse, the commander of the Iron Order saw in him a potential successor\u2026 but also a growing darkness. His obsessive hunger for glory was eroding his honor, and over time the knight-commander came to realize this young lieutenant must never lead them.</p>\n<p>When he was told this, Hecarim was furious. Even so, he bit back his anger, and continued in his duties.</p>\n<p>When they next rode to war, the commander found himself surrounded by enemies, and cut off from his fellow knights. Hecarim, seeing his chance, turned away and left him to die. At battle\u2019s end, the Iron Order, oblivious to what Hecarim had done, knelt on the bloody ground and swore allegiance to him.</p>\n<p>Hecarim rode to the capital to take his formal oaths, and met with Kalista, the king\u2019s most trusted general. She recognized his prowess and leadership, and when the queen was wounded by an assassin\u2019s poisoned blade, Kalista was comforted to know the Iron Order would remain with the king while she sought a cure.</p>\n<p>Gripped by paranoia, and seeing new threats in every shadow, the king raged at those he believed were trying to separate him from his dying wife, and dispatched Hecarim to quell dissent throughout the kingdom. The Iron Order earned a dreadful reputation as ruthless enforcers of the king\u2019s will. Towns and villages burned. Hundreds were put to the sword.</p>\n<p>With grim inevitability, when the queen died, Hecarim chose to sour the king\u2019s grief into hatred, seeking sanction to lead the Iron Order into foreign lands. He would avenge her death, while earning yet more dark renown for himself.</p>\n<p>But before they could ride out, Kalista returned. She had found what she sought upon the distant Blessed Isles\u2014and yet it was now too late. The king would not believe this, and had Kalista imprisoned as a traitor. Intrigued by what he had heard, Hecarim visited her cell, and they spoke of the pale mists that protected the islands from all invaders\u2026 and also of the inhabitants\u2019 immense wealth, including the legendary Waters of Life.</p>\n<p>Knowing only Kalista could lead them there, Hecarim eventually persuaded her to guide the king\u2019s fleet through the veil that concealed the Blessed Isles from mortal sight.</p>\n<p>They landed at the city of Helia with the queen\u2019s body in solemn procession. The Iron Order led the way, only to be met by the city\u2019s masters, who now refused to help. Enraged, the king ordered Kalista to kill them, but she refused, and Hecarim smiled as he made the decision that would damn him for eternity. He drove a spear through Kalista\u2019s back, and ordered his knights to ransack the city, looting its vaults of arcane treasures.</p>\n<p>Amid the chaos, a lowly custodian agreed to grant the king access to the Waters of Life\u2014but not even this could distract Hecarim from the revelry of bloodshed, and so it was that the Ruination of the Blessed Isles would take him almost completely by surprise.</p>\n<p>A blastwave of magical force tore across Helia, shattering every last building and leaving the fragments suspended in searing un-light. In its wake came the Black Mist, a billowing hurricane that dragged every living creature it touched into its shrieking, roiling embrace. Hecarim tried to rally the Iron Order, hoping to make it back to their ships, but the mist claimed them one by one as they fled.</p>\n<p>Alone, and defiant to the end, the knight-commander was taken by the shadows. He and his mighty steed were fused into a monstrous, spectral abomination that reflected the darkness in Hecarim\u2019s heart\u2014a brazen creature of fury and spite, at one with the Black Mist and yet utterly enslaved by it.</p>\n<p>Bound forevermore to these Shadow Isles, Hecarim has spent centuries in a sinister mockery of his former life, cursed to patrol the nightmarish lands he once intended to conquer. Whenever the Black Mist reaches out beyond their shores, he and the otherworldly host of the Iron Order ride out to slaughter the living, in memory of glories long passed.</p>",
                 "short": "Hecarim is a spectral fusion of man and beast, cursed to ride down the souls of the living for all eternity. When the Blessed Isles fell into shadow, this proud knight was undone by the destructive energies of the Ruination, along with all his cavalry and their mounts. Now, whenever the Black Mist reaches out across Runeterra, he leads their devastating charge, reveling in the slaughter and crushing foes beneath his armored hooves.",
                 "quote": "\u201cBreak their ranks, and ride them down without mercy. Crush the living. Feast on their terror.\u201d",
-                "quote_author": "Hecarim"
+                "quote-author": "Hecarim"
             },
-            "header_image": null,
             "subtitle": "the Shadow of War",
             "echelon": 2
         },
         {
             "type": "champion",
-            "release_date": "2014-11-20T00:00:00.000Z",
+            "release-date": "2014-11-20T00:00:00.000Z",
             "name": "Kalista",
             "title": "Kalista",
-            "section_title": "Kalista",
+            "section-title": "Kalista",
             "slug": "kalista",
-            "associated_faction": "",
-            "associated_faction_slug": "shadow-isles",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
             "image": {
                 "title": "Kalista_0.jpg",
                 "subtitle": "",
@@ -248,7 +233,7 @@
                 "height": 717,
                 "x": 926,
                 "y": 49,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Kalista_0.jpg",
@@ -260,7 +245,7 @@
                 "height": 717,
                 "x": 926,
                 "y": 49,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/kalista",
             "video": {
@@ -273,7 +258,7 @@
                 "height": 720,
                 "x": 926,
                 "y": 49,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -288,26 +273,25 @@
                     "slug": "marksman"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/kalista",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/kalista",
             "biography": {
                 "full": "<p>In life, Kalista was a proud general, niece to the king of an empire that none now recall. She lived by a strict code of honor, serving the throne with utmost loyalty. The king had many enemies, and when they sent an assassin to slay him, it was Kalista\u2019s vigilance that averted disaster.</p><p>But in saving the king, she damned the one he loved most\u2014the assassin\u2019s deflected blade was envenomed, and sliced the arm of the queen. The greatest priests and surgeons were summoned, but none could draw the poison from her body. Wracked with grief, the king dispatched Kalista in search of a cure, with Hecarim of the Iron Order taking her place at his side.</p><p>Kalista traveled far, consulting learned scholars, hermits and mystics\u2026 but to no avail. Finally, she learned of a place protected from the outside world by shimmering pale mists, whose inhabitants were rumored to know the secrets of eternal life. She set sail on one last voyage of hope, to the almost legendary Blessed Isles.</p><p>The guardians of the capital city Helia saw the purity of Kalista\u2019s intent, and parted the mists to allow her safe passage. She begged them to heal the queen, and after much consideration, the masters of the city agreed. Time was of the essence. While the queen yet breathed, there was hope for her in the fabled Waters of Life. Kalista was given a talisman that would allow her to return to Helia unaided, but was warned against sharing this knowledge with any other.</p><p>However, by the time Kalista reached the shores of her homeland, the queen was already dead.</p><p>The king had descended into madness, locking himself in his tower with the queen\u2019s festering corpse. When he learned of Kalista\u2019s return, he demanded to know what she had found. With a heavy heart, for she had never before failed him, she admitted that the cure she had found would be of no use. The king would not believe this, and condemned Kalista as a traitor to the crown.</p><p>It was Hecarim who persuaded her to lead them to the Blessed Isles, where her uncle could hear the truth of it from the masters themselves. Then, perhaps, he would find peace\u2014even if only in accepting that the queen was gone, and allowing her to be laid to rest. Hesitantly, Kalista agreed.</p><p>And so the king set out with a flotilla of his fastest ships, and cried out in joy as the glittering city of Helia was revealed to him. However, they were met by the stern masters, who would not allow them to pass. Death, they insisted, was final. To cheat it would be to break the natural order of the world.</p><p>The king flew into a fevered rage, and commanded Kalista to slay any who opposed them. She refused, and called on Hecarim to stand with her\u2026 but instead he drove his spear through her armored back.</p><p>The Iron Order joined him in this treachery, piercing Kalista\u2019s body a dozen times more as she fell. A brutal melee erupted, with those devoted to Kalista fighting desperately against Hecarim\u2019s knights, but their numbers were too few. As Kalista\u2019s life faded, and she watched her warriors die, swearing vengeance with her final breath\u2026</p><p>When next Kalista opened her eyes, they were filled with the dark power of unnatural magic. She had no idea what had transpired, but the city of Helia had been transformed into a twisted mockery of its former beauty\u2014indeed, the entirety of the Blessed Isles was now a place of shadow and darkness, filled with howling spirits trapped for all eternity in the nightmare of undeath.</p><p>Though she tried to cling to those fragmented memories of Hecarim\u2019s monstrous betrayal, they have slowly faded in all the centuries since, and all that now remains is a thirst for revenge burning in Kalista\u2019s ruined chest. She has become a specter, a figure of macabre folklore, often invoked by those who have suffered similar treacheries.</p><p>These wretched spirits are subsumed into hers, to pay the ultimate price\u2014becoming one with the Spear of Vengeance.</p>",
                 "short": "An undying specter of wrath and retribution, Kalista is an armored nightmare summoned from the Shadow Isles to hunt deceivers and traitors. The betrayed may cry out in blood to be avenged, but Kalista only answers those willing to pay with their very souls. Those who become the focus of Kalista\u2019s wrath should make their final peace, for any pact sealed with this grim hunter can only be ended by the cold, piercing fire of her soul-spears.",
                 "quote": "\u201cTurncoats, oath breakers and betrayers\u2026 we hate them all.\u201d",
-                "quote_author": "Kalista"
+                "quote-author": "Kalista"
             },
-            "header_image": null,
             "subtitle": "the Spear of Vengeance",
             "echelon": 3
         },
         {
             "type": "champion",
-            "release_date": "2009-06-12T00:00:00.000Z",
+            "release-date": "2009-06-12T00:00:00.000Z",
             "name": "Karthus",
             "title": "Karthus",
-            "section_title": "Karthus",
+            "section-title": "Karthus",
             "slug": "karthus",
-            "associated_faction": "",
-            "associated_faction_slug": "shadow-isles",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
             "image": {
                 "title": "Karthus_0.jpg",
                 "subtitle": "",
@@ -318,7 +302,7 @@
                 "height": 717,
                 "x": 901,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Karthus_0.jpg",
@@ -330,10 +314,9 @@
                 "height": 717,
                 "x": 901,
                 "y": 0,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/karthus",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -347,26 +330,25 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/karthus",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/karthus",
             "biography": {
                 "full": "<p>The harbinger of oblivion, Karthus is an undying specter whose haunting songs are a prelude to the horror of his nightmarish appearance. The living fear the eternity of undeath, but Karthus sees only beauty and purity in its embrace, a perfect union of life and death. When Karthus emerges from the Shadow Isles, it is to bring the joy of death to mortals, an apostle of the unliving.</p><p>Karthus was born into abject poverty in the sprawl of dwellings built beyond the walls of the Noxian capital. His mother died at the moment of his birth, leaving his father to raise him and his three sisters alone. They shared a crumbling, rat-infested almshouse with scores of other families, subsisting on a diet of rainwater and vermin. Of all the children, Karthus was the best ratter, and regularly brought gnawed corpses for the cook-pot.</p><p>Death was commonplace in the slums of Noxus, and many mornings began with the wailing of bereaved parents who woke to discover their child cold and lifeless beside them. Karthus learned to love these laments, and would watch, fascinated, as the tally-men of Kindred notched their staffs and bore the bodies from the almshouse. At night the young Karthus would sneak through the cramped rooms, seeking those whose lives hung by a thread, hoping to witness the moment their soul passed from life to death. For years, his nightly travels were fruitless, as it was impossible to predict exactly when a person would die. He was denied witnessing the moment of death until it reached his own family.</p><p>Outbreaks of disease were frequent in such cramped confines, and when Karthus\u2019s sisters sickened with the plague, he watched over them intently. While his father drowned his grief, Karthus was the ever dutiful brother, caring for his sisters as the disease consumed them. He watched each of them as they died, and a sublime connection seemed to reach into him as the light faded from their eyes - a yearning to see what lay beyond death and unlock the secrets of eternity. When the tally-men came for the bodies, Karthus followed them back to their temple, asking them question after question about their order and the workings of death. Could a person exist at the moment where life ends, but before death begins? If such a liminal moment could be understood and held, might the wisdom of life be combined with the clarity of death?</p><p>The tally-men quickly recognized Karthus\u2019s suitability for their order and he was inducted into their ranks, first as a digger of graves and pyre-builder, before ascending to the rank of corpse collector. Karthus guided his bone-cart around the streets of Noxus to gather the dead every day. His dirges quickly became known throughout Noxus, mournful laments that spoke to the beauty of death and the hope that what lay beyond was something to be embraced. Many a grieving family took solace in his songs, finding a measure of peace in his heartfelt elegies. Eventually, Karthus worked in the temple itself, tending to the sick in their final moments, watching as whatever death had laid its claim upon them took its due. Karthus would speak to each person laid before him, ushering their souls into death, in search of further wisdom in their fading eyes.</p><p>Eventually, Karthus reached the conclusion that he could learn no more from mortals, that only the dead themselves could answer his questions. None of the dying souls could tell of what lay beyond, but whispered rumors and tales told to frighten children echoed of a place where death was not the end - The Shadow Isles.</p><p>Karthus emptied the temple\u2019s coffers and bought passage to Bilgewater, a city plagued by a strange black mist said to draw souls to a cursed island far out at sea. No captain was willing to take Karthus to the Shadow Isles, but eventually he came upon a rum-sodden fisherman with a mountain of debts and nothing to lose. The boat plied the ocean for many days and nights, until a storm drove them onto the rocks of an island that appeared on no charts. A black mist rolled out from a haunted landscape of gnarled trees and tumbled ruins. The fisherman freed his boat and turned its prow in terror for Bilgewater, but Karthus leapt into the sea and waded ashore. Steadying himself with his notched tally-staff, he proudly sang the lament he had prepared for the moment of his own death, and his words were carried on a cold wind to the heart of the island.</p><p>The black mist flowed through Karthus, ravaging his flesh and spirit with ancient sorcery, but such was the force of his desire to transcend mortality that it did not destroy him. Instead, it remade him, and Karthus was born anew in the waters of the island as a fleshless revenant.</p><p>Revelation filled Karthus as he became what he always believed he should have been; a being poised at the threshold of death and life. The beauty of this eternal moment filled him with wonder as the wretched spirits of the island rose to behold his transformation, drawn to his passion like predators scenting blood in the ocean. Finally, Karthus was where he belonged, surrounded by those who truly understood the boon undeath truly was. Filled with righteous zeal, he knew he had to return to Valoran and share his gift with the living, to free them from petty mortal concerns.</p><p>Karthus turned and the Black Mist bore him over the waves to the fisherman\u2019s boat. The man fell to his knees before Karthus, begging for his life, and Karthus granted him the blessing of death, ending his mortal suffering and raising him up as an immortal spirit as he sang his lament for passing souls. The fisherman was the first of many such souls Karthus would free, and soon the Deathsinger would command a legion of unliving wraiths. To Karthus\u2019s awakened senses, the Shadow Isles was in a state of apathetic limbo, where the blessings of death were squandered. He would galvanize the dead in a crusade to bring the beauty of oblivion to the living, to end the suffering of mortality and usher in a glorious age of undeath.</p><p>Karthus has become the emissary of the Shadow Isles, the herald of oblivion whose laments are paeans to the glory of death. His legions of unbound souls join with his funereal dirges, their haunting song reaching beyond the Black Mist to be heard on cold nights over graveyards and charnel houses all across Valoran.</p>",
                 "short": "The harbinger of oblivion, Karthus is an undying specter whose haunting songs are a prelude to the horror of his nightmarish appearance. The living fear the eternity of undeath, but Karthus sees only beauty and purity in its embrace, a perfect union of life and death. When Karthus emerges from the Shadow Isles, it is to bring the joy of death to mortals, an apostle of the unliving.",
                 "quote": "\u201cDeath is not the end of the journey, it is just the beginning...\u201d",
-                "quote_author": "Karthus"
+                "quote-author": "Karthus"
             },
-            "header_image": null,
             "subtitle": "the Deathsinger",
             "echelon": 4
         },
         {
             "type": "champion",
-            "release_date": "2011-02-16T00:00:00.000Z",
+            "release-date": "2011-02-16T00:00:00.000Z",
             "name": "Maokai",
             "title": "Maokai",
-            "section_title": "Maokai",
+            "section-title": "Maokai",
             "slug": "maokai",
-            "associated_faction": "",
-            "associated_faction_slug": "shadow-isles",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
             "image": {
                 "title": "Maokai_0.jpg",
                 "subtitle": "",
@@ -377,7 +359,7 @@
                 "height": 717,
                 "x": 897,
                 "y": 156,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Maokai_0.jpg",
@@ -389,10 +371,9 @@
                 "height": 717,
                 "x": 897,
                 "y": 156,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/maokai",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -414,26 +395,25 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/maokai",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/maokai",
             "biography": {
                 "full": "<p>Maokai is a rageful, towering treant who fights the unnatural horrors of the Shadow Isles. He was twisted into a force of vengeance after a magical cataclysm destroyed his home, surviving undeath only through the waters of life infused within his heartwood. Once a peaceful nature spirit, Maokai now furiously battles to banish the scourge of unlife from the Shadow Isles and restore his home to its former beauty.</p><p>Long before living memory, a chain of islands erupted from deep beneath the ocean tides as blank slates of rock and clay. With its creation, the nature spirit Maokai was born. He took the form of a treant, with his tall body covered in bark and long limbs resembling branches. Maokai felt the profound loneliness of the land and its potential for teeming growth. He wandered from island to island in search of signs of life, growing ever more forlorn in his solitude.</p><p>On a hilly isle covered in soft, rich soil, Maokai sensed a boundless energy radiating from deep beneath the ground. He plunged his great roots downward until they reached a spring of magical, life-giving water and drank deeply. From this potent liquid, he grew hundreds of saplings and planted them across the islands.</p><p>Soon the land was shawled with verdant forests, groves of towering virenpine, and tangled woods, all steeped in wondrous magic. Magnificent skytrees with expansive canopies and thickly winding roots covered the isles with lush green foliage. Nature spirits were drawn to the lavish vegetation, and animals reveled in the fertile greenery.</p><p>When humans eventually came to the islands, they too thrived in the land\u2019s abundance and formed an enlightened society of scholars devoted to studying the world\u2019s mysteries. Though Maokai was wary of their presence, he saw how they respected the sanctity of the land. Sensing the deep magic within the woods, the humans built their homes in areas not heavily forested, to avoid disturbing any nature spirits. Maokai occasionally revealed himself directly to those he trusted and blessed them with knowledge of the verdant isles, even its greatest gift \u2013 the underground spring that could heal mortal wounds.</p><p>Centuries passed, and Maokai lived in idyllic contentment until a fleet of soldiers from across the sea beached upon the shores of the isles. Maokai sensed something was terribly wrong. Their grief-maddened king bore the corpse of his queen and in hopes of reviving her, bathed her decayed flesh in the healing waters. Reanimated as a rotting corpse, the queen begged to return to death. The king sought to reverse what he had done, unwittingly casting a terrible curse upon the land.</p><p>From leagues away, Maokai felt the first ripples of the disaster that would soon devastate the isles. He sensed a horrific force gathering beneath the soil, and a bitter chill washed over him.</p><p>As the ruination spread, Maokai desperately plunged his roots deep into the ground and drank of the healing waters, saturating every fiber of his being with their magic. Before the cursed water reached him, Maokai withdrew his roots, severing all connection to the pool. He howled in rage as the sacred reservoir he had entrusted to men was fully corrupted \u2013 the spiraling coils churning underwater until nothing pure remained.</p><p>Moments later, the mists surrounding the islands blackened and spread over the land, trapping all living things in an unnatural state between life and death. Maokai watched in helpless agony as all he knew \u2013 plants, nature spirits, animals, and humans alike \u2013 twisted into wretched shades. His fury grew; the great beauty he had cultivated from tiny saplings fell to ruin in an instant at the careless hand of man.</p><p>The enervating mist coiled around Maokai, and he wept as the bright flowers adorning his shoulders crumbled and fell to dust. His body shuddered and contorted into a mass of gnarled roots and tangled branches as the mist leached life from him. But Maokai\u2019s heartwood was saturated with the precious waters of life, saving him from the terrible fate of undeath.</p><p>As grotesque wraiths and horrific abominations flooded the land, Maokai was overcome by a host of lifeless men. He struck the spirits with his branchlike limbs in manic violence, realizing the force of his blows could shatter them to dust. Maokai shuddered with revulsion: he had never killed before. He flew at the breathless shapes in a frenzy, but hundreds more overwhelmed him, and eventually he was forced to retreat.</p><p>With his home all but decimated and his companions turned to deathless horrors, Maokai was tempted to try and escape the nightmare of the isles. But from deep within his twisted form, he felt the sacred waters giving him life. He had survived the Ruination by carrying the very heart of the islands within him, and he would not abandon his home now. As the Blessed Isles\u2019 first nature spirit, he would remain and fight for the soul of the land.</p><p>Though surrounded by endless hosts of malicious foes and darkening mist, Maokai fights with furious vengeance to conquer the evil that plagues the isles. His only pleasure comes from dealing savage violence to the soulless wraiths who roam his land.</p><p>Some days, Maokai subdues the mist and its deathless spirits, breaking their hold on a grove of trees or a small thicket. Though new life has not bloomed in such cursed soil for an age, Maokai strives to carve havens, however temporary, free from regret and decay.</p><p>So long as Maokai continues to fight, hope remains, for steeped within his heartwood are the uncorrupted waters of life, the last remaining chance of restoring the isles. If the land returns to its joyous state, Maokai, too, will shed his twisted form. The nature spirit brought life to these isles long ago, and he refuses to rest until the isles bloom once more.</p>",
                 "short": "Maokai is a rageful, towering treant who fights the unnatural horrors of the Shadow Isles. He was twisted into a force of vengeance after a magical cataclysm destroyed his home, surviving undeath only through the Waters of Life infused within his heartwood. Once a peaceful nature spirit, Maokai now furiously battles to banish the scourge of unlife from the Shadow Isles and restore his home to its former beauty.",
                 "quote": "\u201cAll around me are empty husks, soulless and unafraid... but I will bring them fear.\u201d",
-                "quote_author": "Maokai"
+                "quote-author": "Maokai"
             },
-            "header_image": null,
             "subtitle": "the Twisted Treant",
             "echelon": 5
         },
         {
             "type": "champion",
-            "release_date": "2013-01-23T00:00:00.000Z",
+            "release-date": "2013-01-23T00:00:00.000Z",
             "name": "Thresh",
             "title": "Thresh",
-            "section_title": "Thresh",
+            "section-title": "Thresh",
             "slug": "thresh",
-            "associated_faction": "",
-            "associated_faction_slug": "shadow-isles",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
             "image": {
                 "title": "Thresh_0.jpg",
                 "subtitle": "",
@@ -444,7 +424,7 @@
                 "height": 717,
                 "x": 847,
                 "y": 3,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Thresh_0.jpg",
@@ -456,7 +436,7 @@
                 "height": 717,
                 "x": 847,
                 "y": 3,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/thresh",
             "video": {
@@ -469,7 +449,7 @@
                 "height": 720,
                 "x": 847,
                 "y": 3,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -492,26 +472,25 @@
                     "slug": "fighter"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/thresh",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/thresh",
             "biography": {
                 "full": "<p>The horrifying specter now known as Thresh was once a simple, if troubled, man. In an age history has all but forgotten, he was a lowly warden of an order devoted to the gathering and protection of arcane knowledge. This order was established on the Blessed Isles, which were hidden and protected from the outside world by magical pale mists.</p><p>The masters of the order acknowledged Thresh\u2019s long years of service, and tasked him with the custodianship of certain hidden vaults beneath the city of Helia. It was there that a vast, secret collection of dangerous artifacts was kept under lock and key. Incredibly strong-willed and methodical, Thresh was well suited to such work\u2026 but even then, his penchant for cruelty had been noted by his brethren. While it had not yet manifested in <i>murderous</i> ways\u2014at least, none that could be proven\u2014he was shunned by many.</p><p>It became clear he had been given a job that kept him away from others, preventing him from gaining the recognition he felt he deserved. Solitary years in the darkness took their toll, and Thresh grew ever more bitter and jealous as he patrolled the long halls with his lantern-stave, and only his own resentful thoughts for company.</p><p>His moment of opportunity came when the armies of a mad king managed to pierce the veiling mists, and arrived unbidden upon the shores of the Blessed Isles.</p><p>Secretly, Thresh delighted in the slaughter that followed. The invading king was obsessed with resurrecting his dead queen\u2014and Thresh willingly led him to the fabled Waters of Life.</p><p>None but the most senior members of the order had ever been permitted to enter the hidden catacomb that housed the Waters. Now, with the king\u2019s greatest warriors at his back, Thresh laughed as the guardians of that sacred place were cut down before him. Finally, he believed, he would get what he had long deserved.</p><p>Only those who were there could say what <i>truly</i> occurred when the king lowered the lifeless corpse of his wife into the Waters, but the aftermath would shake the whole of Runeterra.</p><p>A catastrophic blastwave of dark energy surged outward, engulfing Helia and spreading rapidly across the rest of the Blessed Isles, and the white mist that had once protected them turned black and predatory. Every living thing in its path perished in an instant, and yet their spirits could not move on, caught in a horrifying new existence somewhere between life and death. Thresh himself was among the first to be claimed\u2026 but while others screamed in anguish at their fate, he reveled in it.</p><p>He arose from this cataclysm, this <i>Ruination</i>, as a spectral monstrosity, relishing the chance to torment others without fear of reprisal, and unfettered by the limits of mortality.</p><p>Over the decades and centuries that followed, his supernatural appearance slowly changed to match the malice and cruelty that had always festered in his heart. To his amusement, Thresh came to realize most other spirits trapped within the Black Mist retained only fragments of their former selves\u2014even the strongest of the foreign invaders, such as Hecarim or Ledros\u2014while his power continued to grow.</p><p>Driven by spite to prey upon those he perceives as lesser souls, Thresh\u2019s favorite victims have always been those who will suffer the most from his attentions. No matter how strong their resolve, resilience, or faith, he strives to break them as slowly as possible, by learning their fears and weaknesses, and toying with them to the very end. Only when their lives lie in tatters, their loved ones taken from them, their sense of purpose lost and their last glimmer of hope snuffed out, do Thresh\u2019s hooked chains finally drag them into his undying grasp.</p><p>Even so, death brings no merciful release, for he tears out the souls of all he kills\u2014imprisoning them within his accursed lantern, to be unwilling witnesses to his depredations for all eternity.</p><p>Only a single soul has ever escaped him.</p><p>Senna, one of the hated \u201cSentinels of Light\u201d, died a futile death after facing Thresh in some forgotten eldritch vault. Her distraught husband, Lucian, then pursued the cruel spirit for years, becoming singularly obsessed with the hunt, letting his grief and rage consume him almost entirely. To Thresh, it was delectable.</p><p>However, before he could finally claim Lucian\u2019s soul, a vengeful blow split Thresh\u2019s lantern open, and freed Senna from it.</p><p>Intrigued by the obvious strength of their mortal bond, he has decided to allow them this small and insignificant victory, knowing all too well that the game of light and shadow they all play is still far from over\u2026</p>",
                 "short": "Sadistic and cunning, Thresh is an ambitious and restless specter of the Shadow Isles. Once the custodian of countless arcane secrets, he was undone by a power greater than life or death, and now sustains himself by tormenting and breaking others with slow, excruciating inventiveness. His victims suffer far beyond their brief mortal coil as Thresh wreaks agony upon their souls, imprisoning them in his unholy lantern to torture for all eternity.",
                 "quote": "\u201cThe mind is a wondrous thing to tear apart.\u201d",
-                "quote_author": "Thresh"
+                "quote-author": "Thresh"
             },
-            "header_image": null,
             "subtitle": "the Chain Warden",
             "echelon": 6
         },
         {
             "type": "champion",
-            "release_date": "2021-09-08T19:43:26.000Z",
+            "release-date": "2021-09-08T19:43:26.000Z",
             "name": "Vex",
             "title": "Vex",
-            "section_title": "Vex",
+            "section-title": "Vex",
             "slug": "vex",
-            "associated_faction": "",
-            "associated_faction_slug": "shadow-isles",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
             "image": {
                 "title": "vex-splash.jpg",
                 "subtitle": "",
@@ -522,7 +501,7 @@
                 "height": 1064,
                 "x": 1250,
                 "y": 150,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "vex-splash.jpg",
@@ -534,10 +513,9 @@
                 "height": 1064,
                 "x": 1250,
                 "y": 150,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/vex",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -551,26 +529,24 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": null,
             "biography": {
                 "full": "<p>In the black heart of the Shadow Isles, a lone yordle trudges through the spectral fog, content in its murky misery. With an endless supply of malaise and a powerful shadow in tow, Vex shields herself from the pep and happiness of the outside world, and all of the irksome \u201cnormies\u201d who occupy it.</p><p>Growing up in Bandle City, Vex never felt she belonged. The whimsy and color of the yordle realm was cloying to her. Despite the best efforts of her parents, she never seemed to find her \u201cyordle spirit\u201d or any like-minded friends, and chose to spend most of her time sulking in her room.</p><p>There, she found an unlikely soulmate in her own shadow. It was black (her favorite color), and it didn\u2019t talk\u2014the perfect companion for the sullen youth. She learned to entertain herself with the shadow, performing gloomy pantomimes for her own amusement.</p><p>Alas, it was just a shadow, incapable of shielding Vex from the loathsome cheerfulness that surrounded her. Surely something more lay in store. Something darker. Something sad. Something <i>just like her</i>.</p><p>That <i>something</i> arrived in the form of a Harrowing, thick clouds of Black Mist that billowed through Bandle City, stirring its residents to panic. While most yordles fought valiantly to beat back the Mist, Vex was intrigued by the foul miasma and began to follow it to its source.</p><p>When she arrived in the Shadow Isles, Vex couldn\u2019t believe her eyes. Vast tracts of land and sea, devoid of all life and color, stretched out before her. Here, she could finally sulk, unbothered by the laughter and merriment of others.</p><p>As the days passed, Vex realized the Black Mist was having a strange effect on her. Her shadow had taken on a new ghostly persona\u2014much more lively and expressive than its host\u2014and her benign yordle magic had transformed into something far more sinister. Vex could now spread her misery far and wide.</p><p>\u201cWho made this wonderfully awful place?\u201d she wondered.</p><p>Her question was soon answered when the Ruined King, Viego, appeared in the Isles, seeking to spread his Mist to all corners of Runeterra. Upon meeting Vex, Viego realized the yordle had a unique ability to spread despair, making people more vulnerable to his Harrowing. Vex, in turn, was inspired by his vision for a world covered in Black Mist. The two became fast allies and set out to turn the entire world into a harrowed wasteland.</p><p>Before Viego\u2019s vision could be fully realized, Vex discovered his ulterior motive: to reclaim the soul of his dead queen Isolde, and reunite with her in matrimonial bliss. She shuddered in disgust, feeling betrayed that the man she had trusted to kill the world\u2019s happiness had, in fact, been seeking it himself. Vex left Viego to be defeated by the Sentinels of Light, his dreams of a matrimonial reunion dashed upon the stones of the Camavoran wreckage. Alone once more, she watched in disappointment as the world returned to the bright, colorful place she had always hated. Finding a lasting melancholy was going to be tougher than she\u2019d thought.</p><p>She knew one last place she could go\u2014a surefire way to achieve the misery she craved. She paid a visit to her parents in Bandle City, eager to show them who she had become and bask in their disapproval.</p><p>The young yordle watched as her parents turned dumbstruck, still as tree stumps. Their expressions changed from shock, to denial, to reluctant acceptance.</p><p>\u201cHoney. We don\u2019t understand... <i>this</i>,\u201d said her mother, motioning with her finger at Vex\u2019s entire being.</p><p>\u201cBut we love you unconditionally,\u201d said her father. \u201cAnd if you\u2019re happy, we\u2019re happy <i>for</i> you.\u201d</p><p>Rolling her eyes, Vex released a loud, exasperated sigh. \u201cYou guys are the worst,\u201d she moaned.</p><p>She trudged out of her parents\u2019 living room, anxious to return to the Shadow Isles where she could sulk undisturbed.</p>",
                 "short": "In the black heart of the Shadow Isles, a lone yordle trudges through the spectral fog, content in its murky misery. With an endless supply of teen angst and a powerful shadow in tow, Vex lives in her own self-made slice of gloom, far from the revolting cheer of the \u201cnormie\u201d world. Though she lacks ambition, she is quick to strike down color and happiness, stopping all would-be interlopers with her magical malaise.",
                 "quote": "\u201cJust... ughhhhh.\u201d",
-                "quote_author": "Vex"
+                "quote-author": "Vex"
             },
-            "header_image": null,
             "subtitle": "the Gloomist",
             "echelon": 7
         },
         {
             "type": "champion",
-            "release_date": "2021-01-05T00:00:00.000Z",
+            "release-date": "2021-01-05T00:00:00.000Z",
             "name": "Viego",
             "title": "Viego",
-            "section_title": "Viego",
+            "section-title": "Viego",
             "slug": "viego",
-            "associated_faction": "",
-            "associated_faction_slug": "shadow-isles",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
             "image": {
                 "title": "viego-splash.jpg",
                 "subtitle": "",
@@ -581,7 +557,7 @@
                 "height": 1127,
                 "x": 1419,
                 "y": 208,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "viego-splash.jpg",
@@ -593,10 +569,9 @@
                 "height": 1127,
                 "x": 1419,
                 "y": 208,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/viego",
-            "video": null,
             "races": [],
             "roles": [
                 {
@@ -610,26 +585,24 @@
                     "slug": "assassin"
                 }
             ],
-            "game_info_url": null,
             "biography": {
                 "full": "<p>Few know of the kingdom to the east, far across the seas, whose name lies all but forgotten among the ruins that dot its shores. Fewer still know of its foolish young ruler, whose lovestruck heart was doomed to destroy it.</p><p>Now a grave threat to all, that man\u2019s name was\u2014and is\u2014Viego.</p><p>The second son of a dynastic king, Viego was never intended to lead. Instead, he lived a life of comfort that made him complacent and selfish. Yet, when his older brother died unexpectedly, Viego, who possessed neither the inclination nor the aptitude for rulership, suddenly found himself crowned.</p><p>He showed little interest in his position until he met a poor seamstress, Isolde. So taken was he by her beauty that the young king offered her his hand in marriage, and thus, one of the most powerful rulers of the age was wed to a peasant girl.</p><p>Their romance was enchanting, and Viego, who\u2019d rarely shown interest in anyone other than himself, devoted his life to her. The two were inseparable\u2014he scarcely went anywhere without Isolde, always lavishing gifts upon his queen, and his attention could seldom be broken when she was present.</p><p>Viego\u2019s allies fumed. Unable to interest him in governance, and with the nation beginning to unravel under his questionable rulership, some plotted in secret to end their new king\u2019s reign before it had begun. His nation\u2019s enemies, meanwhile, saw an opportunity to strike. And the vipers began to circle.</p><p>Thus did an assassin\u2019s poisoned dagger one day come for Viego. But the king was well defended, and the dagger did not strike true\u2014instead grazing Isolde.</p><p>The toxin worked quickly, and Isolde fell into a ruinous torpor, while Viego could only watch in horror as his wife\u2019s condition grew ever more serious. Overwhelmed with fury and despair, he spent every last coin within his coffers trying to save her.</p><p>But it was all for naught. Isolde perished in her bed, and Viego was consumed by madness.</p><p>His search for an antidote became desperate, crazed. Unable to accept his wife\u2019s death, every treasure of the kingdom\u2014every scrap of wealth\u2014was sacrificed to his quest to return her to him. As the land fell into disarray, Viego hid himself away with Isolde\u2019s body, becoming hateful and violent.</p><p>Then came the day he learned the secret of the Blessed Isles, of its water that healed any ailment. With his great army, he stormed the peaceful country by force, slaughtering everyone who stood in his way until he at last breached its inner sanctum and let his wife drift beneath the blessed water. She would return to him, no matter the destruction he wrought. No matter the cost.</p><p>And for just one moment, she did.</p><p>Isolde arose a horrifying wraith of shadow and rage, and in her pain, her anger, her confusion at being ripped from death, she took Viego\u2019s own enchanted blade and thrust it through his heart. The magic of the waters and the ancient sword clashed, and the chamber\u2019s energy erupted, tearing across the Isles and trapping everything it touched in tortured, conscious undeath.</p><p>Yet of this, Viego remembers nothing. His country collapsed into ruin, great nations rose and fell, and in time, even his name was forgotten... until, a thousand years after his death, Viego stood once more. And this time, he would not fail.</p><p>His mind twisted by the same dangerous obsession he possessed in life, Viego\u2019s unflinching, deranged love fuels his every action, his every desire, his every atrocity. The deadly Black Mist pours freely from Viego\u2019s broken heart\u2014ripping the life from everything it touches\u2014and he uses the Mist to scour the world for some way to return Isolde to his side.</p><p>Legions will fall before him only to rise again in his service, continents will be swallowed by living darkness, and the world will pay for every moment of happiness it stole from an ancient ruler laid low by all-consuming love. He cares naught for the destruction he causes, so long as he can see Isolde\u2019s face again.</p><p>His reign is terror.</p><p>His love is eternal.</p><p>And until Isolde returns to him, all will fall before the Ruined King.</p>",
                 "short": "Once ruler of a long-lost kingdom, Viego perished over a thousand years ago when his attempt to bring his wife back from the dead triggered the magical catastrophe known as the Ruination. Transformed into a powerful, unliving specter tortured by an obsessive longing for his centuries-dead queen, Viego now stands as the Ruined King, controlling the deadly Harrowings as he scours Runeterra for anything that might one day restore her, and destroying all in his path as the Black Mist pours endlessly from his cruel, broken heart.",
                 "quote": "\u201cNo price is too great. No atrocity beyond my reach. For her... I will do anything.\u201d",
-                "quote_author": "Viego"
+                "quote-author": "Viego"
             },
-            "header_image": null,
             "subtitle": "the Ruined King",
             "echelon": 8
         },
         {
             "type": "champion",
-            "release_date": "2011-06-22T00:00:00.000Z",
+            "release-date": "2011-06-22T00:00:00.000Z",
             "name": "Yorick",
             "title": "Yorick",
-            "section_title": "Yorick",
+            "section-title": "Yorick",
             "slug": "yorick",
-            "associated_faction": "",
-            "associated_faction_slug": "shadow-isles",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
             "image": {
                 "title": "Yorick_0.jpg",
                 "subtitle": "",
@@ -640,7 +613,7 @@
                 "height": 717,
                 "x": 960,
                 "y": 11,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "Yorick_0.jpg",
@@ -652,7 +625,7 @@
                 "height": 717,
                 "x": 960,
                 "y": 11,
-                "featured_champions": []
+                "featured-champions": []
             },
             "url": "/en_us/champion/yorick",
             "video": {
@@ -665,7 +638,7 @@
                 "height": 720,
                 "x": 968,
                 "y": 11,
-                "featured_champions": []
+                "featured-champions": []
             },
             "races": [],
             "roles": [
@@ -688,23 +661,22 @@
                     "slug": "mage"
                 }
             ],
-            "game_info_url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/yorick",
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/yorick",
             "biography": {
                 "full": "<p>The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking spirits that he gathers to him. Yorick\u2019s monstrous actions belie his noble purpose: to free his home from the curse of the Ruination.</p><p>Even as a child, Yorick\u2019s life was never normal. Raised in a fishing village at the very edge of the Blessed Isles, he always struggled to find acceptance. While most children his age were playing hide-and-seek, young Yorick was making friends of a different kind\u2014the spirits of the recently deceased.</p><p>At first, Yorick was terrified of his ability to see and hear the dead. Whenever someone in the village passed away, Yorick would lie awake all night, waiting for the chilling cry of a new visitor. He could not understand why they chose to haunt him, and why his parents believed the spirits to be nothing more than nightmares.</p><p>In time, he came to realize the souls were not there to harm him. They were simply lost and needed help finding their way to the beyond. Since only Yorick was able to see these spirits, he took it upon himself to be their guide, escorting them to whatever awaited in eternity.</p><p>The task was bittersweet. Yorick found that he enjoyed the company of ghosts, but each one he brought to rest meant saying farewell to another friend. To the dead, he was a savior, but to the living, he was a pariah. The villagers only saw a disturbed little boy who spoke to people who weren\u2019t there.</p><p>Tales of Yorick\u2019s visions soon spread beyond his village, and drew the attention of a small order of monks who dwelled at the heart of the Blessed Isles. Its envoys traveled to Yorick\u2019s island, believing he could become an asset to their faith.</p><p>Yorick agreed to journey to their monastery, and there, he learned the ways of the Brethren of the Dusk and the true significance of their trappings. Every monk carried a spade as a symbol of their duty to conduct proper burial rites, which ensured souls would not lose their way. And each brother wore a vial of water drawn from the Blessed Isles\u2019 sacred spring. These Tears of Life represented the monks\u2019 duty to heal the living.</p><p>Yet, no matter how he tried, Yorick could never gain the acceptance of the other monks. To them, he was tangible proof of things that should only be known through faith. They resented his power to easily perceive what they themselves had struggled their entire lives to understand.  Shunned by his brothers, Yorick found himself alone again.</p><p>One morning, as he tended to his duties in the cemetery,  Yorick was interrupted by the sight of a pitch-black cloud roiling across the surface of the Blessed Isles, devouring everything in its path. Yorick tried to run, but the cloud quickly enveloped him and plunged him into shadow.</p><p>All around Yorick, living things began to writhe and contort, corrupted by the foul magic in the Black Mist. People, animals, even plants began to transform into vile, ghoulish mockeries of their former selves. Whispers emanated from the turbulent air around him, and his brothers began ripping the vials of healing water from their necks, as if the objects were causing them great anguish. A moment later, Yorick watched in abject horror as the monks\u2019 souls were ripped from their bodies, leaving cold, pale corpses behind.</p><p>Among the quieting screams of his brethren, Yorick alone could hear voices within the mist.</p><p>\u201cRemove it. Join us. We will become one.\u201d</p><p>He felt his fingers grasping for the vial at his neck. Mustering all his resolve, Yorick forced his hands away from his throat and commanded the howling souls to stop. The Black Mist writhed violently, and darkness overtook him.</p><p>When Yorick awoke, the winds had calmed, and the once-fertile lands had transformed into the grotesque hellscape of the Shadow Isles. Isolated tendrils of the Black Mist clung to him, trying to overtake the one living thing not yet corrupted. As the Mist wrapped itself around him, Yorick saw it suddenly recoil from the vial at his neck. Yorick clutched the blessed water, realizing it was all that kept him alive.</p><p>In the days that followed, Yorick scoured the islands for survivors, but found only the twisted remnants of what once lived there. Everywhere he walked, he witnessed wretched spirits rising from the bodies of the dead.</p><p>As he searched, Yorick slowly pieced together the events that led to the cataclysm: A king had arrived seeking to resurrect his queen, but instead, had doomed the Isles and everything on them.</p><p>Yorick wished to find this \u201cRuined King\u201d and undo the curse he had unleashed. But he felt powerless in the face of the seemingly endless death that surrounded him.</p><p>Almost lost within his grief, Yorick began to speak to the spirits around him, attempting to find solace with them as he had as a child. Instead, as he communed with the Mist, corpses left their graves, guided by his voice. He realized the bodies he once laid to rest were now his to command.</p><p>A glimmer of hope shone from the heart of his despair. To free the dead of the Shadow Isles, Yorick would wield their power and their strength.</p><p>In order to end the curse, he would be forced to use it.</p>",
                 "short": "The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking wraiths that he gathers to him. Yorick\u2019s monstrous actions belie his noble purpose: to free his home from the curse of the Ruination.",
                 "quote": "\u201cThese isles\u2026 How they scream.\u201d",
-                "quote_author": "Yorick"
+                "quote-author": "Yorick"
             },
-            "header_image": null,
             "subtitle": "Shepherd of Souls",
             "echelon": 9
         }
     ],
-    "explore_factions": [
+    "explore-factions": [
         {
             "type": "faction",
             "title": "Piltover",
-            "section_title": "Piltover",
+            "section-title": "Piltover",
             "name": "Piltover",
             "slug": "piltover",
             "description": "Piltover is a thriving, progressive city whose power and influence is on the rise. It is Valoran\u2019s cultural center, where art, craftsmanship, trade and innovation walk hand in hand. Its power comes not through military might, but the engines of commerce and forward thinking. Situated on the cliffs above the district of Zaun and overlooking the ocean, fleets of ships pass through its titanic sea-gates, bringing goods from all over the world. The wealth this generates has given rise to an unprecedented boom in the city\u2019s growth. Piltover has - and still is - reinventing itself as a city where fortunes can be made and dreams can be lived. Burgeoning merchant clans fund development in the most incredible endeavors: grand artistic follies, esoteric hextech research, and architectural monuments to their power. With ever more inventors delving into the emergent lore of hextech, Piltover has become a lodestone for the most skilled craftsmen the world over.</p>",
@@ -718,7 +690,7 @@
                 "height": 867,
                 "x": 711,
                 "y": 849,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "piltover_splash.jpg",
@@ -730,16 +702,16 @@
                 "height": 867,
                 "x": 711,
                 "y": 849,
-                "featured_champions": []
+                "featured-champions": []
             },
             "echelon": "",
-            "associated_champions": [],
+            "associated-champions": [],
             "url": "/en_us/region/piltover"
         },
         {
             "type": "faction",
             "title": "Shurima",
-            "section_title": "Shurima",
+            "section-title": "Shurima",
             "name": "Shurima",
             "slug": "shurima",
             "description": "<p>The empire of Shurima was once a thriving civilization that spanned an entire continent. Forged in a bygone age by the mighty god-warriors of the Ascended Host, it united all the disparate peoples of the south, and enforced a lasting peace between them.</p>",
@@ -753,7 +725,7 @@
                 "height": 1080,
                 "x": 1861,
                 "y": 93,
-                "featured_champions": []
+                "featured-champions": []
             },
             "background": {
                 "title": "shurima_splash.jpg",
@@ -765,10 +737,10 @@
                 "height": 1080,
                 "x": 1861,
                 "y": 93,
-                "featured_champions": []
+                "featured-champions": []
             },
             "echelon": "",
-            "associated_champions": [],
+            "associated-champions": [],
             "url": "/en_us/region/shurima"
         }
     ],
@@ -776,7 +748,7 @@
         {
             "slug": "tor-shadowisles",
             "type": "featured-video",
-            "featured_image": {
+            "featured-image": {
                 "title": "shadow-isles_splash.jpg",
                 "subtitle": "",
                 "description": "",
@@ -786,7 +758,7 @@
                 "height": 1080,
                 "x": 1559,
                 "y": 411,
-                "featured_champions": []
+                "featured-champions": []
             },
             "title": "Tales of Runeterra: Shadow Isles",
             "subtitle": "",
@@ -797,22 +769,21 @@
                 "subtitle": "",
                 "description": [],
                 "uri": "https://www.youtube.com/watch?v=3yxNUbYZEWU",
-                "encoding": null,
                 "width": "",
                 "height": "",
                 "x": "",
                 "y": "",
-                "featured_champions": []
+                "featured-champions": []
             },
-            "release_date": "2020-04-12T15:00:00.000Z",
-            "video_type": "cinematic",
-            "featured_champions": [],
-            "related_champions": []
+            "release-date": "2020-04-12T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [],
+            "related-champions": []
         },
         {
             "slug": "black-mist-harrowing",
             "type": "featured-video",
-            "featured_image": {
+            "featured-image": {
                 "title": "black-mist-harrowing.jpg",
                 "subtitle": "",
                 "description": "",
@@ -822,7 +793,7 @@
                 "height": 1080,
                 "x": 980,
                 "y": 190,
-                "featured_champions": []
+                "featured-champions": []
             },
             "title": "Tales of the Black Mist: The Harrowing",
             "subtitle": "",
@@ -833,59 +804,40 @@
                 "subtitle": "",
                 "description": [],
                 "uri": "https://www.youtube.com/watch?v=s2FFGBPXNeU",
-                "encoding": null,
                 "width": "",
                 "height": "",
                 "x": "",
                 "y": "",
-                "featured_champions": []
+                "featured-champions": []
             },
-            "release_date": "2014-10-24T15:00:00.000Z",
-            "video_type": "cinematic",
-            "featured_champions": [],
-            "related_champions": []
+            "release-date": "2014-10-24T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [],
+            "related-champions": []
         },
         {
             "slug": "shadow-isles-environment",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "shadow-isles-image-gallery-entities",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         },
         {
             "slug": "shadow-isle-image-gallery-concept-art",
             "type": "image-gallery",
-            "featured_image": "",
+            "featured-image": "",
             "title": "",
             "subtitle": "",
-            "description": null,
-            "uri": null,
-            "video": null,
-            "release_date": null,
-            "video_type": null,
-            "featured_champions": [],
-            "related_champions": null
+            "featured-champions": []
         }
     ]
 }
