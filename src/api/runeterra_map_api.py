@@ -3,6 +3,7 @@ import json
 
 import requests
 
+from models.content_panel import ContentPanel, ContentPanelCard
 from models.faction import Faction
 from models.universe_meeps import UniverseMeeps
 from utils.file_io import write_json_from_pydantic_model
@@ -46,3 +47,18 @@ class RuneterraMapAPI:
                 model=Faction,
                 response=response,
             )
+
+    @staticmethod
+    def fetch_content_panel(is_card: bool = False):
+        URL = (
+            "https://map.leagueoflegends.com/loc/content-panel-cards-en_us.json"
+            if is_card
+            else "https://map.leagueoflegends.com/loc/content-panels-en_us.json"
+        )
+        filename = URL.split("/")[-1]
+        response = requests.get(URL)
+        write_json_from_pydantic_model(
+            path=f"output/{filename}",
+            model=ContentPanelCard if is_card else ContentPanel,
+            response=response,
+        )
